@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ohai.su
+ - ohai.su mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FqCoemHdDaeLsC04tkiux65sgt/96J4rSWFVHFgQuD9v4BeWURtdNWlsSyNHpqzWCNdo8Z/vYeCttfgP3qzlJg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ohai.su</h2>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>46</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>696</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>597</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><div class='panel'><h3>Code of Conduct</h3>
+
+
+<p>As tooters on this instance, we pledge to uphold an environment that is radically inclusive with respect for all users of the instance.</p>
+
+<p>We are committed to making participation in this instance an oppression-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.</p>
+
+<p>We define oppression as any language or action that expresses, reinforces, upholds or sympathizes with any form of systemic social domination.</p>
+
+<p>Examples of unacceptable behavior by participants include:</p>
+
+<li>The use of sexualized / violent language or imagery at non-consenting parties, on the public timeline, or without the nsfw filter</li>
+<li>Personal attacks</li>
+<li>Trolling or insulting/derogatory comments</li>
+<li>Public or private oppressive language or actions</li>
+<li>Other unethical conduct</li>
+<p>Users are empowered and responsible for addressing any abuses of the Code of Conduct such that the project remains an oppression-free experience.</p>
+
+<p>By adopting this Code of Conduct, users commit themselves to fairly and consistently applying these principles to every aspect of using this instance. users who do not follow or enforce the Code of Conduct may be permanently banned.</p>
+
+<p>This Code of Conduct applies both to toots on ohai.su and to public spaces when an individual is representing ohai.su or its community.</p>
+
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting an admin by using the report button. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Admins are obligated to maintain confidentiality with regard to the reporter of an incident.</p></div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8521c483658d7c1d.jpg?1491567512" alt="8521c483658d7c1d" /></div>
+<div class='name'>
+<a href="https://ohai.su/@lutoma"><span class='display_name emojify'>Lukas Martini</span>
+<span class='username'>@lutoma</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>lukas@fnordserver.eu</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

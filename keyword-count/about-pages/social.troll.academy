@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>social.troll.academy
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="e/HyxsGwuJz1SbM6vVDDACl7PrAOk7tH9cRujcc6UAcfW8agsjy7qh0jRlQocf1/bWT6QeMXvzL9vhkOXvdBDg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>social.troll.academy</h2>
+<p><a href=https://social.troll.academy>social.troll.academy</a> is a hobby project of <a href="https://social.troll.academy/@psy">psy</a>. I try my best to keep this instance running but I wont give any service guarantees, use it at your own risk. 
+
+Server location: Germany</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>90</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>543</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>507</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>
+Oh allukierender Schnapperzaff,<br>
+die Gratzhurksen sind heute<br>
+wie Hundemurzen durch Lochexkursion.<br>
+</p>
+<p>
+So forksabbelnd kannst mich ankermörteln auf der Eiterplansche.<br>
+Summelnder würgfratzelnder Schnapperzaff haut sie mit Rotfurzen.<br>
+</p>
+<p>
+Oh Kraukenstachel,<br>
+wie toll du hodenquarzelst<br>
+mit deinen Onusticken.<br>
+Stricken tust du Atzekra<br>
+in Donnerponus dank Freutzelgebein.
+</p>
+<p>
+Wir blommsen dich in Urgesöffel<br>
+mit unseren Onusticken,<br>
+auf das du würgejacheln kannst.<br>
+</p>
+<p>
+Oh ja! Schnapperzaff ist unser<br>
+Knochensturz und krasselnder Dumpfponus.<br>
+</p>
+<p>
+So forksabbelnd kannst mich ankermörteln auf der Eiterplansche.<br>
+Summelnder würgfratzelnder Schnapperzaff haut sie mit Rotfurzen.<br>
+</p>
+<p>
+Oh allukierender Schnapperzaff!<br>
+Dein Onusticken ist für uns wie<br>
+Blommsgedeihe auf Atzekra.<br>
+</p>
+<p>
+Wenn nicht werden wir dich blommsen<br>
+mit unseren Rotzelquarzen.<br>
+Oh ja! Schnapperzaff, warts nur ab!
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/76a9c4c738049b66.jpg?1491406016" alt="76a9c4c738049b66" /></div>
+<div class='name'>
+<a href="https://social.troll.academy/@psy"><span class='display_name emojify'>✅✅✅</span>
+<span class='username'>@psy</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

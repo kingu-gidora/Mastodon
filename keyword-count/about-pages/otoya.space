@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>otoya.space
+ - Otoyadon</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="s5E1mv7TXSZxB0F+WwOGKUC3iT/5NhL+Y6a3c73OxHfXtnrQjTaw7hp9rdeP9poFkEyFdtR+V3LnRuxBNqI91Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>otoya.space</h2>
+<p><h2>音屋による音屋のための丼</h2>
+
+<h3>こんにちは。</h3>
+<p>
+音屋丼です。<br>
+基本的にはご自由にどうぞ。<br>
+日本の法律に従ってください。<br>
+なお、<em>R-18コンテンツは投稿不可</em>です。<br>
+それ以外にも、不適切だと判断した投稿は削除される可能性があります。<br>
+YUKIMOCHIさんの、<a href="https://md-tpt.azurewebsites.net">Mastodon Timeline Peeping Tool</a>を使うとアカウントを作らずにローカル・連合タイムラインが見られるようです。見てから入ればみんなしあわせ、リモートフォローしたい人もみつけられる。<br>
+Botでの投稿は必ず"未収載"パーミッションに設定してください。<br>
+Botで自発的にフォローするのは禁止です。
+</p>
+
+<h3>音屋とは？</h3>
+<p>
+趣味でも仕事でも、音楽を作ったり、音楽を作るためのものを作ったり、演奏したり・・・。<br>
+そんな感じです。 まぁ、誰でもご自由にどうぞ。
+</p>
+
+<h3>投稿可能なデータ等について</h3>
+<p>
+音楽系のインスタンスですが、JASRAC等の音楽管理団体などとは一切の契約を結んでいません。<br>
+ライセンス上問題の発生しうる音楽の歌詞・耳コピ・演奏等を投稿することは、<em>絶対に</em>しないでください。<br>
+他のインスタンスへも迷惑がかかる可能性があります。<br>
+その音楽等の二次創作ガイドライン等が存在する場合、それに従ってください。<br>
+ライセンス上問題のない音楽については投稿可能ですが、容量制限があります。<br>
+Youtube・SoundCloud等のリンクを貼ることについては関与しません。<br>
+</p>
+
+<h3>稼働状況</h3>
+<p>
+<iframe width=100% seamless src="https://netdata.otoya.space/simple.html">netdata</iframe>
+<a href="//netdata.otoya.space/">netdata</a>
+<p>
+last modified: 2017-04-25 22:30
+</p>
+
+<h3>連絡先</h3>
+<p>
+<ul>
+    <li>Twitter: @YKKRBG<br>
+    <li>SoundCloud DM: <a href="https://soundcloud.com/hs-sh-net">hs-sh-net</a><br>
+    <li>メールアドレス:otoya.space</li>
+    <li>アカウント: info</li>
+</ul>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>855</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>8,899</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>523</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>支援してくださるのなら</h3>
+<p>
+<ul>
+<li><a href="https://enty.jp/hs-sh_net">Enty</a></li>
+<li><a href="https://www.conoha.jp/conohacard/">ConoHaカード</a></li>
+</ul>
+</p>
+
+<h3>Thx!</h3>
+<p>
+<ul>
+<li>ALice さん</li>
+<li>Force Records さん</li>
+<li>浅野電脳製作所 さん</li>
+<li>polymoog さん</li>
+<li>ゲストさん さん</li>
+</ul>
+が支援してくださっています。<br>
+ありがとうございます。
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://objects.otoya.space/objects.otoya.space/accounts/avatars/000/001/101/original/aaf7ac37e3c2c4c4.JPG?1492433136" alt="Aaf7ac37e3c2c4c4" /></div>
+<div class='name'>
+<a href="https://otoya.space/@hs"><span class='display_name emojify'>otoya.space</span>
+<span class='username'>@hs</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>info@otoya.space</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang='pt'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>masto.pt
+ - Instância de Mastodon em português</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="F8aF/l+eHNZGdUNU4/kXJwbCbbUT32n/2egFHe5NMs0qefO7f94UwvkdT4NBEDyu2Tef1uAygmI7Xge//hv/Fw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>masto.pt</h2>
+<p>Masto.pt é instância do universo Mastodon para <em>pessoas que falam português</em>.<br /><br />
+O universo Mastodon é único pois não é centralizado e não existe uma grande empresa que o controla. O Masto.pt pretende ajudar a encontrar e criar uma <em>comunidade</em> para utilizadores portugueses.<br /><br />
+Não existem grandes regras para participar. O serviço é gratuito e se usarem o <em>bom senso</em> não terão qualquer problema.<br /><br />
+Lembramos que isto é um projecto feito da <em>boa vontade</em> e não existem garantias de funcionamento. O bom disso é que podes participar, sugerir ou ajudar a melhorar este espaço.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Casa para</span>
+<strong>143</strong>
+<span>utilizadores</span>
+</div>
+<div class='section'>
+<span>Que fizeram</span>
+<strong>981</strong>
+<span>publicações</span>
+</div>
+<div class='section'>
+<span>Ligado a</span>
+<strong>652</strong>
+<span>outras instâncias</span>
+</div>
+</div>
+<div class='panel'><h2>Como funciona</h2>
+<p>O Mastodon é um software de <a href="https://github.com/tootsuite/mastodon/blob/master/LICENSE">código aberto</a>. Isso significa que qualquer pessoa pode usar, copiar e modificar.</p>
+<p>Isso fez com que centenas de pessoas tenham utilizado este software para criar as suas comunidades.</p>
+<p>Uma das vantagens do Mastodon é que as comunidades não são fechados e uma pessoa numa comunidade (ou instância do Mastodon) consegue seguir pessoas noutras comunidades do Mastodon.</p>
+<h2>Home, Local, Global</h2>
+<p>HOME: listagem dos posts das pessoas que seguimos em qualquer instância</p>
+<p>LOCAL: listagem dos posts públicos das pessoas na mesma instância que nós</p>
+<p>GLOBAL: listagem dos posts públicos das pessoas na mesma instância que nós e das pessoas que são seguidas por alguém na nossa instância</p>
+<p>A listagem Global não lista todos os posts publicados no universo Mastodon, lista apenas aqueles que a instância onde estamos "conhece". Ou seja, os publicados localmente e os publicados pelas pessoas que os utilizadores dessa instância seguem.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contacto</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://img.masto.pt/accounts/avatars/000/000/001/original/c8005460fb13f9c3.jpg" alt="C8005460fb13f9c3" /></div>
+<div class='name'>
+<a href="https://masto.pt/@hugo"><span class='display_name emojify'>Hugo Gameiro</span>
+<span class='username'>@hugo</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Email comercial:
+<strong>info@masto.pt</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Começar</a></li>
+<li><a href="/auth/sign_in">Entrar</a></li>
+<li><a href="/terms">Termos</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Código fonte</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Versão</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.club
+ - Mastodon Club</title>
+<link rel="stylesheet" media="all" href="/assets/custom-50ea45955e0939fc15dcfa15e2958dc45d1341ff210d92bbce7a3eb4ae43f5c6.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="C+acZAPJQIZ8suunWwNZLMTzb2KuAc3O8bpjenqIrPs2Q7Sgv2/84dnmxurhNbTgNdU3Nt6vepjwKdz1pVeWOw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.club</h2>
+<p><em>Mastodon</em> 日本鯖の一つです。
+日本の法律の範囲内でご利用ください。
+このインスタンスの特徴は、利用していただいている有志による<a href="https://mstdn.wiki/Mstdn.club">https://mstdn.wiki/Mstdn.club</a>をご覧ください。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>660</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>48,231</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>827</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h2 id="logo" style="text-align: center; margin-bottom: 4px;"><img src="/elephant-club.png" width="300" height="300"></h2>
+<p style="text-align: center;">by <a href="https://mstdn.club/@kon">こんじま</a>さん</p><br />
+
+<h2><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>特徴など</h2>
+<p>以前は毎朝4時〜5時ごろに<a rel="nofollow" href='https://github.com/tootsuite/mastodon'>master</a>と同期していましたが、v1.3.2以降は独自路線を志向することにしました。本家へのフィードバックおよび取り込みは実施します。</p>
+<br/>
+
+<h2><i class="fa fa-bullhorn" aria-hidden="true"></i>ルールなど</h2>
+<ul style="list-style-type: none">
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 日本の法律に反する行為や犯罪行為は禁止です</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 公序良俗に反する行為はおやめください</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 他者の権利を侵害する行為は禁止です</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 実在の人物・団体などのなりすましは禁止です</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> サーバに極端な負荷をかける行為は管理人の負担になるのでおやめください</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 明確にBOTと判断できない形で、交流を目的としない自動投稿および連携投稿は禁止します。</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> 連絡が取れないのは困りますので、管理人をブロックすることは禁止させてくださいorz</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-handshake-o" aria-hidden="true"></i> みんな仲良く</li>
+</ul><br />
+
+<h2><i class="fa fa-server fa-fw" aria-hidden="true"></i>サーバロケーション</h2>
+<p><a href="https://www.linode.com/?r=dfc4740d90d56df54cc65034f269da76e8f7bde0">Linode</a>の東京リージョンで運用しています。物理的な場所は新宿で、以下のスペックにて動作しています。</p>
+<div class='information-board'>
+<div class='section'>
+<span>vCPU数</span>
+<strong>4</strong>
+<span>Core</span>
+</div>
+<div class='section'>
+<span>メモリ</span>
+<strong>8</strong>
+<span>GB</span>
+</div>
+<div class='section'>
+<span>ディスク</span>
+<strong>96</strong>
+<span>GB SSD</span>
+</div>
+</div>
+<i class="fa fa-server fa-fw" aria-hidden="true"></i>サーバスペック
+<ul style="list-style-type: none">
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Debian Jessie</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Nginx 1.12.0</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> PostgreSQL 9.4</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Redis 2.8.17</li>
+</ul><br />
+
+<br/>
+
+<h2><i class="fa fa-money fa-fw" aria-hidden="true"></i>ご支援など</h2>
+<p>活動をご支援いただける場合<i class="fa fa-paypal fa-fw" aria-hidden="true"></i>Paypalからご支援いただける方は<a href="/paypal.html">こちら</a>からよろしくです。<br />いづれの場合もお名前掲載ご希望の場合はメールなどでごいただければ対応させていただきますので、お気軽にご連絡ください。</p>
+<p><i class="fa fa-heart fa-fw" aria-hidden="true"></i> @lnl0様ほか18名の方からご支援頂きました。ありがとうございます。🙇</p>
+<br/>
+
+<h2><i class="fa fa-anchor fa-fw" aria-hidden="true"></i>その他</h2>
+<p><b>メールが届かないという方は直接下記へお問い合わせください。</b>メールアドレスが間違ってる場合は個別対応となります。</p>
+<br/>
+
+<h2><i class="fa fa-address-card fa-fw" aria-hidden="true"></i>連絡先</h2>
+<p>以下のいづれかへご連絡ください</p>
+<ul style="list-style-type: none">
+<li style="margin-bottom: 2px;">🐘<a href='https://mstdn.club/@d6rkaiz'>mstdn.club内のDM</a>
+<li style="margin-bottom: 2px;"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i>d6rkaiz@gmail.com</li>
+<li style="margin-bottom: 2px;"><i class="fa fa-twitter fa-fw" aria-hidden="true"></i><a href='https://twitter.com/d6rkaiz'>@d6rkaiz</a>
+<li style="margin-bottom: 2px;"><i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i><a href='https://m.me/d6rkaiz'>d6rkaiz</a>
+</ul>
+<br />
+
+<h2><i class="fa fa-heart fa-fw" aria-hidden="true"></i>謝辞</h2>
+
+<ul>
+<li style="margin-bottom: 2px;">ロゴについては<a href="https://mstdn.club/@kon">こんじま</a>さんに頂きました。ありがとうございます。</li>
+<li style="margin-bottom: 2px;">Faviconについては<a href="https://mstdn.club/@Heihatchi">Heihatchi</a>さんに作成頂きました。ありがとうございます。</li>
+<li style="margin-bottom: 2px;">デフォルトで利用するテーマのカラーおよびカラム幅、カラムの位置の変更に<a href="https://mstdn.jp/@YaQ">やきゅ</a>様が公開しているスタイルテーマを利用させていただきました。ありがとうございます。</li>
+<br /></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/fbf16754c73f0b15.jpg?1492064300" alt="Fbf16754c73f0b15" /></div>
+<div class='name'>
+<a href="https://mstdn.club/@d6rkaiz"><span class='display_name emojify'>d6rkaiz✅</span>
+<span class='username'>@d6rkaiz</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

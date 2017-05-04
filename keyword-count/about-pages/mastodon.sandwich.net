@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.sandwich.net
+ - Mastodon Sandwich</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lGXR8nZd+f+zwAPkSS4Bwa5mHFz5cezdZKgzVDhQ7w2AbkR3Riqz2iEBfl6L9oUhBl/JCdB0y/67jakBOjdCSA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.sandwich.net</h2>
+<p>This is <a href="https://www.sandwich.net/">Sandwich</a>'s public Mastodon instance. Welcome! Moderation is at our discretion - please see below.<br/>
+<br/>
+We recommend that you read <a href="https://mastodon.sandwich.net/tags/mastodonsandwich">the #MastodonSandwich hashtag</a> and <a href="https://sungo.io/users/sungo/updates/34">@sungo's toot about Mastodon's risks</a>. Feel free to chat with us about risk, privacy, security, and other questions.<br/>
+<br/>
+We support free and controversial speech, but also wish to maintain a pleasant environment. We forbid trolling, harassment, bigotry, and spam. Please use the Content Warning feature for NSFW or traumatic topics. When handling problems, we try to consider all of the circumstances, and to be reasonable and understanding.<br/>
+<br/>
+We will not sell your data, and will make every reasonable attempt to combat coerced disclosure of your data or our logs.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>320</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>964</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>461</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/7e08d467314eaa7e.jpg?1491723179" alt="7e08d467314eaa7e" /></div>
+<div class='name'>
+<a href="https://mastodon.sandwich.net/@jrenken"><span class='display_name emojify'>James Renken</span>
+<span class='username'>@jrenken</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>support@sandwich.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

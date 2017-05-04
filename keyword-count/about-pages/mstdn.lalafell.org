@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<script crossorigin='anonymous' integrity='sha384-K16Ed7m4Ak5i7bosJtIOFBWhaANLBPOfsENQtLYzdMa09sp8ubnnSJvMViJbsg29' src='https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser-polyfill.min.js' type='application/javascript'></script>
+<title>mstdn.lalafell.org
+ - mstdn.lalafell.org</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yJcYUhw103ti/gNMEe2m331F0VSMW5D6igkoMWwcJ8Yu9+bcHy5k+QJt2A8txeAO8mQe1zIPB5HxCbSZ+BxvyA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.lalafell.org</h2>
+<p>光の戦士向けマストドンインスタンス。<br/>
+ララフェル歓迎<br/>
+ですが、別にララフェル専用ではないですｗ
+
+<h3>禁止行為</h3>
+<p>・日本国内の法律に違反する行為</p>
+<p>・晒し行為</p>
+<p>・過度にサーバーに負荷をかける行為</p>
+<br />
+IE11でもちゃんと表示さる・・・・はず
+<br/>
+記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。<br/>
+Copyright (C) 2010 - 2017 SQUARE ENIX CO., LTD. All Rights Reserved.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>5</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>11</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>18</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>問い合わせ先</h3>
+
+Mastodonからはこちら → <a href="https://stcpt.com/@Finene">@Finene</a><br/>
+Twitterからはこちら → <a href="https://twitter.com/f_finene">@F_Finene</a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/69416f513bf4ca3e.png?1493301111" alt="69416f513bf4ca3e" /></div>
+<div class='name'>
+<a href="https://mstdn.lalafell.org/@Finene"><span class='display_name emojify'>Finene＠水冷モデル:white_check_mark:</span>
+<span class='username'>@Finene</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

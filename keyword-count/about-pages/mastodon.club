@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.club
+ - Moosetodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-c5850fef81621d1fee9eb11d2ad920b2811337d2590d627a76e350f3b794094a.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ld5HuWPTKYbMhcGvONLvRv4zoAtzIK9hjjqXT2T6Qs4588BIAwM3ADWPyhFgv3OBY9z3Xrc1CgRx3r7gF+dqmQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.club</h2>
+<p>A Canadian based Mastodon platform, open to people from everywhere.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,621</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>22,193</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,003</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>What's a Moosetodonian?</h2>
+
+<p>Official Moosetodonians are people from this local instance who are recognized for their contributions to the community. We recognize monetary donations, code contributions, and community participation and support.</p>
+
+<h2>Code of Conduct</h2>
+
+<p>This instance is for people interacting with other people. Please no corporate shills and direct advertisement. You'll get yourself banned real fast.</p>
+
+<p>Make use of Content Warnings & NSFW tags for appropriate content. Do not mis-use hashtags, they're not for promoting your products or photography in #introduction or #mastodon.</p>
+
+<p>No hate speech (contributing or inciting), death threats, illegal activity, link & local stream spamming, etc.</p>
+
+<p>Bots must respect the #nobot hashtag</p>
+
+<p>Admin swings ban hammer, rulings final.</p>
+
+<h2>Supporting This Instance</h2>
+
+<p>Mastdodon.club is a personally created and funded instance, you can support the mastodon.club instance by helping cover operating costs, which are growing with the size of our local community. Continued donations as small as $2-5 will help ensure the longevity of our instance.</p>
+
+<p>
+<ul>
+<li><a href="//paypal.me/thurloat">thurloat @ PayPal.me</a></li>
+<li>Bitcoin: <a href="bitcoin:39gkNYdkm1u2kUqpkFFAtbjJ4c9MRjvnE5">39gkNYdkm1u2kUqpkFFAtbjJ4c9MRjvnE5</a></li>
+</ul></p>
+
+<p>A definite shoutout to <a href="https://www.clouda.ca">Cloud-A Computing</a> for donating some of the raw infrastructure required to run this community project! It wouldn't be possible without you.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://blkstr.ca/5512b421d6c84760b22ab4422b783c36/moosetodon-public/accounts/avatars/000/000/002/original/a736a22643f9a8aa.jpg?1491266386" alt="A736a22643f9a8aa" /></div>
+<div class='name'>
+<a href="https://mastodon.club/@thurloat"><span class='display_name emojify'>thurloat 📌</span>
+<span class='username'>@thurloat</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Administrator e-mail:
+<strong>thurloat@moosetodon.ca</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

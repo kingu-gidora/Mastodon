@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>fanfare.horse
+ - fanfare（ファンファーレ）</title>
+<link rel="stylesheet" media="all" href="/assets/application-7b2ca03e2d95152dca8b961f01bcc82b639e3d48aa6e14a1819701b989d19b4f.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mb58SwQosnFde7pgGbZiyU4kSMB3/K5dBnIeBWbBCYc9E237zl/Hfoa9N/cpDIdFtXqlX8yx7auD/iNRcobwXw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>fanfare.horse</h2>
+<p><p>競馬ファン向けのマストドンを作りました。</p>
+<p>できたばっかりの小さなインスタンスですが、競馬雑談、レース予想、応援、馬券検討メモなどなど、中央・地方・海外問わずどんな話題でもどうぞ～。</p>
+
+<p>登録は開けてありますので、おためし用でも週末用でも、お気軽にご参加ください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>73</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>319</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>44</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><hr />
+<p>※本インスタンスは各主催者や新聞・雑誌メディアとは無関係です。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/4483cf2569e538f4.jpg?1492855400" alt="4483cf2569e538f4" /></div>
+<div class='name'>
+<a href="https://fanfare.horse/@fanfare"><span class='display_name emojify'>fanfare（競馬丼）:racehorse:</span>
+<span class='username'>@fanfare</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

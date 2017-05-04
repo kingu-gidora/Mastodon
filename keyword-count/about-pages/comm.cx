@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='https://assets.comm.cx/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>comm.cx
+ - Mastodon: COMM.CX</title>
+<link rel="stylesheet" media="all" href="https://assets.comm.cx/assets/application-1ae2313c8d79627cb76b03915732f594fb5bbd7913f2ae72a040d66e6cc8f287.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ozxFoXX5vG2u/4+lf4HygYX41ett6Mnssn08YQHRfm8aVCsvRWzLf8wpGe8zJRvuON7EmsReBDOnwojrz3PMcw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>comm.cx</h2>
+<p>COMM.CXはテスト中のインスタンスです。
+日本の何処かで動いていますので日本の法律の範囲内でご利用ください。
+落ちても泣かない。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>2</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>96</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>173</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>ルール</h3>
+<p>公序良俗に反する投稿はおやめください。</p>
+<h3>注意点</h3>
+<p>現在試験運用中です。安定性は保証しません。</p>
+<h3>サーバーについて</h3>
+<p>サーバーは さくらのVPS (東京) を使用しています。</p>
+<p>メイン: Ubuntu 16.04 + nginx + Mastodon
+<br/>
+S3: Ubuntu 16.04 + haproxy + Ceph</p>
+<p>IPv4/v6 両対応です。</p>
+<h3>お問い合わせ先</h3>
+<p>
+COMM.CX内からはこちら
+ → 
+<a href="/@ikuradon">@ikuradon</a>
+<br>
+Twitter内からはこちら
+ → 
+<a href="https://twitter.com/ikuradon">@ikuradon</a>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

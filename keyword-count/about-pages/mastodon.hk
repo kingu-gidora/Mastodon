@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.hk
+ - Mastodon.hk</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iFL4LXJ3PHr/H2x5pwKJb3EGIxzLtxHqmn/0qTl67lGfna1hYvRUMuiK4JAaT1ez7G/ci10RJLZi2t6xYvMbeg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.hk</h2>
+</div>
+<div class='panel'>
+<h2>Rules</h2>
+<div class='section'>
+<p>The following guidelines are not a legal document, and final interpretation is up to the administration of mastodon.hk; they are here to provide you with an insight into our content moderation policies:</p>
+<ul>
+<li>
+The following types of content will be removed from the public timeline:
+<ul>
+<li>Excessive advertising</li>
+<li>Uncurated news bots posting from third-party news sources</li>
+<li>Untagged pornography and sexually explicit content</li>
+<li>Untagged gore and extremely graphic violence</li>
+</ul>
+</li>
+<li>
+The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+<ul>
+<li>Racism or advocation of racism</li>
+<li>Sexism or advocation of sexism</li>
+<li>Racism, Discrimination against gender and sexual minorities, or advocation thereof</li>
+<li>Xenophobic and/or violent nationalism</li>
+</ul>
+</li>
+<li>
+The following types of content are explicitly disallowed and will result in revocation of access to the service:
+<ul>
+<li>Content illegal in Hong Kong</li>
+</ul>
+</li>
+<li>
+Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+<ul>
+<li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+<li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+<li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+</ul>
+</li>
+</ul>
+<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>
+<h2>Contact</h2>
+<p>
+Other than
+<a href="https://mastodon.hk/@siuying">Mastodon</a>
+, you may contact me via Twitter
+<a href="https://twitter.com/siuying/">@siuying</a>
+</p>
+</div>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>這裏共註冊有</span>
+<strong>163</strong>
+<span>位使用者</span>
+</div>
+<div class='section'>
+<span>他們共發佈了</span>
+<strong>1,680</strong>
+<span>篇文章</span>
+</div>
+<div class='section'>
+<span>已連接至</span>
+<strong>476</strong>
+<span>個其他服務站</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>聯絡</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://assets.mastodon.hk/accounts/avatars/000/000/001/original/b248af366d29e695.jpeg" alt="B248af366d29e695" /></div>
+<div class='name'>
+<a href="http://mastodon.hk/@siuying"><span class='display_name emojify'>小影</span>
+<span class='username'>@siuying</span>
+</a></div>
+</div>
+<div class='contact-email'>
+商業電郵︰
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="620410030c010b11220b050c0b160b0d0c4c0a09">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>連結</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">立即登記</a></li>
+<li><a href="/auth/sign_in">登入</a></li>
+<li><a href="/terms">使用條款</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">源代碼</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

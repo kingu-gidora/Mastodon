@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang='de'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.u4u.org
+ - Mastodon@u4u.org</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="n4ZbCBp/x1lDbmWeqGF27Y/Bfhctach9wjSvf4AvGXS2udZoUnlnP99NopxWCBqhm6Ffij4hUCdPrt5k1j7Esg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.u4u.org</h2>
+<p>This instance is more a proof of concept at the moment. It running on a virtual server using docker container. I don't know how long it will run.....</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Heimat für</span>
+<strong>5</strong>
+<span>Benutzer</span>
+</div>
+<div class='section'>
+<span>die</span>
+<strong>76</strong>
+<span>Beiträge verfassten</span>
+</div>
+<div class='section'>
+<span>Verbunden mit</span>
+<strong>319</strong>
+<span>andere Instanzen</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Kontact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/55651425769d70cf.jpg?1492148871" alt="55651425769d70cf" /></div>
+<div class='name'>
+<a href="https://mastodon.u4u.org/@Moskito"><span class='display_name emojify'>Marcus M.</span>
+<span class='username'>@Moskito</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Geschäftliche E-Mail:
+<strong>marcus@by5.de</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Erste Schritte</a></li>
+<li><a href="/auth/sign_in">Anmelden</a></li>
+<li><a href="/terms">AGB</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Quellcode</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

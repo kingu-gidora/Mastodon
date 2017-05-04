@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>don.tacostea.net
+ - ドンタコス丼</title>
+<link rel="stylesheet" media="all" href="/assets/application-da7191bf5c1c00b618480c86e77ad57ed6f2df3b1148e0da6f7f72c5caf7522e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ECTOEl1b1ubluRhM2WqM6KN7Sdo5j/3cgtoteaojXORURgTamoO0ElaGH27KZwESe+TeOdrsvWje/JNoUgxAaA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>don.tacostea.net</h2>
+<p><em>情報系エンジニア大歓迎(レイヤ問わず)</em><br>勢いで作ってしまいました。でも特に落とすつもりはありません。<br>われわれ、かしこいので。<br>笑えない下ネタは許容しません。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>24</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>306</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>255</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>アップデートは毎朝4:56、それ以外にも時々再起動します。<br>Pawoo.netとは断絶状態です。<br>ご支援はbitcoin(<em>15NqoRH4eF3VDkG93b7Con5NhwDDVsKVRQ</em>)にて受け付けております。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/2a89701ea6967fab.png?1492244975" alt="2a89701ea6967fab" /></div>
+<div class='name'>
+<a href="https://don.tacostea.net/@tacostea"><span class='display_name emojify'>🌮</span>
+<span class='username'>@tacostea</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>tacos@tacostea.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

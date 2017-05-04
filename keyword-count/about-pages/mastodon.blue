@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.blue
+ - Mastodon Blue</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="V1tZYn1ccD0ZJo13RwZxYvqSHRtxuNlbs95Ud87pDCNJ9f2IdFblqtHp6w3ZZqcpXZURwHktua+fgNw9PUP+4w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.blue</h2>
+<p>This instance is hosted on a dedicated server, in France.
+<p><img src="https://netdata.mastodon.blue/api/v1/badge.svg?chart=system.cpu&after=-60&label=cpu%20avg" />
+<img src="https://netdata.mastodon.blue/api/v1/badge.svg?chart=system.ram&dimensions=used&options=percentage&label=ram%20used" />
+<img src="https://netdata.mastodon.blue/api/v1/badge.svg?chart=system.load&dimensions=load15&label=load%20avg&units=null" /><br />
+Check complete live monitoring <a href="https://netdata.mastodon.blue/">here</a>!</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>2,460</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>13,310</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,003</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3><font><font class="">Welcome on mastodon.blue !</font></font></h3>
+<p>I'm <a href="https://mastodon.blue/@nyroldiin">@nyroldiin</a>, the administrator of the instance</p>
+
+<h3>What's behind ?</h3>
+<p>This instance is hosted on a didicated server, in France.
+<br>It has the following specifications :</p>
+<p>• Intel  Xeon E5-1650v3
+<br>• 6c/12t - 3,5 GHz/3,8 GHz
+<br>• 128Go DDR4 ECC 2133 MHz
+<br>• SoftRaid  2x2To
+<br>• 500 Mbps bande passante
+<br>• Debian 8</p>
+
+<h3>Help Us</h3>
+<p>
+Help us on Patreon to pay the server !<br />
+<a href="https://www.patreon.com/Nyroldiin">patreon.com/Nyroldiin</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/a7ade90866052d34.jpg?1491427692" alt="A7ade90866052d34" /></div>
+<div class='name'>
+<a href="https://mastodon.blue/@Nyroldiin"><span class='display_name emojify'>Nyro ϟ - Mickaël</span>
+<span class='username'>@Nyroldiin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>support@mastodon.blue</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.uy
+ - Mastodon Uruguay</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="C+XiIaOsN/u9uucJnti8OIrN0XCUktJ06OFiQEhUjWWWFTRITBe3038xdLtUmWPJZydcYA34z9E6Vkf6vAB8SQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.uy</h2>
+<p><p>Nodo uruguayo de la red social libre y decentralizada Mastodon. La misma sigue el estandar abierto OStatus, lo que permite interactuar con otras redes sociales libres.</p><p> Además proveemos un servidor de chat Jabber/XMPP en paralelo al nodo social, pero en el mismo dominio. Verifica tu carpeta de SPAM por correo de verificación.</p>
+<p><b><u>App Android para Mastodon</u>:</b><em>  <a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">Tusky</a></em></p>
+<p><b><u>App Android para Jabber</u>:</b><em>  <a href="https://f-droid.org/repository/browse%20/?fdid=eu.siacs.conversations">Conversations</a></em></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Tenemos</span>
+<strong>32</strong>
+<span>usuarios registrados</span>
+</div>
+<div class='section'>
+<span>Que han escrito</span>
+<strong>832</strong>
+<span>estados</span>
+</div>
+<div class='section'>
+<span>Conectado a</span>
+<strong>413</strong>
+<span>otras instancias</span>
+</div>
+</div>
+<div class='panel'><p><em>Términos y Condiciones de Uso</em></p>
+<p>Esta herramienta de comunicación está en línea solamente por el esfuerzo de su administrador y, eventualmente, algunas personas que colaboran para que el servicio sea el mejor posible.<p>
+<p>Entendemos que para favorecer y promover una buena comunicación y convivencia virtual, es necesario establecer algunos criterios o pautas generales. Si alguno de ellos te parece excesivo o no estás de acuerdo, siempre puedes elegir alguna otra instancia de Mastodon cuyas normas se adapten mejor a tus principios.
+</p>
+<p>En principio, participar en Mastodon.uy implica comprender y estar de acuerdo con las siguientes condiciones:
+</p>
+<p><u><b>No está permitido publicar</u></b> el siguiente contenido (la cuenta será suspendida o eliminada inmediatamente):</p>
+<ul>
+<li>Material que contenga Pornografía infantil / Pedofilia / Gore / Snuff.</li>
+<li>Contenido NSFW (del inglés Not Safe For Work, No Apropiado Para el Trabajo en castellano), que no sea etiquetado debidamente.</li>
+<li>Contenido Racista / Sexista / Homofóbico y cualquier otro que discrimine por cuestiones de género o de elecciones sexuales.</li>
+<li>Contenido Xenofóbico o Nazi.</li>
+</ul>
+
+<p><em><u>Advertencia:</p></em></u>
+<p>Se silenciarán (no aparecerán en la línea temporal pública) las cuentas que publiquen contenido NSFW (no apropiado) sin marcar dichas publicaciones con el botón de "advertencia de contenido". Figurar en la línea temporal pública y federada es un privilegio dado que es un espacio en común con todos los nodos.</p>
+
+<p>En esta instancia de Mastodon tampoco se tolerarán actitudes o acciones de “acoso” a otros usuarios, entendiendo por “acoso”, la persistencia de un usuario por mantener alguna forma de vinculación con otro usuario que haya expresado específicamente no desear hacerlo.</p>
+
+<p>No se tolerará tampoco la publicación de contenido o mensajes destinados a molestar o provocar negativamente a otros usuarios con la finalidad de generar altercados o malentendidos intencionalmente (trollear).</p>
+
+<p>No se admite de ninguna forma la publicación de información personal de un usuario por 	parte de otro que no haya autorizado expresamente esa publicación.</p>
+
+<p>Este servidor adhiere a los principios del Software Libre y es su espíritu promoverlos. Ser un nodo más de una red descentralizada y federada que respeta al usuario y no invade su privacidad, es parte de nuestro compromiso militante con esos principios.</p>
+<br><br>
+<p><em>Características del Servidor</em></p>
+<p>El servidor es un OVZ-5 VPS ubicado en Alemania con las siguientes características:</p>
+<ul>
+<li>5120 MB RAM</li>
+<li>5120 MB BURSTRAM (vSwap)</li>
+<li>250 GB Hardware Raid 10</li>
+<li>10 Gbit/s Uplink (Shared)</li>
+</ul>
+<br>
+<p><em>Estadísticas</em></p>
+<p><img src="https://stats.mastodon.uy/mastodon/mastodon/load-week.png" alt="Load"></p>
+<p><img src="https://stats.mastodon.uy/mastodon/mastodon/memory-week.png" alt="Load"></p>
+<p><img src="https://stats.mastodon.uy/mastodon/mastodon/netstat-week.png" alt="Load"></p>
+<p><img src="https://stats.mastodon.uy/mastodon/mastodon/mastodon_active_users-week.png" alt="Load"></p>
+<p><img src="https://stats.mastodon.uy/mastodon/mastodon/prosody_c2s-week.png" alt="Load"></p>
+<br>
+<p>Si te interesa el proyecto y queres colaborar con los costos del dominio, VPS, etc, te invitamos a colaborar por cualquiera de estes medios:</p>
+<br> <p><em>Patreon:</em> <a href="https://www.patreon.com/mastodonuy">Mastodon Uruguay</a></p>
+ <br> <p><em>Bitcoin:</em> <a href="https://undernet.uy/bitcoin.png">1G9khabsutT3kttQ51AERppmwSGqM1c7zX</a></p> <br> <p><em>Faircoin:</em> <a href="https://undernet.uy/faircoin.png">fcJKyP2VDxhtmPzE3LyF529zRHps3Z35YV</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contacto</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/cf5951729881d3aa.jpg?1493161764" alt="Cf5951729881d3aa" /></div>
+<div class='name'>
+<a href="https://mastodon.uy/@admin"><span class='display_name emojify'>Admin Uruguay</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Correo de negocios:
+<strong>postmaster@undernet.uy</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Enlaces</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Comenzar</a></li>
+<li><a href="/auth/sign_in">Iniciar sesión</a></li>
+<li><a href="/terms">Términos</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Código fuente</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>yuruyuri.family
+ - 七森中☆Mastodon部</title>
+<link rel="stylesheet" media="all" href="/assets/application-c44c3c9e8aa5b685047935ca3c1fcbdd8dd04a33b7d4c92785d67dbaf2441f0c.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vr8g367vH5V+t7cUse4cd8QyT4z9y5z8iczOmApGJVp1kTD6npRO7MX7J/ZaWxPSqozg9TkpKsf7etQMrUPxcQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>yuruyuri.family</h2>
+<p><p>1.3.2アプデしました☆ どなたでも参加いただけるMastodonインスタンスです！　ゆるゆりを標榜していますが、非公式なので特にポリシーは設けません。運用ノウハウを得るための自己研鑽として構築しましたので、基本的にはゆるゆる、まったりを目指します。</p>
+
+<em><a href="https://www.idcf.jp/cloud/">IDCFクラウド</a></em>様で構築しています。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>105</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,410</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>435</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>本インスタンスは、サーバ運用に関する知見の拡大を目的として管理者の私費で運営されます。国内法に反する行為や迷惑行為がある場合など管理者の判断で対処を行う場合があります。また、管理人の都合で予告なくメンテナンス、停止などが行われます。ゆるく長く続けられたらいいなと思っています。</p>
+
+<p>標準的なプライバシーポリシーへの追記事項として、管理者は本インスタンス上の個人情報の第三者提供など日本の国内法に反する取扱いを一切行わないことを宣言します。</p>
+
+<p>ご自身の情報の削除対応や登録のやり直し等に関しては、本人からの問い合わせに限り技術的・時間的に可能な範囲で行いたいと思います。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/49604b3cc8238d9e.jpg?1492285409" alt="49604b3cc8238d9e" /></div>
+<div class='name'>
+<a href="https://yuruyuri.family/@Mirron"><span class='display_name emojify'>ミラクロン✅</span>
+<span class='username'>@Mirron</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>mirron@yuruyuri.family</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.osaka
+ - 大阪丼</title>
+<link rel="stylesheet" media="all" href="/assets/application-6b316663ff4d78eae4279c24e8aa935cccbc18a5e8c72476141dd19df4347f64.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Ui9qJG5VnURdayIFLGQKWC8SJigukc6ufnwZ+XPNacZD1x/SGaocDHWF21PmmqgAcORsUmiuoRQsgca8hlerxQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.osaka</h2>
+<p><p>
+大阪丼: 大阪弁、関西弁推奨のマストドンインスタンスやねん<br>
+大阪人でも関西人でも元大阪人でも、大阪に興味あるだけでもかまへんで。兄ちゃん姉ちゃんおっちゃんおばちゃん誰でも寄ったってな〜<br>
+</p>
+
+<h3>何の話題が多いん？</h3>
+<p>
+地域ネタ、芸人ネタ、美味いもんネタ、技術ネタ、相談事<br>
+なんでもありやから気軽につぶやいてええねんで<br>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>osaka人数</span>
+<strong>852</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>なんや数</span>
+<strong>52,091</strong>
+<span>なんや</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>515</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>寄付</h3>
+<ul>
+<li><a href="https://kyash.co">Kyash</a> ID: alarky 招待コード: 6P66ZR 登録だけでも助かります〜</li>
+<li><a href="/@pokopon">@pokopon</a> はん、おおきに！</li>
+<li><a href="/@michan06">@michan06</a> はん、おおきに！</li>
+<li><a href="/@naoshim">@naoshim</a> はん、おおきに！</li>
+<li><a href="/@Pairings">@Pairings</a> はん、おおきに！</li>
+<li><a href="/@kame3des">@kame3des</a> はん、おおきに！</li>
+<li><a href="/@cho">@cho</a> はん、おおきに！</li>
+<li><a href="/@spec">@spec</a> はん、おおきに！</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/0eefac5902504016.jpg?1492352351" alt="0eefac5902504016" /></div>
+<div class='name'>
+<a href="https://mstdn.osaka/@alarky"><span class='display_name emojify'>alarky@大阪丼</span>
+<span class='username'>@alarky</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>alarkyあっとgmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">邪魔すんで〜</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/alarky/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

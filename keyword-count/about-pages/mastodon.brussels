@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.brussels
+ - Mastodon, une fois | Mastodon België | Mastodon Belgien</title>
+<link rel="stylesheet" media="all" href="/assets/custom-08aafaeef58f7321f6b3708f2157acf197275d0e89ea3baa839b2dd6c0470400.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zwhcK/d2nicw4yYM72d2tErM5LJEmsd6k5uXags52m16Eg0i7bFsPvQU2u0t8tw4+YP4vh0zgpMbi3muFnTK4w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.brussels</h2>
+<p>Alleï, fast instance, dikkenek server. Snelle instance, krachtige server.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>849</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>5,079</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>712</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>Admins:
+@monnoliv
+@JeroenB
+@Davidmonnom
+
+Nederlandse versie: zie onder.
+
+----
+
+<h3 style="text-align: center;">
+	Bienvenue une fois sur l'instance <span style="color:#ffffe0;"><strong>mastodon.brussels</strong></span>, on va faire des pouets en Belgique et ailleurs si affiniteï.</h3>
+<h3 style="text-align: center;">
+	Pouèteurs d&#39;autres pays, bienvenue aussi</h3>
+<h2 style="text-align: center;">
+	Nous avons pour le moment un petit probl&egrave;me avec les mails de confirmation, si vous ne recevez pas le vôtre v&eacute;rifiez votre boîte <strong><span style="color:#ff0000;">SPAMS.</span></strong></h2>
+<p>&nbsp;</p>
+<h2 style="text-align: justify;">
+	Les <span style="color:#ff0000;">r&egrave;gles</span> de cette instance:</h2>
+<ul>
+<li>
+<h3 style="text-align: justify;">
+	Pas de propos racistes ou homophobes</h3>
+</li>
+<li>
+<h3 style="text-align: justify;">
+	Pas de spam ou de publicit&eacute;</h3>
+</li>
+<li>
+<h3 style="text-align: justify;">
+	Pas de harc&egrave;lement</h3>
+</li>
+</ul>
+</br>
+</br>
+<h2>
+Notre instance de dikkenek:</br>
+• 4 cores I5</br>
+• 32 GB RAM</br>
+• 3 x 120 GB SSD, RAID 3</br>
+• 1 Gb/s unlimited bandwidth</br>
+• Debian 8</br>
+</h2>
+<br><br>
+----
+<br><br>
+Nederlandse Versie <br>
+<h2><a href="https://www.dropbox.com/s/zr3h1cn0d6qkzk0/NederlandstaligetutorialMastodon%20%281%29.pdf?dl=0">Beknopte Nederlandstalige handleiding</a></h2>
+<h3 style="text-align: center;">
+	Welkom op <span style="color:#ffffe0;"><strong>mastodon.brussels</strong></span>, de Belgische instance van Mastodon.</h3>
+<h3 style="text-align: center;">
+	Bezoekers van andere landen zijn ook welkom!</h3>
+<h2 style="text-align: center;">
+	Momenteel hebben we een probleem met de bevestigingsmail die u krijgt na registratie. Indien u hem niet ontvangt, gelieve dan even in de <strong><span style="color:#ff0000;">SPAM box</span></strong> te kijken.</h2>
+<p>&nbsp;</p>
+<h2 style="text-align: justify;">
+	De <span style="color:#ff0000;">Regels</span> van deze instance:</h2>
+<ul>
+<li>
+<h3 style="text-align: justify;">
+	Geen racistische of homofobe berichten  plaatsen</h3>
+</li>
+<li>
+<h3 style="text-align: justify;">
+	Geen spam of reclame berichten plaatsen</h3>
+</li>
+<li>
+<h3 style="text-align: justify;">
+	Geen intimiderende berichten plaatsen</h3>
+</li>
+</ul>
+</br>
+</br>
+<h2>
+Server gegevens van deze instance:</br>
+• 4 cores I5</br>
+• 32 GB RAM</br>
+• 3 x 120 GB SSD, RAID 3</br>
+• 1 Gb/s unlimited bandwidth</br>
+• Debian 8</br>
+</h2></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@mastodon.brussels</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

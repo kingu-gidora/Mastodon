@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.niigata.jp
+ - Mastodon.NIigata</title>
+<link rel="stylesheet" media="all" href="/assets/application-1cba650a3a78b7e71979313c08d332eb09989bc5b0cfebfa833edaca9198dad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BpLu97l1faVd8aYWudrse+v33PSJCAypFBGkk+Xr+dSAhLUY2qwIWsMeWYh+zLRylbqCUlc5tbB2+jMSz7JvhQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.niigata.jp</h2>
+<p>日本 新潟県某所に設置してあるmastodonインスタンスです。<br>
+新潟県民以外も参加歓迎します。<br>
+<h2>ルール</h2>
+<ul>
+<li>法律は厳守して下さい。</li>
+<li>法律に加担・接触するようなトゥートの投稿は禁止</li>
+<li>R-18指定(エロ・グロ等)は、文章にはContent Warningを，画像にはNSFWタグを付けてください。</li>
+<li>連投やフォローバックなど過度な迷惑投稿は禁止です。</li>
+<li>スパムにしか見えない宣伝やトゥートは禁止</li>
+<li><em>みんな仲良く楽しみましょう</em></li>
+</ul>
+<br>
+<h2>禁止事項</h2>
+<ul>
+<li>本サービスのサーバーまたはネットワークの機能を破壊したり，妨害したりする行為</li>
+<li>他のユーザーに成りすます行為</li>
+<li>当インスタンスの他のユーザーまたは第三者の知的財産権，肖像権，プライバシー，名誉その他の権利または利益を侵害する行為</li>
+<li>宗教活動または宗教団体への勧誘行為</li>
+<li>その他，運営チームが不適切と判断する行為</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>25</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,539</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>141</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>mastodon 新潟サーバー作った理由</h2>
+<p>mstdn.jpの補助として作ろうと構築し始めました。<br>
+ちなみに新潟の理由は、サーバーを借りてる所が新潟県にあるからです。<br></p>
+<h2>提供</h2>
+<ul>
+<li>サーバーハード管理：hiroponさん</li>
+</ul>
+<h2>留意事項</h2>
+<ul>
+<li>当インスタンスは重大な損害を与える可能性があるインスタンスについてはBANさせていただきます。（例：パスワード抜き取るインスタンス）</li>
+<li>原則、法律に反して警察・裁判所・弁護士から要請が来た場合、該当ユーザーのログを開示させていただきます。</li>
+</ul>
+<h2>寄付</h2>
+<p>もし宜しければ<a href="https://enty.jp/mamireimu">Enty</a>で支援をお願いします。<br></p>
+<h2>お問い合わせ</h2>
+<p>mastodon：@mamireimu@mstdn.niigata.jp<br>
+Twitter:<a href="https://twitter.com/anilove_mami_13">@anilove_mami_13</a> or <a href="https://twitter.com/mstdn_niigata">@mstdn_niigata</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/9d5556581fcf4fec.jpg?1492957807" alt="9d5556581fcf4fec" /></div>
+<div class='name'>
+<a href="https://mstdn.niigata.jp/@mamireimu"><span class='display_name emojify'>まみれいむ(Niigata管理アカウント)</span>
+<span class='username'>@mamireimu</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mamireimu@mamireimuserver.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

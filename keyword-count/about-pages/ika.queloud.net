@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ika.queloud.net
+ - ika.queloud.net - SplatoonのMastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-9ec3da38a8f5a5a9cb4182215c40521c51c195c509515c417305601658bd73b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yxvzbzLrY6/tn0wauCRNedZVUeXzTWH5N4NWHjK+9d2OS+fZUJ+ds7jMJlabMv4b9BiVyggYXZBhMtj6AU+pFw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ika.queloud.net</h2>
+<p><em>任天堂のゲーム「Splatoon」を愛するイカ達が集まるMastodonです。</em><br />
+<p>
+  初心者から上級者まで、Splatoonが好きなイカ達がまったりと会話に興じています。<br />
+  あなたもイカの世界の住民になってみませんか？
+</p>
+<p>
+  <h3>お約束</h3>
+  <ul>
+    <li>公序良俗、国内法に反する投稿、犯罪に加担するような投稿はおやめ下さい。</li>
+    <li>Mastodonのサービスの特性上、他サービスで使っているアカウント情報を使いまわすことは極力お控え下さい</li>
+    <li>このインスタンスは個人が運用しています。鯖の永続性は保証できない点にご容赦下さい</li>
+    <li>楽しんで行って下さい！</li>
+  </ul>
+</p>
+<p>
+イカ、よろしく〜
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>500</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>5,446</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>101</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>任天堂のゲーム「Splatoon」を愛するイカ達が集まるMastodonです。
+
+イカ、よろしく〜</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/3e0d42a8d37cbb1c.jpg?1492417431" alt="3e0d42a8d37cbb1c" /></div>
+<div class='name'>
+<a href="https://ika.queloud.net/@admin"><span class='display_name emojify'>こばーん@管理人:white_check_mark:</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>hari_sabo_bouzu@hotmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

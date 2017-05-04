@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.not-enough.space
+ - Mastodon on not-enough.space</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6fQW5b3PS4jJRVkscOAAxBPM61Gbeb7uwI/KfW8C2Mp/bhJvK+KVXGIwM4WqwNaQeJfK77OY2GdP4Nu7401axg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.not-enough.space</h2>
+<p><p>Non personalized node, hosted in France (Dedibox)</p>
+<p>Welcome to all !</p>
+
+
+<p>Node non personnalisée, hébergée en France (Dedibox)</p>
+<p>Bienvenue à tous !</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>53</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>45</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>226</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>Quelques rappels:
+
+-	Toute personne a droit au respect de sa vie privée. Il est ainsi interdit de porter atteinte à la vie privée d’une personne.
+
+-	Intercepter ou utiliser volontairement une communication privée constitue une atteinte à la vie privée.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/45d454f45d66005a.jpg?1491668327" alt="45d454f45d66005a" /></div>
+<div class='name'>
+<a href="https://mastodon.not-enough.space/@sogos"><span class='display_name emojify'>Sogos</span>
+<span class='username'>@sogos</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>thibault.cordier@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

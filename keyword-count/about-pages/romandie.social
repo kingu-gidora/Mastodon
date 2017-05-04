@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>
+romandie.social
+ - 
+Mastodon - Romandie.social
+</title>
+<link rel="stylesheet" media="all" href="/assets/application-ef4854a4936e32557557ee679b1c20df105e4f939290ce2c3fabb1df773f21e5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+pDMPvKI+2jYzxoigOhjNvTf1tzL3OcfQLx2NG4f/MiA6qC2i9ZYga1pd0lqHIPO2ZWeRfWb/21ppj2mrJMJPg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>romandie.social</h2>
+<p>Instance construite pour les Suisses Romands</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>100</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>881</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>443</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>N'oubliez pas de vérifier vos spams !</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f43f94cd0d44de2c.jpg?1491501671" alt="F43f94cd0d44de2c" /></div>
+<div class='name'>
+<a href="https://romandie.social/@Boyatzon"><span class='display_name emojify'>loic</span>
+<span class='username'>@Boyatzon</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>Mastodon@romandie.social</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

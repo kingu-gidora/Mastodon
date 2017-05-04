@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>showoffto.us
+ - showoffto.us</title>
+<link rel="stylesheet" media="all" href="/assets/application-abe3e4a446ff09336060030b641f7696bd8319296152788af99e0ac642e8069c.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0OwzqXaRbwpZ74yvuYP1LeUwznz0CIx617OYYxJp8uJuLLDXmub7F5+k/F5Du5HW7m3x2K6+NbYFaJq1RaZFGQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>showoffto.us</h2>
+<p>showoffto.us is a <em>NSFW/18+</em> website for all the exhibitionists and voyeurs out there in the fediverse to, well, let it all out! Come see and be seen!</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>6</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>21</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>28</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Amateur porn is some of the hottest out there. There's just something about seeing the sexual pictures of other users like yourself without all of that over-the-top porn production.</p>
+
+<p>showoffto.us is not specific to kinks, just amateur content.</p>
+
+<h3>Rules</h3>
+<p>Right now, rules are slim. There are the obvious:</p>
+
+<ul>
+<li><em>ABSOLUTELY NO ONE UNDER THE AGE OF 18!</em> There is an absolute, zero tolerance policy for any sexual content depicting minors.</li>
+<li>Post content you have the rights/permission to post. Ideally, the pictures are of you, but you may post pictures of friends and significant others with <em>their permission</em> only.</li>
+<li>Flag <em>NSFW</em> content as such. At least, until there is a large enough community to support us not being federated.</li>
+</ul>
+
+<p>If you see any content that you're not sure belongs here, do not hesitate to report it. Admins reserve the rights to remove any content</p>
+
+<h3>Verification</h3>
+<p>Currently, I am keeping a simple HTML file uploaded (<a href="../verified.html">view here</a>) with the names of the users that have been verified.
+ How do you verify? The rules can be found <a href="../verified.html#verify">here</a>.</p>
+
+<h3 id="admins">Admins</h3>
+<p>Here is the list of current admins:</p>
+<ul>
+<li><a href="@zetojune">zetojune</a> (owner)</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8a2a205b6dfff25c.jpg?1492912250" alt="8a2a205b6dfff25c" /></div>
+<div class='name'>
+<a href="https://showoffto.us/@zetojune"><span class='display_name emojify'>zetojune ✅</span>
+<span class='username'>@zetojune</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>zetojune@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

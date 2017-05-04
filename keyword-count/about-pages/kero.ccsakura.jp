@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>kero.ccsakura.jp
+ - Mastodon - カードキャプターさくら/CLAMPインスタンス</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5atTXejZlEzmmS64d/WDA7blkugOOvjp1C5501lGcb3uGb8b+oS2UO7FtmxqKQsHCTdvGXkBuZsjffHbryvjBw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>kero.ccsakura.jp</h2>
+<p>カードキャプターさくら/CLAMPインスタンス、封印解除！</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>134</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,244</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>398</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><BODY link="white" alink="white" vlink="white">
+<H3>こにゃにゃちは～</H3>
+<li>Mastodonカードキャプターさくら/CLAMPインスタンスにアクセスしていただきありがとうございます。<br>
+さくらインスタンスですが、特に話題は限定せずここをメインとして様々なことを発信していただければ本望です。</li>
+<li>安定運用と長期提供を目指しますが4/15の立ち上げより日数がたっていないのと個人運営のため予期せぬトラブルに見舞われる可能性があります。</li>
+<li>絶対、大丈夫だよ。</li>
+<br>
+<H3>サーバーについて</H3>
+<li>現状このインスタンスは6CPU/8GBRAMのクラウドサーバーで稼働しており、ストレージは200GBです。今のところリソースには余裕がありますがユーザーが増えて重くなるようであればまた検討します。</li>
+<br>
+<H3>CCさくらwikiもよろしくお願いします。</H3>
+<a href="http://ccsakura.jp"><br>
+<li>カードキャプターさくらwiki</li></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://enty.jp/eximradar">(Donation:Enty)</a>
+<a href="http://ccsakura.jp">
+</body></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8ff293e85b1e89da.png?1492254972" alt="8ff293e85b1e89da" /></div>
+<div class='name'>
+<a href="https://kero.ccsakura.jp/@orgng"><span class='display_name emojify'>ORGN-G</span>
+<span class='username'>@orgng</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

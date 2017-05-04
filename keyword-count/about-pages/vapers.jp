@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>vapers.jp
+ - Vapers.jp Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4lLaRkYCVn6I2ejDjgBmGAcp1SN9nzuL1JE5wsHDoFFLEy5DEEvG5YnvcLgKz1GtQKu1aS2gLjAp1jaMfAGGpQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>vapers.jp</h2>
+<p>Vaper向けインスタンスです</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>73</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>219</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>125</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><li>法律は守ってください．日本法に抵触するようなトゥートは禁止です。警察や裁判所の要請に応じてログを開示することになります
+<li>18禁などにはちゃんと Content Warning / NSFW を適切につけてください。このあたりきちんとしてないと連合先から切られます
+<li>Bot は禁止です。やるなら自分でインスタンス建てましょう。そんなに大変ではありません
+<li><a href="https://enty.jp/UncleVaper">Entyのページ</a>作りました。支援いただけると幸いです
+<hr>アカウント作成時のメールが届かない場合、アドレス入力ミスの可能性があります。その場合は Twitter の私の<a href="https://twitter.com/uncle_vaper">アカウント</a>まで DM を送ってください<br>メールアドレスの再設定を行います<br></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a3069b88f2a1cb33.jpg?1492649488" alt="A3069b88f2a1cb33" /></div>
+<div class='name'>
+<a href="https://vapers.jp/@vape"><span class='display_name emojify'>おいちゃん</span>
+<span class='username'>@vape</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>
+myriad.social
+ - 
+myriad.social
+</title>
+<link rel="stylesheet" media="all" href="/assets/application-67c6212d8ec102939d5e5cacdddcba870013783c6a08b2260db2c5b80fe3fe52.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RV1OsMkGt0GIbc/r4vYcGKjkjLlXAeys7DAPRBvhevaQufP1oW+Yu43mj0Y4a9oh2ejNJZsw3d+BKeKZac1J0w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>myriad.social</h2>
+<p><p>"<i>a social network where i'm not blocked...yet</i>" - <a href="https://myriad.social/@Dre2Dee2">@Dre2Dee2</a></p>
+
+<p>myriad.social is a discrete node in the <a href="https://medium.com/@Gargron/welcome-to-mastodon-111d9227e56a">mastodon</a> network and the <a href="https://gnu.io/social/">gnu social</a>-compliant <a href="https://www.fediverse.org/">fediverse</a>.</p>
+
+<p>myriad.social is hosted in bucharest, romania and operates as a 'free-speech friendly' instance with emphasis on low moderation, high security, and full transparency, and operates under the auspices of <a href="http://patreon.com/myriadtruths">the myriad truths project.</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>15</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>117</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>346</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>myriad.social has a 'low-moderation' policy to facilitate free speech on this instance. This is not a legally binding document and may be updated and changed at our discretion, but currently our policy is to only remove content if it:</p>
+
+<p> - depicts minors in a sexually explicit manner</p>
+<p> - is illegal in romania (the locale where our infastructure resides)</p>
+<p> - disrupts the stability of the instance for other users</p>
+
+<p>please report any content which violates one of these directives. general security-related correspondence, such as vulnerability disclosures, are gladly received at <a href="mailto:security@myriad.social">security@myriad.social</a>.</p>
+
+<p>myriad.social is a venture of <a href="https://patreon.com/myriadtruths">The Myriad Truths Project</a>, which accepts financial contributions from individual supporters and backers.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/5a00dd093fa8ac4e.gif?1491534620" alt="5a00dd093fa8ac4e" /></div>
+<div class='name'>
+<a href="https://myriad.social/@myriadtruths"><span class='display_name emojify'>Myriad Truths ✅</span>
+<span class='username'>@myriadtruths</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>speak@myriadtruths.com</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

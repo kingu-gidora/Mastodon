@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>party.personal.pizza
+ - Personal.pizza Party</title>
+<link rel="stylesheet" media="all" href="/assets/application-c4fd96f3d345fe76eb79409fffae94ccac68ca70f1e0b2d390cc61eca68f9ab3.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="23s2qp2Wng5kptHEuKqk50AK52icqScM4xgsXzZCrWIOvR9mkwG7WbQJeFZTpCm+ASKAiSgGOZI1OeH2rvMzHg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>party.personal.pizza</h2>
+<p><p><em>party.personal.pizza</em> is a <a href="https://motherboard.vice.com/en_us/article/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it"><em>mastodon</em></a> instance.</p>
+
+<p style="font-size: 300%">🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉</p>
+<p style="text-align:center">Every pizza is a personal pizza if you try hard and believe in yourself.</p>
+<p style="font-size: 300%">🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉🍕🎉</p>
+
+<p><span style="font-size:150%">⚠️</span> Please read this instance's <a href="/about/more">extended description</a>! <span style="font-size:150%">⚠️</span></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>25</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>151</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>393</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>About</h2>
+<p>This is a small, experimental instance, currently running on Heroku. If you want guarantees about uptime or stability, you might want to choose a bigger one <a href="https://instances.mastodon.xyz/">from the list here</a>.</p>
+
+<h2>The Rules</h2>
+<p>Only three:</p>
+<ol>
+<li>Please follow the <a href="https://wealljs.org/code-of-conduct">WeAllJS code of conduct<a>.</li>
+<li>Your benevolent instance admin reserves the right to hellban anyone whenever.</li>
+<li>Likes are florps and timeline goes sideways</li>
+</ol></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://d2onobki0ukvpp.cloudfront.net/accounts/avatars/000/000/001/original/829b582b51bc0dd6.jpg?1491761029" alt="829b582b51bc0dd6" /></div>
+<div class='name'>
+<a href="https://party.personal.pizza/@ecmendenhall"><span class='display_name emojify'>/dev/horsefacts</span>
+<span class='username'>@ecmendenhall</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

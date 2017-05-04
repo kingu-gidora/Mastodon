@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>toot.mastoc.fr
+ - toot.mastoc.fr</title>
+<link rel="stylesheet" media="all" href="/assets/application-da7191bf5c1c00b618480c86e77ad57ed6f2df3b1148e0da6f7f72c5caf7522e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qQhmZ5Xw4Zh+/Y5BIS4+vRWwazq4ahViKQzURu3mCnoCoVZq7wikBSrkDOujxpnMnlWnP863Nw75pCUPVnemVg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>toot.mastoc.fr</h2>
+<p><p style="text-align: justify;">toot.mastoc.fr est une des nombreuses instances du logiciel de réseau social <em>mastodon</em>. Elle est géré et hébergé en France. Elle se veut une alternative <em>libre et éthique</em> aux réseaux sociaux propriétaires.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>1</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>23</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>60</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'><p style="text-align: center;"><img src="https://toot.mastoc.fr/assets/logo-ccd96b5bc7227ead2cb43a0f7d01d997021421127244a748094663618ee89674.png" alt="Join the Federation !"></p>
+<p style="text-align: justify;">L'instance <em>toot.mastoc.fr</em> fait partie du projet <em>mastoc.fr</em> initié pas l'association <em>Perpinux</em>.
+Mastoc.fr a été crée pour répondre à l'initiative <em>CHATONS</em>, qui vise à proposer des services en lignes libres et décentralisés.</p>
+
+<h3> Les règles </h3>
+
+<p style="text-align: justify;">• Ne floodez pas <br>• Pas de propos insultants, dégradants, etc. <br>• Respecter tout le monde. <br>• Les comptes publicitaires, corporate sont interdit. <br>• L'apologie du nazisme ou du terrorisme est banni. </p>
+
+<p style="text-align: justify;">Utilisez le tag NSFW ou CW pour les images pornographique ou non recommandé pour des personnes sensible</p>
+
+<h3> Have Fun !</h3></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/4ef65a0c5bf195cc.jpg?1493718304" alt="4ef65a0c5bf195cc" /></div>
+<div class='name'>
+<a href="https://toot.mastoc.fr/@sylvebuis"><span class='display_name emojify'>Olivier</span>
+<span class='username'>@sylvebuis</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>admin@mastoc.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

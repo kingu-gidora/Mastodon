@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>gensou.social - 幻想Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-0ea370067efe163402ef5e294cad6d887a296502ab5b2e041719fc229ee0852e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="fEHwy9fr49s/Ozv06/sgJWAi6/ACoWiAzrvOMFjrTSskmPjM/OQcZ4j6NLN62LwYDKZkEI7BtjeuovtBomN7LQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>gensou.social</h2>
+<p>幻想Mastodon</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>33</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>44</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>26</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>
+ここは MMORPG <a href="https://genshin.x-legend.co.jp/">幻想神域 -Cross to Fate-</a> プレイヤーに向けたインスタンスです。<br/>
+ユーザーが必ずしも幻想神域プレイヤーでなければならない、という事もありませんが。<br/>
+<br/>
+X-Legend <strong>非公式</strong>です。<br/>
+あくまでファン活動の一環です。<br/>
+<br/>
+公序良俗に反する投稿はおやめください。<br/>
+日本および居住地の法律を遵守してください。<br/>
+ゲームに関わる内容の場合、 X-Legend が定める規約なども遵守してください。<br/>
+一般的な常識に即した使い方をお願いします。<br/>
+サーバに負荷のかかるような使い方は行わないでください。</br>
+犯罪に関わるなどで、裁判所や検察警察や行政機関より開示を求められた場合、IPアドレスやメールアドレスなどのユーザー情報を開示することがあります。<br/>
+<br/>
+えっちな画像を投稿する場合には「NSFW」を、えっちな文章を投稿する場合には「CW」を設定してください。<br/>
+NSFW：Not Safe For Work（職場閲覧注意）<br/>
+CW：Contents Warning（内容に注意）<br/>
+なお、これらの機能を使えば法律に抵触するような内容の投稿が許されるというわけではありません。<br/>
+<br/>
+管理者は知識も技術も素人に毛が生えた程度しかありません。<br/>
+トラブルとか発生しても生暖かく見守っていただけるとありがたいです。
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c16d9d2390cde8be.png?1492613566" alt="C16d9d2390cde8be" /></div>
+<div class='name'>
+<a href="https://gensou.social/@admin"><span class='display_name emojify'>幻想Mastodon管理アカウント</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>ruas.gensou[あっとまーく]gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

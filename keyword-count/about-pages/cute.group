@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>cute.group
+ - cute.group</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+5NRMU4hnHT40y/mdUIR3GDowchZVJU/fwOPdznV7+Y/p5fkKfhhPK3CJkNG2KYCldXugzFNfErSRW09+oGd9g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>cute.group</h2>
+<p>✨ A mastodon instance for cuties. 😍</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>206</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,304</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>492</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>In general we follow the terms of service/code of conduct of the <a href="https://mastodon.social/about/more">flagship instance</a>.
+<p>
+No nazis, no hate speech, no homophobia, no misogyny, no racism, no sexism, no xenophobia and definitely no transphobia. Just be respectful.</p>
+<p>
+Please flag all porn with nsfw and make sure it's unlisted so it doesn't show up in the local timeline. Feel free to create private AD accounts.</p>
+<p>
+It's important to keep in mind that this site is run by a queer trans girl. You are encouraged to report and complain if people are giving you trouble. I want people to feel safe here. If that doesn't sound like something you can do, DON'T JOIN.</p>
+<p>
+Server is based in Silicon Valley. <a href="/netdata">Stats</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/91a6584b0a27c318.jpg?1491582158" alt="91a6584b0a27c318" /></div>
+<div class='name'>
+<a href="https://cute.group/@stickypaws"><span class='display_name emojify'>🏳️‍🌈 chloe ✨</span>
+<span class='username'>@stickypaws</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>c.stars@icloud.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

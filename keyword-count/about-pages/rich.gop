@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>rich.gop
+ - Rich.GOP</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="YN1L9g+6ETmp7qRps+zcmaDWrOWABHqGh2aNC7pxaGt5KXnsa7Qalqmp+kZxCgiv2zUusW8oRMViRRd4VFEcrw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>rich.gop</h2>
+<p><p><a href="https://rich.gop">Rich.GOP</a> is an open, privacy-conscious, decentralized social network, dedicated to honest,
+ open, and civil political discourse.</p>
+
+<p>This instance is funded and maintained by <a href="https://rich.gop/@motoma">@Motoma</a></p>
+
+<p>One of the incredibly important pieces of a decentralized social network is diversity of options. To that end I maintain a public Mastodon instance at <a href="https://rich.gop/">https://rich.gop</a>. This instance is free of ads, marketers, and stalkers.</p>
+
+<p>I provide this service on a virtualized infrastructure that I own. I would like to improve that infrastructure, in the dimensions of availability, reliability, and speed. Users of a free and public tools shouldn't be beholden to a second-rate service. Here, I leverage my 13 years of professions distributed software development and hosting experience to deliver a first-class experience to my users.</p>
+
+<p>If you would like to support me in my goal of delivering this quality service to the public, please consider supporting this site on Patreon: <a href="https://www.patreon.com/motoma">https://www.patreon.com/motoma</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>146</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,820</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>704</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Code of Conduct</h2>
+
+<p>Welcome to <a href="https://rich.gop/">Rich.GOP</a>! This Mastodon instance is here you with a friendly environment where you can converse, exchange and discuss ideas, politely debate political subjects, and converse about any other aspects of your lives. Communities are at their best when participants treat each other with respect and courtesy. Therefore, by signing up for an account, you are explicitly agreeing to conduct yourself in a civilized manner when using this instance.</p>
+
+<p>As a user of this instance, you agree to uphold an environment that is radically inclusive with respect for all users of the instance.</p>
+
+<p>As a user of this instance, you commit to making participation in this instance an oppression-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or political affiliation.</p>
+
+<p>By creating an account on this instance, you agree to fairly and consistently applying these principles to every aspect of using this instance. users who do not follow or enforce the Code of Conduct may be permanently banned.</p>
+
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting <a href="https://rich.gop/@Motoma">@Motoma</a> or by using the report button. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://rich-gop.s3-us-west-1.amazonaws.com/accounts/avatars/000/000/001/original/9fa46232de174797.jpg" alt="9fa46232de174797" /></div>
+<div class='name'>
+<a href="https://rich.gop/@Motoma"><span class='display_name emojify'>Motoma :motorcycle: </span>
+<span class='username'>@Motoma</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>motoma@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.1</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

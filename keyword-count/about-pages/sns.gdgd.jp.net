@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>sns.gdgd.jp.net
+ - Mastodon@gdgd.jp.net</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KMmtp58sAHO4HG7sc4p2nnB1RkMhyt9ZTQY1p6DhOorp+MoZtUv/voe5D2XHNQWne3gAuZOrYRgNrwArqI/Nhg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>sns.gdgd.jp.net</h2>
+<p>ますとどんです。<br>
+数あるますとどんの鯖のひとつです。<br>
+ぐだぐだと運用します。<br>
+<a href="https://sns.gdgd.jp.net/about/more">このインスタンスについて</a>に書かれているやくそくを守って利用してください</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>197</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,580</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>557</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>やくそく</h2>
+
+<h3>インスタンスについて</h3>
+<ul>
+<li>日本に設置されています。日本の法律を守ってください</li>
+<li>短時間での大量投稿（バルス）はサーバの負荷になるのでやめてください</li>
+<li>無差別ブースト・無差別フォロー・無差別ファボもサーバの負荷になるのでやめてください</li>
+<li>ストレージの容量も有限なので大きなファイルは外部サービスを活用してください</li>
+<li>メンテナンスのためにサービスが止まることがあります</li>
+<li>事故によってデータが消えることがあります</li>
+<li>管理者が継続不能と判断した場合このインスタンスは予告なく終了します</li>
+<li>やくそくを読んでませんでした、は通用しません</li>
+</ul>
+
+<h3>アカウントについて</h3>
+<ul>
+<li>データのエクスポートを時々してください</li>
+<li>警察や裁判所の依頼があった場合情報提供をします</li>
+<li>アカウントの停止をしたい場合はDMを送ってください。
+<br>アカウントの停止をしてもアカウントが使えなくなるだけで情報は残ります</li>
+<li>アカウントの削除は行いません</li>
+</ul>
+
+<h3>通報について</h3>
+<ul>
+<li>必ず第三者から見て正当な理由がある場合のみ通報してください</li>
+<li>通報の際はコメント欄に状況を詳しく書いてください</li>
+<li>SILENCEかSUSPENDかは管理者が決めます</li>
+<li>自分がブロックするだけじゃ済まなさそうな場合は積極的に通報してください</li>
+</ul>
+
+<h3>ボットについて</h3>
+<ul>
+<li>ボットを運用するときは必ずUnlistedで発言させてください</li>
+<li>Publicで発言しているボットはSILENCEします</li>
+</ul>
+
+<h3>さいごに</h3>
+みんなへいわにぐだぐだしよう
+
+<hr>
+<h3>サーバちゃんについて</h3>
+FUJITSU PRIMERGY TX1310 M1というサーバです<br>
+ますとどん以外にも動かしているものがあるので<br>
+処理能力をフル活用することはできないです<br>
+<br>
+CPU: Celeron G1820(2.70GHz)<br>
+RAM: 4GB→8GB（すごーい！）<br>
+<hr>
+<h3>ひとこと</h3>
+ぐだぐだと特にこだわりなく進行します。<br>
+ある程度のユーザーを抱えたので速度維持を第一目標とします</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f4a0a085d4651e0d.jpg?1492032047" alt="F4a0a085d4651e0d" /></div>
+<div class='name'>
+<a href="https://sns.gdgd.jp.net/@lin"><span class='display_name emojify'>lin</span>
+<span class='username'>@lin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@gdgd.jp.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

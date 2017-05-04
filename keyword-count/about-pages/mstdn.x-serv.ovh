@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.x-serv.ovh
+ - Mastodon | x-serv.ovh</title>
+<link rel="stylesheet" media="all" href="/assets/application-7062daba6ba4786e1faa201bceff5fe03f7df624118112dfd9cedb2e3b8fc1c8.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2nQ6naGfJ77zTYaDkeerQgbv2g4miA9moVAh2SzVyGALuFgy7Jc+WanfN5Lzl/BE2xk3vKF8F2jXUwMAuq5Q8Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.x-serv.ovh</h2>
+<p><div class="panel"><p>Bonjour! je suis <a href="https://mstdn.x-serv.ovh/@w4rell">@w4rell</a>, <em>l'administrateur</em> de cette instance.</p>
+<p style="margin-bottom:5px">L'instance est mise à jour régulièrement et supporte l'IPV6, elle est hébergée sur un serveur virtuel <em>OVH</em>.</p>
+<br>
+
+<h3><em>Le Serveur</em></h3>
+
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>2 vCores x 2,4Ghz</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>8 Go de mémoire vive</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>SSD de 40 Giga</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>Bande passante de 100Mbps</li>
+<li style="margin-bottom:5px"><i class="fa-li fa fa-linux"></i>Debian 8</li>
+<li style="margin-bottom:5px"><i class="fa-li fa fa-database fa-spin"></i>Backup toutes les nuits</li>
+</ul>
+<br>
+
+<p>L'état actuel du service à travers quelques statistiques ! 
+</p>
+
+<p align="center">
+<img src="https://monitoring.mstdn.x-serv.ovh/api/v1/badge.svg?chart=system.cpu&amp;after=-60&amp;label=CPU">
+<img src="https://monitoring.mstdn.x-serv.ovh/api/v1/badge.svg?chart=system.ram&amp;dimensions=used&amp;options=percentage&amp;label=RAM">
+<img src="https://monitoring.mstdn.x-serv.ovh/api/v1/badge.svg?chart=system.load&amp;dimensions=load15&amp;label=Load&amp;units=null">
+<img src="https://monitoring.mstdn.x-serv.ovh/api/v1/badge.svg?chart=system.ipv4&amp;after=0&amp;before=-300&amp;units=Mbit\s&amp;unit=minutes&amp;options=abs&amp;divide=1000&amp;label=Bandwidth">
+</p>
+
+<p align="center"><img src="https://munin.mstdn.x-serv.ovh/localdomain/localhost.localdomain/mastodon_local_accounts-week.png" width="100%">
+<img src="https://munin.mstdn.x-serv.ovh/localdomain/localhost.localdomain/mastodon_local_statuses-week.png" width="100%">
+<img src="https://munin.mstdn.x-serv.ovh/localdomain/localhost.localdomain/cpu-day.png" width="100%">
+<img src="https://munin.mstdn.x-serv.ovh/localdomain/localhost.localdomain/memory-day.png" width="100%">
+</p>
+<p style="margin-bottom:5px">Tarif du serveur : <em>12€/mois</em> (rassurez-vous, vous n'aurez rien a payer, je m'en charge !)</p><br><br>
+
+
+<h3><em>Quelques règles...</em></h3>
+
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-ban"></i>Pas de flood.</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-user"></i>Respecter les autres utilisateurs.</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-exclamation-circle"></i>Utiliser le "cw" pour les contenus sensibles.</li>
+</ul>
+<br><br>
+
+<h3><em>Les sujets principaux de discussions :</em></h3>
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+      <li style="margin-bottom:5px"><i class="fa-li fa fa-laptop"></i>L'informatique sous toutes ses formes (hébergement, assistance Linux, Windows, Mac etc...)</li>
+      <li style="margin-bottom:5px"><i class="fa-li fa fa-camera-retro"></i>La Photographie</li>
+      <li style="margin-bottom:5px"><i class="fa-li fa fa-gamepad"></i>La Gaming</li>
+  </li>
+</ul>
+<br><br>
+
+<p><b>En <em>lisant</em> ces informations, vous les <em>acceptez</em>, vous acceptez ainsi que votre compte puisse être bannis pour manquements divers aux règles de cette instance Mastondon ;)</b></p></div>
+
+<p>P.S. : Je me suis basé sur la version de cette page faite par : <a href="https://pouets.ovh/@noname">@Cedric</a>, merci a lui !</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>67</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>823</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>396</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c64fafda864c8c92.png?1491393892" alt="C64fafda864c8c92" /></div>
+<div class='name'>
+<a href="https://mstdn.x-serv.ovh/@w4rell"><span class='display_name emojify'>~/w4rell.sh 💾</span>
+<span class='username'>@w4rell</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>127.0.0.1</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

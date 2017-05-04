@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>grimoire.kanzakiranko.jp
+ - Grimoire</title>
+<link rel="stylesheet" media="all" href="/assets/application-4e3e2f532ba3ffbcb9e639f8b3704aa555999f2910a25985c92e67974e93746b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OPtz/RuBuikJNTUSA7nSfSt7CEE0fGtgUlRFvEEuAa3sTgi5B26Z/+c12jRNnTlz2jZZt3vQCxSi8c/o4zKuuw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>grimoire.kanzakiranko.jp</h2>
+<p>神崎蘭子の下僕が集まるインスタンス</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>31</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>97</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>242</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/e3729738847b479d.jpg?1492945760" alt="E3729738847b479d" /></div>
+<div class='name'>
+<a href="https://grimoire.kanzakiranko.jp/@meteor"><span class='display_name emojify'>メテオさん</span>
+<span class='username'>@meteor</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>meteor.saan@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

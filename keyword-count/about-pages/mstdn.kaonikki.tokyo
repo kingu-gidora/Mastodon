@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.kaonikki.tokyo - kaonikki</title>
+<link rel="stylesheet" media="all" href="/assets/application-b5708bb73cded1fb0546a285175cbf46a32654dcecbbf576bb9ed5630fc8089b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AoZrEuXs5nstgZMku6iOi/rRUsTG+PqZiCaNzJUJj1K3hwoMpnJIxQz5UhTWXh0SJqddY9aG/YB7DkTHB8RqSg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.kaonikki.tokyo</h2>
+<p><meta content='summary' property='twitter:card'>
+<meta content='https://mstdn.kaonikki.tokyo/assets/img_kaonikki.png' property='twitter:image'>
+顔日記です。毎日顔を晒します。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>10</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>123</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>400</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>-</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/115f194ac3a3ae3c.png?1492694678" alt="115f194ac3a3ae3c" /></div>
+<div class='name'>
+<a href="https://mstdn.kaonikki.tokyo/@anime_3"><span class='display_name emojify'>anime_3</span>
+<span class='username'>@anime_3</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>gaikotuokiba@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

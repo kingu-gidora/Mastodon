@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>niigata.minnna.xyz
+ - Niigata mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Idf4pnQ+b9du/GsWK+0T8S8Sza/4z7L7vl8pMlAIFLMippwY/BFxhJyk3VaBc9qrar1qn/NKfBLCxVMRWG4Pdw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>niigata.minnna.xyz</h2>
+<p>Niigata Mastodonは<a href="https://muku-corp.co.jp/" target="_blank">株式会社muku.</a>と<a href="http://p-l-us-creative.com/" target="_blank">+CREATIVE</a>が共同で運営するMastodonのインスタンスです。「新潟」の事を中心に幅広くご利用いただけます。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>6</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>20</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>0</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h2>ご利用について</h2>
+<ul>
+<li>公序良俗を守り、法律の遵守をお願いします。犯罪行為になどによる、警察や裁判所の要請に応じログを開示することがあります。</li>
+<li>１８禁になりそうな文章をトゥートする場合はCWをつけ、画像にはNSFWを付けてください。上項に触れるような文章や画像の投稿はNGとします。</li>
+<li>連投やスパム配信など、迷惑ととらえられる投稿は禁止します。宣伝なども過度に行わないようにお願いします。</li>
+<li>ユーザー同士のトラブルに関して、運営は一切責任を持ちません。お問い合わせ頂いても仲裁はできかねます。当事者同士でご解決ください。</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/avatars/original/missing.png" alt="Missing" /></div>
+<div class='name'>
+<a href="https://niigata.minnna.xyz/@muku"><span class='display_name emojify'>muku</span>
+<span class='username'>@muku</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>mstdn@muku-corp.co.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

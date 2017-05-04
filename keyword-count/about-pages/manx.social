@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#222222' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>manx.social
+ - manx.social</title>
+<link rel="stylesheet" media="all" href="/assets/application-ff8aea6e07d73b5e04f785aae28e7021920405c38ee9fbb1eaecd1b7f97c81c4.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VJYSEpyzDojF5qmiYm0ar6PTRtcGlt7QTksoilatXbByrxwiICkVBrvhmAggoKk3KYzWRTK0cJpDenbEOrDsvw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>manx.social</h2>
+<p><h3>A social platform for the Isle of Man</h3>
+<p>Ever find that local discussion is lost in the vastness of Twitter? Or your voice is only reaching those that follow you on Facebook? That is where manx.social comes in - a truly public platform for the Isle of Man.</p>
+
+<p>manx.social lets you get your message across to the island or just tune-in to what's currently happening island-wide.</p>
+<p>
+Alternatively, connect with others around the world through the federated network and <a href="https://instances.mastodon.xyz/">other instances</a> of Mastodon.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>41</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>189</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>218</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><div>
+<h2>Site rules</h2>
+<p>In order for this website to be able to function, there are some rules that you will have to follow while using it.</p>
+<h3>Be friendly.</h3>
+<ul>
+<li>The internet is a network that connects people using computers. The other endpoint is a human being with an inner life just as complex as your own. Act accordingly.</li>
+<li>Consider the reach of the posts you make. Tag content that you expect others might not want to see.</li>
+<li>Harassment and bullying of any kind are not tolerated here. Do not engage with a user if they do not want you to. Do not ask other users to, either.</li>
+</ul>
+<h3>Obey the law.</h3>
+<ul>
+<li>Specifically, UK (server location) and Isle of Man (owner location) law.</li>
+<li>No illegal file sharing, no illegal pornography, no publication of personal protected information, you know the drill.</li>
+</ul>
+<h3>Spam is not allowed.</h3>
+<ul>
+<li>Bots that interact with a user without a users explicit request are not allowed.</li>
+<li>Automated or excessive advertising is not allowed.</li>
+</ul>
+<h3>Be aware of the nature of the network.</h3>
+<ul>
+<li>This website is part of a network of similar websites. Other websites may have different rules.</li>
+<li>The local administration has little control over users of other websites. You can, however, block and mute them - same as local users.</li>
+<li>In egregious cases, remote users or entire groups of users may be blocked from interacting with users of this website.</li>
+</ul>
+<h3>Admin decisions are final.</h3>
+<ul>
+<li>The interpretation of these rules is up to the administration and an admins decision overrides the rules.</li>
+<li>“Technically I did not violate any rule” is an extremely flimsy excuse for behaving badly.</li>
+<li>The rules may be changed or amended when necessary.</li>
+</ul>
+<h3>These goal of these rules is to ensure a safe and welcoming environment.</h3>
+<ul>
+<li>Rule enforcement is guided by this goal.</li>
+<li>Any enforcement action will generally be kept between those involved.</li>
+<li>Try to self-moderate, but do not hesitate to involve an admin when necessary.</li>
+<li>There are presently two people with administrative access to the website, @admin, @sati.</li>
+<li>You can report rule violations via e-mail.</li>
+</ul>
+</div>
+</br>
+<hr>
+</br>
+<h2>Mobile Apps</h2>
+<p>Apps are available for both Android & iOS. We recommend <a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">Tusky</a> for Android & <a href="https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200">Amaroq</a> for iOS. More apps are available <a href="https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md">here</a>.</p>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky"><img src="/google-play.png"></a>   <a href="https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200"><img src="/app-store.png"></a></div></br>
+<p><em>Note:</em> Enter 'manx.social' as the instance.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/cdc0cc870d54b1ce.png?1490533872" alt="Cdc0cc870d54b1ce" /></div>
+<div class='name'>
+<a href="https://manx.social/@admin"><span class='display_name emojify'>manxsocial</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Contact e-mail:
+<strong>admin@manx.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

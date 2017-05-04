@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.expert
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SIBZbxq2tbEjORDxPJKuOw0hYnVN3L1OW7LOBd4cJpHqgAgpuuVUS/ZrBMVz9BUbEqaSG1P0k9hzREWz4kryHg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.expert</h2>
+<p>General, fast, stable and open instance.
+<br />
+Federate with everyone
+<br />
+Dedicated to the tech experts, but everyone is welcome!
+<br />
+Registrations are open, but they may suspended/closed at any time if performance is compromised.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>30</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>177</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>267</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>English version below, this instance is motsly french speaking.
+<br /><br />
+Le respect de la loi et des autres utilisateurs sont obligatoires.
+<br /><br />
+Les propos racistes, sexistes, homophobes, etc. sont strictement interdits.
+<br /><br />
+Les comptes parodiques sont tolérés à condition de signaler qu'ils le sont dans leur description.
+<br /><br />
+Tous les contenus sont tolérés dans la limite de la légalité, utilisez le content warning pour les contenus inadaptés au public mineur ou nsfw.
+<br /><br />
+N'hésitez pas à signaler tout message ne respectant pas les règles.
+<br /><br />
+Toute personne ne respectant pas les règles pourra voir son compte suspendu.
+<br /><br />
+<hr />
+Compliance with the law and respect of other users are mandatory.
+<br /><br />
+Racist, sexist, homophobic, etc. messages are strictly prohibited.
+<br /><br />
+Parody account are allowed as long as their parodic status is clearly indicated in their description.
+<br /><br />
+Any type of content is allowed within the limits of the law, use content warning for nsfw or unsuitable for children contents.
+<br /><br />
+Feel free to report any message that do not follow the rules.
+<br /><br />
+Any user who breaks the rules may get suspended without warning.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@mastodon.expert</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

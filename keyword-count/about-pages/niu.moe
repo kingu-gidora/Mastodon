@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>niu.moe
+ - niu.moe</title>
+<link rel="stylesheet" media="all" href="/assets/application-d003562fcd88aa961d1d928df17a57496ae3da95a02e867315dce7bfcaae2ad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ImbjGj6VaXF6nqPUUGX4PGJ84svM9koFKf7wzEIQPQ5k7q1LIZ51LVGtfodNDNZnGk0BG0o1qpOARmjXYRyxzA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>niu.moe</h2>
+<p><p>
+<em>Welcome here Ｏ(≧▽≦)Ｏ!</em></br>
+Behind this sexy domain name hide a cute and loving community, running on <em>Mastodon</em> and connected to the whole fediverse (OStatus compatible) without imposed borders.</br>
+This instance is mainly occupied by English, Japanese and French, and the main language used is English.</br>
+</p>
+<h2>Topics</h2></br>
+<p>
+While we are open to <em>any subject</em>, the main ones are:</br>
+<i class="fa fa-laptop" aria-hidden="true"></i> Programming / Security / IT stuffs</br>
+<i class="fa fa-book" aria-hidden="true"></i> Fictions / Animes / Mangas / Comics</br>
+<i class="fa fa-gamepad" aria-hidden="true"></i> Gaming</br>
+</p>
+<h2>Rules</h2></br>
+<p>
+<ul>
+  <li>If you follow the Humans Rights (<a href=http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf>EN</a>/<a href=http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/frn.pdf>FR</a>/<a href=http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/jpn.pdf>JP</a>), nothing bad should happen.</li>
+  <li><em>Don't</em> upload anything illegal/you don't own, contact <a href=https://niu.moe/@Technowix>me</a> or use the report button if anything illegal came from here.</li>
+  <li>While we are allowing a lot things, we won't support discrimination or harassment on this instance, so if someone of niu.moe is being rude, zap !</li>
+  <li>If you post <em>NSFW</em> content, use the <em>Content Warning</em> with the tag #NSFW :</br>
+<center><img src="http://i.imgur.com/zmvU7vI.png" width="250" height="100%"></center></br>
+And put the visibilty to, at least, <em>Unlisted</em> :</br>
+<center><img src="http://i.imgur.com/IqsIy5Z.png" width="250" height="100%"></center></li>
+  <li>We don't ban/block <em>other</em> instance, you can mute/block instance strangers you don't like.</li>
+</ul>
+</p>
+<h2>The instance</h2></br>
+<p>
+This little beast have the following <em>specs</em> :</br>
+<i class="fa fa-tachometer" aria-hidden="true"></i> Two truly dedicated Xeon E3 core (yeah, truly, nobody on it, pinned !).</br>
+<i class="fa fa-server" aria-hidden="true"></i> 8 GB of RAM (nom nom).</br>
+<i class="fa fa-map-marker" aria-hidden="true"></i> Hosted in Luxembourg, in Root's Datacenter (BuyVM.net <3).</br>
+<i class="fa fa-linux" aria-hidden="true"></i> Debian 9 under the hood.</br>
+<i class="fa fa-shield" aria-hidden="true"></i> Voxility's Anti-DDoS to protect us.</br>
+<i class="fa fa-power-off" aria-hidden="true"></i> <a href="https://up.niu.moe/">Good uptime</a> (We still need to shutdown a bit to apply updates, sorry)</br>
+<i class="fa fa-cogs" aria-hidden="true"></i> Strong server security, very good <a href="https://observatory.mozilla.org/analyze.html?host=niu.moe">HTTPS</a>.</br>
+<i class="fa fa-database" aria-hidden="true"></i> Hourly Backups !</br>
+</p>
+<h2>The admin</h2></br>
+<p>
+Hoi, this is me, <a href="https://niu.moe/@Technowix">Technowix</a>, I'm a IT student at Paris, feel free to follow me to get updates about the server / randoms stuff on my tought.</br>
+I'm also helped by <a href="https://niu.moe/@thog">Thog</a>, if I'm not around, he can make my work <i class="fa fa-heart" aria-hidden="true"></i>.</br>
+<i class="fa fa-money" aria-hidden="true"></i> If you want to help me fund the instance, this is a link to my <a href="https://liberapay.com/Technowix/">liberapay</a>  page, I detail everythings about the fees.</br>
+But still, future or actual niu.moe resident, you rock <i class="fa fa-heart" aria-hidden="true"></i>~ \(∩_∩ )
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>980</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>19,380</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,017</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>The images of Subaru in the /about page is made be <a href=http://madwulf.deviantart.com/art/Subaru-Konoe-nyan-251247437>Madwulf</a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/3a01c86c2ae4bed4.png?1492966897" alt="3a01c86c2ae4bed4" /></div>
+<div class='name'>
+<a href="https://niu.moe/@Technowix"><span class='display_name emojify'>Technowix</span>
+<span class='username'>@Technowix</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>What is... business ?</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

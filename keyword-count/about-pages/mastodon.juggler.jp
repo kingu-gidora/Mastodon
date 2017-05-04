@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.juggler.jp
+ - juggler.jp Mastodon サービス</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="z1oJEKYJszZgsUvaX4Rvf5dygyodf6IFcZ6ZkY2ra4U2YWMMt8yohIIXgB81lYJnwcYqw4sHcFCYKAUwbgIkdA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.juggler.jp</h2>
+<p><p>日本語で楽しめるMastodonサーバをを提供しています。</p>
+<p><a href="/about/more#juggler_terms">利用規約</a>を読んでからサインアップしてください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,160</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>87,035</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>783</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><H2 id="juggler_terms">利用規約</H2>
+
+<H3>免責事項</H3>
+<ul>
+<li>このインスタンスは予告なくメンテナンスを行うことがあります</li>
+<li>管理者が継続不能と判断した場合、このインスタンスは予告なく終了することがあります</li>
+<li>個人情報の取り扱いには細心の注意を払っていますが、もし何か情報漏洩があった場合はこのインスタンスは責任を取れません</li>
+<li>データの取り扱いには細心の注意を払っていますが、もしデータ消失があった場合はこのインスタンスは責任を取れません</li>
+</ul>
+
+<H3>発言の共有について</H3>
+<p>発言データは公開範囲にあわせて接続中のインスタンスに配信および保存されます。ユーザは発言ごとに公開範囲を設定することができます。ユーザは公開範囲に同意したものとします。</p>
+
+<p>ただしマストドンのインスタンスではない外部サービスへの転載はこの限りではありません。mastodon.juggler.jpの管理者は、マストドンのインスタンスではない外部サービスへの転載の可否について一切介入しません。転載を行いたい方は発言者に個別に許諾を取るべきです。無断転載について発言者から転載者にクレームが出た場合、mastodon.juggler.jpの管理者は一切介入しません。</p>
+
+<H3>禁止事項</H3>
+
+<p>以下の行為を禁止しています。アカウントのSILENCE,SUSPENDやIPアドレスでのBAN、警察や公安へのログ提供を行う場合があります。</p>
+
+<ul>
+<li>なりすまし</li>
+<li>サーバに負荷をかける行為、サーバ運営を妨害する行為。<br/>これはアカウント大量作成、無差別フォロー、無差別ブースト、無差別ファボを含みます</li>
+<li>その他、日本の法律で禁止されている行為</li>
+</ul>
+
+<p>気になるユーザを通報いただけるのは助かるんですが、通報時に理由を書く欄があるので何か書いてください。管理者はエスパーではありません。説明なしで文脈を理解しきれる訳ではありません。</p>
+
+<H3>アカウント削除・停止について</H3>
+<p>アカウント削除は行えません。削除した後に別の人が同じユーザ名を取得してしまうと、分散方式ではインスタンス間の整合性を維持できません。これは技術的な問題ですので、将来改善される可能性はあります。</p>
+<p>かわりにアカウント停止を行えます。これは発言などは削除されますが、アカウントそのものは消えません。後から別の人が同じユーザ名を取得することはできません。</p>
+
+<p>アカウント停止の依頼はメールやTwitterではなく、そのアカウントから管理者にDMで依頼してください。これは本人確認のために必要です。</p>
+<ul>
+<li>メールアドレスは本人以外も知ることができる</li>
+<li>パスワードはサーバ上に暗号化されて保存されているため、管理者であっても容易には照合できない</li>
+</ul>
+<p>…といった理由で、メールだと本人確認が難しいのです。</p>
+
+<H2>寄付</H2>
+<p><a href="https://enty.jp/3WtlzHG10wZv" target="_blank">enty</a>で寄付を受け付けています。</p>
+
+<H3>支援者の方々</H3>
+<ul>
+
+<li>hsgw (enty ID:299080)</li>
+<li>ゲストさん (enty ID:299204)</li>
+<li>ぴょん吉 (enty ID:299109)</li>
+<li>Yusuke Imoto (enty ID:299082)</li>
+<li>ゲストさん (enty ID:299088)</li>
+<li>ゲストさん (enty ID:299092)</li>
+<li>さっこ＠眠れる森の人妻 (enty ID:299098)</li>
+<li>nissy (enty ID:299134)</li>
+<li>ゲストさん (enty ID:299230)</li>
+<li>卍ねそ（く）卍 (enty ID:299901)</li>
+<li>MG_north (enty ID:300013)</li>
+<li>LUT (enty ID:73816)</li>
+<li>ゲストさん (enty ID:300341)</li>
+<li>ゲストさん (enty ID:300453)</li>
+<li>りゅうのすけ (enty ID:301262)</li>
+<li>赤いみどりこ (enty ID:299145)</li>
+<li>銀杏 (enty ID:301702)</li>
+<li>とがしさん。 (enty ID:309265)</li>
+<li>さはら鋏 せ40a (enty ID:311475)</li>
+<li>ゲストさん (enty ID:314439)</li>
+<li>tama5ch (enty ID:314447)</li>
+
+</ul>
+
+<H2>歴史</H2>
+<ul>
+<li>2017/4/20 アクティブユーザ(1日以内利用)約189人。日本サーバ中で累積発言数5位</li>
+<li>2017/4/17 アクティブユーザ(1日以内利用)約270人。https://instances.mastodon.xyz/list でステータス数10位</li>
+<li>2017/4/14 自宅鯖からVPSに移行</li>
+<li>2017/4/12 サービス開始</li>
+</ul>
+
+<H2>負荷の状況</H2>
+<ul>
+<li>(さくらのVPS,v4,4Gプラン,4320円/月,東京リージョン)</li>
+<li>ネットワーク: ピーク10Mbps前後</li>
+<li>CPU: アイドル50% / 全4コア、仮想Xeon E5-2640 2.5GHz</li>
+<li>RAM: 3.5GB 使用中/ 全4GB</li>
+<li>HDD: 32GB 使用中/ 全400GB</li>
+<li>ロードアベレージ: 混雑時 5前後</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/9f7e69a1b2e7e29e.jpg?1492380794" alt="9f7e69a1b2e7e29e" /></div>
+<div class='name'>
+<a href="https://mastodon.juggler.jp/@tateisu"><span class='display_name emojify'>tateisu:juggling:</span>
+<span class='username'>@tateisu</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>tateisu@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

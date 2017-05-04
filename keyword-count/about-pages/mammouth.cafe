@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mammouth.cafe
+ - Mammouth Café</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZZD18+/k043pUa/oHq8j4+qNpIYNY1P5d7Cak6y7vjr5xLXs3Dzww98He6DNflpIyxBGRQqIatgWhGA7WcdECw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mammouth.cafe</h2>
+<p><p><em>Have fun. Be respectful. No drama.</em><br>
+PLEASE DON'T HACK THE GIBSON.</p>
+
+<p><code><pre>
+      .----.-.     _____________________________________
+     /    ( o \   /   Welcome! Bienvenue! Willkommen!   \
+    '|  __ ` ||  /\  Benvenuta e benvenuto! Bainvegni!  /
+     |||  ||| -'   -------------------------------------
+</pre></code></p>
+
+<p><small>(In the spirit of <a href="http://tilde.club/" target="_blank">tilde.club</a>...)</small></p>
+
+<p><em>English:</em> Mammouth Café is a Swiss <a target="_blank" href="https://mastodon.social">Mastodon</a> instance running on a French server and open to the world. We particularly welcome artists and illustrators, journalists and writers, librarians and archivists, scientists and engineers, teachers, as well as all curious minds.<br>
+<em>Registrations will be limited to 640 users</em> (<q>&lsquo;640 users ought to be enough for anybody.&rsquo;</q> &mdash; <cite>Bill Gates</cite>).</p>
+
+<p><em>Français:</em> Mammouth Café est une instance suisse de <a target="_blank" href="https://mastodon.social">Mastodon</a> tournant sur un serveur français et ouverte au monde. Nous accueillons particulièrement volontiers les artistes, les illustratrices et illustrateurs, les journalistes, les auteures et auteurs, les bibliothécaires et les archivistes, les scientifiques, les ingénieures et les ingénieurs, les enseignantes et enseignants, ainsi que tous les esprits curieux.<br>
+<em>Les inscriptions à cette instance seront limitées à 640 utilisateurs</em> (<q>&laquo;640 utilisateurs devraient suffire à quiconque.&raquo;</q> &mdash; <cite>Bill Gates</cite>). </p>
+
+<p><em>Italiano:</em> Mammouth Café è un'istanza svizzera di <a target="_blank" href="https://mastodon.social">Mastodon</a> installata su un server francese e aperta al mondo. Particolarmente benvenute e benvenuti sono artiste e artisti, illustratrici e illustratori, giornaliste e giornalisti, autori, bibliotecarie e bibliotecari, archivisti, scienziate e scienziati, ingegnere e ingegneri, insegnanti, così come tutte le menti curiose.<br>
+<em>Le iscrizioni su questa istanza saranno limitate a 640 utenti</em> (<q>&ldquo;640 utenti dovrebbero bastare a chiunque.&rdquo;</q> &mdash; <cite>Bill Gates</cite>).</p>
+
+<p>With ❤ from <a href="https://www.mammouth.ch/" target="_blank">Atelier Mammouth</a>.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>71</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,532</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>657</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p><a name="lang"></a><em>[ <a href="#en">English</a> | <a href="#fr">Français</a> | <a href="#it">Italiano</a> ]</em></p>
+
+<p><img src="../free_speech.png" title="I can&#39;t remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you&#39;re saying that the most compelling thing you can say for your position is that it&#39;s not literally illegal to express." alt="Free Speech"><br>
+(<a target="_blank" href="https://xkcd.com/1357/">Source</a>)</p>
+
+
+<h4><a name="en"></a><em>English</em></h4>
+
+<h2>Welcome to the Mammouth Café</h2>
+
+<p>In the spirit of <a target="_blank" href="http://tilde.club/">tilde.club</a>, here are a few, simple rules:</p>
+
+<ul>
+<li><em>Have fun. Be respectful. No drama.</em></li>
+<li>There is NO GUILT here. NOR SHAME. Not knowing things is fine. Not finishing them is fine too.</li>
+<li>We're all trying, and we're all in this together. :)</li>
+<li>IMPORTANT NOTE: PLEASE DON'T HACK THE GIBSON.</li>
+</ul>
+
+
+<h3>Guidelines</h3>
+
+<p>Aside from the general rules stated above, mammouth.cafe follows principles similar to <a target="_blank" href="https://mastodon.social/about/more">those of mastodon.social</a>, to wit:</p>
+
+<ol>
+<li>Absolutely no content allowed that would be illegal in Switzerland and/or France.</li>
+<li>No discrimination, no racism, no xenophobia, no sexism, no incitement to hate or to violence of any kind.</li>
+<li>We take a very dim view of stalking or harassment of other persons, here or elsewhere.<br>
+Same goes for encouraging or inciting other people to take part in such activities.</li>
+<li>There are CW (Content Warning) and NSFW (Not Safe For Work) options: use them accordingly when you post.</li>
+<li>No hard or child/minor pornography of any kind, and keep material of an erotic nature behind CW and/or NSFW filters.</li>
+<li>No gore or extremely graphic violence.</li>
+<li>No spam, no ads, no affiliate links or excessive promotion.<br>
+Of course, you are still welcome to announce your latest comic, self-published novella or upcoming local amateur theatre stage play to our community.</li>
+<li>We discourage any sort of corporate accounts: we prefer to keep it personal.<br>
+On the other hand, educational institutions, associations and other non-profit organisations (such as e.g. amateur dramatics groups) are warmly welcome.</li>
+<li>No fake accounts, even celebrity joke accounts.</li>
+<li>We discourage bots, unless they're cute or friendly.</li>
+<li>Robots that bang on the server will get bitcanned.</li>
+<li>Replicants are like any other machine: they’re either a benefit or a hazard. If they’re a benefit, it’s not our problem.</li>
+<li>No zombies allowed under any circumstance.</li>
+<li><a target="_blank" href="http://www.gnuterrypratchett.com/">GNU Terry Pratchett</a>.</li>
+</ol>
+
+<p>Final interpretation and implementation of these rules, guidelines and of general good netiquette, as well as all decisions that may result in account suspension and/or revocation of access, will be up to the administration of mammouth.cafe.</p>
+
+
+<h3>Support</h3>
+
+<p>Support is available: ping <em>@support@mammouth.cafe</em>.</p>
+
+<p>For status updates, planned downtimes and so on, you can follow <em>@status@mammouth.cafe</em>.</p>
+    
+<p>Please remember: this is essentially a one-man show for now, so do not expect an answer within the hour. If it's urgent, try asking the community: someone may be able to lend you a hand.</p>
+
+<p>We'll try not to mess things up, but we probably will at some point. If you feel that what you post here is vital to you, do make a backup somewhere else (atom feeds are available for every account) or, even better, give some of your time and knowledge to help us out with this thing.</p>
+
+
+<h3>Handling abuse and harassment</h3>
+
+<p>If you are being abused or harassed, please report the user using the "…" button and then "Report."</p>
+
+<p>If you engage in abusing or harassing behavior, the administration may take any action we deem appropriate, such as an account suspension or revocation of access.</p>
+
+<p>Abuse is anything we say it is. Too bad if you disagree.</p>
+
+
+<h3>Blocked instances</h3>
+
+<p>We do <a target="_blank" href="https://gitlab.com/mammouthcafe/mamont-documentation/blob/master/blocked-instances.md">block some Mastodon instances</a> where a sizeable part of their community infringes our rules and/or guidelines with their behaviour. We do not usually comment on individual accounts muting, suspension or removal.</p>
+
+
+<h3>Privacy and security</h3>
+
+<p>We value your privacy. We are here to have fun, not to make any money by throwing ads down your throat or monetizing the shit out of your online activities. No ads or trackers are installed on this instance.</p>
+
+<p>Please understand however that mammouth.cafe's administrators have potentially access to your data, including your direct messages. The backend is also not encrypted. If this is not all right with you, this might not be the instance you're looking for.</p>
+
+<p>Finally, a word of advice: consider this a public space. Whatever you publish here is public and can (and probably will) be read by someone else or potentially be archived by the <a target="_blank" href="https://archive.org">Internet Archive</a> and/or other similar insititutions.</p>
+    
+<p>We'll try to keep things reasonably safe, but if you need to keep your sources confidential or you are involved in activities that may put yourself or others in jeopardy in your country or elsewhere, please take into account the fact that we won't be able to offer you the necessary confidentiality and/or security here.</p>
+
+<p>Also, for truly private data sent between two people, Mastodon offers no end-to-end encryption. Use a dedicated E2E application with good reputation, like e.g. Signal, for the communications you really want to keep private.</p>
+
+<p>And remember to always practice safe hex.</p>
+
+
+<h3>About this instance</h3>
+
+<p>This instance is run by <a target="_blank" href="https://www.mammouth.ch">Atelier Mammouth</a> in a TARDIS somewhere/time in a big ball of wibbly-wobbly timey-wimey... stuff.</p>
+
+<p>For the time being, costs for running this server are pretty reasonable and the admin can afford them. If you wish to support this thing, <a target="_blank" href="https://www.patreon.com/user/posts?u=619786">give something to Eugen Rochko, aka @Gargron</a> (Mastodon's dad) instead, please. Thank you so much!</p>
+
+
+<p><em>And remember: this is FREE software and...</em></p>
+
+<blockquote>
+<p>&ldquo;...if it destroys your computer, rapes your pet, installs Win98 on your toaster and microwave, stops your pacemaker, causes sexual dysfunction, and turns your children into fucked-up trenchcoat-wearing teens carrying guns and worshipping Hitler, don't blame me because I told you it could do that and you went ahead and used it anyway.&rdquo;</p>
+<footer>
+<p> &mdash; <cite><a target="_blank" href="http://web.archive.org/web/20010418153836/http://projects.is.asu.edu/pipermail/slash-help/1999-October/000638.html">James Turinsky</a></cite></p>
+</footer>
+</blockquote>
+
+<p><a href="#lang">&#10548;</a></p>
+
+<hr>
+
+
+<h4><a name="fr"></a><em>Français</em></h4>
+
+<h2>Bienvenue au Mammouth Café</h2>
+
+<p>Dans l'esprit du <a target="_blank" href="http://tilde.club/">tilde.club</a>, voici quelques règles simples:</p>
+
+<ul>
+<li><em>Amusez-vous. Respectez les autres. Pas de drame.</em></li>
+<li>Il n'y a PAS DE FAUTE ici. NI DE HONTE. Ne pas savoir quelque-chose c'est bien. Ne pas finir quelque-chose c'est bien aussi.</li>
+<li>Nous faisons de notre mieux, et nous sommes à bord du même bateau. :)</li>
+<li>NOTE IMPORTANTE: SVP NE CASSEZ PAS LE GIBSON.</li>
+</ul>
+
+
+<h3>Lignes directrices</h3>
+
+<p>Outre les règles générales mentionnées ci-devant, mammouth.cafe suit des principes semblables à <a target="_blank" href="https://mastodon.social/about/more">ceux de mastodon.social</a>, à savoir:</p>
+
+<ol>
+<li>Nous ne permettons absolument aucun contenu qui serait illégal en Suisse et/ou France.</li>
+<li>Pas de discrimination, pas de racisme, pas de xénophobie, pas de sexisme, pas d'incitation à la haine ou à la violence d'aucune sorte.</li>
+<li>Nous ne tolérons pas le harcèlement ou l'intimidation d'autres personnes, ici ou ailleurs.<br>
+Nous avons la même attitude envers quiconque encouragerait ou inciterait d'autres personnes à procéder de la sorte.</li>
+<li>Des options CW (Content Warning = avertissement de sujet sensible) et NSFW (Not Safe For Work = pas adapté à un environnement de travail ou public) vous sont proposées: employez-les à bon escient au moment de publier.</li>
+<li>Pas de pornographie dure ou impliquant des mineurs, d'aucune sorte. Veuillez également placer vos contenus de nature érotique derrière des filtres CW et/ou NSFW.</li>
+<li>Pas de contenu violent.</li>
+<li>Pas de spam, pas de pubs, pas de liens affiliés ou de promotion excessive.<br>
+Bien entendu, vous pouvez sans autres annoncer votre dernière BD, votre roman auto-publié ou le prochain spectacle de votre troupe de théâtre amateur locale à notre communauté.</li>
+<li>Nous n'encourageons pas les comptes d'entreprise: on préfère garder une touche personnelle.<br>
+D'autre part, nous accueillons volontiers les écoles, associations et autres organisations à but non lucratif (telles p.ex. les troupes de théâtre amateur).</li>
+<li>Pas de faux comptes personnifiant des célébrités, même dans un but humoristique.</li>
+<li>Nous n'encourageons pas les bots, à moins qu'ils ne soient mignons ou attachants.</li>
+<li>Les robots qui abusent du serveur seront envoyés à la casse.</li>
+<li>Les répliquants sont comme les autres machines: ils sont ou bénéfiques, ou nocifs. S’ils sont bénéfiques, c’est pas notre problème.</li>
+<li>Aucun zombie n'est admis, en aucun cas.</li>
+<li><a target="_blank" href="http://www.gnuterrypratchett.com/">GNU Terry Pratchett</a>.</li>
+</ol>
+
+<p>L'interprétation et l'application finales de ces règles, lignes directrices et de ce qui constitue une bonne nétiquette en général, ainsi que toute décision pouvant résulter en la suspension et/ou la suppression d'un compte, est du seul privilège de l'administration de mammouth.cafe.</p>
+
+
+<h3>Support</h3>
+
+<p>Vous pouvez contacter notre support en suivant ou contactant ce compte: <em>@support@mammouth.cafe</em>.</p>
+
+<p>Afin d'obtenir des informations sur le statut du serveur, les arrêts planifiés pour des mises à jour, etc., vous pouvez également suivre <em>@status@mammouth.cafe</em>.</p>
+
+<p>Veuillez prendre bonne note que ceci est pour l'instant un spectacle interprété et mis en scène par une seule et même personne. Ne vous attendez donc pas à une réponse dans l'heure qui suit. S'il s'agit d'une urgence, essayez de poser votre question à l'ensemble de la communauté: il se peut que quelqu'un puisse venir à votre aide.</p>
+
+<p>Nous allons tâcher de ne pas gaffer, mais probablement que cela nous arrivera un jour ou l'autre. Si vous considérez ce que vous publiez ici comme absolument vital pour vous, faites-en une sauvegarde ailleurs (des flux atom sont disponibles pour chaque compte) ou, encore mieux, mettez à disposition un peu de votre temps et de vos connaissances pour nous aider avec tout ceci.</p>
+
+
+<h3>Traitement des abus et du harcèlement</h3>
+
+<p>Si vous êtes victime d'abus ou de harcèlement, veuillez signaler l'utilisateur à l'aide du bouton "…" puis "Signaler".</p>
+
+<p>Si vous avez un comportement abusif ou harcelant, l'administration peut prendre toute mesure que nous jugeons appropriée, telles une suspension de compte ou une révocation d'accès.</p>
+
+<p>Un abus est tout ce que nous considérons comme tel. Tant pis si vous n'êtes pas d'accord.</p>
+
+
+<h3>Instances bloquées</h3>
+
+<p>Nous <a target="_blank" href="https://gitlab.com/mammouthcafe/mamont-documentation/blob/master/blocked-instances.md">bloquons certaines instances de Mastodon</a> dans les cas où une partie importante de leur communauté enfreint nos règles et/ou lignes directrices avec son comportement. Nous ne faisons généralement aucun commentaire au sujet des comptes individuels ayant été rendus silencieux, suspendus ou supprimés.</p>
+
+
+<h3>Confidentialité et sécurité</h3>
+
+<p>Nous respectons votre vie privée. Nous sommes ici pour nous amuser, pas pour gagner de l'argent sur votre dos en vous faisant avaler des tonnes de pubs indigestes ou en monétisant à longueur de journée vos activités en ligne. Aucune publicité ou traceur n'est installé sur cette instance.</p>
+
+<p>Veuillez toutefois prendre bonne note que les administrateurs de mammouth.cafe ont potentiellement accès à toutes vos données, y compris vos messages directs. Le backend n'est pas chiffré non plus. Si cela ne vous convient pas, ceci n'est peut-être pas l'instance que vous recherchez.</p>
+
+<p>Enfin, un bon conseil: considérez ceci comme étant un espace public. Tout ce que vous publierez ici est public et peut être (et probablement sera) lu par d'autres personnes ou potentiellement être archivé par l'<a target="_blank" href="https://archive.org">Internet Archive</a> et/ou d'autres insititutions similaires.</p>
+    
+<p>Nous allons tâcher de maintenir une sécurité raisonnable, mais si vous êtes dans l'obligation d'assurer la confidentialité de vos sources ou que vos activités risquent de  mettre en péril vous-même ou d'autres personnes dans votre pays ou ailleurs, veuillez tenir compte du fait que nous ne pourrons pas vous offrir une confidentialité et/ou sécurité suffisante ici.</p>
+
+<p>En outre, pour des données vraiment privées envoyées entre deux personnes, Mastodon n'offre aucun chiffrement de bout en bout (end-to-end). Utilisez une application E2E dédiée avec une bonne réputation, comme Signal par exemple, pour les communications que vous souhaitez vraiment garder privées.</p>
+
+<p>Et n'oubliez pas de toujours vous protéger lors de toute activité hexuelle.</p>
+
+
+<h3>À propos de cette instance</h3>
+
+<p>Cette instance est gérée par l'<a target="_blank" href="https://www.mammouth.ch">Atelier Mammouth</a> depuis un TARDIS quelque-part/temps dans une sorte de grande boule de truc-machin tempo-spatio... bidule.</p>
+
+<p>Pour le moment, les coûts liés à ce serveur sont plutôts raisonnables et l'administrateur peut se les permettre. Si vous désirez soutenir cet effort, veuillez plutôt <a target="_blank" href="https://www.patreon.com/user/posts?u=619786">faire un don à Eugen Rochko, alias @Gargron</a> (le papa de Mastodon) SVP. Merci beaucoup!</p>
+
+
+<p><em>Et rappelez-vous: ceci est un logiciel LIBRE et...</em></p>
+
+<blockquote>
+<p>&ldquo;...s'il détruit votre ordinateur, viole votre chat, installe Win98 sur votre grille-pain et sur votre four à micro-ondes, bloque votre stimulateur cardiaque, vous rend impuissant et transforme vos enfants en de foutus ados portant des vestes en cuir, brandissant des armes et adorant Hitler, ne me blamez pas car je vous avait averti qu'il pourrait faire tout ça, et vous n'avez pas voulu m'écouter et vous l'avez quand-même utilisé.&rdquo;</p>
+<footer>
+<p> &mdash; <cite><a target="_blank" href="http://web.archive.org/web/20010418153836/http://projects.is.asu.edu/pipermail/slash-help/1999-October/000638.html">James Turinsky</a></cite> (traduit de l'anglais)</p>
+</footer>
+</blockquote>
+
+<p><a href="#lang">&#10548;</a></p>
+
+<hr>
+
+
+<h4><a name="it"></a><em>Italiano</em></h4>
+
+<h2>Benvenuta e benvenuto al Mammouth Café</h2>
+
+<p>Nello spirito del <a target="_blank" href="http://tilde.club/">tilde.club</a>, ecco alcune regole semplici:</p>
+
+<ul>
+<li><em>Divertiti. Rispetta le altre e gli altri. Niente drammi.</em></li>
+<li>Qui NON C'È COLPA. NÈ VERGOGNA. Non sapere qualche cosa va benissimo. Non finire qualche cosa va pure benissimo.</li>
+<li>Facciamo del nostro meglio, e siamo a bordo della stessa nave. :)</li>
+<li>NOTA IMPORTANTE: NON PIRATARE IL GIBSON, GRAZIE.</li>
+</ul>
+
+<h3>Linee direttrici</h3>
+
+<p>Oltre alle regole generali di qui sopra, mammouth.cafe segue principi simili a <a target="_blank" href="https://mastodon.social/about/more">quelli di mastodon.social</a>, vale a dire:</p>
+
+<ol>
+<li>Non permettiamo assolutamente nessun contenuto illegale in Svizzera e/o Francia.</li>
+<li>Nessuna discriminazione, nessun razzismo, nessuna xenofobia, nessun sessismo, nessun incitamento all'odio o alla violenza di alcun genere.</li>
+<li>Non toleriamo molestie o intimidazioni di altre persone, qui o altrove.<br>
+Lo stesso vale per l'incorraggiamento o l'incitamento verso altre persone a prendere parte a tali attività.</li>
+<li>Ti proponiamo delle opzioni CW (Content Warning = avviso di contenuto sensibile) e NSFW (Not Safe For Work = non adatto ad un ambiente di lavoro o pubblico): utilizzale come si deve al momento di pubblicare.</li>
+<li>Nessuna pornografia dura o minorile di alcun tipo. Inoltre, pubblica il tuo materiale di natura erotica dietro filtri CW e/o NSFW.</li>
+<li>Nessun contenuto violento.</li>
+<li>Nessuno spam (pubblicità non richiesta), nessuna pubblicità, nessun rinvio (link) affiliato o promozione eccessiva.<br>
+Naturalmente, se vuoi annunciare il tuo nuovo fumetto, il tuo ultimo romanzo autopubblicato o il prossimo spettacolo della compagnia teatrale amatoriale del tuo quartiere alla nostra communità, non c'è nessun problema.</li>
+<li>Scorraggiamo i conti aziendali: preferiamo mantenere un tocco personale.<br>
+D'altra parte, accogliamo ben volentieri scuole, associazioni e altre organizzazioni non a scopo di lucro (come ad esempio una compagnia di teatro amatoriale).</li>
+<p>Nessun conto fasullo che impersno personaggi famosi, anche se solo a scopo umoristico.</p>
+<li>Scorraggiamo i bots, a meno che siano carini o amicali.</li>
+<li>I robot che abusano del server verranno rottamati.</li>
+<li>I replicanti sono come ogni altra macchina: possono essere un vantaggio o un rischio. Se sono un vantaggio, non sono un problema nostro.</li>
+<li>Non sono ammessi zombi, sotto nessuna circostanza.</li>
+<li><a target="_blank" href="http://www.gnuterrypratchett.com/">GNU Terry Pratchett</a>.</li>
+</ol>
+
+<p>L'interpretazione e l'applicazione finali di queste regole, linee direttrici e di ciò che costituisce una buona netichetta in generale, così come ogni decisione che può risultare in una sospensione del conto e/o una revocazione dell'accesso, sono in ultima istanza il privilegio dell'amministrazione di mammouth.cafe.</p>
+
+
+<h3>Supporto</h3>
+
+<p>Puoi seguire o contattare <em>@support@mammouth.cafe</em> per il supporto.</p>
+
+<p>Per informazioni sullo stato del server, sospensioni pianificate del servizio, ecc., puoi seguire <em>@status@mammouth.cafe</em>.</p>
+    
+<p>Prendi buona nota del fatto che questo è per ora uno spettacolo diretto e interpretato da una sola persona. Non attenderti dunque ad una risposta nell'ora che segue. Se la tua domanda è urgente, prova a porrla alla communità: qualcun'altro potrebbe darti una mano.</p>
+
+<p>Cercheremo di non combinare guai, ma probabilmente lo faremo ad un momento o ad un altro. Se credi che ciò che pubblichi qui è di importanza vitale per te, fanne una salvaguardia da qualche altra parte (ci sono dei feed atom a disposizione per ogni conto) o, ancora meglio, offri un po' del tuo tempo e delle tue conoscenze per darci una mano con tutto questo.</p>
+
+
+<h3>Trattamento di abusi e molestie</h3>
+
+<p>Se sei vittima di abusi o molestie, segnala l'utente utilizzando il pulsante "…" e poi "Segnalare".</p>
+
+<p>Se hai un comportamento abusivo o offensivo, l'amministrazione può intraprendere qualsiasi azione che riterrà opportuna, come una sospensione del conto o una revoca dell'accesso.</p>
+
+<p>Abuso è ciò che noi consideriamo come tale. Se non sei d'accordo: peccato.</p>
+
+
+<h3>Istanze bloccate</h3>
+
+<p>Procediamo al <a target="_blank" href="https://gitlab.com/mammouthcafe/mamont-documentation/blob/master/blocked-instances.md">blocco di alcune istanze Mastodon</a> nei casi in cui una parte significativa delle loro communità violi le nostre regole e/o linee direttrici con il loro comportamento. In genere non commentiamo su conti individuali resi silenziosi, sospesi o soppressi.</p>
+
+
+<h3>Privacy e sicurezza</h3>
+
+<p>Rispettiamo la tua privacy. Siamo qui per divertirci, non per fare soldi sul tuo gobbo faccendoti inghiottire tonnelate di pubblicità indigeste o monetizzando tutto il giorno (e la notte) le tue attività online. Nessuna pubblicità o tracker sono presenti su questa istanza.</p>
+
+<p>Tuttavia, ricordati che gli amministratori di mammouth.cafe hanno potenzialmente accesso a tutti i tuoi dati, inclusi i tuoi messaggi diretti. Inoltre, il backend non è crittografato. Se questo non ti si addice, questa non è l'istanza che stai cercando.</p>
+
+<p>Infine, un buon consiglio: considera tutto questo come se fosse uno spazio pubblico. Tutto ciò che pubblicherai qui, sarà esposto al pubblico e potrà essere (e probabilmente sarà) letto da altre persone oppure potrà potenzialmente essere archiviato dall'<a target="_blank" href="https://archive.org">Internet Archive</a> e/o altre istutuzioni affini.</p>
+
+<p> Cercheremo di mantenere un livello di sicurezza ragionevole, ma se ti trovi in una situazione dove hai l'obbligo di mantenere la riservatezza delle tue fonti oppure nella quale le tue attività rischiano di mettere in pericolo te stesso o altre persone, nel tuo paese o altrove, ti preghiamo di notare che non siamo in grado di offrirti delle condizioni di privacy e/o di sicurezza sufficienti.</p>
+
+<p>Inoltre, per inviare dati in modo veramente privato tra due persone, Mastodon non offre alcuna crittografia da un capo all'altro (end-to-end). Utilizza un'applicazione dedicata E2E con buona reputazione, come Signal per esempio, per le comunicazioni che veramente desideri mantenere private.</p>
+
+<p>E ricordati di sempre proteggerti durante ogni rapporto hexuale.</p>
+
+
+<h3>A proposito di questa istanza</h3>
+
+<p>Questa istanza è gestita dall'<a target="_blank" href="https://www.mammouth.ch">Atelier Mammouth</a> in un TARDIS da qualche parte/tempo in una specie di grande sfera di roba spazio-tempo... coso.</p>
+
+<p>Per il momento, i costi di questa istanza sono piuttosto ragionevoli e l'amministratore se li può permettere. Se vuoi sostenere questo sforzo, fai piuttosto <a target="_blank" href="https://www.patreon.com/user/posts?u=619786">un dono a Eugen Rochko, alias @Gargron</a> (il babbo di Mastodon), per favore. Grazie mille!</p>
+
+
+<p><em>E ricordati: questo è un software LIBERO e...</em></p>
+
+<blockquote>
+<p>&ldquo;...se distrugge il tuo computer, violenta il tuo gatto, installa Win98 sul tuo tostapane e sul tuo microonde, blocca il tuo stimolatore cardiaco, ti provoca disfunzioni sessuali e trasforma i tuoi bambini in fottuti adolescenti che indossano capotti e brandiscono armi adulando Hitler, non dare la colpa a me perchè ti avevo detto che poteva fare proprio questo, e tu non hai voluto ascoltarmi e lo hai utilizzato lo stesso.&rdquo;</p>
+<footer>
+<p> &mdash; <cite><a target="_blank" href="http://web.archive.org/web/20010418153836/http://projects.is.asu.edu/pipermail/slash-help/1999-October/000638.html">James Turinsky</a></cite> (tradotto dall'inglese)</p>
+</footer>
+</blockquote>
+
+<p><a href="#lang">&#10548;</a></p>
+
+<hr>
+
+
+<h3>Credits</h3>
+
+<ul>
+<li><a target="_blank" href="https://mastodon.social/about/more">Mastodon Guidelines</a> (thank you @Gargron)</li>
+<li><a target="_blank" href="https://toot.cafe/about/more">Toot Café Code of Conduct</a> (thank you @nolan)</li>
+<li><a target="_blank" href="http://www.floodgap.com/etc/tos.html">Floodgap Terms of Service</a></li>
+<li><a target="_blank" href="https://gcc.gnu.org/">GCC, the GNU Compiler Collection</a> prompt</li>
+</ul>
+
+<p>We trust you have received the usual lecture from the local System Administrator. It usually boils down to these three things:</p>
+<ol>
+<li>Respect the privacy of others.</li>
+<li>Think before you type.</li>
+<li>With great power comes great responsibility.</li>
+</ol></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/977975c068ee0892.jpg?1491986606" alt="977975c068ee0892" /></div>
+<div class='name'>
+<a href="https://mammouth.cafe/@skk"><span class='display_name emojify'>~skk ❦</span>
+<span class='username'>@skk</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>skk@mammouth.cafe</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

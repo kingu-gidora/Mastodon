@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='https://ephemeral-static.glitch.social/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ephemeral.glitch.social
+ - ephemeral.glitch.social</title>
+<link rel="stylesheet" media="all" href="https://ephemeral-static.glitch.social/packs/vendor-9ba0a5a2656417ce0561.css" />
+<link rel="stylesheet" media="all" href="https://ephemeral-static.glitch.social/packs/application-9ba0a5a2656417ce0561.css" />
+<script src="https://ephemeral-static.glitch.social/packs/vendor-3ce97fc5f9ce89f4761b.js" crossorigin="anonymous"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="q0VzfZJtXkOt4K61V4WBEGG0SSQaf8mdWz0GUTaL9R6hvyGqOvdUocL+XIth7z+5VB6mnlIBSoJ2vRY+3PRUkA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ephemeral.glitch.social</h2>
+<p><p>toots on this instance are ephemeral; they disappear after a while (between 5 minutes and an hour) depending on the current phase of the moon.</p>
+
+<p>also a disclaimer: your toots will be deleted from this instance. other instances that federate with this one SHOULD delete your toots but unfortunately that's not something that can be guaranteed.</p>
+
+<h1>UNSTABLE BUT FRIENDLY</h1>
+
+<p>
+This instance also has domain level blocks on numerous others, using the block list found <a href="https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md">here</a> . 
+</p>
+<p>followbots from other instances will be blocked. please report them</p>
+<p>
+Some rules
+</p>
+
+<ul>
+<li>Do not engage in harassment of any kind.</li>
+
+<li>Racist, sexist and other oppressive slurs will get you suspended, even in non-public conversations.</li>
+
+<li>You can post porn and nudity, but you must use the nsfw flag and do not post on the public timeline or you will be silenced (ask around how to make unlisted posts)</li>
+
+<li>try to be kind</li>
+
+<li>no non-sentient bots until further notice</li>
+
+<li>no shit that's illegal in Canada</li>
+
+<li>animated gifs should always be marked sensitive/NSFW and identified as animated gifs (for now let's say just putting 'gif' in the text of the toot is sufficient), because they can cause serious problems for people</li>
+
+<li>oh yeah, NO SCREENSHOTS or copying text of toots not belonging to you. it defeats the purpose</li>
+
+</ul>
+
+<p>some guidelines</p>
+<ul>
+<li>stuff here is impermanent but i still want this to be as safe a space as we can reasonably make it. let's keep common triggers and angry/ranty/grumpy toots behind CWs</li>
+<li>free speech maximalists can kindly fuck off. there are instances where that is a priority. this is not one of them.</li>
+
+<li>all languages are welcome!</li>
+
+</ul>
+
+<p>the privacy stuff in the 'terms' isn't what it should be, but no time to change it yet. this instance's data will not be sold or traded or whatever.</p>
+
+<p>
+BE WARNED this instance may actually be unstable at times. It will likely be used for experimenting with settings and tweaks to Mastodon. So the place may experience outages, not federate reliably with the rest of the world, have posts go missing, or other technical faults. As such it's meant to be a chill, maybe kinda playful place. Time to see what we can do with this thing! Time to ˥∀IƆOS HƆ⊥I˥⅁
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>50</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>169</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>509</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://ephemeral-static.glitch.social/accounts/avatars/000/000/001/original/8cbfc6ba5402bc53.jpg" alt="8cbfc6ba5402bc53" /></div>
+<div class='name'>
+<a href="https://ephemeral.glitch.social/@bea"><span class='display_name emojify'>beatrix &#39;ephemeral&#39; bitrot</span>
+<span class='username'>@bea</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>nope@nope.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

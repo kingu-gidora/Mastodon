@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"09abcd3cbbe6d08ee0245589268f9532",petok:"048e6135460183c4744b70c5eed79c89b93ee048-1493845428-1800",zone:"black-cats.fr",rocket:"0",apps:{"ga_key":{"ua":"UA-91990434-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=85b614c0f6/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>
+mastodon.black-cats.fr
+ - 
+Mastodon public de Black Cats Multigaming
+</title>
+<link rel="stylesheet" media="all" href="/assets/application-ef4854a4936e32557557ee679b1c20df105e4f939290ce2c3fabb1df773f21e5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pk1bqd26UK4+wM9Y+mG+KocaYyENkrsi64/oaUC9Ufnwa9Skrfg+6LT6UtQCfoTWCoytF5QwnZ9L3gTneoq28g==" />
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-91990434-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.black-cats.fr</h2>
+<p>Un Mastodon public pour la communauté francophone,
+Fournis par Black Cats Multigaming
+
+(Les mails ne s'envoie pas sur les adresses hotmail & Outlook correctif sur le serveur mail en cours)</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>19</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>9</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>72</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="b3f0d2c7dbdcd7d6f3d1dfd2d0d89ed0d2c7c09dd5c1">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

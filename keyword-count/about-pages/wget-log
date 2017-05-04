@@ -1,0 +1,15 @@
+--2017-05-03 18:51:47--  http://masudadon.com/about/more
+Resolving masudadon.com (masudadon.com)... 157.7.52.116
+Connecting to masudadon.com (masudadon.com)|157.7.52.116|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://masudadon.com/about/more [following]
+--2017-05-03 18:52:02--  https://masudadon.com/about/more
+Connecting to masudadon.com (masudadon.com)|157.7.52.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘masudadon.com’
+
+     0K ..                                                     9.99M=0s
+
+2017-05-03 18:52:03 (9.99 MB/s) - ‘masudadon.com’ saved [2627]
+

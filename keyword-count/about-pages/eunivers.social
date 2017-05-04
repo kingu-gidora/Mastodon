@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>eunivers.social
+ - Instance eunivers Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/custom-c1d1df8a784c84d9ee1d36ae7a04d0e349818a15e52377b2a941b118cd25f296.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IspauTeqh4xjabFRGr6qToUgHmc5/yiSZlXiWCxRts5aIwhi4R6+ANkpcVoRqWuK1hmm52DY6rttIMB2rPd0Tw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>eunivers.social</h2>
+<p><p>Bonjour à tous, vous êtes sur l'instance Mastodon de l'association eunivers. Nous sommes un groupe de passionnés du monde de l’électronique, des jeux vidéo, du esport et de bien d'autres passions.
+Site : <a href="https://eunivers.net" target="_blank">eunivers.net</a></p>
+
+<p>Si vous avez un problème pour vous inscrire, contactez l'administrateur par <a href="mailto:webmaster@eunivers.net">mail</a>.</p>
+
+<ul style="padding-left:2rem ! important; list-style: none;     margin-bottom: 26px;" class="fa-ul">
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-refresh"></i>Cette instance est mise à jour régulièrement sur les Release</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>62</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>668</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>534</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Bienvenue, Welcome on eunivers.social !</h3>
+
+<p>Vous êtes sur l'instance Mastodon de l'association eunivers. Nous sommes un groupe de passionnés du monde de l’électronique, des jeux vidéo, du esport et de bien d'autres passions.
+Site : <a href="https://eunivers.net" target="_blank">eunivers.net</a> | Patreon : <a href="https://www.patreon.com/eunivers" target="_blank">eunivers</a></p>
+
+<p>Si vous avez un problème pour vous inscrire, contactez l'administrateur par <a href="mailto:webmaster@eunivers.net">mail</a>.</p>
+
+<H3> Règles : </h3>
+
+<p>Les règles suivantes ne représente pas un document légal, et l'interprétation finale incombe à l'administration de eunivers.social; elles sont là pour vous donner un aperçu de nos politiques de modération:</p>
+
+<ul style="padding-left:2rem ! important; list-style: none;     margin-bottom: 26px;" class="fa-ul">
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-ban"></i>Ne floodez pas</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa fa-li fa-users"></i>Respectez-vous les uns les autres</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-exclamation-circle"></i>Utilisez des étiquettes "NFSW" pour les contenus sensibles.</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-lock"></i></i>Utilisez l'avertissement de contenu "CW" pour les spoilers</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-user"></i>Respectez la liberté d'expression et d'opinion, signalez avec discernement</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-map-marker"></i>Toutes les langues sont autorisées</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-asterisk"></i>Amusez-vous</li>
+</ul>
+
+<P> N'hésitez pas à signaler les utilisateurs ou les toots qui ne respect pas ses règles</ P>
+
+<h3> Rules: </h3>
+
+<p>The following guidelines are not a legal document, and final interpretation is up to the administration of mastodon.social; they are here to provide you with an insight into our content moderation policies:</p>
+
+<ul style="padding-left:2rem ! important; list-style: none;     margin-bottom: 26px;" class="fa-ul">
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-ban"></i>Do not floode</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa fa-li fa-users"></i>Respect each other</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-exclamation-circle"></i>Use NSFW tags for NSFW content</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-lock"></i>use the content warning for spoilers</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-user"></i>Respect freedom of expression and opinion, report with discernment</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-map-marker"></i>All languages ​​are allowed</li>
+<li style="margin-bottom:1rem; line-height:1.5rem"><i class="fa-li fa fa-asterisk"></i>Have fun</li>
+</ul>
+
+<P> Do not hesitate to report users or tops that do not respect its rules </ P>
+
+<p style="text-align: center;"><img src="https://eunivers.social/assets/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png" alt="Join the Federation !"></p>
+
+<h3>Donations</h3>
+
+<p>N'hésitez pas à nous aider à maintenir et améliorer l'instance et participer à l'<a href="#">Association eunivers</a></p>
+
+<p>Don't forget to donate to the main dev, he is the one making the hard work for Mastodon : <a href="https://www.patreon.com/user/posts?u=619786">Gargron</a></p>
+
+<p>Thank you, Merci, and happy tooting !</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/40e6bf598d3bbf85.jpg?1491738125" alt="40e6bf598d3bbf85" /></div>
+<div class='name'>
+<a href="https://eunivers.social/@Mandar"><span class='display_name emojify'>Mandar</span>
+<span class='username'>@Mandar</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>webmaster@eunivers.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

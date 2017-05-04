@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>catdon.jp
+ - catdon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oP7C2x68bulr/DxuwTwgsxE9isSTVyTNaNkbVnERnolgJnvwpmqYd6844f3TlR08sVqhkue9iuGXXELVymJpZA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>catdon.jp</h2>
+<p><h2>このインスタンスについて</h2>
+<ul>
+<li>ねこ専門のインスタンスです。</li>
+<li>あなたのお気に入りのねこを紹介し合いませんか?</li>
+<li>ねこアカウントも大歓迎です。</li>
+<li>登録パスワードは暗号化されており、運営者であってもその内容を解析することはできません。</li>
+<li>サーバ上のデータは厳重に管理するよう、努めています。</li>
+<a href="https://stats.uptimerobot.com/57l4OtwoD" style="color:#ffffff" target="_blank">運用ステータスはこちら</a></li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>20</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>70</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>34</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>お願い並びに説明事項</h2>
+<ul>
+<li>あなたのお気に入りのねこを紹介し合いませんか? ねこアカウントも大歓迎です。</li>
+<li>IPv6にも多分対応しています。</li>
+<li>各国の法律及び、日本国内の法律を厳守してください。</li>
+<li>公序良俗に反する投稿はおやめください。</li>
+<li>サーバーに負荷のかかるご利用方法はおやめください。</li>
+<li>プライバシーポリシーについて<a href="https://catdon.jp/terms">こちら</a>を参照して下さい。</li>
+</ul>
+<h3>利用しているサービス</h3>
+<ul>
+<li><a href="https://www.sakura.ad.jp/" style="color:#ffffff" target="_blank">さくらインターネット</a></li>
+<li><a href="https://aws.amazon.com/jp/" style="color:#ffffff" target="_blank">アマゾン ウェブ サービス</a></li>
+<li><a href="https://mackerel.io" style="color:#ffffff" target="_blank">mackerel</a></li>
+<li><a href="http://www.uptimerobot.com/" style="color:#ffffff" target="_blank">uptimerobot</a></li>
+<li><a href="https://www.sparkpost.com/" style="color:#ffffff" target="_blank">SparkPost </a></li>
+<li><a href="https://slack.com/" style="color:#ffffff" target="_blank">Slack</a></li>
+<li><a href="https://notify-bot.line.me/ja/" style="color:#ffffff" target="_blank">LINE Notify</a></li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/5dc9942ef41bbc34.png?1493304075" alt="5dc9942ef41bbc34" /></div>
+<div class='name'>
+<a href="https://catdon.jp/@catdon_jp"><span class='display_name emojify'>catdon_jp</span>
+<span class='username'>@catdon_jp</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>info@mail.catdon.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

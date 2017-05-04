@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>tablegame.mstdn.cloud
+ - 卓ゲ箪笥</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kyIjdWYSUwPQc0zZvHNKz2r2OM7o/NhjkChQZEw2yKhxgzUR2Wlvm85MAtYaplN0psjDJmC9shI50iMSSX6QFg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>tablegame.mstdn.cloud</h2>
+<p><em>テーブルゲーム好きな人向けインスタンスです。</em><br>
+ <br>
+テーブルゲームが好きな人が集まれる場所として作りました。<br>
+内容はテーブルゲーム限定というわけではなく、好きな内容を話してもらって大丈夫です。<br>
+テーブルゲームとしては、ボードゲームやTCG、TRPGなどなんでも大丈夫です。<br>
+<br>
+<br>
+なるべく運営し続けるつもりでいますが、運営継続の保証はないです<br>
+<br>
+お約束として、日本の法律に準拠してください<br>
+<br>
+こちらのサイトでインスタンスに参加する前に直近数件の発言を確認できます<br>
+<a href="http://junk.azyobuzi.net/mastodonptl/">http://junk.azyobuzi.net/mastodonptl/</a><br>
+<br>
+<br>
+<br>
+また、以下で寄付も受け付けています。<br>
+<a href="https://enty.jp/dwbFiNqsAkCO">https://enty.jp/dwbFiNqsAkCO</a><br>
+<em>支援してくださった方々(敬称略,順不同)</em><br>
+<a href="https://z-socialgame.mstdn.cloud/@404">@404</a><br>
+<a href="https://z-socialgame.mstdn.cloud/@fukurow">@fukurow</a><br>
+<a href="https://z-socialgame.mstdn.cloud/@tmkyz">@tmkyz</a><br>
+<a href="https://tablegame.mstdn.cloud/@lplplp">@lplplp</a><br>
+<a href="https://tablegame.mstdn.cloud/@EllenSvanholm">@EllenSvanholm</a><br>
+<a href="https://tablegame.mstdn.cloud/@anno_kgrzk">@anno_kgrzk</a><br>
+<a href="https://mastodon.social/@goracax">@goracax</a><br>
+<a href="https://tablegame.mstdn.cloud/@tale">@tale</a><br>
+<a href="https://z-socialgame.mstdn.cloud/@lazy_uni">@lazy_uni</a><br>
+<a href="https://socialgame.mstdn.cloud/@taket">@taket</a><br>
+<a href="https://socialgame.mstdn.cloud/@ricel">@ricel</a><br>
+<a href="https://z-socialgame.mstdn.cloud/@Lyco">@Lyco</a><br>
+<a href="https://tablegame.mstdn.cloud/@Da_vocK">@Da_vocK</a><br>
+ゆきさん<br>
+<a href="https://gamecreate.mstdn.cloud/@minmin0530">@minmin0530</a><br>
+<a href="https://gamecreate.mstdn.cloud/@hamukun">@hamukun</a><br>
+<br>
+皆様の協力で運営できています。大変ありがとうございます！<br>
+また、申し訳ないことにお名前がわかっていない方がいらっしゃるので、お気づきの際は是非ご連絡ください。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>560</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>39,520</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>494</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/avatars/original/missing.png" alt="Missing" /></div>
+<div class='name'>
+<a href="https://tablegame.mstdn.cloud/@admin"><span class='display_name emojify'>admin</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<script src='/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<title>mathstodon.xyz
+ - Mathstodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-159224ec64bca86f64e7542051691f23ac6de035cd8e2755b5b7517e3df4bb1e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lVolSG1yb1YM8mDoeetYEbcpQp1UBmSNOyuQQuKXP5FWkZvn8dkwJVkM2TmyKWtnUCmmX9c0NDLo8awwJU0onw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mathstodon.xyz</h2>
+<p><p>A Mastodon instance for maths people. The kind of people who make \(\pi z^2 \times a\) jokes.</p>
+<p>Use <code>\(</code> and <code>\)</code> for inline LaTeX, and <code>\[</code> and <code>\]</code> for display mode.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>24</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>426</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>321</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>You can use \(\LaTeX\) in toots here! Use <code>\(</code> and <code>\)</code> for inline, and <code>\[</code> and <code>\]</code> for display mode.</p>
+<p>Operated by <a href="https://mathstodon.xyz/@christianp">@christianp</a> and <a href="https://mathstodon.xyz/@ColinTheMathmo">@ColinTheMathmo</a>.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a0c84b8c68d4eb5a.jpg?1492003836" alt="A0c84b8c68d4eb5a" /></div>
+<div class='name'>
+<a href="https://mathstodon.xyz/@christianp"><span class='display_name emojify'>Christian Lawson-Perfect</span>
+<span class='username'>@christianp</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@mathstodon.xyz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

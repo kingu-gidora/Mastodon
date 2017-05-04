@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='de'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.ruhrmail.de
+ - mastodon ruhrmail™</title>
+<link rel="stylesheet" media="all" href="/assets/application-25d5b5150ab609d3278f89930212602acc07d4d17ef1c6f9bba62090b705b0c9.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="POTVvZrGHmf64SQ3j2tkxVVymuKHgh3li9LqlPM0QHhn2CyM4ohKb1JUh4e0D+EGjI3cr70H1NXvvqJXCef35Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.ruhrmail.de</h2>
+<p>Mastodon Instanz von <a href="https://ruhrmail.de" target="_blank">ruhrmail™ - der sichere Mail Provider.</a><br>ruhrmail™ ist ein Service von <a href="https://nuw.biz" target="_blank">netz & werk oHG.</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>4</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>4</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/avatars/original/missing.png" alt="Missing" /></div>
+<div class='name'>
+<a href="https://mastodon.ruhrmail.de/@nuwohg"><span class='display_name emojify'>nuwohg</span>
+<span class='username'>@nuwohg</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>info@nuw.biz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Erste Schritte</a></li>
+<li><a href="/auth/sign_in">Anmelden</a></li>
+<li><a href="/terms">AGB</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Quellcode</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

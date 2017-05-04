@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.dremtech.fr
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-67c6212d8ec102939d5e5cacdddcba870013783c6a08b2260db2c5b80fe3fe52.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5+FZNrSJFHy4ADUGbGV7tCJxVH2doAo4JCbRu1n2FrFU0v5OGmo5rTRzWr0+iNSOY0uudDS+GZkHQ6IihDJPcQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.dremtech.fr</h2>
+<p>An open Mastodon instance in french and english for tech enthusiasts</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>468</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,428</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>545</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><P>The following guidelines (thanks mastodon.social) are not a legal document, and final interpretation is up to the administration of mastodon.dremtech.fr; they are here to provide you with an insight into our content moderation policies:</P>
+
+<OL>
+
+<LI>
+The following types of content will be removed from the public timeline:<BR>
+<OL type='a'>
+<LI>Excessive advertising</LI>
+<LI>Uncurated news bots posting from third-party news sources</LI>
+<LI>Untagged pornography and sexually explicit content</LI>
+<LI>Untagged gore and extremely graphic violence</LI>
+</OL>
+</LI>
+
+<LI>
+The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:<BR>
+<OL type='a'>
+<LI>Racism or advocation of racism</LI>
+<LI>Sexism or advocation of sexism</LI>
+<LI>Discrimination against gender and sexual minorities, or advocation thereof</LI>
+<LI>Xenophobic and/or violent nationalism</LI>
+</OL>
+</LI>
+
+<LI>
+The following types of content are explicitly disallowed and will result in revocation of access to the service:
+<OL type='a'>
+<LI>Sexual depictions of children</LI>
+<LI>Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism</LI>
+<LI>Conduct promoting the ideology of National Socialism</LI>
+</OL>
+</LI>
+
+<LI>
+Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:<BR>
+<OL type='a'>
+<LI>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</LI>
+<LI>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</LI>
+<LI>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</LI>
+</OL>
+</LI>
+</OL>
+
+<P>
+These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</P></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/02425059d0800b30.jpg?1491423027" alt="02425059d0800b30" /></div>
+<div class='name'>
+<a href="https://mastodon.dremtech.fr/@dfages"><span class='display_name emojify'>Daniel Fages</span>
+<span class='username'>@dfages</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>dfages@dremtech.fr</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

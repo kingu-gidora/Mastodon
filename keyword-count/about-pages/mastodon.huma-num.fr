@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.huma-num.fr
+ - Mastodon Huma-Num</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lRUgvaBeA8Lnp+JKyNE2k+Cdu62kVNGz1xuClS4MY7XhlEFal4oTzpXQ5s0s2echN/HAjGZA/nPIgCBFVx/+Tw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.huma-num.fr</h2>
+<p>L'instance mastodon d'Huma-Num est dédiée à l'enseignement supérieur et à la recherche. Elle se veut interdisciplinaire et ouverte à tous. Elle est mise en oeuvre et maintenue par la très grande infrastructure de recherche <a href="http://www.huma-num.fr">Huma-Num</a> pour les sciences humaines et sociales numériques.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>254</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,563</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>503</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p><em>A propos de cette instance</em></p>
+<p>Instance mastodon dédiée à l'enseignement supérieur et à la recherche. Elle se veut interdisciplinaire et ouverte à tous. Elle est mise en oeuvre et maintenue par la <a href="http://www.huma-num.fr">TGIR Huma-Num</a>.</p>
+<p>Nous vous demandons de rester courtois et polis dans vos échanges. De plus, les contenus suivant sont strictement interdit : Raciste, sexiste, homophobe, apologie du terrorisme, incitation à la haine raciale ou au suicide, pornographie, etc. <strong>Nous nous réservons le droit de bloquer tout utilisateur ne respectant pas ces règles de base.</strong>
+</p>
+<p>Huma-Num est une très grande infrastructure de recherche (TGIR) visant à <a href="http://www.huma-num.fr">faciliter le tournant numérique de la recherche en sciences humaines et sociales</a>. Pour remplir cette mission, elle est bâtie sur une organisation originale consistant à mettre en œuvre un dispositif humain (concertation collective) et technologique (services numériques) à l’échelle nationale et européenne en s’appuyant sur un important réseau de partenaires et d’opérateurs.</p>
+<p>La TGIR Huma-Num favorise ainsi, par l’intermédiaire de <a href="http://www.huma-num.fr/consortiums">consortiums</a> regroupant des acteurs des communautés scientifiques, la coordination de la production raisonnée et collective de corpus de sources (recommandations scientifiques, bonnes pratiques technologiques). Elle développe également <a href="http://www.huma-num.fr/services-et-outils">un dispositif technologique unique permettant le traitement, la conservation, l'accès et l'interopérabilité des données de la recherche</a>. Ce dispositif est composé <a href="http://www.huma-num.fr/services-et-outils">de services dédiés</a>, <a href="http://www.rechercheisidore.fr">d'une plateforme d'accès unifié (ISIDORE)</a> et d'une procédure <a href="https://www.nakala.fr">d'archivage des données à long terme</a>.</p>
+
+<p>La TGIR Huma-Num propose en outre des guides de bonnes pratiques technologiques généralistes à destination des chercheurs. Elle peut mener ponctuellement des actions d'expertise et de formation. Elle porte la participation de la France dans le projet DARIAH en coordonnant les contributions nationales.</p>
+
+<p>La TGIR Huma-Num est portée par l'Unité Mixte de Services 3598 associant le CNRS, l'Université d'Aix-Marseille et le Campus Condorcet.</p>
+
+<p><em>Contacts</em></p>
+
+<p>TGIR Huma-Num - UMS 3598</br>
+54 bd Raspail</br>
+75006 Paris</br>
+</p>
+<p>
+Téléphone : +33 (0)1 49 54 21 94</p>
+
+<p><em>Protection des informations nominatives</em></p>
+
+<p>Ce site web comporte des informations nominatives concernant notamment les personnels du CNRS et ses partenaires. Conformément à la loi n°78-17 du 6 janvier 1978 modifiée, relative à l'informatique, aux fichiers et aux libertés, vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données vous concernant en ligne sur ce site.</p>
+<p>Pour exercer ce droit, vous pouvez vous adresser, par voie postale ou e-mails, au directeur de la TGIR.</p>
+
+<p><em>Limites de responsabilité</em></p>
+<p>Les informations diffusées sur le site (textes, photos, vidéos, etc..) ont un caractère purement général et informatif et ne sont données qu'à titre indicatif. Malgré tout le soin apporté à sa réalisation et à son exactitude, ce site ne peut pas constituer un document contractuel. La responsabilité de la TGIR Huma-Num ne peut donc, en aucune manière, être engagée quant au contenu des informations figurant sur ce site ou aux conséquences pouvant résulter de leur utilisation ou interprétation. La TGIR Huma-Num ne saurait être tenue pour responsable de tout dommage résultant de l'accès par un internaute au site et/ou de l'utilisation du site, ou de l'impossibilité d'y accéder.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/9b7e3edc7551f3ed.JPG?1491940540" alt="9b7e3edc7551f3ed" /></div>
+<div class='name'>
+<a href="https://mastodon.huma-num.fr/@spouyllau"><span class='display_name emojify'>Stéphane Pouyllau</span>
+<span class='username'>@spouyllau</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>stephane.pouyllau@huma-num.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

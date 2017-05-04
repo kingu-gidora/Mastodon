@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>octodon.social
+ - Octodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/wvvYJ8fLDXdCd6BnXMYLVsmbYqhzGUAOK2yhsFarMN+F0990ScY8Nhb6gEjX8x+vjAqpOXZGoCm9NKoB5XshA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>octodon.social</h2>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>6,885</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>101,806</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,353</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2><a href="https://en.wikipedia.org/wiki/Degu">Octodon:</a></h2><br />
+<a href="https://commons.wikimedia.org/wiki/File:Octodon_degus_-Heidelberg_Zoo,_Germany-8a.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg/320px-Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg" />
+</a>
+<br />
+
+no rules in particular, be nice be reasonable call me mommy stuff like that
+<br />
+<br />
+
+<p>
+Seriously though: It should be similar to mastodon.social.<br />
+NSFW/any legal porn is allowed, but tag it as NSFW or make it unlisted or less. Trolls are only allowed if they're quiet; you can shitpost but not harass someone, and my threshold is pretty low.
+I'm not Twitter, I'll fuck up nazis and bullies for fun, and get an AI to do it if I get bored.<br />
+I'm your nice cyberpunk queen and I intend to keep this place decent and safe for everyone.
+</p>
+<p>You should choose an instance based on shared values; here I believe everyone deserve freedom, but also to be safe from harassment and hate. Freedom will not be given a higher priority.
+</p>
+<p>I'll always try to solve problems in the most rational and safe way possible for users, and try to discuss any issue with the people concerned if I think it's worth it. If you at least try to be good and comprehensive, so will I.
+I understand and accept mistakes, but not being bad on purpose.
+</p>
+
+<p>
+<em>Advertising:</em> Probably never, if any it will not be integrated into content or intrusive, at most I'm thinking about the Wikipedia way of asking for donation when needed.<br />
+</p>
+<p>
+<em>Federation & Politics:</em> It federates with nearly everything, I'll block whatever instance isn't compatible with this site's rules as needed. For example if a remote user harass a local user and their instance admin endorses it. See list at the end of this page.
+<br />
+Reminder: that's a private place and your free speech means very little to me and most of my users. If your instance gets blocked it's because you endorse hate and/or harassment; then why be pathetic now and bitch about it? You can't force people to like you and being an asshole won't get you friends. Go run your little world.
+</p>
+<p>
+<em>CW:</em> On public toots (not unlisted, private, or direct), content warnings are required for
+any kind of (explicit enough) violence (with or without pics, including gore, *phobia, abuse, sexual or not) and referring to it;
+sexual content (pics must already be tagged as NSFW, use a CW if you have text or want to warn about specific content).<br />
+This is not about what is culturally or religiously accepted, but about common sources of trauma
+that deeply hurt people for very real reasons. Consider yourself lucky if you don't need any of it, but it's not about you.<br />
+They are also appreciated but not mandatory on:
+politics, spoilers, anything depressing or too negative. Use them in an opportunistic way.
+</p>
+<p>
+<em>Enforcement:</em>
+On this instance, a toot that doesn't follow these rules may be deleted.
+On repeated offences or if disturbing public timelines,
+the account may get silenced (only their followers will see toots).
+If silencing is not enough (harassment, ...), the account may get
+completely suspended.<br />
+If the account is on another instance, it may get silenced and suspended from here, and I will not hesitate to share reports
+with other instance admins.<br />
+Instance admins, feel free to contact me about this instance's users' behavior.
+</p>
+
+
+<br />
+<br />
+
+<p>
+<em>Support / Servers:</em>
+You can support me/this server through a <a href="https://www.patreon.com/CobaltVelvet">Patreon here</a> and you can <a href="https://vpn.ccrypto.org/?pk_campaign=octodon">get a VPN here</a> or send bitcoins to 1F3TeADq25W471a1G5W5gJJ1BWbQYn6Di5.
+<br />
+
+</p>
+
+<p>
+Anyway if you're wondering, it's hosted on Scaleway in France, and it should be pretty stable since I'm a competent sysadmin.<br />
+There are full backups done every 12 hours, and sent fully encrypted to an append-only remote server.<br />
+Feel free to report it to me directly if it's slow or anything doesn't work.
+<br />
+Server stats:
+<a href="https://octodon.social/netdata/">main</a>, 
+<a href="http://163.172.160.168:19999/">app01</a>, 
+<a href="http://163.172.169.87:19999/">app02</a>, 
+<a href="http://212.47.245.38:19999/">sidekiq01</a>.
+</p>
+
+<br />
+<br />
+
+<p><em>Instance blocks:</em></p>
+<table class="table">
+<thead><tr><td>Name</td><td>Reason</td></tr></thead>
+<tbody>
+<tr><td>noagendasocial.com</td><td>Adam is a fucking idiot who enjoys harassing people himself if they report someone. You're breaking the federation Adam.</td></tr>
+<tr><td>pawoo.net</td><td>Too much child porn in public timelines. (silenced)</td></tr>
+</tbody>
+</table>
+<p>Also: sealion.club, heldscal.la, freezepeach.xyz, shitposter.club, unsafe.space, gs.smuglo.li, are blocked or silenced as they did allow hate speech and harassment.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://assets.octodon.social/accounts/avatars/000/000/001/original/4d287ba0fee027fd.jpg" alt="4d287ba0fee027fd" /></div>
+<div class='name'>
+<a href="https://octodon.social/@CobaltVelvet"><span class='display_name emojify'>Alice Voidstar</span>
+<span class='username'>@CobaltVelvet</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>avoidstar@octodon.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.1</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

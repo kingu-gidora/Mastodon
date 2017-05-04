@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>vulpine.club
+ - The Vulpine Club</title>
+<link rel="stylesheet" media="all" href="/assets/application-a7eb1cc7e442fdb34adf97b589d535528ac48db3af133972562c4adbbd062aa7.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="L0tujODahpzPosVPZJHfavr+yQfoKCnirNvc6gi8P+2b3TKtT4qUZtwUvmxnINVvoAHs7iyK0IPZLE/nVIcYyg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>vulpine.club</h2>
+<p>The Vulpine Club is an Mastodon instance for foxes, and their associates and friends and fans.  We're pretty friendly and welcoming.  =^^=</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>104</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>6,094</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>666</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Welcome to the Vulpine Club! We hope you'll enjoy your stay here, and that you'll have lots of interesting discussions and learn about the really neat people around the fediverse. This is a unique and exciting network, and we're pleased you're joining us. Please read the rest of this page to make sure you know what this is all about, and how to play within the rules.</p>
+
+<p><em>Guiding Principle</em>: The Vulpine Club believes strongly in civility and respectfulness as a cornerstone of any online community. Be excellent to each other.</p>
+
+<p><em>Keeping the Lights On</em>: We have a <a href="https://www.patreon.com/vulpineclub">Patreon</a> to help cover the costs of running this thing.  Feel free to chip in as little or as much as you'd like. &lt;3</p>
+
+<p>Special thanks to our sustaining supporters: <a href="/@irick">Irick 🐁🐈⚩</a> and (anonymous)!  THANK YOU ALWAYS!</p>
+
+<p><em>Administrator(s)</em>: You may e-mail the admins at <a href="mailto:admins@vulpine.club">admins@vulpine.club</a>. For reference, all admins are listed below:</p>
+
+<table class='table'>
+<thead>
+<tr><th></th><th>Pronouns</th><th>E-mail</th><th>Role</th><th>Alternate account</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/@rey">Rey</a></td>
+<td><a href="http://pronoun.is/they/them">they/them</a></td>
+<td><a href="mailto:rey@vulpine.club">rey@vulpine.club</a></td>
+<td>Owner</td>
+<td><a href="https://mastodon.social/@hoopycat">@hoopycat@mastodon.social</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>We also have a <a href="https://uptime.statuscake.com/?TestID=Eh3BF8j6lO">status page</a> hosted by StatusCake.</p>
+
+<p><em>Local Flava</em>:
+<ul>
+<li><samp>Favourites</samp> are now <samp>Licks</samp></li>
+<li><samp>Boosts</samp> are now <samp>Awoos</samp></li>
+<li><samp>Toots</samp> continue to be <samp>Toots</samp></li>
+</ul>
+<p>See also <a href="https://github.com/rtucker/mastodon">our Github fork</a>, and the <a href="https://github.com/tootsuite/mastodon/compare/master...rtucker:production">differences between our production branch and the tootsuite master</a>.</p>
+
+<p><em>How To Get Banned</em>: Be advised your access may be revoked at any time for any reason, especially if you are a:</p>
+
+<ol>
+<li>Person too young to do the Internet, per the Law (i.e. by using this site, you affirm that you are 13 years of age or older),</li>
+<li>Person who posts content such as:</li>
+<ul>
+<li>Copyrighted content posted without permission</li>
+<li>Sexual depictions of children</li>
+<li>Stuff we really don't want to see (untagged pornography/sexual content, gore, graphic violence, etc)</li>
+</ul>
+<li>Nazi and/or National Socialist and/or Fascist and/or Alt-Right and/or Alt-Furry,</li>
+<li>Homophobe, Transphobe, Racist, Sexist, Islamophobe, Men's Rights Activist, Xenophobe, et cetera,</li>
+<li>General Douchebag and/or Overall Asshat, and/or</li>
+<li>Current President of the United States of America</li>
+</ol>
+
+<p>Doxxing, brigading, dogpiling, stalking, harassing, and other similar attacks against a person's right to exist without you, are explicitly prohibited. Using alternate accounts to evade blocks/suspends/silences, whether on the same instance or another instance, is prohibited.</p>
+
+<p>Accounts from other instances will be locally silenced or suspended​ for reported violation of these rules. CoC violations by instance administrators may be enforced on the entire instance​, particularly for single-user instances.</p>
+
+<p>These rules evolve on a regular basis. Most folks will never run afoul of them, which should give us hope for the future.</p>
+
+<p><em>Guidelines</em>:
+The following are suggested ways to be excellent to each other, in no particular order.</p>
+
+<ol>
+<li>If someone is violating the rules, please report the toot(s) in question, and also consider blocking them.</li>
+
+<li>Try to apply content warnings/NSFW tags for long posts, animated GIFs, sensitive topics, etc. This is not a hard-and-fast rule, and we're not going to insta-ban violations, but keeping the Public Timelines usable for as many folks as possible is a goal.</li>
+
+<li>Content warnings should definitely be used for pornography, lewd roleplay, spoilers, curse-laden diatribes, photographs of gentlemen named Richard, etc. Content warnings may be used for news, politics, long stories, etc. Community standards are still evolving on this topic.</li>
+
+<li>It's a good idea to check your privilege occasionally. Many members of this community identify as part of one or more oft-repressed minority groups (lesbian, gay, bisexual, transgender, queer, person of color, disabled, neurodivergent, etc). Don't expect individuals to produce peer-reviewed research to "prove" their experiences are real; if you're skeptical, do your own research or ask the community as a whole.</li>
+
+<li>We don't really mind bots, as long as the bots don't interact with people without their consent. Follow bots will be blocked on sight. On the other hand, if someone made a bot that tooted pictures of foxes every hour, we'll probably give you a certificate of appreciation.</li>
+</ol>
+
+<p><em>Ownership</em>: This server is operated from Rochester, New York, United States. For First Amendment Defense Act purposes, our legal religion within the United States is The Satanic Temple, and we adhere to the <a href="https://thesatanictemple.com/about-us/tenets/">seven fundamental tenets</a>. Outside of the United States, we operate under the <i>Principia Discordia</i> and its <a href="https://en.wikipedia.org/wiki/Discordianism#Three_core_principles">three core principles</a>, except on Sweetmorn, when we operate without any principles whatsoever, unless it is a Apostle Holyday, in which case we do not operate without any principles whatsoever.</p>
+
+<p><em>Federation Policy</em>: Our default federation policy is open, but in the interest of fostering a useful and pleasant experience, we will block domains that are known to be lawless havens of iniquity.  For your convenience, these are listed below.</p>
+
+<table class='table'>
+<thead>
+<tr>
+<th>Last update: 2017/04/30</th>
+</tr>
+<tr>
+<th>Domain</th>
+<th>Severity</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>
+<samp>shitposter.club</samp>
+</td>
+<td>suspend</td>
+<td>haven for harassment</td>
+</tr>
+<tr>
+
+<td>
+<samp>freezepeach.xyz</samp>
+</td>
+<td>suspend</td>
+<td>haven for harassment</td>
+</tr>
+
+<tr>
+<td>
+<samp>sealion.club</samp>
+</td>
+<td>suspend</td>
+<td>haven for harassment</td>
+</tr>
+
+<tr>
+<td>
+<samp>social.heldscal.la</samp>
+</td>
+<td>suspend</td>
+<td>haven for harassment</td>
+</tr>
+
+<tr>
+<td>
+<samp>wogan.im</samp>
+</td>
+<td>suspend</td>
+<td>single-user instance violating our CoC</td>
+</tr>
+
+<tr>
+<td>
+<samp>noagendasocial.com</samp>
+</td>
+<td>suspend</td>
+<td>podcast dudebro brigade, no CoC, admin violations of our CoC</td>
+</tr>
+
+<tr>
+<td>
+<samp>social.tchncs.de</samp>
+</td>
+<td>suspend</td>
+<td>CoC not enforced (harasser still present after multiple reports/incidents)</td>
+</tr>
+
+<tr>
+<td>
+<samp>ediot.social</samp>
+</td>
+<td>suspend</td>
+<td><a href="http://ediot.social/about/more" target="_blank">their CoC pretty much covers it</a></td>
+</tr>
+
+</tbody>
+</table></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/168bb410dffbdf59.png?1491604332" alt="168bb410dffbdf59" /></div>
+<div class='name'>
+<a href="https://vulpine.club/@rey"><span class='display_name emojify'>Rey 🐈💨</span>
+<span class='username'>@rey</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admins@vulpine.club</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

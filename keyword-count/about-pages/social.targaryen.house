@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#D92B2B' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#372828' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>social.targaryen.house
+ - House Targaryen</title>
+<link rel="stylesheet" media="all" href="/packs/vendor-cfe1db3ce398d76abc24.css" />
+<link rel="stylesheet" media="all" href="/packs/application-cfe1db3ce398d76abc24.css" />
+<script src="/packs/vendor-dcbb3fc759dfe9a36989.js" crossorigin="anonymous"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/saGbskQ+TODmNrJscP17AzQWsbDBTIse0dKv1S0XmTVEQJI7+7KAWEON01lpidOUNGqMqgjTqH47ObOtmpySA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>social.targaryen.house</h2>
+<p><em>social.targaryen.house</em> is one of several mastodon instances in the fediverse. It aims to be an alternative choice, and it will federate with other instances. <em>Fire and Blood!</em>
+
+<center><img src='https://social.targaryen.house/assets/targaryen_banner.png' alt='targaryen house' title='targaryen house' border='0' /></center></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>3,697</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>38,924</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,210</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Goal of this instance</h3>
+<p>This is a generalist instance. Either you like Game of Thrones or not, either you support the house Targaryen or not, you will always be welcome. This instance was made because the guy behind believes we can make the Internet better by decentralising. I use a <a href="https://tls.imirhil.fr/https/social.targaryen.house">strong TLS configuration</a> and all <a href="https://observatory.mozilla.org/analyze.html?host=social.targaryen.house">best practices</a> that I'm aware of to make this instance secure.</p>
+
+<p>I want this instance to be welcoming, and to provide a friendly experience. That's why I will close registrations once we have reached a reasonable amount of users. This instance is up and running since the 1st April 2017.</p><br>
+
+<h3>Update policy</h3>
+<p>For your information, this instance is using its own fork of Mastodon available on Github : <a href="https://github.com/Wonderfall/mastodon-targaryen">Wonderfall/mastodon-targaryen</a>. Don't panic, it's still Mastodon, but as you can see it's... tweaked, so the look can be a real immersion into the Targaryen house. There are other tweaks, like the responsive columns (at the moment, it's not in Mastodon). I'm also fetching the master branch from the official Mastodon repository. It means we benefit from the latest features, but at the risk of rollbacks (hence a little downtime, though I do my best if something goes wrong). Don't say I didn't warn you.</p><br>
+
+<h3>What rules?</h3>
+<p>First, keep in mind the <a href="https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen">Declaration of the Rights of Man and of the Citizen (1789)</a>. Since the server is hosted in Germany, you must also respect the <a href="https://en.wikipedia.org/wiki/Law_of_Germany">Law of Germany</a>. Any (commented) report is reviewed and the content can be moderated, but every user is encouraged to use the block and mute functions.</p>
+
+<p><em>Be respectful, be human. Honour the House Targaryen.</em></p>
+
+<p>Some explicit rules to keep the instance pleasant :</p>
+<ul>
+<li>Use NSFW for pornography content.
+<li>Use CW for (harming) spoilers.
+<li>Excessive harassment is not tolerated.
+<li>Spam on public timelines must be avoided.
+</ul></p>
+
+<p>Freedom of speech is a human right. These rules won't restrict in any way your way of thinking. In fact, you can post everything which injures no one else (article 4 - DRMC 1789). Moderation will even tolerate such things as posts about drugs and hacking (in every sense).</p>
+
+<p>Since it would be ironic to have a severe censorship policy, we won't block entire instances (except in specific cases). Perhaps some can be silenced, and if that happens, the silence list on Github will be updated (<a href="https://github.com/Wonderfall/mastodon-targaryen/blob/master/docs/INTERNAL_BLOCKLIST.md">here</a>). Note that accounts won't be silenced or suspended unless there's a very good reason, or if there's too much recidivism. Bot accounts can be silenced if there are too much complains about them.</p><br>
+
+<h3>Recommended accounts and bots</h3>
+<p>Every user is advised to follow these accounts :</p>
+
+<ul>
+<li><em><a href="https://social.targaryen.house/@wonderfall">Wonderfall</a></em> : the admin of this instance (info, support)</li>
+<li><em><a href="https://social.targaryen.house/@khalkount">Khalkount</a></em> : a usercount bot for this instance</li>
+<li><em><a href="https://social.targaryen.house/@drogon">Drogon</a></em> : a multifunction low-IQ bot (server stats)</li>
+<li><em><a href="https://social.targaryen.house/@Khaleesi">Khaleesi</a></em> : the Queen</li>
+</ul>
+
+<p>By the way : if you intend to run your own bot on this instance, you should tell us first. We won't be mad at you, but we have to know what's going on this instance, especially if your bot is flooding the timeline. Thanks!</p><br>
+
+<h3>What's behind?</h3>
+<p>This instance is hosted on a <a href="https://www.hetzner.de/en/">Hetzner</a> dedicated server located in Germany (EU). It has the following specs :</p>
+
+<ul>
+<li><em>CPU</em> : Intel Xeon E3-1271v3</li>
+<li><em>RAM</em> : 32GB (4*4) DDR3 ECC</li>
+<li><em>HDD</em> : 2*4TB (RAID)</li>
+<li><em>OS</em> : Debian 9 Stretch - Linux 4.10</li>
+<li><em>Bandwidth</em> : 1 Gbit/s</li>
+</ul>
+
+<p>Encrypted backups of Mastodon are made daily. This dedicated server is hosting other services but they shouldn't interfere. On top of that, I tuned Mastodon so it can be incredibly fast.<p><br>
+
+<h3>Who can I blame?</h3>
+<p><a href="https://social.targaryen.house/@wonderfall">@wonderfall (FR/EN)</a> maintains the server and is the main administrator of this instance. If you encounter any problems, <a href="mailto:wonderfall@targaryen.house">send him some mail</a>, or send him a private toot. There's no service guarantee, I'm admin on my free time...</p><br>
+
+<h3>How to donate?</h3>
+<p><em>Bitcoin</em> : <a href="bitcoin:3Pak9gkiU4R7K9qeHYySFyueRRCRuioXsN">3Pak9gkiU4R7K9qeHYySFyueRRCRuioXsN</a></p>
+<p><em>Liberapay</em> : <a href="https://liberapay.com/Wonderfall/">donate recurrently!</a></p>
+<p><em>Patreon</em> : <a href="https://www.patreon.com/wonderfall">become a patron!</a></p>
+<p>To guarantee the longevity of this instance, every single donation is useful. If you made a donation, don't hesitate to tell me : I can make you a free <a href="https://cloud.targaryen.house">Nextcloud</a> account. Anyway,
+ I would be immensely grateful.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f10677716f48bc1f.png?1491792695" alt="F10677716f48bc1f" /></div>
+<div class='name'>
+<a href="https://social.targaryen.house/@wonderfall"><span class='display_name emojify'>Wonderfall</span>
+<span class='username'>@wonderfall</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>wonderfall@targaryen.house</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/Wonderfall/mastodon-targaryen">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>a4893bb</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

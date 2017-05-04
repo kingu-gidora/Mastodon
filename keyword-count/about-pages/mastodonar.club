@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodonar.club
+ - MastodonAR - Instancia Argentina</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1Ryx6v4uIR8Mg07NTdZ0xptkpG+OtiDJcTa/Bf3cipoBmyaf/i0L5RBm7+/KvjJSzXKdXZ/NrEL13TlOWvRCFQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodonar.club</h2>
+<p><p>
+MastodonAR - Instancia Argentina de temática general, ideal para aquellos que quieren hablar el mismo idioma. 
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>174</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>10,963</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>267</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><ul>
+<p>A continuación se darán algunas normas básicas para mantener el respeto y el orden:</p>
+<li>No se permite ningún contenido con pornografía, pornografía infantil, ecchi/hentai.</li>
+<li>Cualquier tipo de racismo o discriminación conllevará a la eliminación del contenido y podrá ocasionar una restricción a su cuenta.</li>
+<li>Imágenes con violencia severa serán eliminadas</li>
+<li>Discusiones que inciten al odio serán eliminadas</li>
+<li>Se permite el uso de cualquier lenguaje</li>
+</ul>
+<ul>
+<p>Guia para principiantes creada por NeoRanger:</p>
+<li>https://neositelinux.com/2017/04/20/aporte-mastodon-for-dummies/</li>
+<p>Traduccion de la guia oficial:</p>
+<li>https://github.com/Ametlles/documentation/blob/Espa%C3%B1ol/Using-Mastodon/FAQ_ESP.md</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/4a3892d807558fa5.jpg?1493128180" alt="4a3892d807558fa5" /></div>
+<div class='name'>
+<a href="https://mastodonar.club/@neoranger"><span class='display_name emojify'>NeoRanger - neositelinux.com</span>
+<span class='username'>@neoranger</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>neoranger@openmailbox.org</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

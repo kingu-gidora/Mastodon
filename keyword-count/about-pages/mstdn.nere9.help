@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.nere9.help
+ - :realtek:</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XJFXL/hiEt0Zgr5H9d1jAMwOgGSSHFIVxb10suJZvtR8oPaHY+cptzEbsl7jAk6Z3TfSFsu97KneNiZdQ9fwcA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.nere9.help</h2>
+<p>Mastodon Powered by インターネット蟹工船</br>
+
+<h3><i class="fa fa-users" aria-hidden="true"></i> 対象</h3>
+<p>
+  ねれないみんな</br>
+  いきるのがつらいみんな</br>
+  のんびりしたいみんな</br>
+  ねこがすき</br>
+  どうぶつがすき</br>
+  (<a href="https://mstdn.fun">どこかの大学</a>の所属ではなくなったみんな)</br>
+</p>
+
+<h3><i class="fa fa-sticky-note-o" aria-hidden="true"></i> ルール</h3>
+<p>
+<i class="fa fa-gavel" aria-hidden="true"></i> 国内法に基づきます。</br>
+<i class="fa fa-thumbs-o-up" aria-hidden="true"></i> それ以外は基本的に自由です。</br>
+<i class="fa fa-ban" aria-hidden="true"></i> でもサーバに負荷のかかる行為はご遠慮ください。</br>
+<i class="fa fa-hand-peace-o" aria-hidden="true"></i> みんななかよく</br>
+</p>
+
+<h3><i class="fa fa-envelope-o" aria-hidden="true"></i> お問い合わせ先</h3>
+<p>
+Mastodon Powered by インターネット蟹工船は基本的に下記のインターネット蟹工船メンバーが運用しております。</br>
+私たちへの問い合わせは admin(at)nere9.help にお願いします。</br>
+<a href="https://nere9.help">インターネット蟹工船のホームページ</a>
+</p>
+
+インターネット蟹工船メンバー一覧(連絡がつき次第ここに増えていきます)</br>
+<ul>
+  <li>ejo090: <a href="https://mstdn.nere9.help/@ejo090">Mastodon(ここ)</a>, <a href="https://mstdn.maud.io/@ejo090">Mastodon(ほた鯖)</a>, <a href="https://twitter.com/ejo090">Twitter</a>, <a href="https://ejone.co">自サイト</a></li>
+  <li>kuro_milk: <a href="https://mstdn.nere9.help/@chrml">Mastodon(ここ)</a></li>
+  <li>satoshicano: <a href="https://mstdn.nere9.help/@satoshicano">Mastodon(ここ)</a>,
+ <a href="https://satoshicano.info">info</a></li>
+  <li>mizukmb: <a href="https://mstdn.nere9.help/@mizukmb">Mastodon(ここ)</a>, <a href="https://twitter.com/mizukmb">Twitter</a></li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>35</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>3,894</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>353</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>Instance構成</h3>
+<div class="information-board">
+    <div class="section">
+        <span><i class="fa fa-server" aria-hidden="true"></i> Application (Docker)</span><span></span>
+        <span>さくらのクラウド(TOKYO)</span>
+        <span>vCPU: 2コア</span>
+        <span>RAM: 4GB</span>
+        <span>Storage: 100GB</span>
+    </div>
+    <div class="section">
+        <span><i class="fa fa-database" aria-hidden="true"></i> Database (Redis)</span>
+        <span>さくらのクラウド(TOKYO)</span>
+        <span>vCPU: 2コア</span>
+        <span>RAM: 4GB</span>
+        <span>Storage: 100GB</span>
+    </div>
+    <div class="section">
+        <span><i class="fa fa-database" aria-hidden="true"></i> Database (PostgreSQL)</span>
+        <span>Google Cloud Platform(TOKYO)</span>
+        <span>vCPU: 2コア</span>
+        <span>RAM: 6GB</span>
+        <span>Storage: 24GB (Auto Scaling)</span>
+    </div>
+</div>
+
+<h3>Source Code</h3>
+<p>
+ソースコードは <i class="fa fa-gitlab" aria-hidden="true"></i> <a href="https://gitlab.ejone.co/kanikosen/mastodon/wikis/home">Gitlab</a> よりご参照ください。</br>
+このリポジトリは <i class="fa fa-github-alt" aria-hidden="true"></i> 本家 <a href="https://github.com/tootsuite/mastodon">(tootsuite/mastodon)</a> よりforkしたものであり、バージョンも極力追従していく方針です。</br>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://b.sakurastorage.jp/nere9help/accounts/avatars/000/000/001/original/ed0edc3816dce43e.jpg" alt="Ed0edc3816dce43e" /></div>
+<div class='name'>
+<a href="https://mstdn.nere9.help/@ejo090"><span class='display_name emojify'>えじょねこ</span>
+<span class='username'>@ejo090</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>admin@nere9.help</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

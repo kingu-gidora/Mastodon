@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.robotstart.info
+ - Robodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ETPVW0UGQV/sOErsBH9CF7iGvS95g1g2fYbykF7gpwYPCcZXQmn6+nPLvdvNCQrnNMZROcPY8TRUDeVaqB8Z/A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<div style='text-align:center;'>
+<img width="450" style="display:block;margin:0 auto 10px;max-width:100%;" src="/assets/lobodon_logo-d07552427f37c4bd6b77e6b08d1209ba99279f1f117a4671b00ef93a2395a392.png" alt="Lobodon logo" />
+</div>
+<h2>mastodon.robotstart.info</h2>
+<p><p>ロボット情報WEBマガジン「ロボスタ」が運営するインスタンスです。</p>
+<p>ロボット、AI、IoT、ドローンなどの話題を中心としていますが、上記に限らず、好きな内容を話していただいて大丈夫です。</p>
+<p style="color:#ffffff;font-weight:bold;margin:0;padding:0;margin-top:1.5em;">ルール</p>
+<p>各国の法律及び、日本国内の法律を厳守してください。</p>
+<p>公序良俗に反する投稿はおやめください。</p>
+<p>AIやBOTによる自動投稿などもOKですが、他人に迷惑がかかったり、サーバーに負荷のかかるご利用方法はおやめください。</p>
+<p style="color:#ffffff;font-weight:bold;margin:0;padding:0;margin-top:1.5em;">運用について</p>
+<p>本インスタンスの運用は、ロボットスタート株式会社が行います。
+データーの保証や継続しての運営をお約束するものではありませんので予めご了承ください</p>
+<p style="color:#ffffff;font-weight:bold;margin:0;padding:0;margin-top:1.5em;">お問い合わせ</p>
+<p style="margin:0;padding:0;">info@robotstart.co.jp宛に、メールにてお問い合わせください。</p>
+<p style="margin:0;padding:0;font-size:.9em;">※返信をお約束するものではありません。ご了承ください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>340</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>904</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>203</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/532/original/88728549974ed0f0.png?1493095262" alt="88728549974ed0f0" /></div>
+<div class='name'>
+<a href="https://mastodon.robotstart.info/@robotstart"><span class='display_name emojify'>robotstart</span>
+<span class='username'>@robotstart</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>info@robotstart.co.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/robotstart/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

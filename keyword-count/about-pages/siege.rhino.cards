@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>siege.rhino.cards
+ - 包囲サイ(Siege Rhino) | マジック・ザ・ギャザリングインスタンス</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="v/CEJ8nFgXkZSuPF98W0Nzj8D5pvYWvE8UrpLPprVWyAEwdDMGYvFzFaryMhejUwVINC2v7eQFVcjb4UzKvhhg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>siege.rhino.cards</h2>
+<p><p>マジック：ザ・ギャザリングに関する話題向け鯖です。</p>
+<p>包囲マストドンより包囲サイのほうが強い。</p>
+<p>エターナル、モダン、スタンダード、リミテッド、統率者（EDH）、MOなどプレイの話題。カードコレクトの話題なんでもどうぞ。</p>
+<p>mastodonの特性活かして他のMTGインスタンスとも繋がって盛り上げていきましょう！</p>
+
+<h2>ルール</h2>
+<p>公序良俗に反する投稿はおやめください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>84</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,122</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>44</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>マジック：ザ・ギャザリングに関する話題向け鯖です。</p>
+<p>包囲マストドンより包囲サイのほうが強い。</p>
+<h2>ルール</h2>
+<p>公序良俗に反する投稿はおやめください。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8de4ad2d2b38d744.png?1493186777" alt="8de4ad2d2b38d744" /></div>
+<div class='name'>
+<a href="https://siege.rhino.cards/@fubukiefsf"><span class='display_name emojify'>ふぶき氏</span>
+<span class='username'>@fubukiefsf</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>fubuki.efsf11+mastodon@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

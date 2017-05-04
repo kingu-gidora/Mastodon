@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.tetaneutral.net
+ - Mastodon Tetaneutral.net</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ODx3xKwKog+PCaNN6k1b4nrS4oGNPEbVW3bPrDuS8TWbW2LyYEkZX2jHrhiaS0ShR+PIVo5jfdF2tgXPre+SMw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.tetaneutral.net</h2>
+<p><p>Ce serveur héberge une instance de Mastodon, réseau social de micro-blogging libre et décentralisé. Vous pouvez vous inscrire ici pour partager avec les autres membres, ainsi qu'avec les membres des autres instances.</p> <p>Bienvenue.</p>
+<p>Si le serveur n'accepte plus les nouveaux utilisateurs, essayez sur <a href="https://mstdn.fr/">mstdn.fr</a>.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>554</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>9,017</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>840</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Instance de Mastodon hébergée par l'association <a href="https://tetaneutral.net">Tetaneutral.net</a> à Toulouse, France.</p> 
+<p>Son utilisation implique le respect de la législation française en vigueur.</p>
+<p>Les contenus illégaux seront retirés et en cas de récidive, le compte de leur auteur sera masqué, voire bloqué.</p>
+<p><b>Signalez</b> les contenus illégaux via le menu déroulant attaché à chaque pouet</p>
+<p>Ces conditions sont en cours de définition au sein de l'association. Elles sont susceptibles d'évoluer.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/006/original/1a0dd629d81666cc.png?1493614866" alt="1a0dd629d81666cc" /></div>
+<div class='name'>
+<a href="https://mastodon.tetaneutral.net/@tetaneutral_net"><span class='display_name emojify'>Tetaneutral.net</span>
+<span class='username'>@tetaneutral_net</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mastodon-contact@tetaneutral.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>babymetal.party
+ - BABYMETAL PARTY</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1sw8NWht6LUVEO9BZiGEsC2RGYN/BAZyAoGX6pwznTKznZsa8qLrzI3ONphhQiBOOW+VDlit1lx/TtCAmAd4ug==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>babymetal.party</h2>
+<p><p>BABYMETALファンが集まるMastodonのインスタンスです。</p>
+<p></p>
+<p>This is the Mastodon Instance for BABYMETAL fans.</p>
+<p></p>
+<p>Put your Kitsune up!</p>
+<p></p>
+<h2>ルール</font></h2>
+<ul>
+<li>日本の法律に反する行為は禁止です</li>
+<li>他者の権利の侵害になる行為は禁止です</li>
+<li>CD、DVD、Blu-ray等からコピーした音声や映像をTOOTしないでください</li>
+<li>BABYMETALのメンバーや関係者等のなりすましは禁止です</li>
+<li>We are THE ONE!</li>
+</ul>
+<p></p>
+<h2>Rules</font></h2>
+<ul>
+<li>Acts contrary to Japanese law are prohibited.</li>
+<li>Acts that infringe the rights of others are forbidden.</li>
+<li> Please do not post audio and video copied from CD, DVD, Blu-ray etc.</li>
+<li>We are THE ONE!</li>
+</ul>
+<p></P>
+<h2>管理者について</h2>
+<p>
+BABYMETALファンの<a href="https://babymetal.party/@mamma" target="_blank">@mamma</a>が運営しています。<br>
+<a href="https://twitter.com/mamma0079/" target="_blank">Twitter</a> <a href="https://www.facebook.com/seiichiro.higashi" target="_blank">Facebook</a> <a href="https://plus.google.com/u/0/+mamma00" target="_blank">Google+</a> <a href="http://ymf.sblo.jp" target="_blank">BLOG</a>
+</p>
+<h2>About administrator</h2>
+<p>
+This instance is operated by <a href="https://babymetal.party/@mamma" target="_blank">@mamma</a>.<br>
+<a href="https://twitter.com/mamma0079/" target="_blank">Twitter</a> <a href="https://www.facebook.com/seiichiro.higashi" target="_blank">Facebook</a> <a href="https://plus.google.com/u/0/+mamma00" target="_blank">Google+</a> <a href="http://ymf.sblo.jp" target="_blank">BLOG</a>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>81</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>369</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>129</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/2ff7ee54ca762edd.png?1493121076" alt="2ff7ee54ca762edd" /></div>
+<div class='name'>
+<a href="https://babymetal.party/@mamma"><span class='display_name emojify'>mamma (admin)</span>
+<span class='username'>@mamma</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>twingyeo.kr
+ - Twingyeo (트잉여)</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="u2vKg5vyQIqQNO1+8kIw5cXjk2czndChA7eaaHgwOdC9PEHCapQn2g1LeaFQDRIfR0APpZ9zS4h4OkzPloKNQA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>twingyeo.kr</h2>
+<p>Twingyeo (트잉여)는 한국어 사용자를 위한 Mastodon 인스턴스입니다.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>64</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,035</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>339</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>인스턴스 규칙 및 기타 공지 사항</h2>
+<h3>2017/04/26 16:31 갱신</h3>
+<h3>규칙</h3>
+<p>
+이 인스턴스에서는 다음과 같은 행위를 금지하고 있으며 규칙을 위반할 시 예고 없이 계정이 정지될 수도 있습니다.<br>
+※ 여기서 컨텐츠는 사용자가 이 인스턴스에 업로드한 Toot나 미디어를 칭합니다.
+</p>
+
+<ul>
+    <li>성적・잔혹 등의 <u>다른 사용자가 불쾌함을 느낄 수 있는 과격한 내용의 컨텐츠를 <b>NSFW 표시 없이</b> Public Timeline에 투고</u>하는 행위</li>
+    <li>다른 사용자를 모욕하거나 괴롭힘, 사칭, 명예 훼손의 목적으로 계정을 생성하거나 컨텐츠를 투고하는 행위 (사이버 불링・리벤지 포르노…)</li>
+    <li>스크립트 등의 자동화된 수단을 사용하여 계정을 다중 생성하거나 광고를 투고하는 행위</li>
+</ul>
+<h3>관리자 목록</h3>
+<p>현재 관리자 목록은 다음과 같습니다.<p>
+<ul>
+    <li><a href="/@cheesekun">@cheesekun</a></li>
+</ul>
+<h3>관리자가 지켜야 할 규칙</h3>
+<ul>
+    <li>모든 관리 사항은 최대한 투명하게 이루어져야 합니다.</li>
+    <li>신념, 입장의 차이, 개인적인 원한과 같은 이유로 사용자의 계정을 함부로 정지하지 않아야 합니다.</li>
+</ul>
+<h3>기타</h3>
+<ul>
+    <li>이 인스턴스는 100% 자비로 운영되고 있지만 현재 후원은 받지 않습니다.</li>
+    <li>Twitter <a href="https://twitter.com/twingyeo_kr"><span class="display_name">@twingyeo_kr</span></a> 를 팔로우 하셔서 이 인스턴스와 관련된 소식을 받아 보세요!</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c249eba3728471fe.jpg?1492572235" alt="C249eba3728471fe" /></div>
+<div class='name'>
+<a href="https://twingyeo.kr/@cheesekun"><span class='display_name emojify'>치즈군★은 할 일이 산더미야🗻🧀</span>
+<span class='username'>@cheesekun</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>doping.cheese@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

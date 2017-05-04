@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='zh-TW'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>g0v.social
+ - g0v.social</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="aO0cnVv68ehrbnlF1fvCQ1cdkyzONf0AU8sc7CWZDllWOECAKdrfua3RK+l5F443LgKOZl6neDT7VtFsP1jzyA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>g0v.social</h2>
+<p><p>A mastodon instance hosted by a decentralized community.</p>
+
+<p>
+We have a code of conduct here: <a href="http://tw.confcodeofconduct.com/">tw.confcodeofconduct.com</a>
+</p>
+
+<p>去中心化社群架設的去中心化社群網站</p>
+<p>本站參與守則： <a href="http://tw.confcodeofconduct.com/">tw.confcodeofconduct.com</a> </p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>這裡共有</span>
+<strong>147</strong>
+<span>位註冊使用者</span>
+</div>
+<div class='section'>
+<span>他們共發佈了</span>
+<strong>891</strong>
+<span>篇文章</span>
+</div>
+<div class='section'>
+<span>與其他</span>
+<strong>398</strong>
+<span>個服務站相連</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>聯絡我們</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/0ddc87e4d3a960bf.jpg?1491759358" alt="0ddc87e4d3a960bf" /></div>
+<div class='name'>
+<a href="https://g0v.social/@poga"><span class='display_name emojify'>poga 🐈</span>
+<span class='username'>@poga</span>
+</a></div>
+</div>
+<div class='contact-email'>
+商務信箱︰
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>連結</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">立即註冊</a></li>
+<li><a href="/auth/sign_in">登入</a></li>
+<li><a href="/terms">使用條款</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">原始碼</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

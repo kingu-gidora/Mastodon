@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>cmu.party
+ - CMU.party</title>
+<link rel="stylesheet" media="all" href="/assets/application-ef791615c8a28ca31e1d779a8a8dc4826f3ac828aef58ce8fde4fbbff5a166a2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Drn55oNx6tjF7eDYi/t9tvrUTE29I+xsAZzZD/1DBIHuohtYORBEhD1XDA2I+2is2S3a5PHPsk6euwqV/Z5vog==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>cmu.party</h2>
+<p>A Mastodon instance for the Carnegie Mellon community.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>16</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>49</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>104</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>This is space for Carnegie Mellon students, staff, and faculty to chat. This will be moderated for harassment.
+
+Please note that registration is restricted to cmu.edu (and subdomain) email addresses!</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a5a934ff0fd879a5.jpg?1491549158" alt="A5a934ff0fd879a5" /></div>
+<div class='name'>
+<a href="https://cmu.party/@cgleason"><span class='display_name emojify'>Cole Gleason</span>
+<span class='username'>@cgleason</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>cgleason@cmu.edu</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

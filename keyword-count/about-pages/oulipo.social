@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>oulipo.social
+ - Oulipo.social</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cnvbVxTlJDEvTvtMWTChp+igb0NipivM2x1gASCNeZytb2duwE9V4/oZiEyIY2v8MhhjgKunEzUbCPV3o8NFow==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>oulipo.social</h2>
+<p>A Dcntralizd and Fdratd Social Ntwork</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Contains</span>
+<strong>729</strong>
+<span>accounts</span>
+</div>
+<div class='section'>
+<span>Who said</span>
+<strong>7,644</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Links found to</span>
+<strong>463</strong>
+<span>instantiations</span>
+</div>
+</div>
+<div class='panel'><p>Oulipo.social is a lipogrammatic Mastodon for all.<p>
+
+<h2>FAQ</h2>
+<ol>
+  <li><em>I saw a stray fifth symbol! Can you fix it?</em><br>
+ Look at our <a href="https://github.com/mouse-reeve/mastodon/issues" target="_blank">list of bugs</a> on GitHub. It's probably known, and you shouldn't toot at @mus about it. If it's not known, add a bug or a PR on GitHub. </li>
+
+  <li><em>Can I post links that contain taboo symbols?</em><br>
+Go for it. Validation skips links and it's not a faux pas at all.</li>
+
+  <li><em>What if I post symbols that look similar to that taboo glyph?</em><br>
+Don't. Mods will discard toots that do this, and if you don't stop, banning may follow.</li> 
+
+  <li><em>No problm I'll writ lik this.</em><br>
+No. Stop. Don't do this.</li>
+
+  <li><em>But this is hard?</em><br>
+Practicing will bring you far.</li>
+
+  <li><em>What synonym should I sub in for [x]?</em><br>
+Try to stop looking for synonyms; if you try to swap out individual words, you'll find it tough going. Pull back and think abstractly about what you want to say and find words for that.</li>
+</ol>
+
+<h2>Social Contract</h2>
+<p>This social contract is an adaptation from <a href="https://mastodon.social/about/more">Mastodon.social</a>.</p>
+<p>What follows is not a law contract, and final ruling is up to administrators of oulipo.social; it should function to clarify our community policy and standards:</p>
+
+<ol>
+  <li>
+    Posts similar to any of this will not stay up on our activity list:
+    <ol type="a">
+      <li>Abundant ads</li>
+      <li>Bots that post spam</li>
+      <li>Pornography without a "CW" or "Tricky Topic" tag</li>
+      <li>Horrific or traumatic posts without a "CW" or "Tricky Topic" tag</li>
+      <li>That fifth symbol, or any variant of it, that is found in Latin script, including using "3" or homographic symbols in its spot.</li>
+    </ol>
+  </li>
+
+  <li>
+    Posts similar to any of this will not stay up on our activity list, and is possibly grounds for banning:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Misogyny or advocation of misogyny</li>
+      <li>Discrimination against LGBT minority groups or individuals, or advocation of that</li>
+      <li>Jingoism or militant nationalism</li>
+    </ol>
+  </li>
+
+  <li>
+    Posts similar to any of this will not stay up and is without doubt grounds for banning:
+    <ol type="a">
+      <li>Child pornography</li>
+      <li>Nazism of any kind or any promoting of National Socialism</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct which could stalk or harass participants or individuals, or stop individuals from participating in this community, or to impact usability and functionality of this community, or to harass anybody, or advocations that accounts do such actions, is not okay, and is grounds for banning any violators. This is activity such as:
+    <ol type="a">
+      <li>Continuing to talk to an individual that has said to stop, a platform's privacy tools notwithstanding.</li>
+      <li>Posting, and/or sharing an individual's data or information without that individual's approval (informally known as doxing or dropping dox).</li>
+      <li>Inciting accounts to post to an individual in additional discussion if that individual has said it should stop (informally known brigading or dogpiling).</li>
+    </ol>
+  </li>
+</ol>
+
+<p>All this notwithstanding, administrators of oulipo.social can ban any accounts, at any point, for any motivation, if not in violation of law.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/e7e2e31533086704.jpg?1492274454" alt="E7e2e31533086704" /></div>
+<div class='name'>
+<a href="https://oulipo.social/@mus"><span class='display_name emojify'>mus</span>
+<span class='username'>@mus</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Contact:
+<strong>mousereeve@riseup.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Start</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Privacy Policy</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Github</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

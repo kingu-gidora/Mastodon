@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>kitty.town
+ - Kitty.Town</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="anpAD3ZlSxlxdvp/T7/UTerxbm6WsFsvPI8b/63v2kYfOd2VRFR7XgDAuI8ENf11hFHcZVRn/YFG3lkxLAA2dA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>kitty.town</h2>
+<p><b>Kitty.Town</b> is a small Mastodon instance for kind people.
+<p>
+<p>
+Your choice of instance is an important one and we ask that you think on it carefully before making a decision.
+<p>
+<p>
+<a href="https://kitty.town/about/more">Please read over the Code of Conduct (located on the Extended Information page) before signing up.</a>
+<p>
+<p>
+If our rules do not suit your needs, there are many instances to choose from here: <a href="https://instances.mastodon.xyz/">instances.mastodon.xyz</a>
+<p>
+<p>
+Thank you!
+<p>
+<p>
+<img src="http://www.ginnymcqueen.com/wp-content/uploads/2017/04/kittytown.jpg"></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>23</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>657</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>241</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>
+<p>As a resident (user) of Kitty.Town, you agree to uphold an environment of respect and empathy for all users.
+<p>
+<p>
+Any conduct that is deemed oppressive is grounds for removal from Kitty.Town. Any language or action that expresses, reinforces, upholds or sympathizes with any form of systemic social domination is considered oppressive and is grounds for removal at any level deemed appropriate by the Mayor (Admin).
+<p>
+<p>
+Pornography, violence, and fast-blinking images/content should not be used as a profile photo and should always be posted with a "NSFW" tag/content warning.
+<p>
+<p>
+<br>
+The following types of content will be removed from the public timeline, and may result in a ban from Kitty.Town:
+<p>
+<p>•Unapproved bots (for approval, please contact the Mayor)
+<p>•Untagged pornography and sexually explicit content
+<p>•Untagged gore and graphic violence
+<p>•Racism or advocation of racism
+<p>•Sexism or advocation of sexism
+<p>•Discrimination against gender and sexual minorities, or advocation thereof
+<p>•Xenophobic and/or violent nationalism
+<p>
+<p>
+<br>
+The following types of content are explicitly disallowed and will result in a ban from Kitty.Town:
+<p>
+<p>•Sexual depictions of children
+<p>•Holocaust denial or Nazi symbolism
+<p>•Conduct promoting the ideology of National Socialism
+<p>•Promoting the oppression of any group based on gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
+<p>
+<p>
+<br>
+Any conduct intended to stalk, harass, or intimidate other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions is forbidden and subject to punishment up to and including a ban from Kitty.Town.
+<p>
+<p>
+This can include, but is not limited to, the following behaviors:
+<p>
+<p>•Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.
+<p>•Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission.
+<p>•Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist may be considered harassment.
+<p>•Posting and/or disseminating a person's posts ("toots"), including screen captures or any other content without express permission.
+<p>
+<p>
+<br>
+This Code of Conduct applies both to content on Kitty.Town and to public spaces when an individual is representing Kitty.Town or its community.
+<p>
+<p>
+Reports of abusive, harassing, or otherwise unacceptable behavior may be made by using the report button. All reports will be reviewed and dealt with as soon as possible. Admins are obligated to maintain confidentiality with regard to the reporter of an incident.
+<p>
+<p>
+Accounts that are inactive for more than 6 months may be deleted at the discretion of the Mayor (Admin).
+<p>
+<p>
+The Mayor (Admin) reserves the right to revoke any user's content on or access to Kitty.Town, at any time, for any reason.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/239a57853821f689.jpeg?1493590625" alt="239a57853821f689" /></div>
+<div class='name'>
+<a href="https://kitty.town/@GinnyMcQueen"><span class='display_name emojify'>Ginny McQueen 🌻</span>
+<span class='username'>@GinnyMcQueen</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>kittytownmail@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

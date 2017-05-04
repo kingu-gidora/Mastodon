@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.fukuoka.jp
+ - mstdn.fukuoka.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-7778efeba393c4be03c535adea416b88dd35d15a7ad1a5341165b1602747c453.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="96QjVz0AtGzv1cGX+rooaCJ6kYVAa1sVHGl+wTD/Mykf0OEy3kT81JAD5COJREc5HlUJg2+0HV1FoL9X4InMXQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.fukuoka.jp</h2>
+<p>福岡地域向けインスタンスです。<BR>
+もうすぐどんたくがありますね。<BR>
+福岡在住の人もそうでない人もお気軽にどうぞ！<BR>
+みんなの力で福岡を盛り上げていきましょう！！<BR>
+
+<h3>登録が終わったら?</h3>
+<ui>ローカルタイムラインにトゥートしてみましょう！！</ui><br>
+<ui>福岡の美味しい食べ物やさん投稿大歓迎です！！</ui>
+<br><br>
+<h3>ルール</h3>
+<ui>日本の法律厳守でみんな仲良く楽しみましょう。</ui><br>
+<ui>管理人が不適切と判断した場合はトゥートの削除を行なう場合があります。</ui></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>101</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>553</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>152</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/b2742fb7c0dd6f81.jpeg?1492874297" alt="B2742fb7c0dd6f81" /></div>
+<div class='name'>
+<a href="https://mstdn.fukuoka.jp/@usimaru"><span class='display_name emojify'>うしまる✅</span>
+<span class='username'>@usimaru</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>usimaru.mstdn.fukuoka[@]gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

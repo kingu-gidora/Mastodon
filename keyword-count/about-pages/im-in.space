@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>im-in.space
+ - SPAAAAACE!</title>
+<link rel="stylesheet" media="all" href="/assets/custom-16c9a5fff334e581d2e3bdfbfeb53fbc96fbfa0d0e409716cc43e77cdf391edc.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BW9ZUFFJUrIbyxFLANshW81gJyJbC0au5oYCFIXxsJ4FoF1xXa81y5lFrUrWcsA7PL0GxyI6a00l7tkRb+ZaVw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>im-in.space</h2>
+<p><p>
+    Space. Space? <em>I'm in space!</em>
+    <br><br>
+    This instance is using the <a class="aboutlink" href="https://userstyles.org/styles/140852/mastodon-flat-dark-and-colourful">Flat, Dark and Colourful!</a> (Blue and Orange) stylesheet by <a class="aboutlink" href="https://aleph.land/@dia">@dia@aleph.land</a>.
+    <br><br>
+    Please follow <a href="https://im-in.space/@status">@status</a> to get updates and news! 
+</p>
+    <div class="spacecore"></div>
+<p>
+    <a class="aboutlink" href="http://tertonda.deviantart.com/art/Space-Core-268796291">Space Core image by TertonDA</a>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>338</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,472</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>845</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Stats</h3>
+<p>
+    <a href="https://status.im-in.space">Status</a>
+    - 
+    <a href="https://netdata.im-in.space/">NetData</a>
+    <br>
+    <img src="https://netdata.im-in.space/api/v1/badge.svg?chart=system.cpu&amp;refresh=auto"> <img src="https://netdata.im-in.space/api/v1/badge.svg?chart=system.ram&amp;alarm=ram_in_use&amp;refresh=auto"> <img src="https://netdata.im-in.space/api/v1/badge.svg?chart=disk_space._&amp;alarm=disk_space_usage&amp;refresh=auto">
+</p>
+
+<br>
+<h3>Registrations are (temporarily) open</h3>
+<p>
+    Enjoy!
+</p>
+
+<!--
+<br>
+<h3>Registrations closed?</h3>
+<p>
+    Are you a friend but the registrations are closed? Ask Kody on <a href="https://twitter.com/MKody97">that birb website</a> or on Mastodon with <a href="https://im-in.space/@kdy">kdy@im-in.space</a>! (Or use that as an email.)
+</p>
+-->
+
+<br>
+<h3>Code modifications</h3>
+<p>
+    We've made some changes to the Mastodon code and styles to personalize this instance. Our code is available on GitHub at <a href="https://github.com/im-in-space/mastodon">im-in-space/mastodon</a>.
+</p>
+
+<br>
+<h3>Blocked accounts and instances</h3>
+<p>
+    Due to the nature/behavior from some instances or users, we have silenced or suspended some of them. The complete list is <a href="https://github.com/im-in-space/blocking-list">available on GitHub, here.</a>
+</p>
+
+<br>
+<h3>Basic rules</h3>
+<ol>
+<li>Don't be a d*ck, respect the others (no hate speech) and fight in direct messages.</li>
+<li>Please keep bad memes, sexism, racism or any political incorrect stuff out of the public timeline.<br>Feel free to use the "unlisted", "private" or "direct" visibility options when talking between friends and with people who are okay about that.
+<br>If I get reports because you didn't respect the restrictions, you might get suspended.</li>
+<li>NSFW is allowed if you put it behind both NSFW <u>and</u> CW tags (below the message text box). Loli, gore and rape is not allowed.</li>
+<li>Don't make parody accounts and don't spam.</li>
+<li>We don't like bots who randomly follow users.</li>
+<li>Respect French law.</li>
+</ol>
+<p>
+In case of non-respect of those rules, use the report link (in the toot menu) or contact <a href="https://im-in.space/@kdy">@kdy</a>.
+</p>
+
+<br>
+<h3>Server info</h3>
+<p>
+    Like many other French people did, this server is hosted at Scaleway, in Paris.<br>
+    VC1M (4 x86 64bit Cores, 4GB memory) with a 50GB LSSD. Storage can be upgraded after a quick reboot.<br>
+    IPv4: <code>163.172.147.245</code><br>
+    IPv6: <code>2001:bc8:4400:2500::25:907</code><br>
+    <br>
+    We do daily offsite and encrypted backups.<br>
+    We will <u>never</u> look at your private toots, unless someone sends us a report about it.
+</p>
+
+<br>
+<h3>How long until this instance shuts down?</h3>
+<p>
+    Except if I suddenly don't have any money to run this, this instance will be running until the domain expires.<br>
+    For now it's until April 15th 2018, but we can renew it before we get there.
+</p>
+<p>
+    <a href='https://ko-fi.com/A637AV5'><img style="border: 0px; height: 36px; vertical-align: middle;" src="/assets/kofi2.png" alt="Kofi2" /></a>
+    <script src="https://liberapay.com/kdy/widgets/button.js"></script>
+    <noscript>
+        <a href='https://liberapay.com/kdy/donate'>
+            <img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate" />
+        </a>
+    </noscript>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/2dc926b3338efac0.gif?1492363377" alt="2dc926b3338efac0" /></div>
+<div class='name'>
+<a href="https://im-in.space/@kdy"><span class='display_name emojify'>ᴹKody</span>
+<span class='username'>@kdy</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>kdy@im-in.space</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/im-in-space/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Git Commit</div>
+<div class='panel-list'>
+<ul>
+<li><a href="https://github.com/im-in-space/mastodon/commit/b9f9e7e">b9f9e7e</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

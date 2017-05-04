@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>hex.bz
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b13b13f52f33a16c900b04d3473cd65c7d4139e55f00338e965c24fdc6ed8f08.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cfnbIwpycJ7WLQ0/CkCZm/LKSyEgGeUi7bM2RNLHvRSG6VUmHviKpUO5ippNySqkRYAGc/EmXX1xfpx13E2F8w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>hex.bz</h2>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>3,031</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>9,266</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,003</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>rules</h2>
+
+<p>generally, don't be a bad person.</h2>
+
+<ul>
+  <li>corporate accounts are cool, but please limit public posts</li>
+  <li>parodies are fine if they are obvious, but including that it is a parody somewhere in the profile would be best</li>
+  <li>bots are not allowed to post to the public timeline without permission from an admin and may not interact with users without direct user permission</li>
+  <li>content that is illegal anywhere in the United States or Canada is a bannable offence without appeal</li>
+  <li>hate speech or similar is forbidden</li>
+</ul>
+
+<p>rules may change at any time and ultimately, everything is left up to the discretion of the administration.</p>
+
+<p>currently, <a href="https://hex.bz/@fox">fox@hex.bz</a> is the only admin. please contact them if you have any issues.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>syfaro@foxpaw.in</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

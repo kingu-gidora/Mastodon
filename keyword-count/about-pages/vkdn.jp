@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>vkdn.jp
+ - vkdn.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="7p80fdeK3CQJ06MdJ5itXKyc8AS5rh7vvK1y/Yq6DJKh/xp1qnxxHfSls5w1ZxY+cLhasdLoh4xeSQIwaqT90w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>vkdn.jp</h2>
+<p><em>vkdn</em>（ブイケイディーエヌ、またはブイケードンと読みます）は<a href="https://www.vkdb.jp/" target="_blank">vkdb.jp</a>が運営するMastodonのインスタンスです。日本の法律を守ってご自由にお使いください。
+ヴィジュアル系に強いかもしれません。<br>
+<em>つまり？</em><br>
+ヴィジュアル系クラスタ向けのSNS。みたいな感じで使ってもらえればと思います。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>161</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>799</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>242</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h2><i class="fa fa-address-card fa-fw" aria-hidden="true"></i> 公式アカウント</h2>
+<p><i class="fa fa-user fa-fw" aria-hidden="true"></i> Mastodon: <a href="https://vkdn.jp/@vkdb">vkdb@vkdn.jp</a><br />
+<i class="fa fa-twitter fa-fw" aria-hidden="true"></i> Twitter: <a href="https://twitter.com/vkdb">@vkdb</a></p>
+
+<h2><i class="fa fa-server fa-fw" aria-hidden="true"></i>構成</h2>
+
+<p><i class="fa fa-cloud fa-fw" aria-hidden="true"></i> vkdnは<em>Google Cloud Platform</em>上で稼働しています。<br />
+Compute Engine, Cloud Storage, Cloud DNSを利用しています。</p>
+
+<div class='information-board'>
+<div class='section'>
+<span>Region</span>
+<strong>us-west1</strong>
+</div>
+<div class='section'>
+<span>vCPU</span>
+<strong>0.5</strong>
+<span>コア</span>
+</div>
+<div class='section'>
+<span>RAM</span>
+<strong>1.7</strong>
+<span>GB</span>
+</div>
+<div class='section'>
+<span>HDD</span>
+<strong>30</strong>
+<span>GB</span>
+</div>
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://storage.googleapis.com/vkdn.jp/accounts/avatars/000/000/002/original/780af9e04aa121cb.jpg" alt="780af9e04aa121cb" /></div>
+<div class='name'>
+<a href="https://vkdn.jp/@kuwavkdb"><span class='display_name emojify'>kuwa</span>
+<span class='username'>@kuwavkdb</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>kuwa@vkdb.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

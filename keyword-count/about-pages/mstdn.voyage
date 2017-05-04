@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.voyage - 旅行実況マストドン</title>
+<link rel="stylesheet" media="all" href="/assets/custom-6d3e6a1734efc9adcfef5a819824e6166ca4af11f07cd8a683d4a1e7d9dfdd70.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lLCJoy4xBVBhpeavJLGxpMeA75ewUeNC0MPznxiFyVccGz/SgUaxxxMS1tHzA9Yoiz4uOZQeMIj8nGqkkNjSHA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.voyage</h2>
+<p>旅行実況マストドンは、旅行メディア「<a href="https://trip-s.world/">TRIP'S（トリップス）</a>」が運営するMastodonのインスタンス（サーバー）です。</br></br>
+旅行中の方は、実況を。</br>
+そうでない方は、旅行者を見守ったり、手助けしたり。</br></br>
+そんな世界観ですが、「旅行に関する自由なコミュニケーションを楽しめる場」として、みなさんにお使いいただけますと幸いです。
+<h3>ルール</h3>
+<p>法律遵守。公序良俗に反する投稿はお控えください。</p>
+<h3>お問い合わせ先</h3>
+<p>Mastodon → <a href="https://mstdn.voyage/@trips">@trips</a></p>
+<p>メール → <a href="mailto:info_mstdn@trip-s.world">info_mstdn@trip-s.world</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>119</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,003</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>283</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>旅行実況マストドンは、旅行メディア「<a href="https://trip-s.world/">TRIP'S（トリップス）</a>」が運営するMastodonのインスタンス（サーバー）です。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>info_mstdn@trip-s.world</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

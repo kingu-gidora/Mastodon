@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.rche-iidx.jp - Mastodon Rche</title>
+<link rel="stylesheet" media="all" href="/assets/application-0ea370067efe163402ef5e294cad6d887a296502ab5b2e041719fc229ee0852e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QziQa2GlAWWh1IJZqXc9FMmDlhotpyHJ+i6s+CAC4fYoxGOss1EIX2lhiLazhobK6aZ3YYIRNXUyziHyGKVq0Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.rche-iidx.jp</h2>
+<p><em>傲慢ちゃんはかわいい！</em>
+<br><br>
+音ゲーマー向けのインスタンスです。リザルト投稿、キャラ談義、ディスカッションにどうぞ。
+<br><br>
+ドメインにiidxとついていますが、弐寺以外の話題も大歓迎です。
+<br>
+あくまで日本国内の法律に基づいて使用して下さい。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>90</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>534</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>150</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>特徴など</h2>
+<p>毎日午前4時に自動的にmasterに追従するようにしてみました。</p>
+<p>その間はサービスを一旦停止しているため、502エラーなどが出る事があります。</p>
+<p><a href="http://vps.sakura.ad.jp/">さくらのVPS</a>、東京第2ゾーンにて動かしています。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/3afebf145226c379.jpg?1492519136" alt="3afebf145226c379" /></div>
+<div class='name'>
+<a href="https://mstdn.rche-iidx.jp/@Q"><span class='display_name emojify'>キュー(admin)</span>
+<span class='username'>@Q</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

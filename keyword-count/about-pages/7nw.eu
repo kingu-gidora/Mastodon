@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>7nw.eu
+ - 7nw.eu</title>
+<link rel="stylesheet" media="all" href="/assets/custom-0123f3ea8912a63b438cd185de5248a14c51438bec950cf6f41187d40ba3697a.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ABANIcDduXbf4AJfMVi2ZbJh4wXAnFNsLMZWL1axRfxJiDiIHjbR8U6Q2oImCMa2luTblPWKuuwa1i4NDlPWZw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>7nw.eu</h2>
+<p><h2>🇬🇧 English</h2>
+<h3>7nw.eu is a Mastodon instance like others. There are no specific rules, except respect.<b></h3>
+<h2>🇫🇷 Français</h2>
+<h3>7nw.eu est une instance Mastodon comme les autres, il n'y a pas vraiment de règles en particulier, si ce n'est le respect.<b></h3>
+
+:D</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>91</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>4,357</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>552</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>🇬🇧 English</h2><br><h3>FOSS lovers, welcome !</h3>
+<h3>(Anime&manga fans too)</h3>
+<h2>🇫🇷 Français</h2>
+<h3>What des FOSS? Bienvenus :D.</h3>
+<h3>(Les fan d'animes&manga aussi)</h3>
+<img src="https://7nw.eu/img.jpg"></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f77d0832757b40a2.png?1491242700" alt="F77d0832757b40a2" /></div>
+<div class='name'>
+<a href="https://7nw.eu/@Luclu7"><span class='display_name emojify'>Luclu7</span>
+<span class='username'>@Luclu7</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>luclu7@luclu7.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

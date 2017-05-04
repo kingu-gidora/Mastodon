@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>masto.svnet.fr
+ - SVNET - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mkrIGxINFne1Rgt0n3nY4tC00Zjrwug7YjqJQy5kDgwFYHd7rD8KjJPEw7MUiPa03mMKAgqqXOgo43P+nXfZKQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>masto.svnet.fr</h2>
+<p>SVNET - Mastodon est maintenu sous le nom de ma micro-entreprise SAMUELVERMEULEN.NET située à Beauvais (Oise)
+
+SAMUELVERMEULEN.NET est déclaré auprès de la CNIL sous le numéro : 2030158 v 0 à la date du 30 janvier 2017
+
+SAMUELVERMEULEN.NET est déclaré auprès de l’Autorité de Régulation des Communications Électroniques et des Postes (ARCEP) sous le numéro 16-0501 par l’attribution du Code Opérateur SAEN
+
+Plus d'informations : <a href="https://www.samuelvermeulen.net" target="_blank">SAMUELVERMEULEN.NET</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>16</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>681</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>476</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'>SVNET - Mastodon est maintenu sous le nom de ma micro-entreprise SAMUELVERMEULEN.NET située à Beauvais (Oise)
+
+SAMUELVERMEULEN.NET est déclaré auprès de la CNIL sous le numéro : 2030158 v 0 à la date du 30 janvier 2017
+
+SAMUELVERMEULEN.NET est déclaré auprès de l’Autorité de Régulation des Communications Électroniques et des Postes (ARCEP) sous le numéro 16-0501 par l’attribution du Code Opérateur SAEN
+
+Plus d'informations : <a href="https://www.samuelvermeulen.net" target="_blank">SAMUELVERMEULEN.NET</a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Courriel professionnel
+<strong>contact@svnet.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

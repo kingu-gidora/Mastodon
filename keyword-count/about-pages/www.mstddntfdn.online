@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>www.mstddntfdn.online
+ - マストどどんとふドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pR/i5EBf1dUCxOlJ/LshX9VxjDo2oZrtu0Ekuv14vRgfmzR0gA9OIZ0/OIOS09X/D26w1PrtwuAs2MbJmJgtjw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>www.mstddntfdn.online</h2>
+<p><IMG SRC="https://www.taruki.com/images/mstddntfdn_logo.png"><BR>
+どどんとふ公式鯖がお送りする、マストドンサーバー「マストどどんとふドン」です。(It is a mastodon server "MastoDodontoFDon" managed by webmaster of DodonF certificate server)<BR>
+利用者のほとんどが日本人です(
+Most of the users are Japanese)<BR>
+やっつけで作ったのですが、以下の注意を守ってご自由に遊んでください。
+
+<H3>注意事項(Term of use)</H3>
+<UL>
+<LI>他者への誹謗中傷、罵倒、暴言、差別的発言は辞めましょう(仲良くね)</LI>
+<LI>しょぼいリソースなので巨大画像とか大量投稿とかバルスとかはお控えください(Do not give overload such as balse)</LI>
+<LI>アダルト利用・非合法なデータ掲載はしないでください。</LI>
+<LI>いきなり閉じたりデータ消したりするかもしれませんので、重要性の高い利用はお控えください。(Be careful using production use.)</LI>
+<LI>データ漏洩等による責任は一切負いませんので、見えても困らないメールアドレス、名前でご利用ください。(No support and No warranty)</LI>
+<LI><B>他サイトなどとパスワード共用は絶対しないでください。(Do not reuse password with other web service)</B></LI>
+</UL></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>241</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,572</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>435</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>広告がないと書いてありますが、利用者数が増えてきて広告の貼り方が分かれば貼るかもしれません。<P>
+このマストドンはどどんとふ公式鯖と同じインフラを使っていますので、公式鯖のスポンサーになっていただきサーバー維持費用を拠出くださっている以下のスポンサー様のご支援により成り立っています。<BR>
+<a href="http://scenario.trpg.me/" target="_blank"><img class="aligncenter size-full wp-image-6418" src="https://www.taruki.com/wp/wp-content/uploads/2016/05/senario_banner.jpg" alt="TRPGシナリオ作成大全" width="746" height="218" /></a>
+<a href="http://tsukueasobi.nagoya/" target="_blank"><img class="aligncenter size-full wp-image-6417" src="https://www.taruki.com/wp/wp-content/uploads/2016/05/tukueasobi_banner.png" alt="ツクエアソビ" width="728" height="90" /></a>
+<H3>本サーバー維持に支援したいという方へ</H3>
+頂けるものはありがたく頂戴いたしますが、見返り＆お返しは何もできませんので、それだけはご了承ください。
+<UL>
+<LI><A HREF="http://amzn.asia/6DpAoGJ">Amazon欲しいものリスト</A></LI>
+<LI>Amazonギフト券:連絡先のビジネスメール宛にお願いします</LI>
+<LI>bitcoin: 1GaatvxjaMU8pgsVz2nLYqbPu4tSsv8NQC</LI>
+<LI>monacoin: MNRVu3oWYKtW9qDmVEPpjrEUW6ojtLcjPr</LI>
+</UL></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/bc31d21772570499.jpg?1492184852" alt="Bc31d21772570499" /></div>
+<div class='name'>
+<a href="https://www.mstddntfdn.online/@mastododontofdon"><span class='display_name emojify'>ますとどんとふどんの管理人:fish: </span>
+<span class='username'>@mastododontofdon</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>mstddntfdn@taruki.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

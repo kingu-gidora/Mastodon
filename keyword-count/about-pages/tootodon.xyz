@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>tootodon.xyz
+ - Tootodon.xyz (Mastodon instance)</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="YQcaj6gXgaXaegmjQdONHf8optUa0l4Yf/lvrcaQ3hn/C1CUQuyt3IXx74EVa93ce6nRXcMAT6tnnwSFHj7YHA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>tootodon.xyz</h2>
+<p><p>Welcome ! This Mastodon instance is located in France but we are open for people from all around the world. Feel free to join us in this adventure.</p>
+
+<p style="color: white">Bienvenue ! Cette instance de Mastodon est située en France, mais nous sommes ouverts aux gens du monde entier. N'hésitez pas à nous rejoindre dans cette aventure.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>82</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>739</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>486</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>What is the goal of this instance ?</h3>
+
+<p>This instance if open to everyone. We are talking about programming, video games, electronics, computer, music, mangas, animes, high-tech and a lot of other things...</p>
+
+<p>tootodon.xyz don't take use of advertising or external analytics software and does not make any money with your informations.</p>
+<p>Instead you can help us by dropping a small donation.</p>
+
+<p>Follow <a href="https://tootodon.xyz/@announcement">@announcement</a> for status updates, planned downtimes, etc.</p>
+
+<h3>Who's behind tootodon.xyz ?</h3>
+
+<p>Only one admin currently manage this Mastodon instance. If you want to help and join the team please contact <a href="https://tootodon.xyz/@nnjeremy">@nnjeremy</a>.</p>
+
+<p>The team :</p>
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-user-circle"></i><a href="https://tootodon.xyz/@nnjeremy">@nnjeremy</a>, <a href="https://tootodon.xyz/@nnjeremy/22931">Introduction</a></li>
+</ul>
+</div>
+</div>
+
+<p>We're just volunteers, so problems can occur on this server. We are not responsible if data are lost or if service is interrupted. You've been warned..</p>
+
+<h3>What are the rules ?</h3>
+
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-check-circle"></i>Since the server is hosted in France, you must respect the Law of France.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Allowed languages: English, French (more language available as sone as we find more moderator)</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Racism, xenophobia, homophobia are strictly prohibited.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Lolicon, immoral and indecent child pics are strictly prohibited</li>
+    <li><i class="fa fa-li fa-check-circle"></i>NSFW is allowed only in Content Warning.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Gory, bloody and violent pictures only in Content Warning.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Don't be a troll, Don't be a bully.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>Don't be a jerk, please.</li>
+    <li><i class="fa fa-li fa-check-circle"></i>You can report every post you judge offensive.</li>
+</ul>
+</div>
+</div>
+
+<p>Any user not respecting these rules may get silenced or suspended.<br/>
+<p>Bot accounts can be silenced if there are too much complains about them.</p>
+
+<h3>What are allowed bots and instance utilities ?</h3>
+
+<p>If you intend to run your own bot on my instance, you should contact tootodon.xyz team first.</p>
+
+<p>Here is the list of some utilities for this instance, they won't post in the public timeline so you should follow them :</p>
+
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-user-circle"></i><a href="https://tootodon.xyz/@User_Count_Bot">@User_Count_Bot</a> : a usercount bot for this instance</li>
+</ul>
+</div>
+</div>
+ 
+<h3>Does tootodon.xyz Silence/Suspend other instances ?</h3>
+
+<p>Yes, unfortunately we have to Silence/Suspend some instances in order to respect French law and server stability. You can find the complete list of concerned instances bellow :</p>
+
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-times-circle"></i>pawoo.net (Silence: inappropriate media attachments)</li>
+</ul>
+</div>
+</div>
+	
+<h3>What's behind ?</h3>
+
+<p>This instance is hosted on a Sacleway VPS server located in France (EU). We will migrate contents in a new server as soon as we have more users in the instance and if donations permit it.</p>
+
+<p>Server has the following specs :</p>
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-check-circle"></i>CPU : <strong>2</strong> x86 64bit Cores</li>
+    <li><i class="fa fa-li fa-check-circle"></i>RAM : <strong>2GB</strong></li>
+    <li><i class="fa fa-li fa-check-circle"></i>SSD : <strong>50GB</strong></li>
+    <li><i class="fa fa-li fa-check-circle"></i>OS : <strong>Debian 8 Jessie</strong></li>
+    <li><i class="fa fa-li fa-check-circle"></i>Bandwidth : <strong>200 Mbit/s</strong></li>
+</ul>
+</div>
+</div>
+
+<p>Here is what we have to pay :</p>
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-info-circle"></i>Domaine name: 10€/year</li>
+    <li><i class="fa fa-li fa-info-circle"></i>Server: 3€/month</li>
+    <li><i class="fa fa-li fa-info-circle"></i>Backup server: 2€/month</li>
+</ul>
+</div>
+</div>
+
+<p>Backups of Mastodon are made Weekly.</p>
+
+<h3>How can I make a donation ?</h3>
+
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+    <li><i class="fa fa-li fa-check-circle"></i><a href="https://www.patreon.com/nnjeremy">Patreon</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/90526e04defe1edc.jpg?1491746354" alt="90526e04defe1edc" /></div>
+<div class='name'>
+<a href="https://tootodon.xyz/@nnjeremy"><span class='display_name emojify'>nnjeremy</span>
+<span class='username'>@nnjeremy</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@tootodon.xyz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>freehold.earth
+ - Freehold Earth</title>
+<link rel="stylesheet" media="all" href="/assets/application-1fdfe76db8f5db4c97b57f2759813e20d6c269275030b3e0fdef1739283ab7a3.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="WwKdp6jfnNVp0KGwfo1LF+ekeSZCEmCME0XjXlfR1D6rgXP2jOq+BjODNkZEKBzcOCxOsuzdi+6hQpU50BVoMQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>freehold.earth</h2>
+<p>Freehold.Earth is a free-speech centered community, extremely lightly moderated (we'll do what we can about spam and harassment, and possibly some management of the federated public timeline, that's about it...do as you please when communicating with followers!).
+
+More info at <a href="https://freehold.earth/about/more">https://freehold.earth/about/more</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>131</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>869</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>473</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3 id="welcome">Welcome!</h3>
+
+<p>The unifying theme of Freehold.Earth is free speech. We welcome people from all walks of life, even those we don’t particularly like, to have a voice in the world.  While the initial round of invites mostly went to folks from the infosec and free speech advocacy communities, registration is open whenever our capacity limitations permit.</p>
+
+<p>However, if you are the sort of person who wants those you deem to be “bad people” or holders of “dangerous opinions” ejected from the community…this is not the place for you. I guarantee that no matter your ideological bent, there will be someone here you deem bad/dangerous.</p>
+
+
+
+<h3 id="what-does-this-mean-in-terms-of-user-experience">What does this mean in terms of user experience?</h3>
+
+<p>The admins don’t want to hear about your problems with anyone you haven’t both muted and blocked.  It’s your job to step away from speech that is troubling to you.  We will take action to:</p>
+
+<ul>
+<li>Try to mitigate spam problems.</li>
+<li>Try to intervene in harrassment, defined specifically as a user persistently contacting another user who has already muted and blocked them. If you didn’t mute and block, they aren’t harrassing you, though they may be annoying.  Annoying is not on the list of things we care about.</li>
+<li>Try to mitigate actual security issues.</li>
+<li>Encourage a tolerant and open community where users can control which content they produce and engage with.</li>
+</ul>
+
+<p>Note the use of “try” and “encourage”…there are things we simply do not control, and we will not sacrifice free speech for everyone in an attempt to make our community a safe haven from all the world’s ills. Earth is a chaotic place, and Freehold.Earth will likely be so as well.</p>
+
+
+
+<h3 id="what-should-users-know">What should users know?</h3>
+
+<ul>
+<li>A “post” (“tweet” elsewhere) is called a “toot” here. To repeat/amplify a toot is to “boost” that toot.</li>
+<li>We favorite things we like, by clicking the star on the toot.</li>
+<li>The Local Timeline is all public posts at the moment on Freehold.Earth</li>
+<li>The Federated Timeline is every public post from anywhere that is seen by Freehold.Earth – the more remote users followed by our users, the more of a firehose this becomes.</li>
+</ul>
+
+
+
+<h3 id="are-there-any-tips-for-being-loved-and-followed-by-many">Are there any tips for being loved and followed by many?</h3>
+
+<p>Generally, we’re not here to tell you what to do…but in case you were wondering what social conventions are popular, consider the following.  Observing these tips will also help keep other servers from blocking our traffic!</p>
+
+<ul>
+<li>Please use the #NSFW tag for NSFW posts…this allows other users to filter their view in public places.</li>
+<li>Please wrap content likely to annoy some of your audience (politics, rants, etc) in a CW (Content Warning).</li>
+<li>Please don’t use an animated GIF for your avatar.</li>
+<li>Please place the #bot tag in the profile of any non-human account.</li>
+<li>Please be a bit kinder than is really called for, and disengage rather than escalate when you see drama starting.</li>
+<li>When someone’s being an asshat, please assume it’s out of misunderstanding rather than malice, until they prove you wrong.</li>
+</ul>
+
+
+
+<h3 id="meet-the-freeholdearth-admin-team">Meet the Freehold.Earth admin team:</h3>
+
+<ul>
+<li><strong>HedgeMage</strong> …This is my server, but I’m more often active on my personal account, <a href="https://maly.io/@HedgeMage">HedgeMage@maly.io</a> than on Freehold.</li>
+<li><strong><a href="https://freehold.earth/@Consentacles">Consentacles</a></strong> …I’m generally friendly…AFTER coffee has been applied.</li>
+<li><strong><a href="https://freehold.earth/@KatamariChaos">KatamariChaos</a></strong> …I like to boost a good toot.</li>
+</ul>
+
+
+
+<h3 id="nodes-instances-currently-blocked-by-freeholdearth">Nodes (instances) currently blocked by Freehold.Earth</h3>
+
+<p><strong>**NONE**</strong></p>
+
+<h3 id="a-note-on-bot-accounts">A note on bot accounts:</h3>
+
+<p>We are currently experimenting with silencing followbot accounts to reduce noise in the Federated Timeline at Freehold.Earth.</p>
+
+<ul>
+<li>Follow bot traffic should not appear in the Federated Timeline, if it does, feel free to report it so we can silence.</li>
+<li>Follow bots are NOT under a suspension ban. You can still follow them (and they you) if desired, the traffic just won’t be in the Federated Timeline. Some followbots will not follow users with <code>#nobot</code> in their profile.</li>
+<li>It is possible for bots that are not follow bots to get caught up in this ban. If you think you have seen this happening, please contact the admins.</li>
+</ul>
+
+<p>A follow bot is a bot that indiscriminately follows most/all users it comes across, in an attempt to increase federation between small servers and the rest of the Fediverse. Because their follow choices are random (and some spew statistics as often as every twenty minutes), we’re hoping that removing this traffic will make Freehold.Earth’s Federated Timeline more relevant and interesting to our users.</p>
+
+<p>This is currently an <strong>experiment</strong> and may change at any time.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>admins@freehold.earth</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

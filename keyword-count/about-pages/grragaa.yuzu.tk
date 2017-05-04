@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>grragaa.yuzu.tk
+- Grragaa（グララアガア）</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css"/>
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="bdyJHUHuWMYr+M3tMiTgeG2dRo4X7TnfNGdXmNzLbo2J1NFpMlx+bQqe9Awrttc46SgT1rJi/jBr4uEhukIrXg=="/>
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>grragaa.yuzu.tk</h2>
+<p><a href="https://yuzu.tk/" target="_blank">Plants Network</a>のMastodonインスタンスです。<br>
+名前の由来は「オツベルと象」より。<br><br>
+あと、あくまで試験的なやつなので、いつかデータ吹っ飛ぶと思います。ご了承ください。あと、あまりにも負荷がかかるようであれば閉鎖します。<br><br>
+<a href="/about/more">サーバルールはこちらをご覧ください</a>
+<br><br>※Mastodon1.3.1のバグでリモートフォローが出来ない状態となっておりますがご了承ください。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>4</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>79</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>92</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>サーバルール</h2>
+<ul>
+<li><a href="https://yuzu.tk/rule" target="_blank">Plants Network利用規約</a>に同意してください。</li>
+<li>かなり高頻度のBotはやめてください。</li>
+<li>常識的な範囲で使用してください。</li>
+</ul>
+<h2>読み方</h2>
+鯖缶は「グラーガー」って読んでます。<br>
+まあ別にゆずのマストドンとかなんでもいいです。<br>
+Grragaaっていう名前自体数秒で思いついたので。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/005/original/4ecf11834a0d8126.png?1492922127" alt="4ecf11834a0d8126"/></div>
+<div class='name'>
+<a href="https://grragaa.yuzu.tk/@PlantsNetwork"><span class='display_name emojify'>Plants Network</span>
+<span class='username'>@PlantsNetwork</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="a5c6cacbd1c4c6d1e5dcd0dfd08bd1ce">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/PlantsNetwork/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

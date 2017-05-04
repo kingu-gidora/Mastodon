@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>pouet.freetorrent.fr
+ - pouet.freetorrent.fr</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2M/Zzu+S0nuMuGiPdTcHBUfqSXJnFNYeT0ZQfBlE5PkbKneXGyJFM9QNx9YchYWSrCEekYNi7uo6naMu42kBeQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>pouet.freetorrent.fr</h2>
+<p>pouet.freetorrent.fr is a fast and up-to-date Mastodin instance for everyone !
+Up since 2017/05/04.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>2</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>9</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>106</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Welcome on pouet.freetorrent.fr!</p>
+
+<p>I'm <a href="https://pouet.freetorrent.fr/@mumbly58">@mumbly58</a>, the admin, a french Gnu/Linux addict, learning sysadmin. I run my french blog here : <a href="https://www.citizenz.info">citizenz.info</a></p>
+
+<br />
+<p>freetorrent.fr</p>
+<p>I'm the webmaster of <a href="<a href="http://www.freetorrent.fr">http://www.freetorrent.fr</a>, a french and international bittorrent tracker for free (libre) media ONLY (GPL licence, Creative commons, MIT, AGPL, Apache, BSD, public domain, etc.). Check it out !<br />
+You're free to download as a guest with no sign up.
+You must sign up to upload torrents.</p>
+
+<br />
+<p>pouet.freetorrent.fr</p>
+<p>This instance is IPv6 compatible, has good <a href="https://www.ssllabs.com/ssltest/analyze.html?d=pouet.freetorrent.fr">HTTPS parameters</a>, is following good <a href="https://observatory.mozilla.org/analyze.html?host=pouet.freetorrent.fr">security practices</a>, has good uptime is focused on speed and will be updated regularly.</p>
+
+<br />
+<p><b>Rules :</b>
+<ul>
+<li>Don't flood
+<li>Respect each other
+<li>I (the admin) support freedom of speech, so I won't block accounts or instances unless there is a good reason (like a legal one)
+<li>Use NSFW tags for NSFW content 🔞
+<li>Use content warning for spoilers
+<li>Any language is allowed 🌎
+<li>Have fun 🎉
+</ul>
+</p>
+
+<p>Feel free to block or mute whoever you want.</p>
+
+<br />
+<p>What's behind ?</p>
+<p>This instance is hosted on a VPS at <a href="https://www.ni-host.com">NiHost</a>, in France.<br />
+They made me a custom VPS for the needs of this instance.<br />
+Thanks to them!</p>
+
+<p>The VPS has the following specifications :
+<ul>
+<li>8 virtual cores of Intel Xeon E5-2650v3
+<li>16 GB of DDR4 RAM
+<li>100 GB of SSD in RAID 5
+<li>1 Gb/s unlimited bandwidth
+<li>Debian 8
+</ul>
+</p>
+
+<p>This server is backed up everyday on another one.</p>
+
+<br />
+<p>Donate</p>
+<p>You can <a href="https://www.ni-host.com/fr/funding/pouet1">donate to help me maintain this instance</a> in the long term.</p>
+
+<p>Here is what I have to pay :
+<ul>
+<li>Domaine name: 8€/year
+<li>Server: 25€/month
+<li>Backup server: 12€/month
+</ul>
+</p>
+
+<p>If you can't help financially, don't worry ! Just talk about Mastodon around you, help the new users, and toot every day !</p>
+
+<p>Thank you, and happy tooting!</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/6937150ed8652a47.jpg?1493837017" alt="6937150ed8652a47" /></div>
+<div class='name'>
+<a href="https://pouet.freetorrent.fr/@mumbly58"><span class='display_name emojify'>mumbly58</span>
+<span class='username'>@mumbly58</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mumbly58@protonmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

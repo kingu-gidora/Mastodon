@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn-ff14.jp
+ - Mastodon | FF14ユーザーのためのマストドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Wi0iGECpplTBII9gFCRkDwQWklDIsgkNxM5SQ+d0s9p0Z5HpfXKiobm4XKwD1E2INAAK6ZFQ+oxMjwsl8lBdLg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn-ff14.jp</h2>
+<p>FF14ユーザーによる、FF14ユーザーのための交流用マストドンです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>157</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>869</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>134</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>概要</h3>
+<p>光の戦士による、光の戦士のためのマストドン</p>
+<p>FF14以外の話OKです。ローカルタイムラインが全員ヒカセンなことだけが大事</p>
+<p>ネタバレは禁止してませんが、新規さん・ゆっくり進行の人がいる事も忘れずに（cw、NSFW推奨）</p>
+<p>エロやグロはcw、NSFWの機能で必ず隠してください。18歳未満の人もいます</p>
+<p>　</p>
+
+<h3>禁止事項</h3>
+<ul>
+  <li>過度に第三者を傷つけたり精神的苦痛を与える行為</li>
+  <li>他ユーザーの誹謗中傷</li>
+  <li>詐欺</li>
+  <li>スパム行為</li>
+  <li>その他迷惑行為</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>komatsu@ryo-mini.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

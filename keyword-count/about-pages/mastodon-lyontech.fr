@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon-lyontech.fr
+ - Mastodon Lyontech</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CrhyjWTTtVk7HSjfxHKmq5u5jJIipgQDP98QnizwrIxLulnU/1kfRzD4I5Vea87mQFZxzpfUEingoBZjX+wacg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon-lyontech.fr</h2>
+<p><p>Lyontech est une instance Mastodonte indépendante, gérée et hébergée en France.
+Si vous rencontrez un problème lors de votre inscription, contactez moi sur mastodon.lyontech.fr@gmail.com .</p>
+<p>If you encounter problem to register or other, please contact me at mastodon.lyontech.fr@gmail.com .</p>
+<br />
+<p>Les comptes publicitaires et corporate sont interdits. Ainsi que les comptes faisant l'apologie du nazisme ou du terrorisme, ou de tout autre sujet enfreignant la loi Française, les droits de l'homme, etc...</p>
+<p>Advertising and corporate accounts are forbidden! As well as accounts defending Nazism or terrorism, offending French law or human's rights.</p>
+<br />
+<p>Utilisez les tags NSFW ou CW pour les images pornographiques ou non recommandées pour des personnes sensibles (si vous suivez les règles de censure de facebook, ça devrait aller).</p>
+<p>Use NSFW or CW tags for porn or hard images (the kind of censorship encountered on facebook is a good start).</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>9</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>26</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>3</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>patrick.laxton@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

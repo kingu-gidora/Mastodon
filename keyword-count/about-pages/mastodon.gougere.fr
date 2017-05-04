@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.gougere.fr
+ - Mastodon - Gougère Network</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cPiBezgQCEGk5heJV4xIVEQSuOtOLXjQ2sZ5Jp9+tJsbI5G0UEz4fHUn5q/fC/Y/s81g6FT1RgvXZpa97vV7yw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.gougere.fr</h2>
+<p>Vive les gougères ! mnt-by: @yapret @papaeng89</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>1 142</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>16 523</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>788</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'><h3>Gougère ?</h3>
+<p>Vous vous trouvez sur l'instance Mastodon de Gougère, un réseau informatique géré sur notre temps libre. L'instance est maintenue par @papaeng89 et @yapret.</p>
+
+<p>Le serveur se trouve dans le datacenter Auxerrois de <a href="https://vnetx.com">Virtua Networks</a>, et utilise la bande passante de <a href="https://www.scani.fr/">SCANI</a>.</p>
+
+<h3>Quelques règles</h3>
+<p>De manière générale, les utilisateurs de cette instance sont invités à respecter la Netiquette (telle que décrite dans la <a href="https://www.ietf.org/rfc/rfc1855.txt">RFC 1855</a>).</p>
+
+<p>Les contenus NSFW sont autorisés seulement s'ils sont taggés comme tels et légaux en France, de même que les spoilers pouettés doivent l'être sous Content Warning explicite. Il est souhaitable que chacun tente, dans la mesure du possible, de ne pas flooder, notamment sur les timelines publiques.</p>
+
+<p>La liberté des uns s'arrête là où commence celle des autres. Si quelqu'un empiète sur la vôtre, vous pouvez le bloquer et/ou le signaler aux administrateurs, qui se chargeront, avec l'avis de la communauté, de prendre les mesures nécessaires.</p>
+
+<h3>Nous aider</h3>
+<p>L'accès à l'instance est gratuit et le restera, mais le réseau Gougère a un coût. Pour nous aider à le supporter, c'est par là : <a href="https://www.patreon.com/yapret">https://www.patreon.com/yapret</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/736b8ecbfccc20f8.png?1492437168" alt="736b8ecbfccc20f8" /></div>
+<div class='name'>
+<a href="https://mastodon.gougere.fr/@gougerenet"><span class='display_name emojify'>Gougère Network</span>
+<span class='username'>@gougerenet</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

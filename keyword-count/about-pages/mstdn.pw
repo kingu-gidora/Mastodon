@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.pw
+ - mstdn.pw</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FyZ9bZRvp/635qZbX5iIsP+HljO24sLF2XPpChiXcoJpvM0yUbhP1uYD0aXSYSThNenA4U3EihmCKVwOiLhYTw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.pw</h2>
+<p>mstdn.pw is a Mastodon instance that promotes healthy and <em>open expression</em> of individuals, ideas, and content. As you would expect,
+ <em>free speech</em> is encouraged and viewed in high regard as is <em>open discussion</em>, spanning a multitude of viewpoints and among all users.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>11</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>28</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>110</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>There are few rules here as we operate on the assumption that most users are not malicious in intent.</p>
+
+<h3>Rules:</h3>
+<ol type="I">
+<li>Illegal content - no illegal content is allowed, including but not limited to underage content with the depiction of minors in any sexual context.</li>
+<li>Non-consent - no content depicting anyone being forced against their will for entertainment. Exceptions include videos on real world events that have a societal impact. This content should help raise awareness and educate, and stir up healthy discussions.</li>
+<li>Harassment - discussion, including disagreements, are encouraged, but harassment of other users is prohibited. We are defining harassment as: anything intending to incite others and elicit negative emotions and reactions from other users while not contributing to worthwhile discussion. Having one's feelings hurt and being offended by another user's opinions and world views does not constitute harassment. When in doubt, follow this piece of advice: <em>Don't be a dick.</em>
+<li>Circumventing blocks/suspensions - this is a great way to be removed from the instance. If someone blocks you, just leave it be. Going around the blocks to engage someone is harassment.
+</ol>
+
+<h3>Considerations</h3>
+<p>Do keep in mind that we are part of a community. Please be considerate of others and use the CW and NSFW flags for content warranting it. However, this is not a requirement, and content will NOT be removed for disregarding this request.</p>
+
+<h3>Personal Responsibility</h3>
+<p>You're responsible for your content, the content you view, and your interactions with other users. This platform gives great granular support to each individual user and instance alike. Please make yourself familiar with the controls if you are not familiar with them already.</p>
+<p>If you want content tailored to your liking, we're not sure this is the place for you, but you are allowed and encouraged to follow, unfollow, block, and unblock users as you see fit. We don't expect everybody will along all the time, so use these functions as you please. You control the flow of the information you see.</p>
+<p>You're responsible for what you toot, boost, and favorite. Nobody will warn you when you get too close to the line and stop you before you cross it. We will work on the assumption that you were raised as part of a community, so we expect you know how to act alongside others. If you lack social skills or just want guidance, feel free to contact our admins for information.</p>
+<p>If you feel like you're getting too emotionally involved, allowing yourself to be distracted from work or from spending time with loved ones, know when to walk away. Nobody else knows your limit better than you do.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f233b2a6cfc9d24a.jpg?1492572115" alt="F233b2a6cfc9d24a" /></div>
+<div class='name'>
+<a href="https://mstdn.pw/@jake"><span class='display_name emojify'>jake</span>
+<span class='username'>@jake</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>jake@eightsix.in</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

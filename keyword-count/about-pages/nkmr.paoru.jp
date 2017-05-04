@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>nkmr.paoru.jp - ナカムラ(paoru.jp)</title>
+<link rel="stylesheet" media="all" href="/assets/application-f2303731d021d9083bec492285dfceda0bf46865bc7dd8056a1766aafee1ee56.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VNMI2xLqTjCB9ZGFr3cXgtip/hSS3YrxCPupY2Bw5XsaS12L7Pkws21RkmBXfogRozU7v84XuCxnTUiCvccjXA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>nkmr.paoru.jp</h2>
+<p><h2>中村です</h2>
+
+中村の、中村による、中村のためのインスタンス！<br/>
+<font color="#FF0000"><b>世界最大の中村インスタンス</b></font>です！！<br/>
+世界中の中村の皆さん、是非ご参加ください！！！！<br/>
+<br/>
+
+<h2>中村インスタンス参加条件</h2>
+
+<ul>
+<li>実名が中村である。または旧姓が中村である</li>
+<li>真名が中村である</li>
+<li>実名は中村じゃないけど、中村を名乗りたい</li>
+<li>中村という本質を、その身に宿している</li>
+<li>さあ、中村を始めよう…</li>
+<li>さーて、中村、始めちゃいますか！</li>
+</ul>
+
+そんな中村達の為のインスタンスです。<br/>
+仲村でも良いです。<br/>
+<br/>
+<h2>俺が、俺達が！！ナカムラだ！</h2><br/></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>50</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>581</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>330</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>ルール</h2>
+
+<h3>名前のどこかにナカムラを（強制なし）</h3>
+強制はしませんができるだけ、名前の何処かに中村が入るようにしてください。<br/><br/>
+佐藤さんなら「佐藤＝中村＝○○（名前）」とか<br/>
+フランソワさんなら「フランソワ中村」とか<br/>ニンジャなら「ナカムラ＝サン」とか<br/>名字じゃなくて名前が中村なら「犀川中村」とか<br/>「中村中村」でもいいです。<br/>というかなんでもいいです<br/><br/>
+ちなみに表記は「仲村」でも「ナカムラ」でも「なかむら」でも「nakamura」でもいいです。<br/>
+<br/>
+<h3>（似非）認証マークのガイドライン</h3>
+管理者は「中村カズノリ✅」を名乗っています。<br/>
+実名が中村で、それを表明しても問題ない場合は<br/>
+名前の横に似非認証マーク（絵文字の✅←コピペ可）を付けてください。<br/>無理に付けなくてもいいです<br/>
+<br/>
+<h3>名乗らなくてもペナルティは無し</h3>
+中村を名乗らなかった場合でも特に凍結とかしませんが、もしかしたらちょっと居心地悪くなるかもしれません。気分的に。<br/>（できるだけ名乗ってね）<br/><br/>
+<h3>迷惑行為等</h3>
+フォロ爆等の迷惑行為・法に触れるトゥートを行った場合、アカウント凍結や行政・警察等からの要請により、アクセスログの開示を行う場合がありますので、ご了承ください。<br/></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/89acb987d46d90e5.jpg?1492579298" alt="89acb987d46d90e5" /></div>
+<div class='name'>
+<a href="https://nkmr.paoru.jp/@nkmr_kznr"><span class='display_name emojify'>中村カズノリ✅</span>
+<span class='username'>@nkmr_kznr</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>
+mastodon.div88.org
+ - 
+Division 88 Mastodon
+</title>
+<link rel="stylesheet" media="all" href="/assets/application-ef4854a4936e32557557ee679b1c20df105e4f939290ce2c3fabb1df773f21e5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="uDuPtnIwnJ2lB61DLiL+rGBCFQSMFHZKfjAh5ndAtDkHCcBUEdaJlss0axTayaGYkLQfRNWKlqJylk3CKbXfRg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.div88.org</h2>
+<p>This site is made for The Black Watchmen Universe<br>
+<br>
+All agents are welcome :)</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>14</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>7</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>106</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a945e6e72a66b1e0.png?1491400880" alt="A945e6e72a66b1e0" /></div>
+<div class='name'>
+<a href="https://mastodon.div88.org/@JantsoP"><span class='display_name emojify'>JantsoP</span>
+<span class='username'>@JantsoP</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>jantsop@div88.org</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

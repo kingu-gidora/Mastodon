@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>meow.social
+ - Meow social</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6FMMkNps5IB16gu7fDEh8QQiRnXbhqZnu7uygjOZQx3N3923vSYwqPQz8DKPjg0HoOkXope+l0qTZZVOE8q+JQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>meow.social</h2>
+<p><p>This instance is focused around the furry community, and is open to anyone interested in it. It was created by <a href="https://meow.social/@Tiwy57">@Tiwy57</a> originally for a small group of furry friends, but thought it might as well be open to all fluffies and scalies !</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>322</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,168</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>675</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Welcome to meow.social! <br /><p class="text-muted" style="font-size: 0.55em; color: gray;">A mastodon instance.</p></h2>
+
+<p style="text-align: center;">
+	<a href="https://meow.social/netdata/">NetData Monitoring</a>
+	<div style="text-align: center;">
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=system.uptime&label=uptime&refresh=60" type="image/svg+xml" height="20"></embed><br />
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=system.cpu&after=-60&label=cpu+avg&refresh=auto" type="image/svg+xml" height="20"></embed> 
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=system.load&label=load+avg&units=null&refresh=auto" type="image/svg+xml" height="20"></embed> 
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=system.ram&alarm=ram_in_use&refresh=auto" type="image/svg+xml" height="20"></embed> 
+		<br />
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=disk_space._&alarm=disk_space_usage&refresh=auto" type="image/svg+xml" height="20"></embed> 
+		<embed src="https://meow.social/netdata/api/v1/badge.svg?chart=system.swap&alarm=used_swap&refresh=auto" type="image/svg+xml" height="20"></embed>
+	</div>
+</p>
+<hr />
+<p>
+	<em>Admin members</em> : <a href="https://meow.social/@Tiwy57">@Tiwy57</a> and <a href="https://meow.social/@Nomaxice">@Nomaxice</a>
+	<em>Official Accounts</em> : <a href="https://meow.social/@TransparencyReports">@TransparencyReports</a> and <a href="https://meow.social/@meow">@meow</a>
+</p>
+
+<p>This instance is focused around the furry community, and is open to anyone interested in it. It was created by <a href="https://meow.social/@Tiwy57">@Tiwy57</a> originally for a small group of furry friends, but thought it might as well be open to all fluffies and scalies !</p>
+
+<p>Meow is federated to nearly all instances of mastodon, which means you can follow pretty much anyone you want, no matter what instance they are on!</p>
+
+<p>While it is open publicly, mind this is just one instance in the fediverse, and we encourage you to look at other instances available to be sure it’s the one you like, and if none please you and you got some knowledge, why not come help mastodon by making your own instance too!</p>
+
+<h6>Ruleset</h6>
+
+<p>	
+	<ul>
+	
+		<li><em>Stay legal.</em>
+			<ul>
+				<li>Respect international laws.</li>
+				<li>Respect laws from the country the instance is hold in (Netherlands).</li>
+				<li>Respect laws from the admins' country (France).</li>
+				<li>Respect laws from your own country.</li>
+			</ul>
+		</li>
+		<li><em>Be respectful.</em>
+			<ul>
+				<li>Don’t go insult others, whether you say it straight to their face or not.</li>
+				<li>Contents that are racist, sexist, hateful, or discriminating in any way are forbidden.</li>
+				<li>Stalking and harassment is forbidden, if someone don’t want to have anything to do with you, leave them alone.</li>
+			</ul>
+		</li>
+		
+		<li><em>Tag your content.</em>
+			<ul>
+				<li>Tag as NSFW content properly, hidden behind a CW button, and keep porn as private or unlisted for AD posts.</li>
+				<li>Tag gore and NSFL content and keep it behind a CW button.</li>
+				<li>Tag politics and the like, again with a CW button.</li>
+			</ul>
+		</li>
+        <li><em>Accounts policy.</em>
+            <ul>
+                <li>Do not impersonate someone, unless for parody purposes (so long as you stay respectful).</li>
+                <li>Parody accounts must be tagged as such clearly in their profile description.</li>
+                <li>Bots must be tagged as such, and bot owners must ensure they will have a minimal impact on the instance's performances.</li>
+                <li>If your handle has been taken or stolen, and have the means to prove it yours, we will reattribute it to you.</li>
+<li>Do NOT use a "verified" status (with checkmark) : prove that you are someone official by all your means possible</li>
+                <li>You may not create another account on this instance if your previous account has been suspended.</li>
+            </ul>
+        </li>
+		
+	</ul>
+	
+</p>
+
+<p>Failure to respect any of those rules will lead to a warning, content removal, and/or suspension of your account.</p>
+
+<p>The admins have the upmost right to decide to delete your account for any reason.</p>
+
+<p>You may discuss with the admins if you feel you were unfairly sanctioned, so long as you don’t try to force your way after the final statement has been given by them.</p>
+
+<p>If you require any help or need to contact us, please contact <a href="https://meow.social/@Tiwy57">@Tiwy57</a>, <a href="https://meow.social/@Nomaxice">@Nomaxice</a>, or send a mail at <a href="mailto:meow@meow.social">meow@meow.social</a></p>
+
+<h2>About this server</h2>
+<p>This server is hosted on Scaleway, with four dedicated CPU cores, 8GB RAM, and 50GB of storage on SSD. It can be updated any time.</p>
+<p>Uptime will be kept at the highest possible, hopefully only going down for updates.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c564955b3dd74c5e.png?1491432923" alt="C564955b3dd74c5e" /></div>
+<div class='name'>
+<a href="https://meow.social/@Tiwy57"><span class='display_name emojify'>Julien LeKiwi</span>
+<span class='username'>@Tiwy57</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>meow@meow.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

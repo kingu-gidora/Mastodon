@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>wandering.shop
+ - Wandering Shop</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OlWkdGE94oJTaNvezJgjFcodNEOGBr/WHHlA3LzCV1wrzcfqdFmsVCVJAdeCbzuS48RMF/6fMlFrCKuMm6e2Ig==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>wandering.shop</h2>
+<p><p>The Wandering Shop is a Mastodon instance for the science fiction and fantasy community. We want our 'local' timeline to have the feel of a coffee shop at a good science fiction convention: tables full of friendly conversation on a wide variety of topics. We welcome everyone who wants to participate, so long as you're willing to abide by our <a href="/about/more">code of conduct</a>.</p>
+
+<h2>Code of Conduct</h2>
+<p>We want this to be a fun, pleasant, and harassment-free experience for everyone. By joining the Wandering Shop, you're agreeing to abide by our <a href="/about/more">code of conduct</a>.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>161</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>6,269</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>328</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>The Wandering Shop Code of Conduct</h1>
+
+<h2>Welcome!</h2>
+
+<p>The Wandering Shop is a Mastodon instance for the science fiction and fantasy community. We want our 'local' timeline to have the feel of a coffee shop at a good science fiction convention: tables full of friendly conversation on a wide variety of topics.</p>
+
+<p>We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.</p>
+
+<p>Participants asked to stop any harassing behavior are expected to comply immediately. If someone asks you to leave them alone, leave them alone.</p>
+
+<h2>Unacceptable Behavior</h2>
+
+<h3>The following behavior is not welcome anywhere in The Wandering Shop:</h3>
+<ul>
+<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion.</li>
+<li>Holocaust denial and Nazi symbolism.</li>
+<li>Deliberate or persistent misgendering.</li>
+<li>Threats of violence.</li>
+<li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.</li>
+<li>Deliberate intimidation.</li>
+<li>Publishing any individual's address, phone number, or other private identifying information without consent.</li>
+<li>Sexual depictions of children.</li>
+<li>Unwelcome sexual attention, including sharing sexual content with specific users without consent.</li>
+<li>Gratuitous sexual images or behavior without a content warning.</li>
+<li>Simulated physical contact (e.g. textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.</li>
+<li>Publication of non-harassing private communication without consent.</li>
+<li>Sustained disruption of discussion.</li>
+<li>Continued communications with someone who's asked that you leave them alone.</li>
+<li>Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
+</ul>
+
+<h3>The following behavior is not allowed on the public timeline:</h3>
+<ul>
+<li>Graphic violent or sexual content without a content warning</li>
+<li>Gratuitous advertizing or spam. It's fine to promote your work, but it shouldn't be the bulk of what you share.</li>
+</ul>
+
+<h3>Known Harassers:</h3>
+
+<p>The admins may ban or silence users whom we know to be harassers or abusers, even if they have not violated the rules of this instance. The mere presence of a harasser can make past or potential victims uncomfortable, and it can put potential victims who are unaware of the person's history in particular danger. Users are encouraged to individually mute, block, and/or report accounts they don't want to see, but at our discretion, we may take the additional step of blocking or silencing someone instance-wide if we believe they endanger the safe and welcoming space we're trying to maintain.</p>
+
+<h2>Reporting</h2>
+
+<p>The current admins are:</p>
+<ul>
+<li><a href="https://wandering.shop/@annalee">Annalee</a></li>
+<li><a href="https://wandering.shop/@phildini">Phildini</a></li>
+
+
+<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.</p>
+
+<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.</p>
+
+<h2>Consequences</h2>
+
+<p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
+
+<p>If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from the wandering shop and identifying the participant publicly as someone about whom we've received complaints.</p>
+
+<h2>Credits and License</h2>
+
+<p>This code of conduct is based on Annalee Flower Horne's <a href="https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17">Sample Slack Code of Conduct</a>, which is in turn based on <a href="http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy">Geek Feminism's Community Anti-Harassment Policy</a>.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/e1068cb5c2779157.jpg?1492195515" alt="E1068cb5c2779157" /></div>
+<div class='name'>
+<a href="https://wandering.shop/@phildini"><span class='display_name emojify'>The Great Phildini</span>
+<span class='username'>@phildini</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>phildini@phildini.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

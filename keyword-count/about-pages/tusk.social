@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>tusk.social
+ - Tusk.Social</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="baXrOdKG+ZAgUyaOSKY2DRxDMZbvqszI7bVUWUoiSM4W494hGeMR1lhuNYd8gbwZTuT9gKokQW+gxVn15dXqdg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>tusk.social</h2>
+<p><p><em>PLEASE NOTE: There is no way yet to delete accounts or change usernames. So please bear that in mind before creating an account.</em></p>
+
+<p><img src="https://tusk.social/system/media_attachments/files/tusk_100.png" align="left" style="padding: 8px;">Just another Mastodon instance. But we like it here. Bad behavior is not rewarded. If your hobbies involve harassing people, the constant use of 'SJW' or 'cuck' as pejoratives, or just general shitposting, then find somewhere else to go. You own your freedom. I own the server. A longer, more-detailed policy for this instance is in the works.</p>
+
+<p>Tusk.social uses the Witches.Town <a href="https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md">domain block list</a>. </p>
+
+<p>Don't harass. Don't be a shitty person. Do that, and we'll get along just fine.</p>
+
+<p>PS - Yo, please get an icon straight away so you don't look like a bot. Also, local accounts which haven't tooted after 45 days are subject to deletion/suspension. Also also, while it's not a rule, just a request... please don't use this instance for follow bots and the like. If it takes, rather than contributes, please do that somewhere else.</p>
+
+<p><a href="https://tusk.social/about/more">Extended About Page</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>544</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,535</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>596</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>FYI - hotmail.com, outlook.com and live.com (so... all of Microsoft, basically) don't like our mail host (mailgun). So... you might have problems if your email is with one of those. Sorry.</p>
+<p>"What's this Mastodon thing all about??" - Here are a couple of articles to get you started. </p>
+<p><a href="http://www.theverge.com/2017/4/7/15183128/mastodon-open-source-twitter-clone-how-to-use">http://www.theverge.com/2017/4/7/15183128/mastodon-open-source-twitter-clone-how-to-use</a>
+<br><br>
+<a href="https://medium.com/@qinaliu/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b">https://medium.com/@qinaliu/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/f73be8cb0c2de8c5.jpg?1491453927" alt="F73be8cb0c2de8c5" /></div>
+<div class='name'>
+<a href="https://tusk.social/@tankgrrl"><span class='display_name emojify'>Maggie McFee</span>
+<span class='username'>@tankgrrl</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>accounts@tusk.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

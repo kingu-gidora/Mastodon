@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.golf
+ - ゴルファーのためのマストドン(ベータ)</title>
+<link rel="stylesheet" media="all" href="/assets/application-8ebf79ec95a14d019eec12de6631eadb0563d8a470d165c837c8e931ddac9a8d.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FROk+FnMgXeDs+y42Nkdt0p4HK4l1HxoMtEooaVjMHPlMPTXKKs0k7fxTXGerroZiWeI2dpsyqMBo4SU8Eb/AA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.golf</h2>
+<p>ゴルファーのためのマストドン（ベータ）</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>30</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>138</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>1</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><div>世界初（かもしれない）ゴルファーのためのマストドンです。ゴルフに関する話題をどんどんトゥートしてください。</div>
+<div>現在まだベータ運用中です、データが消える恐れ等もありますので、個人的に重要な情報は必ず別に保存しておいてください。直接・間接を問わず当マストドンにかかわるいかなる損害の補償も行いません、ご注意ください。</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>kaigaigolf@outlook.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

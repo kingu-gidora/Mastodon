@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>social.wxcafe.net
+ - Mastocafé</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eE2YImkwtYucVwpYuofXYQTzCsp05ivCgqiboNPYG+vltFvzVC5GjOwKmzgb/88QomC1Q7NbaI5q5SlNmYAdzA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>social.wxcafe.net</h2>
+<p><p>
+This is an open mastodon instance for <em>social justice</em> activists, <em>LGBTQIA+</em> people, and people who are aware of such subjects and care about them.
+</p>
+<p>
+See the <a href="https://social.wxcafe.net/about/more">Goals, rules, and technical details</a> for more information
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>872</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>16,064</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>921</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3> Goals and Rules </h3>
+<p>
+The instance has multiple goals, the most important of all being making everyone on here feel as <em>safe as possible</em>. Other goals include letting users manage their social life easily and securely, making this instance a nice community with a shared expression space, and making the fediverse better. <br />
+
+As such, we have a few rules we'd like everyone on the instance to follow :
+</p>
+<ul>
+  <li>Acting in any of the following ways will get you <em>immediately suspended</em></li>
+  <ul>
+    <li>Posting illegal content is, well, illegal. This server is in France. As such, heinous content, nazi propaganda, underage porn, and all other content that is illegal according to french law is forbidden.</li>
+    <li>Posting LGBTQIA+-phobic, whorephobic, sexist, racist, and islamophobic content. You can still discuss such topics, by including a CW, quotes, and a context.</li>
+    <li>Making public, by screencapping or copying, private or direct messages that the author didn't want made public</li>
+    <li>Taking part in targetted harassment</li>
+    <li>Posting spam, advertisment for a commercial product, etc</li>
+    <li>Being a techbro or Richard Matthew Stallman</li>
+  </ul>
+  <li>Acting in any of the following ways will get your <em>post deleted</em> and you'll get a warning. After <em>three warnings</em>, you'll be <em>suspended</em>.</li>
+  <ul>
+    <li>Posting pornographic images/videos or nude pictures without marking them NSFW, or posting them on the public timeline</li>
+    <li>Being clearly disrespectful towards another user</li>
+    <li>Being an asshole</li>
+  </ul>
+</ul>
+<p>
+Right now, the only admin and moderator is <a href="https://social.wxcafe.net/@wxcafe">@wxcafe</a>. This might change in the future, and will be reflected on this page. Please report any content breaking the rules highlighted on this page using the report function. We don't hesitate to moderate posts, to silence and/or suspend users, local or remote, and instances. In France we like to think of this as <em>"Censure Communautariste"</em>.
+</p>
+
+<h3>Technical Informations</h3>
+<p>
+This server is run on a server paid for by <a href="https://social.wxcafe.net/@wxcafe">@wxcafe</a>, hosted on <a href="https://vultr.com">Vultr</a>. The server is a 4GB RAM, 2 vCores, 60G disk VPS. It costs $20/months, and <em>is financed using <a href=https://patreon.com/wxcafe>Patreon</a></em> <br/> The bot <a href="https://social.wxcafe.net/@server_status">@server_status</a> posts information about the status of the server every once in a while, be it graphs about the ressources, number of users and toots, etc...
+</p>
+
+<h3> More </h3>
+<p>
+Feel free to contact me for more informations at the email address in the right sidebar, or directly on Mastodon :)
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/4281bfc3e8103ec1.jpg?1491231875" alt="4281bfc3e8103ec1" /></div>
+<div class='name'>
+<a href="https://social.wxcafe.net/@wxcafe"><span class='display_name emojify'>technopagan ‮✨💻☕</span>
+<span class='username'>@wxcafe</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>wxcafe@wxcafe.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

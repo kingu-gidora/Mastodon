@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>bne.social
+ - Brisbane Social</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4UV6bGkUxO1pSreLYKLVawHkRPjHPn/LzfLWWjiLrrPtSADEroFm2vUr1skLPFewl7XMjhaKdHQ249cJm50IDg==" />
+
+<link rel="stylesheet" media="all" href="https://assets.bne.social/mastodon-customization/style.css" /></head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>bne.social</h2>
+<p><p>The Brisbane Social Mastodon server. Hosted in sunny Brisbane, for users from and interested in southeast Queensland.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>96</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,021</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>733</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>This site is intended to be a pleasant space for folks to enjoy Mastodon. This instance is run out of Brisbane, Australia to allow faster access for locals.</p>
+
+<h2>Instance rules</h2>
+<p>The rules of this server are:</p>
+
+<ul>
+<li>Be respectful of your peers</li>
+<li>Abide by local and international laws</li>
+<li>Have fun</li>
+</ul>
+
+<p>If you have concerns about a person's conduct, please report the toot in question or get in touch with <a href="https://bne.social/@ashkyd">@ashkyd</a>.
+
+<h2>Blocked instances</h2>
+<p>As with other servers, we have blocked a number of instances that don't meet our standards for a number of reasons. At this time, we are keeping in step with the <a href="https://github.com/nolanlawson/blocked-on-mastodon">toot.cafe</a> blocklist.</p><p>If this is something that concerns you, please feel free to sign up for another instance.</p>
+
+<h2>Copyright &amp; Attribution</h2>
+<p>The background image of Streets Beach is provided by user <a href="https://en.wikipedia.org/wiki/South_Bank_Parklands#/media/File:Streetsbeachsouthbankparklands.jpg">Foundationexpo88</a></p>
+
+<h2>Get started!</h2>
+<p>Get started by <a href="https://bne.social/">signing up or logging in</a>, then toot using the <code>#introduction</code> hashtag to say hi!</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://bne-social.s3-ap-southeast-2.amazonaws.com/accounts/avatars/000/000/001/original/95526da7bdf9c0e2.jpeg" alt="95526da7bdf9c0e2" /></div>
+<div class='name'>
+<a href="https://bne.social/@ashkyd"><span class='display_name emojify'>Ash Kyd</span>
+<span class='username'>@ashkyd</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>bnesocial@kyd.com.au</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

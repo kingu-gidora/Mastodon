@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.bunkerchan.xyz
+ - Bunkerchan&#39;s Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CMY1Z1Sn3nLk80Tg3i6lB2lt08Am7bmYzKje6SlOqMFMu62ZFxj7ztQ1gnBNuLN3VTjHXAFwk5M3uJHDTYtOdA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.bunkerchan.xyz</h2>
+<p>A leftist mastodon!
+Ran by bunkerchan.xyz</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>40</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>553</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>243</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><b>PLEASE EMAIL YOUR ACCOUNT NAME AND EMAIL USED TO REGISTER SO I CAN CONFIRM YOUR ACCOUNT. ELSE YOU WON'T BE ABLE TO USE THIS INSTANCE!</b>
+</br>
+</br>
+A fun mastodon with an leftist edge
+</br>
+Rules: 
+Be excellent to each other
+</br>
+Nothing that will throw my arse in jail especially since the server is en francais</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/6bcefbf99e8d50d2.jpeg?1492719642" alt="6bcefbf99e8d50d2" /></div>
+<div class='name'>
+<a href="https://mastodon.bunkerchan.xyz/@ericmusicfan"><span class='display_name emojify'>Space_</span>
+<span class='username'>@ericmusicfan</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>spacedustteapot@spacechan.xyz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

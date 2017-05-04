@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>tetsugaku.place
+ - 哲学どん</title>
+<link rel="stylesheet" media="all" href="/assets/application-1cba650a3a78b7e71979313c08d332eb09989bc5b0cfebfa833edaca9198dad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="upcbcIAk32x+QWb2VnGKAQHa+yOpaoJgl3r8QOTebHOZ3/yPRvJ+b76DgvWKVZ01fsB4bQGocJ9ANMRU+ejBLQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>tetsugaku.place</h2>
+<p>日常でふと考えた哲学的な話題を共有しよう。思ったことを長文で投稿したいユーザーさんにオススメです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>179</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,108</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>123</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>日常でふと思ったり考えたりした哲学的な話題を共有する場です。<br>
+専門用語とかにはこだわりません。長文でも気軽に投稿できるような空気感を協力して作りましょう。それぞれの考え方・思想の違いを理解し、互いに尊重し合うことをルールとします。
+<br>
+======投稿の際に守って欲しいこと======
+<br>
+・議論している投稿は、その話題のハッシュタグをつける。(例：#哲学とは)
+<br>
+・参加している全員が議論の様子を見れるようにしたいので、個人間の返信機能はできるだけ控えましょう。
+<br>
+その他こうした方がいいのでは？というご提案がありましたら、ご気軽に運営までお知らせください。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/60297eb649d58f44.png?1492862959" alt="60297eb649d58f44" /></div>
+<div class='name'>
+<a href="https://tetsugaku.place/@dikky"><span class='display_name emojify'>哲学どんの中の人</span>
+<span class='username'>@dikky</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>shooting.dikky.star@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

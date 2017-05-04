@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>truecolors.space
+ - True Colors Space</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sQ2DWUoUBG1W8bktD8i4sPlMhetYkSqfRcl+0kbSrpAu7k567/4wn858KmRxFAonwNxRTWmUsmLdbaCVEwXIEA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>truecolors.space</h2>
+<p>Welcome to True Colors! Please take some time to look over the Code of Conduct.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>54</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>313</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>434</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>True Colors Space</h1>
+<p>The goal of True Colors is to create an open community of like minded individuals and to connect with instances that hold similar values.</p>
+
+<h2>Code of Conduct</h2>
+<p>The following is our Code of Conduct, which is not a legal document and is up to the moderators of truecolors.space for interpretation. We ask that you follow these guidelines as actions do have consequences.</p>
+
+<h3>Short Version / Summary</h3>
+<ul>
+  <li>Harassment and/or Discrimination is strictly prohibited (no tolerance)</li>
+  <li>We all want to have fun, but don't do it at the expense of others.</li>
+  <li>We reserve the right to bar any person or instance that have been deemed toxic to the community or in violation of our CoC.</li>
+  <li>Report any violations or issues to our moderators, so they may look into it.</li>
+</ul>
+
+<h3>Animations / Gifs </h3>
+<p>We ask that you keep flashing animations and strobing lights to a minimum, and to always keep them behind a content warning (CW) as it might cause issues for some users. While you might have the best intentions it could potentially through someone into a seizure, which is obviously not good. If we find your avatar or animation to be intentionally flashing we will have to take action to protect our users.</p>
+
+<h3>Under Construction</h3>
+<ul>
+  <li>Under Construction please bare with us as we are still getting setup. In the meantime please note that any form of harassment is strictly prohibited and will result in suspension. Bigotry is not acceptable and will result in the same</li>
+  <li>This is a living document is is subject to change in the future. As a member of True Colors you are expected to look back here from time to time to make sure you are in compliance with the CoC. We will try our best to inform users of the instance via a Toot when these get updated drastically.</li>
+</ul>
+
+<h3>Based On / Prior Work</h3>
+<ul>
+  <li><a href="https://toot.cafe/about/more" target="_blank">Toot.cafe Code of Conduct</a></li>
+  <li><a href="https://mastodon.social/about/more" target="_blank">Mastodon.social Guidelines</a></li>
+</ul>
+
+<h2>Moderators</h2>
+<ul>
+  <li><a target="_blank" href="https://truecolors.space/@ErdMutter">ErdMutter</a></li>
+  <li><a target="_blank" href="https://truecolors.space/@Jermayan">Jermayan</a></li>
+</ul>
+<h2>Jurisdiction / Hosting Info</h2>
+<p>We are hosted on a New York droplet at Digital Ocean within the United States of America</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c8d7ee4e41c9a0f9.jpg?1491715566" alt="C8d7ee4e41c9a0f9" /></div>
+<div class='name'>
+<a href="https://truecolors.space/@ErdMutter"><span class='display_name emojify'>ErdMutter92</span>
+<span class='username'>@ErdMutter</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>masto.themimitoof.fr
+ - Mastodon - by themimitoof.fr</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="miQn450QmeSJ50+nG4+9TmnXEhSKYFfcJPAZMGgeVeSDoAIMSSCCcYYKyBa0huLQMfSIRzRD71ZTUXPlEMMxyw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>masto.themimitoof.fr</h2>
+<p>Masto.themimitoof.fr is an instance by <a href="https://themimitoof.fr">themimitoof.fr</a>. Join us on this great community!
+
+<br>
+
+Masto.themimitoof.fr est une instance par <a href="https://themimitoof.fr">themimitoof.fr</a>. Rejoignez-nous sur cette belle communauté !</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,615</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>13,260</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>593</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><style>
+    /* Yes I know.. It's so bad here but it's needed :/ */
+
+    ul.li li { margin-bottom: 2px; }
+    h3 { margin-top: 8px; }
+</style>
+
+<h2 id="french">(French) Bienvenue sur Mastodon !</h2>
+<a href="#english">🌎 Click here if you likely to scroll to the English version</a>
+
+<p>
+Bienvenue sur cette instance gérée par <a href="https://themimitoof.fr">themimitoof</a>. Cette instance a pour but de contribuer à la création du réseau Mastodon.
+</p>
+
+<h3>Quelques règles pour bien vivre</h3>
+<ul class="li">
+    <li>Toutes les langues sont autorisées sur cette instance</li>
+    <li>Evitez le flood/spam</li>
+    <li>Merci d'utiliser la fonction NSFW lorsqu'il s'agit d'un contenu partiellement autorisé</li>
+    <li>Il est strictement interdit de parler/poster du contenu :
+        <ul class="li">
+            <li>à caractère sexuel (ce qui est en revanche autorisée : <i>l'art (par exemple : une femme ou un homme dénudé&middot;e peint&middot;e, une statue), pas d'organe génital apparent (privilégiez tout de même l'utilisation de la <b>fonction NFSW</b>).</i>)</li>
+            <li>insulter, discriminer, violence verbale, menacer, chantage, harceler et tout ce qui a un lien avec la cyberviolence</li>
+            <li>parler de sujets sensibles (réligieux, terrorisme, etc...)</li>
+        </ul>
+    </li>
+    <li>Comptes parodiques autorisés. Veuillez juste le signaler.</li>
+    <li>Aucun compte ne sera clos sans une bonne raison</li>
+    <li>Nous sommes bénévoles, merci de respecter notre engagement</li>
+    <li>Amusez-vous et faites-vous de nouveaux amis 🙂</li>
+</ul>
+
+<h3>Rétention des données</h3>
+<p>La loi demande à ce que les données de connexion soient conservées 1 an. Parmi, ces informations, nous stockons :
+<ul class="li">
+    <li>Votre adresse IP</li>
+    <li>Votre nom d'utilisateur</li>
+    <li>Les appels serveurs</li>
+    <li>La date de la requête</li>
+</ul>
+</p>
+<p>
+Ses données permettront en cas de problème, de retrouver toute piste en cas de litige.
+</p>
+
+<h3>Droit à l'oubli</h3>
+<p>Pour le moment, il est impossible de supprimer un compte d'une instance mais il est en revanche possible de suspendre son compte.</p>
+<p>En attendant que cette fonctionnalité soit disponible, nous proposons aux utilisateurs de faire une demande de suspension de compte avec l'ajout de votre adresse e-mail dans notre liste d'utilisateurs à supprimer. La suspension du compte aura pour effet de dé-indexer le compte et les toots de l'utilisateur concerné. Ainsi, nous ferons le nécessaire (avec confirmation du propriétaire du compte), de supprimer le compte de l'utilisation ainsi que ses toots et médias lorsque que cette fonctionnalité sera disponible.</p>
+
+<h3>Support</h3>
+<p>En cas de nécessité, vous pourriez avoir besoin d'aide. Le serveur ainsi que l'instance est entièrement géré par <a href="https://masto.themimitoof.fr/@masto">@themimitoof</a> (disponible sur <a href="https://twitter.com/themimitoof">Twitter</a>). En cas de problème avec votre compte ou d'un problème technique, vous pouvez envoyez un e-mail à <a href="mailto:contact+mastodon@mvieira.fr">contact+mastodon[at]mvieira[dot]fr</a>.</p>
+<p>Liste des administrateurs :
+<ul class="li">
+    <li><a href="https://masto.themimitoof.fr/@themimitoof">@themimitoof</a></li>
+</ul>
+</p>
+
+<h3>Contribution fiancière</h3>
+<p>
+    L'infrastructure coute à ce jour 40€. Après plusieurs demandes, nous vous proposons plusieurs moyens pour nous aider à financer l'infrastructure :
+    <ul class="li">
+        <li>Patreon: <a href="https://www.patreon.com/themimitoof">https://www.patreon.com/themimitoof</a></li>
+        <li>Bitcoin: 1F2igjKPA5eDPAmUmAvUrW5qqXZHkU686</li>
+        <li>Ethereum: 0x259C9B4A0f477bb6a9ff49779e5A4adAF45B4627</li>
+    </ul>
+</p>
+
+<h2 id="english">(English) Welcome on Mastodon!</h2>
+<a href="#french">🌎 Cliquez ici pour voir la version française.</a>
+
+<p>This part is is back soon!</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/e883b7844473b8f5.png?1491166209" alt="E883b7844473b8f5" /></div>
+<div class='name'>
+<a href="https://masto.themimitoof.fr/@themimitoof"><span class='display_name emojify'>Themimitoof</span>
+<span class='username'>@themimitoof</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact+mastodon@mvieira.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

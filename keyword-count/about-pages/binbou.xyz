@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>binbou.xyz
+ - binbou box</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mEN1sJUqswe6WHPnK0pkrpFWp/p4vSaAfQbuVHP2/u+ErPzgxFdEpT6tCmmgb3dfaVP+MRzQMhyzbf3lpED+nA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>binbou.xyz</h2>
+<p>It's the one social networking service <a href="mailto:aibarredo@gmail.com">your Japan-obsessed dad</a> loves!</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>8</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>36</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>163</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><a name="whine"></a><p>
+"Powered by the mighty elephants of <u>Mastodon</u>, binbou box is a humble micro-blogging server for the folks who feel very micro in life."
+</p>
+<p>
+<em>Really, Angelo? Is that all you can write for the introduction?</em>
+</p>
+<p>
+Well, yes, inner monologue. It's 2 a.m. and I still have stuff to do in the morning.
+</p>
+<p>
+<em>It's <u>just</u> 2 a.m. and all you can think off is a "humble micro-blogging site for the little folk"? A llama would've written a sonnet for this bit.</em>
+</p>
+<p>
+Okay. Okay. You've bugged me with the deployment and you've bugged me with the e-mails not getting sent. What do you want me to put, huh?
+</p>
+<p>
+<em>At least give it a selling point! You need to cater to a certain kind of folk. Quick! You like memes, don't you?</em>
+</p>
+<p>
+Yes. If it was 2008, when demotivationals and advice animals were still fresh. How about car people?
+</p>
+<p>
+<em>You mean like DriveTribe™?</em>
+</p>
+<p>
+Oh shoot. You're right. How about people who spend every waking minute outside?
+</p>
+<p>
+<em>Then they wouldn't be here, because they're busy enjoying life. This is a social networking service. You <u>need</u> traffic!</em>
+</p>
+<p>
+Okay. Okay. But I'm running on empty here. I can't make ideas and keep you fed at the same time.
+</p>
+<p>
+<em>Then why don't you go to slee--hmm. Wait a minute...</em>
+</p>
+<p>
+What is it, other me?
+</p>
+<p>
+<em>Why don't you dedicate this server for the people who love spending their time on the comfiest cushions their body can make contact with? You know, folks who wrap themselves in blanket burritos or pile themselves in dozens of pillows while the A/C is on full blast? How about those folks?</em>
+</p>
+<p>
+Mmm. Burritos.
+</p>
+<p>
+<em>Ugh. You're side-tracking again.</em>
+</p>
+<p>
+We should also have people who like eating in general! Food is amazing!
+</p>
+<p>
+<em>A "food and beds" Mastodon server? I dunno, man.</em>
+</p>
+<p>
+Well, that sounds about right. Binbou box: your food & beds micro-blogging service!
+</p>
+<p>
+<em>You know, maybe you should revis--</em>
+</p>
+<p>
+Zzzzzzz...
+</p>
+<p>
+<em>Oh, never mind.</em>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://binboubox.s3-us-west-1.amazonaws.com/accounts/avatars/000/000/001/original/aaa68310182bfa45.jpg?1491411766" alt="Aaa68310182bfa45" /></div>
+<div class='name'>
+<a href="https://binbou.xyz/@OneNightBlitz"><span class='display_name emojify'>Angelo Barredo</span>
+<span class='username'>@OneNightBlitz</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>aibarredo@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ediot.social
+ - EDiot Social</title>
+<link rel="stylesheet" media="all" href="/assets/application-1cba650a3a78b7e71979313c08d332eb09989bc5b0cfebfa833edaca9198dad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2O0+oKNkjAoxp3Ly74eNsJiievBYWkf144TwxBuAZxKpFKjh51vq8/fKvNeXn5GRh13sG8LszeWKSxS76QYwVg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ediot.social</h2>
+<p><p>Encyclopædia Dramatica is the greatest haven of free expression in the world... and we aren't content with a single site anymore.</p>
+<p>So here is our one and only Mastodon Instance. Here we accept everyone! <em>No Limits</em>, <em>No Domain Blocks</em>, <em>No Bullshit</em>.</p>
+<p>This Instance is a place for everyone to share and discuss <em>dank memes</em>, <em>awful jokes</em> and <em>pointless internet drama</em>. We aim to bring together the <em>shittiest communities</em> of Twitter and beyond to form one website filled with the <em>latest trends</em>, <em>memes</em> and again, <em>pointless internet drama</em>.
+<br><br><font size="2">Please ensure you check your spam folder for the confirmation email when signing up, it commonly gets stuck in there.</font></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>18</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>207</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>228</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2><b>Encyclopædia Dramatica Wiki</b></h2>
+<p><a href="https://encyclopediadramatica.rs/Encyclopedia_Dramatica:Thizzlehat_Junction_Center">ED: Thizzlehat Junction Center</a></p>
+<br>
+<h2><b>Encyclopædia Dramatica Forums</b></h2>
+<p><a href="http://forum.encyclopediadramatica.rs/">EDF2: Electric Boogaloo</a></p>
+<br>
+<h2><b>Email</b></h2>
+<p>Encyclopædia Dramatica general inquiries: <a href="mailto:contact@edrama.co">contact@edrama.co</a></p>
+<p>Mastodon Social Instance Maintainers: <a href="mailto:bane@edrama.co">bane@edrama.co</a> &amp; <a href="mailto:vx@edrama.co">vx@edrama.co</a></p>
+<i><b>Note:</b> Not everyone with an Encyclopædia Dramatica affiliated email address is an official ED representative. Email an above address to make sure the person who you're communicating with officially represents ED.</i></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/039/original/166ef45c7ac605ec.png?1493162709" alt="166ef45c7ac605ec" /></div>
+<div class='name'>
+<a href="https://ediot.social/@VarickXenos"><span class='display_name emojify'>Varick Xenos  ☢️</span>
+<span class='username'>@VarickXenos</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>See below for more contact info.</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

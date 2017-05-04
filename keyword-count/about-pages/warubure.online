@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>warubure.online
+ - エンシェントマストドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-1fe4c1b1d455ca334b0b863aef7a26e31c5c71574b208145b013d98f4241e010.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NpshrxK4yz5A+v7vlZ+tRhp0n7ZcfzK9FffmqHGIg9GfxVzcKVa/77Iuk+tm9YELU6aMXJTvcNBmZi+bMJVWAg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>warubure.online</h2>
+<p>24時間アニメを実況するためのインスタンス。故スクール・オブ・セイヴァーズ～聖剣使いの禁呪詠唱 ONLINE～とは無関係のサイトです。
+
+アニメの話題・実況もOK。だから、超最強なのである。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>23</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>綴るッ数</span>
+<strong>372</strong>
+<span>綴るッ</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>40</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>We are the "Saviors"! We are the "Strike" for our people, our peace and our justice!</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/003/original/a66225c4b9f3151e.png?1492619048" alt="A66225c4b9f3151e" /></div>
+<div class='name'>
+<a href="https://warubure.online/@horoama"><span class='display_name emojify'>ほろあま</span>
+<span class='username'>@horoama</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>warubureonline@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

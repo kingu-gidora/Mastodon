@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodonti.co
+ - Mastodonti.co</title>
+<link rel="stylesheet" media="all" href="/assets/application-42691f745934c081bf466ad8627b4c30906349c930ee4bdbf6ce73ff69e20b6d.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5z/GA/x3gdR3pwqwJRfWYo2sV1vHPOBzjFwPSLRG2DCw1FnLrrnMiClqiWAFW5W9U+HufjWxfp+gagtLuWRbXA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodonti.co</h2>
+<p><p><q>Hey baby, wanna see my federated timeline?</q></p>
+
+<p>Probabilmente la prima istanza italiana di Mastodon. Comportatevi bene.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>174</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,347</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>542</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Siamo un gruppo di cinque persone con la passione per FOSS e self-hosting; e quando abbiamo sentito di Mastodon, beh - questo è il risultato.</p>
+
+<p>Probabilmente la prima istanza italiana.</p>
+
+<p>Non ci sono molte regole; se non avete intenzione di spammare, spendere il vostro tempo trollando e/o molestando le altre persone, postare merda fascista/nazista/razzista/misogina/omofobica/transfobica, o porno e/o materiale NSFW senza taggarlo - AKA, evitando di essere teste di cazzo - andremo perfettamente d'accordo.</p>
+
+<p>In ogni caso, il nostro server è collocato in un datacenter francese, e quindi dobbiamo rispettare le leggi francesi. Chiediamo ai nostri utenti di non postare o boostare materiale illegale nella giurisdizione francese.</p>
+
+<p>Altrimenti, come detto da @tankgrll - voi avete la vostra libertà. Noi possediamo il server.</p>
+
+<hr/>
+
+<p>We are a group of five people passionate about FOSS and self-hosting; and when we heard about Mastodon, well - this is the result.</p>
+
+<p>Probably the first Italian instance.</p>
+
+<p>There are not many rules; if you aren't going to spam, spend your time trolling and/or harassing other people, posting fascist/nazi/racist/mysoginist/homophobe/transphobe shit, or porn and/or NSFW stuff without tagging it as such - AKA, you are not going to be a dick - we'll get along just fine.</p>
+
+<p>In any case, our server is located in a France datacenter, and as such we have to abide by France's laws. We ask our users to not post or boost material that is illegal by French law.</p>
+
+<p>Otherwise, as @tankgrll said - you own your own freedom. We own the server.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/154/original/3cd707b5a4912ef5.png?1492162835" alt="3cd707b5a4912ef5" /></div>
+<div class='name'>
+<a href="https://mastodonti.co/@mastodontico"><span class='display_name emojify'>Mastodontico</span>
+<span class='username'>@mastodontico</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@mastodonti.co</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

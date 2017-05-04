@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon-srv.gq
+ - mastodon-srv.gq</title>
+<link rel="stylesheet" media="all" href="/assets/application-1cba650a3a78b7e71979313c08d332eb09989bc5b0cfebfa833edaca9198dad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NmCS7+7iKk/uiihusXka41Ox9v62UfdEp0yuRejhoSoKXy27BvQlIi51B17+JDFoEKHQG0ydN0NpMS9MEQW/Jg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon-srv.gq</h2>
+<p>Mastodon日本サーバ(鯖)です。<br>
+
+<h2>サーバについての情報</h2>
+<p>さくらのVPSで運営しています。<br>
+リージョン(DC)は石狩です。</p><br><br>
+<h2>投稿にあたって守ってほしいこと</h2>
+<p>他人の名誉を毀損する投稿など法律に違反するような内容は投稿しないでください。<br>
+未成年が閲覧しても問題がない内容を投稿してください。<br>
+投稿する場合は、投稿する種類ごとに以下のようにしてください</p><br>
+守れない場合はBAN(アカウント停止処分)を行う場合があります。<br><br>
+<h3>PCとスマートフォンなどのブラウザから投稿する場合</h3>
+<p>テキストに対して閲覧制限を設ける場合は、<strong>CW</strong>をクリックorタップすると、Content Waring又は閲覧注意と表示されます。<br>
+※CWを有効化していてもContent Waring又は閲覧注意に何も入力していない場合は、通常の投稿として扱われますので、ご注意ください。
+画像に対して閲覧制限を設ける場合は、画像投稿後に<strong>NSFW</strong>をクリックorタップしてください。</p><br><br>
+<h3>Amaroqを使い投稿する場合</h3>
+<p>テキストに対して閲覧制限を設ける場合は、<strong>Hide text behind warning</strong>をONにします。<br>
+ONにすると、Content Waringが表示されます。<br>
+画像に対して制限を設ける場合は、<strong>Mark media as sensitive</strong>をONにします。<br>
+・喧嘩(けんか)などはしないようにしてください(本サーバ内又はリアルを含め)。<br>
+・喧嘩(けんか)をした場合は当事者間の解決とし、運営人は一切関与しないものとします。<br>
+・極端な連続投稿などDoS攻撃と思われるような投稿又、DoS攻撃やDDoS攻撃などはサービス運営の妨げになるので行わないでください。<br>
+※故意な連続投稿であると当方が判断した場合該当IPアドレスからの接続拒否やユーザの活動の制限を行う場合があります。</p><br><br>
+<h2>お問い合わせ</h2>
+<p>お問い合わせはmastodon(at)ichigo-lab.netまでおねがいします。<br>
+送信時には(at)を@にかえてください。</p><br><br>
+<h2>寄付及びその他</h2>
+<p>※運営には私費がかかっています。<br>
+現在サーバーは最低ランクですが、寄付が多ければスペックアップの可能性もあります。<br>
+また、ドメイン名も短いものを簡単なものに変更できるかもしれません。</br>
+<a href="https://enty.jp/yamapii508">Enty</a><br>
+<a href="https://www.amazon.co.jp/registry/wishlist/1OKECO7JEM2KB/ref=cm_sw_r_cp_ep_ws_zrD9ybCT8D0Z7">Amazonほしい物リスト</a><br>
+BitCoin<br>
+<img src="http://ichigo-lab.net/images/bitcoin/mastodon.png"  width="100" height="100"><br>
+『157ottxpMaENVC8FJwXXgBWZryhZxq6Dv3』<br>
+<a href="http://blog.ichigo-lab.mydns.jp">ichigo-lab BLOG</a>も支援よろしくお願い致します。</p><br>
+寄付を頂いた際には、明細書のコピー等を掲載し使途をはっきりさせます。<br><br>
+
+<h3>アカウントにログインできない場合</h3>
+<p>パスワードを忘れて、メールアドレスも変わってしまった場合は、私でも対処ができませんので、あきらめてアカウントの再作成を行ってください。<br>
+<h3>利用規約等</h3>
+利用規約は以下のURLより閲覧してください。<br>
+<p><a href="http://ichigo-lab.net/rule.html" target="_blank">http://ichigo-lab.net/rule.html</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>13</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>52</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>149</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>ichigo-lab.netが設置するMastodonの日本語サーバー(鯖)です。<br>
+IT系のインスタンスを目指していますが、投稿する内容はIT以外でもOKです。<br>
+皆さんお気軽に登録してトゥートしてね</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/07460fece63c2700.jpeg?1492431043" alt="07460fece63c2700" /></div>
+<div class='name'>
+<a href="https://mastodon-srv.gq/@yamapii508"><span class='display_name emojify'>やま:white_check_mark:</span>
+<span class='username'>@yamapii508</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>y.nakayama(at)ichigo-lab.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>toot.aquilenet.fr
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZqJGhi8mv+7TOMHfHYj9IoqvhhK6YnAe57djO+ZuMkXZTaouTwGONPAjKZ25iiUH92L8BB4ZkMSL8EpecePLwA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>toot.aquilenet.fr</h2>
+<p><h3>[FR] Bienvenue sur TOOT.AQUILENET.FR</h3>
+Aquilenet (<a href="https://www.aquilenet.fr" style="color:#f8f8f8;">Aquilenet.fr</a>), fournisseur d'accès à Internet associatif, local et militant en Aquitaine vous accueille sur son instance Mastodon !<br /><br />
+<h3>[EN] Welcome on TOOT.AQUILENET.FR</h3>
+Aquilenet (<a href="https://www.aquilenet.fr" style="color:#f8f8f8;">Aquilenet.fr</a>), associative Internet Service Provider, local et engaged, located in Aquitaine (France) welcomes you on its Mastodon instance !</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>100</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,521</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>562</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>[FR] Quelques infos en +</h3>
+L'accès est ouvert à tou⋅te⋅s (et toots), mais la modération sera intransigeante avec les cas de mauvais comportement sur l'instance, à savoir la tenue de propos offensants (sexistes, racistes, LGBTQI+phobes, ou jugés oppressifs sous toute forme) et les cas de harcèlement ciblé envers un⋅e utilisateur⋅ice.
+<br /><br />
+Vous pouvez contacter les administrateurs de l'instance à tout moment, à savoir :<br />
+⋅ <a href="https://toot.aquilenet.fr/@aquilenet" style="color:#f8f8f8;">@aquilenet@toot.aquilenet.fr</a><br /><br />
+Mais aussi (surtout ?) sur leurs comptes personnels :<br />
+⋅ <a href="https://toot.aquilenet.fr/@Cyphergoat" style="color:#f8f8f8;">@cyphergoat@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@F_Tessier" style="color:#f8f8f8;">@F_Tessier@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@samuel_thibault" style="color:#f8f8f8;">@samuel_thibault@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@sacha" style="color:#f8f8f8;">@sacha@toot.aquilenet.fr</a><br /><br />
+<h3>Bienvenue parmi nous \o/ !</h3>
+<h3>[EN] Some more informations</h3>
+The access is open for everyone, but the moderation will be strict about cases of bad behaviour on the instance, which includes having offensive words (sexist, racist, LGBTQI+phobic, or judged as oppressive in any way) and the cases of cyber-harrassing toward an user.
+<br /><br />
+You can contact the administrators of the instance whenever needed, at :<br />
+⋅ <a href="https://toot.aquilenet.fr/@aquilenet" style="color:#f8f8f8;">@aquilenet@toot.aquilenet.fr</a><br /><br />
+But also (overall ?) on their personnal accounts :<br />
+⋅ <a href="https://toot.aquilenet.fr/@Cyphergoat" style="color:#f8f8f8;">@cyphergoat@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@F_Tessier" style="color:#f8f8f8;">@F_Tessier@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@samuel_thibault" style="color:#f8f8f8;">@samuel_thibault@toot.aquilenet.fr</a><br />
+⋅ <a href="https://toot.aquilenet.fr/@sacha" style="color:#f8f8f8;">@sacha@toot.aquilenet.fr</a><br /><br />
+<h3>Welcome among us \o/!</h3></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/aa788e4444fd7641.png?1491677366" alt="Aa788e4444fd7641" /></div>
+<div class='name'>
+<a href="https://toot.aquilenet.fr/@Aquilenet"><span class='display_name emojify'>Aquilenet</span>
+<span class='username'>@Aquilenet</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>support@aquilenet.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

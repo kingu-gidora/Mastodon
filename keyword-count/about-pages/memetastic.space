@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>memetastic.space
+ - Memetastic</title>
+<link rel="stylesheet" media="all" href="/assets/application-81bebfafb58fbad713c168f95ff2c9e38c17d98d026f90f84cb4b8f4a931d0a4.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1QWuWzc63h5agCUr2rIwlu0Mzmn71TkTHLgTXV8T/rPOySryb5YM7lrQXl4mGfXQ6amytEMQWl77Bibe6JFw9w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>memetastic.space</h2>
+<p>It is a social media experiment where the main aim is to share and discuss <em>dank memes</em> and <em>awful jokes</em>. We aim to bring together the <em>meme communities</em> of Twitter and beyond to form one website filled with the <em>latest trends</em> and <em>jokes</em>.
+<br><br> <font size=2>Please ensure you check your spam folder for the confirmation email when signing up, it commonly gets stuck in there. As well as this, Outlook appears to block us ( ¯\_ツ_/¯ ), so please don't sign up with them, or it'll be hard to get your verification link.</font></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>3,055</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>4,383</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>447</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>Background can be found of Clipartgram.
+Logo is edited from Josh DeSeno (Kappa).
+If copyright holders have a problem with me using these images, please contact me and provide evidence to email@memetastic.space and I'll see what I can do.
+<p>
+<br>
+<font size=6>Code of Conduct:<br></font>
+<br>
+<font size=3>By using this website, you, as a user (hereby referred to as "memelord") agree to follow these guidelines pertaining to how you act on this website. Any reports made against a memelord/post can be filed to email@memetastic.space (in the future there will be an inbuilt report button). Each report will be dealt with on a case-by-case basis, but follow these general rules and you should be fine. The administration team have final say on bans.</font>
+<br>
+<br>
+<font size=6>When making a meme/post or a memetion/reply:</font>
+<br> <br>
+<font size=3><ul>
+<li>Please make sure you are not constantly reposting the same meme (spamming). Doing so may result in your account being silenced from the Public Memefeed.</li>
+<li>If you are posting a meme/post that may be offensive to some, ensure you put it in a content warning by ticking the "Hide meme behind warning/line" underneath the compose box (for example, jokes about terrorism, mild NSFW content etc. fall into this category). If you do not do this, you may be asked to delete and repost your meme, or will result in it being deleted. Again, each case will be taken individually, and the administration team will judge memes impartially.</li>
+<li>Do not post any revealing or harrassing content towards other memelords. We all want to have fun here (infringing content includes personal information, imagery, bullying, discrimination and majorly harassing messages). This will result in an immediate suspension of your account and revocation of access to the website.</li>
+<li>Do not post anything that is illegal in your country of residence or the United Kingdom of Great Britain and Northern Ireland (extreme violence, torture, murder, beheadings, sexual assault etc.). Doing so will lead to an immediate suspension of your account, and a revocation of access to the website.</li>
+</ul> </font>
+<font size=6>Other things of note:</font> <br>
+<br>
+<font size=3>
+<ul>
+<li>The content posted on this website does not reflect the views of the administration team. We like free speech, and the adminstration team will not censor any memelord on the site for any unjust or discriminatory reason.</li>
+<li>Attempting to degrade or hijack the service in any way will result in your access to the site being revoked.</li>
+<li>Use common sense about what is being posted. If the content claims it is not safe for work (NSFW) and you view it anyway, memetastic.space or its users can not be held responsible.</li>
+</ul>
+</font>
+<font size=4>These provisions notwithstanding, the administration team reserves the right to revoke any memelord's access permissions, at any time, for any reason, except as limited by law.</font>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/media.png?1487179401" alt="Media" /></div>
+<div class='name'>
+<a href="https://memetastic.space/@meme"><span class='display_name emojify'>Memetastic❕</span>
+<span class='username'>@meme</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

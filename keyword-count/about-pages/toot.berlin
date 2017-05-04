@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>toot.berlin
+ - toot.BERLIN</title>
+<link rel="stylesheet" media="all" href="/assets/application-d4570b413045e154953ba9bf860068a0620aa7cee4bc9b2008319c01dc4b8bae.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="saGWaopTyDOpqbEzoPd1LdGGLl+zRGbWgdwtxSJeFoGtbTwHpHdVnjCGWxX86sMxYRgVAy+paKaWN4NF/Zx61A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>toot.berlin</h2>
+<p>The Mastodon instance for Berlin. Mastodon is a free, decentralised microblogging platform (think Twitter, but free).<br/><br/>Provided by the devops nerds at <a href="https://plan.io">Planio</a>.<br/><br/><a href="https://plan.io/de/kontakt/#impressum">Impressum</a> &middot; <a href="/terms">Datenschutzerklärung</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>451</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,205</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>760</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>This instance is humming nicely on a 6 core, 16 GB RAM KVM VM on a 12 core, 128 GB RAM bare metal hardware node with dual SSDs in a RAID1, hosted at Hetzner in Germany with multiple redundant uplinks on 100% renewable energy sources. We perform offsite backups daily and upgrade to the latest Mastodon version frequently.<br/><br/>TL;DR We know what we are doing and your data should be safe. However, since this is a free service, we do not guarantee it.<br><br>Code of conduct: We value free speech as long as it's not harming anybody. Just <a href="https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk">don't be a jerk</a>.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a541f9970d1db3a9.jpg?1491636938" alt="A541f9970d1db3a9" /></div>
+<div class='name'>
+<a href="https://toot.berlin/@jan"><span class='display_name emojify'>Jan 🍍</span>
+<span class='username'>@jan</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>jan@toot.berlin</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

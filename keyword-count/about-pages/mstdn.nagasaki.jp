@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.nagasaki.jp
+ - 長崎は今日も Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-96fa590b4d9edcdf8391e22c1c49d326910b675eaee0b2cee09d4bdf02badaef.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zskD+gSG9roMHn3Pgcnszhpdpvv0Et4BHSYNobH9+Buo0k0jjYIaQK/x3LfA8x7coWsq5a8usr+m/9ukuEs2uQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.nagasaki.jp</h2>
+<p><h2>長崎地域向けインスタンスです。<br>もちろん長崎県民以外も参加できます。</h2>
+<br>
+<p><span class="fa fa-user fa-fw"></span>ユーザー登録について</p>
+<ul>
+<li>ユーザー名は<em>英数字のみ</em>です。<br>ハイフンや記号などは使えません。</li>
+<li>ログイン後は、プロフィールの名前で漢字などが使えます。</li>
+<li>メールが届かない場合は、ビジネスメールに連絡ください。</li>
+</ul>
+<br>
+<br>
+<p><span class="fa fa-users fa-fw"></span>九州地元愛のインスタンス一覧</p>
+<ul>
+<li><a href="https://mstdn.fukuoka.jp">福岡インスタンス</a></li>
+<li><a href="https://mastodon.oita.jp">大分インスタンス</a></li>
+<li><a href="https://saigodon.jp">鹿児島インスタンス</a></li>
+</ul>
+<br>
+<br>
+<p>写真やロゴを<em>募集中</em>です。<br>管理人メールに送っていただければ、独断と偏見で掲載いたします。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>4</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>17</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>5</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>※※※　使用上の注意　※※※</h3>
+<ul>
+<li>喧嘩せずに楽しい会話を心がけましょう。見えなくても相手は人ということを忘れずに。</li>
+<li>ひとり言が多くても全然大丈夫です。誰かがブーストしてくれるはずです！</li>
+<li>使い方がわからなかったら公開ＴＬで聞きましょう。</li>
+<li>個人情報（名前やメアド等）を見つけたら注意の上、削除します。</li>
+<li>その他いろいろありますが、常識の範囲内でご利用ください。</li>
+<li>個人サーバーなので突然落ちたり、なくなる可能性があります。あまり重いデータを投稿しないでね＾＾；</li>
+</ul><br>
+<p>画像は「<a href="http://www.irasutoya.com/">いらすとや</a>」さま、や「<a href="https://www.photo-ac.com/">Photo AC</a>」さまを利用していますので、取り扱う時はサイト元を確認してください。</p>
+<br>
+<table cellspacing="1" cellpadding="2" width="100%" style="background-color:transparent;">
+<tr><td width="35%" style="padding:5px;border:1px solid #ccc;">定期メンテナンス時間</td><td width="65%" style="padding:5px;border:1px solid #ccc;">毎月25日　22:00～24:00（予定）</td></tr></table></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8b63f82969474c74.png?1493650101" alt="8b63f82969474c74" /></div>
+<div class='name'>
+<a href="https://mstdn.nagasaki.jp/@koichi"><span class='display_name emojify'>こーいち:dragon:</span>
+<span class='username'>@koichi</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mstdn.nagaskai@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

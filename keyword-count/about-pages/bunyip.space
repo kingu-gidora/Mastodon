@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>bunyip.space
+ - Bunyip Space</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FYZhKjTjvP0T8JUQ66/na4cub71T1htcUFB2XJBJDCcqEzpiF2EElxxuvrtk02LsE16M43mR9nWThHAU0O/89g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>bunyip.space</h2>
+<p>Bunyip Space is a Mastodon instance for inclusive and diverse community discussion and social sharing with respect and tolerance. All are welcome.
+<p>
+See <a href="/about/more">here</a> for more information on why you should join, read about our community standards, and why we are called <b>Bunyip Space</b>.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>25</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>285</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>738</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>WHY JOIN THIS INSTANCE?</h2>
+<p>
+This instance of Mastodon is targeted at users of any age who wish to engage in safe, mature and stimulating discussion in a welcoming online <b>space</b>. We're happy to have a laugh, but abuse, disrespect, and intolerance are not welcome.
+<p>
+You can register here and follow and interact with users on any other instance in the Fediverse. This Mastadon instance does not intend to block any other instances, so users are free to see whatever they choose from the Fediverse, but we will be strict about preserving our own local timeline as a safe, welcoming and inclusive community.
+<p>
+We recognise the challenge in balancing free speech and protection from extreme and inappropriate language, and we expect that these guidelines and our practice in enforcing them over time will evolve over time, with consultation and communication
+<p>
+We hope to build a quality community, and will consider charging for membership and/or providing other joining restrictions in future to support this.  If we do introduce payments, existing members will be grandfathered in. 
+<p>
+For now, this instance is being run on a volunteer basis, and donations are welcome at https://paypal.me/spickup
+<p>
+<h2>WHAT IS A BUNYIP?</h2>
+<p>
+The bunyip is a large mythical creature from Australian Aboriginal mythology, said to lurk in swamps, billabongs, creeks, riverbeds, and waterholes. We choose this name as the founder is Australian, although currently living in the UK.<a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>sp@bunyip.space</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

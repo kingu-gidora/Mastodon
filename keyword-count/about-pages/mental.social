@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mental.social
+ - mental.social</title>
+<link rel="stylesheet" media="all" href="/assets/application-cdef7d881622caea47ef6d9a989d5818b4861eff9aa9e06bee5394ca7b64de5f.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cz/IkULN6ONle8m0VDWGs5Tk1/m1IpKeaGd6lvAhdqTBTnnQNkCAhWjfpYlH+nBsrfiZCptHO9ioBsq3HGABYg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mental.social</h2>
+<p><p>メンタルヘルスをテーマとするインスタンスです。<br />
+心の病気、発達障害、さまざまなマイノリティなどを扱います。<br />
+上記に当てはまらないような方も、疲れたときや、鍵アカの置き場などにどうぞ。</p>
+
+<p>投稿の内容は限定しませんが、法に触れる行為、人に迷惑をかける行為はご遠慮ください。<br/ >
+医療行為にあたる可能性があるので、他の人の病名を決めつけたりする行為も禁止です。<br />
+
+
+<p>情報の活用については自己責任です。<br />
+ネット上の情報をうのみにせず、医療機関の適切な受診をお願いします。
+</p>
+
+<p>管理人はADHDなのでサーバーの運用に過度な期待は持たないほうがよいです。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>219</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>5,833</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>164</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>AGPLv3に基づき、サーバーのソースコードを<a href="https://github.com/lune-sta/mental-social">GitHub</a>で公開しています。</p>
+<p>このサーバーは他の用途で使っている自宅サーバーを間借りしているので、運用に対して特別な支援は今のところ必要ありません。それでも何か贈りたい方は<a href="https://www.amazon.co.jp/registry/wishlist/3F0XKJOTFCS6H/ref=cm_sw_r_tw_ws_x_NiwazbB8GY6GP">欲しいものリスト</a>をご利用ください。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://s3.mental.social/media/accounts/avatars/000/000/001/original/254347dc79f4473b.jpg" alt="254347dc79f4473b" /></div>
+<div class='name'>
+<a href="https://mental.social/@lune"><span class='display_name emojify'>るね</span>
+<span class='username'>@lune</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>lune@wuvu.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

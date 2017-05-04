@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>39sounds.net
+ - Mastodon on 39sounds.net</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IU2cHDaZtriVMnYn4hSQsSh7TYZebwd9k7Ue8V1/vP6qOqwYhzJUxgTIZBOTdu+kEt57iHa0AUD/od5r9kr6JA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>39sounds.net</h2>
+<p>けーのの個人用Mastodon(OStatus)インスタンスです。
+<a href="https://39sounds.net/@kno2502">OStatus</a>
+<a href="https://twitter.com/kno2502">Twitter</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>11</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>518</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>387</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>けーのの個人用Mastodon(OStatus)インスタンスです。
+<a href="https://39sounds.net/@kno2502">OStatus</a>
+<a href="https://twitter.com/kno2502">Twitter</a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/89be3c9bc90e2aa3.JPG?1492164475" alt="89be3c9bc90e2aa3" /></div>
+<div class='name'>
+<a href="https://39sounds.net/@kno2502"><span class='display_name emojify'>けーの</span>
+<span class='username'>@kno2502</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mastodon@39sounds.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>freeradical.zone
+ - Free Radical</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jN77m1+DspZF0BYn5k5Cns3jMTiDnWdEatr+iGyBQaYSZM2bhakNqyo5+kL69edbQEFSxZ1Ht9f4qFcx6Jqe4g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>freeradical.zone</h2>
+<p>Free Radical is our social media haven. It's where we talk in an inviting, respectful setting where we can set our own boundaries. We'd love for you to join us!
+
+<p>Read about our adventures on the <a href="https://blog.freeradical.zone/">Free Radical Blog</a>.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>65</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,874</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>619</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1 id="code-of-conduct">Code of Conduct</h1>
+<h2 id="prior-art">Prior art</h2>
+<ul>
+<li><a href="https://mastodon.social/about/more">Mastodon.social guidelines</a></li>
+<li><a href="http://jsconf.com/codeofconduct.html">JSConf Code of Conduct</a></li>
+<li><a href="https://toot.cafe/about/more">Toot Café guidelines</a></li>
+</ul>
+<h2 id="the-short-version">The short version</h2>
+<ul>
+<li>Don't harass anyone</li>
+<li>If someone is harassing you, report it to a moderator</li>
+<li>Have fun</li>
+<li>Be excellent to each other</li>
+</ul>
+<h2 id="moderators">Moderators</h2>
+<ul>
+<li><a href="https://freeradical.zone/@tek">@tek</a></li>
+</ul>
+<h2 id="blocked-instances">Blocked instances</h2>
+<p>We block some other instances. The full list is <a href="https://github.com/kstrauser/freeradical/blob/master/content/blocked.md">on GitHub</a>. Contact a moderator if you wish to dispute an entry.</p>
+<h2 id="rules">Rules</h2>
+<ul>
+<li>No advertising or excessive promotion</li>
+<li>No bots, unless they're cute, funny, or useful. Bots should avoid posting to the public timeline.</li>
+<li>No pornography, nudity, or something that would be considered &quot;NSFW&quot; in a U.S. workplace, even behind a NSFW warning.</li>
+<li>No gore or graphic violence</li>
+<li>Content that is borderline NSFW or could be construed as NSFW at a glance should be put behind a CW (Content Warning)</li>
+<li>No racism</li>
+<li>No sexism</li>
+<li>No discrimination based on gender, sexual minority, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or national origin</li>
+<li>No xenophobia or violent nationalism</li>
+<li>No sexual depictions of children</li>
+<li>No holocaust denialism, Nazi symbolism, promotion of National Socialism, or anything that is illegal in the European Union</li>
+<li>No stalking or harassment</li>
+<li>No fake accounts, even celebrity joke accounts. Note this rule does not necessarily apply to remote accounts.</li>
+</ul>
+<h2 id="handling-harassment">Handling harassment</h2>
+<p>If you are being harassed, please report the user using the &quot;…&quot; button and then &quot;Report.&quot; For urgent concerns, please DM a moderator.</p>
+<p>If you engage in harassing behavior, the moderator may take any action they deem appropriate, such as a warning or an expulsion.</p>
+<p>The above rules may change at any time, and you may be banned at any time based on the moderators' judgment.</p>
+<h2 id="privacy-policy">Privacy policy</h2>
+<p>What will we do with your data? Nothing. How will you be influenced by advertisers? You won't; brands and non-humans (other than fun/useful bots) are banned. How will we aggregate your data in order to improve your service… none of that.</p>
+<p>We will never share your data with anyone else, except in the case of valid legal requests if it comes to that. (Hopefully it won't come to that!)</p>
+<p>Understand though that this instance is run by me and my friends, and (as is the case with all Mastodon servers) we potentially have access to your data, including DMs. The back-end is also not encrypted. If this is not okay with you, this might not be the instance for you.</p>
+<p>Also, for truly private data sent between two people, Mastodon offers no E2E encryption. So use Signal or WhatsApp for the things you really want to be private.</p>
+<p>More privacy measures on Free Radical:</p>
+<ul>
+<li>Our <code>robots.txt</code> file asks crawlers not to explore the site.</li>
+<li>HTTPS is used everywhere thanks to <a href="https://letsencrypt.org/">Let's Encrypt</a>.</li>
+<li>No ads or trackers.</li>
+<li>Links are direct URLs rather than tracking redirects.</li>
+</ul>
+<h2 id="discussion-and-feedback">Discussion and feedback</h2>
+<p>For questions about policy, bots, design, theming, etc., please <a href="https://github.com/kstrauser/freeradical/issues">open an issue</a>.</p>
+<h2 id="about-this-server">About this server</h2>
+<p>Free Radical is a Digital Ocean droplet in San Francisco. It's maintained by Kirk Strauser. Thanks for visiting!</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://freeradical-system.s3-us-west-2.amazonaws.com/accounts/avatars/000/000/001/original/e68e5824a979f83a.jpg" alt="E68e5824a979f83a" /></div>
+<div class='name'>
+<a href="https://freeradical.zone/@tek"><span class='display_name emojify'>Tek</span>
+<span class='username'>@tek</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>tek@freeradical.zone</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

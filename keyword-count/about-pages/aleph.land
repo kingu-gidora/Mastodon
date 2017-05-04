@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>aleph.land
+ - Aleph</title>
+<link rel="stylesheet" media="all" href="/assets/custom-2a7e496755edb38c1da87011ac24fd988d9500b9763117233d977e6b1d2e0e6b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="e1FiOrvIbNXpsCyctYXNcMrPJV7j22IPvJ/RTfJCCZ89r+vpmnG2JaVEOoZkVsEwk3lwSDqJYkGHzEWNQ2/iTQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>aleph.land</h2>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>710</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>18,809</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>902</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>Welcome to the א community!</h1>
+<br/>
+<img src="https://sapphire.madeorsk.com/aleph.land/logo.svg" alt="logo aleph land" id="aleph_logo" />
+<br/>
+<p>First, here are the main ideas behind our rules that should be yours:
+<ul>
+	<li>The respect of others is primary.</li>
+	<li>This instance wants to be peaceful and welcoming.</li>
+	<li>Each user is responsible of their account.</li>
+</ul>
+<h2>Rules of Aleph.land</h2>
+<p>
+You can be suspended for:
+</p>
+<ul>
+	<li>Sharing content that is illegal in France (pedophilia, mainly).</li>
+	<li>Taking part of a harassment.</li>
+	<li>Putting someone in danger.</li>
+	<li>Having a racist, sexist, discriminating or oppressive talk.</li>
+	<li>Voluntarily degrading the prosperity or the good atmosphere of the instance.</li>
+</ul>
+<p>
+You can be muted from the public timelines for:
+</p>
+<ul>
+	<li>
+		Posting a media, some text or a link to the following contents without an explicit content warning and NSFW cover:
+		<ul>
+			<li>nudity (#nude)</li>
+			<li>gore (#gore)</li>
+			<li>pornography (#porn)</li>
+			<li>a flashy media that could be harmful for photosensitive people (#epilepsywarning)</li>
+			<li>spoil (#spoil)</li>
+		</ul>
+	</li>
+	<li>Unpleasant shitposting or flooding.</li>
+	<li>Making abusive ads.</li>
+	<li>Posting automatic toots from another source.</li>
+</ul>
+</p>
+<p>
+Please keep in mind that this rules are here to guarantee a good experience to everyone on the instance. Also, this list is not exhaustive and moderators will do their best to solve problems that may not have been specified here.<br/>
+If you have any question, or suggestion, don't hesitate to contact me at <a href="https://aleph.land/@Madeorsk">@Madeorsk@aleph.land</a>! :)
+<br/><br/>
+You can also donate every month to help me to maintain this instance: <a href="https://www.patreon.com/alephland">patreon.com/alephland</a>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/edc0d8af0f4acbe2.png?1491162470" alt="Edc0d8af0f4acbe2" /></div>
+<div class='name'>
+<a href="https://aleph.land/@Madeorsk"><span class='display_name emojify'>א | Madeorsk</span>
+<span class='username'>@Madeorsk</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>madeorsk@protonmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

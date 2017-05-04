@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodons.jp
+ - Mastodons.JP</title>
+<link rel="stylesheet" media="all" href="/assets/application-3a132083d732a7cde537fd172c507aca4bf88f8288efdc08dbceb2c92b69bd8e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vd3simWwS4j8tuN+WtH726VsdK7g/8XpPHFUA2HPmWDVQisGxNvcl4csubh21qe2win4YPOnmiVTRZxORwOjBw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodons.jp</h2>
+<p>大阪江坂在住のウェブ屋さんが立てたインスタンスです。
+好きにしてもいいのよ？</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>46</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>124</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>157</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>基本的にゆる～く、放任チックに運営していこうと考えています。
+あまりにめちゃくちゃな使い方でもしない限りは好きに使ってOKです。
+もしサーバの負荷が大きくなってきたらサーバスペックをすぐ引き上げられるようにはしていますので、その辺りは運営の懐具合と相談ということで宜しくお願いします。
+<style type="text/css">
+table#about {border:collapse:collapse;margin-top:15px;border:1px solid #9baec8;}
+table#about th, table#about td {padding:5px;}
+table#about th {text-align:right;}
+</style>
+<table id="about"><tr><th>ブログ</th><td>：<a href="http://blog.rutti.net/" target="_blank" style="color:#3af;">Demence/Cup</a></td></tr>
+<tr><th>Twitter</th><td>：<a href="http://twitter.com/#!/rutti17" target="_blank"style="color:#3af;">@rutti17</a></td></tr>
+<tr><th>Facebook</th><td>：<a href="https://www.facebook.com/pages/%E3%82%8B%E3%81%A3%E3%81%A1/162613650596894" target="_blank"style="color:#3af;">るっち</a></td></tr></table></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/7ab95ad73c657cc0.jpg?1492707947" alt="7ab95ad73c657cc0" /></div>
+<div class='name'>
+<a href="https://mastodons.jp/@rutti"><span class='display_name emojify'>るっち</span>
+<span class='username'>@rutti</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>administrator@mastodons.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

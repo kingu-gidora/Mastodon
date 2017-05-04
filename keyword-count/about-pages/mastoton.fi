@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastoton.fi
+ - Mastodon Suomi</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yyTxmHniY4zuMz5R/iJr0jPaUVGnG7KY4ndffY0HwE+fmRNwI+QiqE5RfuN9/uQYtZIPDjVpka5ZUj/jdDMqjA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastoton.fi</h2>
+<p>Tämä instanssi on tarkoitettu pääosin suomalaisille. Muutkin ovat tervetulleita liittymään mukaan :).<br><br>
+
+This intance is ment mainly for Finnish persons. Others are of course are more than welcome to join :).</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>156</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>466</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>411</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>Tämä palvelin sijaitsee fyysisesti Ranskassa mutta omistajana toimii suomalainen henkilö.<br><br>
+
+Järjen käyttö on sallittua :)<br>
+Jos ongelmia löytyy, lähetä asiasta sähköpostia oikealla näkyvään sähköpostiin.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://assets.mastoton.fi/mastoton-fi-assets/accounts/avatars/000/000/001/original/3a61736662bb3cf0.png" alt="3a61736662bb3cf0" /></div>
+<div class='name'>
+<a href="https://mastoton.fi/@JantsoP"><span class='display_name emojify'>JantsoP</span>
+<span class='username'>@JantsoP</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>jantsop@mastoton.fi</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

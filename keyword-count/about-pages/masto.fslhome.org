@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>masto.fslhome.org
+ - FSL Home Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-1cba650a3a78b7e71979313c08d332eb09989bc5b0cfebfa833edaca9198dad5.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SIOqGEcp6fNLsqJgmdvPZRigALCH0qHL61lTUc50xv55cqVqZ0zERE8gWf3FP5/hWJTSn+eFiEOHB3ylYZ+SJQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>masto.fslhome.org</h2>
+<p>Instance Mastodon réservée aux utilisateurs FSLHome :-).</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>3</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>50</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>148</strong>
+<span>autres instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/7019ed3b3a8e8d56.png?1492874536" alt="7019ed3b3a8e8d56" /></div>
+<div class='name'>
+<a href="https://masto.fslhome.org/@Videl"><span class='display_name emojify'>Videl</span>
+<span class='username'>@Videl</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>videl@fslhome.org</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

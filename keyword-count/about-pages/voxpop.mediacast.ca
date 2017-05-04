@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>voxpop.mediacast.ca
+ - Mediacast - Vox Populi</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="fiyIMmS/SaY4MQD8vuQn0uwcIA0uJC75M19uZFn0AGL9QgEHcaFbXid+io90ReQQspL3KbFXoWkg5WWBHQWo/Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>voxpop.mediacast.ca</h2>
+<p><em>Open comment</em> on current affairs with a <em>Canadian focus</em>. This instance embraces freedom of expression, as defined by <a href="http://laws-lois.justice.gc.ca/eng/const/page-15.html">our Charter</a>. "Speak freely", says the law student grading their own paper.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>17</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>5</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>190</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>Open to all, free to use.</h1>
+<h2>Terms of Use</h2>
+<p>We're working on it.</p>
+<h3>Conduct</h3>
+<ul>
+  <li>Failure to use the "#nsfw" tag when media attached to a message depicts material unsuitable for viewing by a Canadian youth audience (persons under 18 years of age), examples of which include:
+    <ul>
+      <li>nudity</li>
+      <li>graphic violence</li>
+    </ul>
+  </li>
+</ul>
+<h3>Content</h3>
+<p>The following types of content are explicitly forbidden and will result in revocation of access to the service:</p>
+<ul>
+  <li>Sexual depictions of children and youth (persons under 18 years of age)</li>
+  <li>Threats of violence</li>
+  <li>Content illegal in Canada and/or the United States of America.</li>
+</ul>
+<h3>Federated instances</h3>
+<p>Generally, follow their rules when visiting. Remote members will be expected to follow ours. For jurisdiction, start at the beginning.</p>
+<h3>Network abuse</h3>
+<p>Don't do it.</p>
+<!--
+<h3>General Terms</h3>
+<ul>
+  <li>
+    <em>Enforceability.</em> Your use of the Website and the content and features accessed through the Website constitute your electronic signature to the agreement set out in this Acceptable Use Policy as well as the <a href="/terms">Terms and Conditions</a> and your consent to enter into agreements with us electronically. This Agreement will be deemed to satisfy any writings requirements of any applicable law, notwithstanding that the agreement set out in this Acceptable Use Policy and the Terms and Conditions is written and accepted electronically. All contracts between you and us completed electronically will be deemed for all legal purposes to be in writing and legally enforceable as a signed written agreement.
+  </li>
+  <li>
+    <em>Interpretation.</em> In this Acceptable Use Policy, (i) the captions and headings are for convenience only and do not constitute substantive matter and are not to be construed as interpreting the contents of this Acceptable Use Policy, (ii) the word "including", the word "includes" and the phrase "such as", when following a general statement or term (whether or not non-limiting language such as "without limitation" or "but not limited to" or other words of similar import are used with reference thereto), is not to be construed as limiting, and the word "or" between two or more listed matters does not imply an exclusive relationship between the matters being connected, and (iii) all references to website addresses or URLs will also include any successor or replacement websites containing substantially similar information as the referenced website(s).
+  </li>
+  <li>
+    <em>Relationship.</em> You agree that no joint venture, partnership, fiduciary, employment or agency relationship exists between us and you as a result of these Terms and Conditions or use of the Website.
+  </li>
+  <li>
+    <em>Governing Law.</em> Users can access the Website from all Canadian provinces and territories, as well as from other countries. The Terms and Conditions are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein, and these laws apply to the use of the Website, notwithstanding your domicile, residency or physical location. You hereby attorn to the exclusive jurisdiction of the courts of the Province of Ontario and all courts competent to hear appeals therefrom.
+  </li>
+  <li>
+    <em>English Language.</em> The parties have requested and agree that these Terms and Conditions and all documents relating thereto be drawn up in English. <strong>Les parties ont demandé que cette convention ainsi que tous les documents qui s'y rattachent soient rédigés en anglais.</strong>
+</li>
+</ul>
+!--></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/media/accounts/avatars/000/000/002/original/3e133028df2c1dae.jpg?1492404936" alt="3e133028df2c1dae" /></div>
+<div class='name'>
+<a href="https://voxpop.mediacast.ca/@support"><span class='display_name emojify'>VoxPop Support</span>
+<span class='username'>@support</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>voxpop-contact@mediacast.ca</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

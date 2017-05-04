@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.oresys.nagoya
+ - mstdn.oresys.nagoya</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="whsZophiYYr1Q1ej6gaMI51thJhLl8rXG999PEtVRV6DX7Wuzc2lfwdXfdOHSu9zeU5o5FcFL9ZZ40dgt5z+Fg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.oresys.nagoya</h2>
+<p><p>Mastodon名古屋サーバです。</p>
+
+<p>名古屋市民限定、名古屋の話題限定、というわけでは<em>ありません</em>。どなたでもご利用いただけます</p>
+<p>使用前に<a href="/about/more">詳細説明</a>をよくお読みください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>174</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>2,404</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>332</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h2>このインスタンスについて</h2>
+
+<h3>ご紹介</h3>
+<p>私こと @kumasun が個人で運用している、無所属のパブリックインスタンスです。</p>
+<p>.nagoyaドメインでホスティングされているため、「名古屋鯖」と呼んでいます。</p>
+<p>運営方針は未だ流動的ですが、どうやら地域インスタンスとして認識され始めてきているようです。</p>
+<p>(名古屋市民限定、名古屋の話題限定、というわけでは<em>ありません</em>。どなたでもご利用いただけます。)</p>
+<p>運営方針についてのご意見も広く募集しております。</p>
+<p>運用上、重要なお知らせは @admin より発信します。ハッシュタグは
+ #名古屋運営 です。</p>
+<p>アカウント削除をご希望の場合は、管理者宛にDMください。</p>
+<p></p>
+
+<h3>ローカルルール</h3>
+<ul>
+  <li>年齢制限：17+</li>
+  <li>いい感じに、仲良く使ってね</li>
+</ul>
+<p></p>
+
+
+<h3>Bot運用ルール</h3>
+<p>当インスタンスにおいて、Bot(自動的にトゥート等を行う、又は、ユーザー情報等を収集するプログラム)に用いるアカウントを開設・運用する場合は、下記ルールに従ってください。</p>
+<ul>
+  <li>ユーザー名にBotであることを明記し、プロフィール欄に運用目的及び運用者の連絡先を記載してください。</li>
+  <li>自動トゥートの公開範囲は非収載・非公開・ダイレクトのみとし、ユーザーの自動フォローは禁止します。</li>
+  <li>頻繁なトゥート等、サーバに負荷をかける行為は禁止します。</li>
+  <li>営利目的での使用は禁止します。</li>
+</ul>
+<p>ただし、ユーザーにとって有益なものに関してはこの限りではありません。まずはご相談ください。</p>
+<p></p>
+
+<h3>支援のお願い</h3>
+<p>下記の支援をお願いしております。ご協力頂ける場合はお声がけください。</p>
+<ul>
+  <li>運営費 … インフラ保守費等(サービスURL準備中)</li>
+  <li>技術支援 … Git/Nginx/Ruby on Rails/PostgreSQL/Redis</li>
+</ul>
+<p></p>
+
+
+<h3>免責事項</h3>
+<ul>
+  <li>各種サービスまたは各種情報の提供またはその遅滞、変更、中断、中止、停止もしくは廃止、その他当サーバに関連して発生した全ての損害について、運営者は一切の責任を負わないものとします。</li>
+  <li>個人情報の保護に十分な注意を払いますが、情報の漏洩、消失、第三者による改ざん等の防止の保証はできません。したがって、情報の漏洩、消失、第三者による改ざん等により発生した全ての損害について、運営者は一切の責任を負担いたしません。</li>
+  <li>メールアドレスおよびパスワードの管理は、ユーザー自身の責任で行うものとします。ユーザーのメールアドレスおよびパスワードの管理不十分による第三者の利用、使用過誤等に起因する損害等について、運営者は一切責任を負いません。</li>
+  <li>当サイトに投稿された内容について、その正確性を保証するものではありません。投稿内容に起因する損害等について、運営者は一切責任を負いません。</li>
+</ul>
+<p>※つまり、何かあっても責任はとれません。</p>
+<p>このルールおよび各条件は随時更新されます。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/002/777/original/ff9049208961ddb4.png?1492997397" alt="Ff9049208961ddb4" /></div>
+<div class='name'>
+<a href="https://mstdn.oresys.nagoya/@admin"><span class='display_name emojify'>Nagoya Admin</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>wmdon.jp
+ - wmdon.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-91f3ee9c7ce3c91823f361961ae4aabf7ea921e504ccef01b1fb1b10fbc0c1ba.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vhcqqTpwxijI1gVAOf7Pt3Dzq7+8HfNsFdGXXk64pMorXTHWPGZewKnZl3Z/AZW00ZiPBGjU2vlxzDrUBnmCnA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>wmdon.jp</h2>
+<p><p>
+株式会社ウェブマネーが運営する公式Mastodonインスタンスです。<br>
+スマートフォンゲームやテレビゲーム、オンラインゲームが好きな人、eスポーツに興味がある人など、どなたでもご利用ください。</p>
+<br>
+<h3>◆ルール</h3>
+<ul>
+<li style="margin-bottom:.5em;">日本の法律の範囲内でご利用ください。</li>
+<li style="margin-bottom:.5em;">公序良俗に反する内容（文章・画像・動画など）を投稿は禁止いたします。</li>
+<li style="margin-bottom:.5em;">サーバーに対し通常の利用を超えた負荷をかける行為は禁止いたします。</li>
+<li style="margin-bottom:.5em;">当社が不適切と判断した書き込みがあった場合は予告なく削除またはアカウントの停止を行う場合があります。</li>
+<li style="margin-bottom:.5em;">試験運用中のため、予告なくメンテナンスやサービスの一時中断・終了となる場合がございます。</li>
+<li style="margin-bottom:.5em;">アカウントの削除は<a href="https://wmdon.jp/@wmdon_jp">こちら</a>までご連絡ください。個別で対応いたします。</li>
+<li style="margin-bottom:.5em;">ご入力いただいたメールアドレスは、本サービスを利用するためのみに利用いたします。その他、個人情報の管理については、当社ホームページの「<a href="http://www.webmoney.jp/utility/privacy.html" target="_blank">個人情報の取扱い</a>」をご覧ください。</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>113</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>304</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>196</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><!--p style="border: 2px solid #c00; border-radius:.5em; padding: .5em;">2017年4月21日(金) 11:00～11:30の間、メンテナンスを実施致します。何卒ご理解いただきますようお願い申し上げます。</p--></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://d12kq87g4ro5k0.cloudfront.net/accounts/avatars/000/000/008/original/0d2b23b9e86bf8e1.jpg?1492657795" alt="0d2b23b9e86bf8e1" /></div>
+<div class='name'>
+<a href="https://wmdon.jp/@wmdon_jp"><span class='display_name emojify'>wmdon.jp管理者</span>
+<span class='username'>@wmdon_jp</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

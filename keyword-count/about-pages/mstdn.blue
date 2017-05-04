@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.blue
+ - mstdn.blue</title>
+<link rel="stylesheet" media="all" href="/assets/application-91f3ee9c7ce3c91823f361961ae4aabf7ea921e504ccef01b1fb1b10fbc0c1ba.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bVj0WkphkQYRZz+vhiQ/j4obGsWxdmJ6aQqAY0cOgc8Z02XRhEZMcmdKhfXvcR9NyL+UKLKtehtH6lsNxbAzlw==" />
+
+<script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-97390723-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.blue</h2>
+<p><h3>このインスタンスについて</h3><br>
+・管理人の自前インフラで頑張ってます。<br>
+・SVは自前で借りたデータセンタインフラにあります。（自宅ラックもあるけど）<br>
+・回線は冗長されてます。<br>
+・メンテナンスはできるだけ事前に告知したいですが、できない場合もあります。
+<br><br>
+<h2>ルール</h2><br>
+・法律違反になるような投稿、それを誘発するような投稿等もNGです。<br>
+・けんかはやめましょう。いじめ反対！<br>
+<br><br>
+<h3>問い合わせ先</h3><br>
+・postmasterあっとmstdn.blue もしくは、丼の中で連絡ください。<br>
+<br><br>
+<h3>寄付について</h3><br>
+・もし寄付していただける、優しい方がいらっしゃいましたら、こちらにお願い致します。<br><FONT color="white">
+・Enty <a href="https://enty.jp/noripoco">https://enty.jp/noripoco</a></FONT><br>
+・Bitcoinも可能ですので、メッセージお待ちしております。<BR><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mstdn.blue-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0725520695583661"
+     data-ad-slot="6059235077"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>138</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>524</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>472</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>ロードアベレージ</h2>
+<br>
+<img src="https://mstdn.blue/cpu-day.png" alt="ロードアベレージ" border="0" />
+<br>
+<h2>トラフィックグラフ(5分更新)</h2><br>
+<li>緑 = インターネットからのトラフィック </li>
+<li>青 = インターネットへのトラフィック</li><br>
+<h3>日のトラフィックグラフ</h3>
+<br>
+<img src="https://mstdn.blue/day.png" alt="本日のトラフィック" border="0" />
+<br>
+<h3>週のトラフィックグラフ</h3>
+<br>
+<img src="https://mstdn.blue/week.png" alt="本日のトラフィック" border="0" />
+<br>
+<h3>月のトラフィックグラフ</h3>
+<br>
+<img src="https://mstdn.blue/month.png" alt="本日のトラフィック" border="0" />
+<br>
+<h3>年のトラフィックグラフ</h3>
+<br>
+<img src="https://mstdn.blue/year.png" alt="本日のトラフィック" border="0" /></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/c453ca6515503c96.JPG?1492523740" alt="C453ca6515503c96" /></div>
+<div class='name'>
+<a href="https://mstdn.blue/@Noripoco"><span class='display_name emojify'>noripoco</span>
+<span class='username'>@Noripoco</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

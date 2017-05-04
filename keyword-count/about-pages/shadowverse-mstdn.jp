@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>shadowverse-mstdn.jp
+ - Shadowverse-mstdn.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-abe3e4a446ff09336060030b641f7696bd8319296152788af99e0ac642e8069c.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lMYhE4T2tRnk3dwhyE+EaAUn2/tNnsU+jRbh5JFynel0TIsAMXRFu94JCc9qJKrvXbSeI4A2LE3ZPhXTsNtWNQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>shadowverse-mstdn.jp</h2>
+<p><div style="border:solid 2px #f00;background-color:#101010;font-size:14px;margin-bottom:20px;padding:20px;color:#fff;line-height:22px;">
+メンテナンスの一貫でデータベース再構築の作業を行った際にバックアップの適用で不備が発生してしまい、大変恐縮なのですが記録データを消失してしまいました。<br>
+改めてサーバーを万全な状態で再構築致しましたので、お手数おかけしますが、ご利用されていた皆様は再度ユーザー登録をお願いいたします。<br>私の不手際のせいで、大変申し訳ありませんでした。
+</div>
+
+ShadowverseプレイヤーのためのMastodonインスタンスです。<br>Shadowverseで友達を作りたい、対戦をしたいといった人のためのコミュニケーションツールです。ライトユーザーからヘビーユーザーまで、利用制限なく使って頂けたらと思います。
+<br><br>
+<h3>Shadowverseとは</h3>
+『Shadowverse』はCygamesより配信されているスマートフォン用カードゲームアプリです。<br><a href="https://itunes.apple.com/jp/app/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%90%E3%83%BC%E3%82%B9-shadowverse/id1050059017?mt=8" style="color:#ff0;" target="_blank">iTuneStore</a> / <a href="https://play.google.com/store/apps/details?id=jp.co.cygames.Shadowverse&hl=ja" style="color:#ff0;" target="_blank">GooglePlay</a> / <a href="https://steam.shadowverse.jp/" style="color:#ff0;" target="_blank">Steam</a><br><br>
+<h3>お問合せ先</h3>
+管理人：ひで(<a href="https://twitter.com/hide_nise" style="color:#ff0;" target="_blank">@hide_nise</a>)<br>
+運営中：<a href="http://shadowlog.com/" style="color:#ff0;" target="_blank">http://shadowlog.com/</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>137</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,247</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>139</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>ShadowverseプレイヤーのためのMastodonインスタンスです。<br>Shadowverseで友達を作りたい、対戦をしたいといった人のためのコミュニケーションツールです。ライトユーザーからヘビーユーザーまで、利用制限なく使って頂けたらと思います。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8cf5043da77448ee.jpg?1493405032" alt="8cf5043da77448ee" /></div>
+<div class='name'>
+<a href="https://shadowverse-mstdn.jp/@hide_nise"><span class='display_name emojify'>ひで</span>
+<span class='username'>@hide_nise</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

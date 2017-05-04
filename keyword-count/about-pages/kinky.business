@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>kinky.business
+ - Kinky Business</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="T+25sXf/CBqzq2FV/GuH8ecGURVAyKEsZOyJm1pEu1l1aNUe/lAXT+QDCEidScjdA/WpWjIZHEjJJtKUrFX4xg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>kinky.business</h2>
+<p>kinky.business is a Mastodon instance for the <a href="https://en.wikipedia.org/wiki/Kink_(sexual)">kink</a> community.
+
+All you naughty people are in the right place. Sign up and let's go :)</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>132</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,054</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>376</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>I'm <a href="https://kinky.business/@bedtimedrillsgt">@bedtimedrillsgt</a>, a 30-something Dom. Beard and boobs enthusiast.</p>
+<p>I built this Mastodon instance because there's plenty of room for fun sub-communities in the fediverse. And so, here is a home for all you kinky, filthy fucks.</p>
+<p>Discuss your hopes and desires, post your latest toys or bruises and most of all, have fun.</p>
+<p>If you have any questions or concerns, toot at me</p>
+
+<h2>Rules</h2>
+<ul>
+<li>Keep everything here <strong>safe, sane, and consensual</strong>. No exceptions.</li>
+<li>Do not flood the server with posts</li>
+<li>Use NSFW/CW tags for NSFW media</li>
+<li>Respect each other, absolutely no hate speech</li>
+<li>Zero tolerance for underage or otherwise illegal content</li>
+</ul>
+<p>Feel free to report users or content that should not be here.</p>
+<p>Admins of this site reserve the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>
+
+<h2>A note on federation</h2>
+<p>Right now, this is a regularly federated instance. CW tags are somewhat necessary not to get blocked by other servers.</p>
+<p>In the future, I'd prefer to federate only with other naughty Mastodon instances, and we can drop the CW requirement.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/1a79ebef85616972.jpg?1492403319" alt="1a79ebef85616972" /></div>
+<div class='name'>
+<a href="https://kinky.business/@bedtimedrillsgt"><span class='display_name emojify'>bedtimedrillsgt 😈</span>
+<span class='username'>@bedtimedrillsgt</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@kinky.business</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

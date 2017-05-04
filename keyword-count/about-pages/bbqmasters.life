@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>bbqmasters.life
+ - BBQMasters</title>
+<link rel="stylesheet" media="all" href="/assets/application-abb715586757d631ee191dfc810933757589b4dee5f6d3563b595f9c85ee0b18.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kOVdgEIwHwBnqn1DWyAm6EA8VGRoxIWTXq/ZU8P4v/XP/dTUsDXCOJf+GKOd/Vw+s0ezAVGFCE50vZWxZCKkOA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>bbqmasters.life</h2>
+<p><h>Welcome to BBQMasters </h>
+<p>This is a Mastodon Instance for BBQ lovers to share tips, recipes, and ask for help</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>8</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>27</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>39</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>This is a Mastodon Instance for BBQ lovers to share tips, recipes, and ask for help.</p>
+<p>---Code Of Conduct---</p>
+<p>As members of this instance we all hold a share of responsibility in maintaining the quality of discussion and the safety of our fellow members and the members in which out instance interacts with.</p>
+<p></p> <p>With this in mind there are a few guidelines to posting in this community, repeated violations will result in a ban:</p> <p>+ Nude or pornographic content should ideally not be posted here, but if you must put it behind a content warning and give other members a heads up.</p> <p>+ Violent content should also be put behind a content warning if it is posted here with a heads up to other members that it is there. </p> <p>+ Any content with rapidly changing content (or content that might cause seizures should be placed behind a content warning with a heads up to the other members that it is there.</p> <p>+ This instance is dedicated to the topics of barbeque/food, other content may be posted here but should be kept to a mininum</p> <p></p> <p>The following actions will end up with an immediate ban from this instance: </p> <p>+ Hate speech of any sort against any person.</p> <p>+ Harassment of any person (even if that person is not on this instance).</p>  <p>+ Overly sexual or violent content with no content warnings.</p> <p>Please note that the administrator of this instance has final say on bans. Also, this Code of Conduct may be changed/updated at anytime, notification of such changes will come through @josh, with a quick description of the change</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>josh.garner94@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

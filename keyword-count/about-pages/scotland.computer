@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>scotland.computer
+ - Scottish Tech Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-46ea2bb718d3ec9e94e2253d8068342011cf377f89b0250b5dd35c76b2ec1df0.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ynQbBiCWyHDAPoKVngxzCQeqKPv0RKsfEemwnpKiwY8VutAT5OCgyxYtUI8bw3qHJ5+QDaUU4TY1dEoYnBOisw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>scotland.computer</h2>
+<p><p>An instance of the Mastodon social network for the tech/startup scene in Scotland.</p>
+
+<p>The goal is to gather all the web/tech people in one place to make for an interesting local timeline.</p>
+
+<p>You don't need to actually be Scottish or in Scotland! Friends, the curious, and all of good will are welcome!</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>26</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>88</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>127</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>This is an open instance of the Mastodon social network, aimed at gathering the Scottish web/tech/startup scene in one local timeline.</p>
+
+<p>You don't need to be Scottish or in Scotland to be welcome here! If you're interested in the tech scene, or friends with people here, you're more than welcome!</p>
+
+<p><h3>Code of Conduct</h3></p>
+
+<p>This will be fleshed out in more detail at a later date, but the summary is:</p>
+
+<ul><li>Show respect for people's personal space. If they don't want you in their mentions, leave.</li>
+<li>Do not use this platform to harass, stalk, troll, spam, or otherwise be a dick.</li>
+<li>No nazis.</li></ul>
+
+<p>If you are experiencing harassment or spamming, please report the offending account and I'll investigate. If you feel at risk or otherwise want to contact the admin directly, I can be reached at john@scotland.computer.</p>
+
+<p>The mgmt reserve the right to refuse service to anyone for any reason, except as prohibited by law.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/0f54b0e1a12c7337.jpg?1491849721" alt="0f54b0e1a12c7337" /></div>
+<div class='name'>
+<a href="https://scotland.computer/@semanticist"><span class='display_name emojify'>John</span>
+<span class='username'>@semanticist</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

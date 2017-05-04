@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>chaos.social
+ - chaos.social</title>
+<link rel="stylesheet" media="all" href="/assets/custom-9bcdc9542514bd80c2497085d73f39c3930e9357e8f6fd4786ad8d6deb1e6322.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qdV5WzFbdBjsHhwh/AYzZSBCRmkxcMGyDis5UZFNILpEMsTzluN2s8wIQtUs2Kzu0fwulZld9tuGwDN8ZDOY2Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>chaos.social</h2>
+<p>chaos.social - because anarchy is much more fun with friends.<br>
+chaos.social is a <em>small</em> Mastodon instance for and by the chaos community. We provide a small community space - <em>be excellent to each other</em> (and read the <a href="https://chaos.social/about/more/">rules</a> if you're not sure what that means).<br>
+Follow @ordnung for low-traffic instance-related updates.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>513</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>7,642</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>724</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Since <em>"Be excellent to each other"</em> is much easier said than done, we have a (non-exhaustive) list of behaviours that may lead to deletion of toots, and silencing or suspension of accounts, if problems persist. In particular, we do not tolerate:</p>
+
+<ul>
+<li>Harrassment, stalking, doxxing</li>
+<li>Racism, sexism, verbal abuse or advocation thereof</li>
+<li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+<li>Violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism</li>
+<li>Contacting people who made clear they want no contact. Dogpiling/brigading</li>
+<li>Untagged sexual content, gore, or advertisement</li>
+<li>Untagged, or automated, or excessive advertisement</li>
+<li>Bots interacting with users without their explicit requests</li>
+</ul>
+
+<p>Please report behaviour that bothers you. That includes behaviour from other instances - we are very willing stop federating with asshole instances.</p>
+
+<p>You can find further information on our instance in our <a href="https://github.com/chaossocial/about">GitHub repository</a>, which also provides a <a href="https://github.com/chaossocial/about/blob/master/blocked_instances.md">list</a> of currently blocked or silenced instances, alongside with reasons.</p>
+
+<p>We (@leah and @rixx) are maintaining this instance on our spare time, hardware and nerves. Don't push either of those.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/184/original/94a1655d965660d8.png?1492249971" alt="94a1655d965660d8" /></div>
+<div class='name'>
+<a href="https://chaos.social/@ordnung"><span class='display_name emojify'>@ordnung</span>
+<span class='username'>@ordnung</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@chaos.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

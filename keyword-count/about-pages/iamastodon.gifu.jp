@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>iamastodon.gifu.jp
+ - IAMASTODON(イアマストドン)</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MJT/xr+4TNWdJCPAQ35sMUHMjzaFXA1+n69nScT7jYXF0USNLlbybJ4ig43rruTxJU9zsfrB0CYK9UIk9gOV/Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>iamastodon.gifu.jp</h2>
+<p><h1>Mastodon in IAMAS -> IAMASTODON</h1>
+<br>
+<p> Iamasに関連するひとたちのためのMastodonです。</p>
+<h2>注意点</h2>
+<br>
+<p>
+・分散型といってもSNSの一つであるので、ネットの海に上がるということを意識して使いましょう。法律は守りましょう。
+<br>
+<br>
+・大事なやりとりは、もっとちゃんとしたところでやりましょう。ここはやはりチラシの裏程度の存在です。
+<br>
+<br>
+・個人のサーバで運営しているので、情報保持や運営・動作についての保証はできません。認証のパスワードは普段使っていないものにしてください。
+<br>
+<br>
+・たまに止まります。ご注意ください。
+</p>
+<br>
+<h2>お問い合わせ先</h2>
+<p>お問い合わせは，メール(akihiro-kato.16(at)iamas.ac.jp)もしくはTwitter(@croe_c)にお願いします．</p>
+<br>
+<h2>寄付について</h2>
+<p>よろしくおねがいします。。</p>
+<p>Bitcoin: 3PjFuX5HdAQeeUnWaqxgXe3riYv9ZNzbMr</p>
+<a href="https://www.amazon.co.jp/gp/registry/wishlist/1S0RI9R3RZLXZ/ref=cm_wl_list_o_0?">Amazon ウィッシュリスト</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>50</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>419</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>101</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>akihiro-kato.16@iamas.ac.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

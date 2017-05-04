@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>m.massy.city
+ - Mastodon Massy 91 France</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ramLdSafLYBm/Rsg1A6QeO8yO5dUh2QLA4mr53de1f0ry2Ts1bCjN5RZwgGuzJzM2CbZ4V8cc73Jp5VvYXtPEA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>m.massy.city</h2>
+<p><p><img src="/system/media_attachments/files/000/000/779/original/b597e5a8d75a0a28.png?1493208618" border="0" style="max-width:100%;height:auto;" /></p>
+
+<p>Une instance Mastodon dédiée aux <em>habitants de Massy (91)</em> en France, tenue à jour et fournie par <a href="#">StrangeBlackHole SAS</a> une entreprise Massicoise. Hébergée en France, l'un de ses objectif premier est la <em>transparence</em> mais aussi de fournir un outils de réseautage locale et des services associés. La modération est <em>collaborative</em>, n’hésitez surtout pas à rapporter tout contenu problématique !</p>
+
+<p>Cette instance n'a aucun lien avec la municipalité et ne dépend d'aucun parti politique ou courant de pensée. Elle sera ce que vous en ferez.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>8</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>78</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>292</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'><h2>Quelques règles</h2>
+
+<p>Sur cette instance les <em>règles sont simples</em>. Aucun sexisme, racisme, homophobie, âgisme, grossophobie ou psychophobie, etc... n’est toléré. Tout message de haine est proscrit, les fascistes et leurs copains nazis, les fous de dieu intégristes en tout genre sont <em>directement bannis</em>. La publication de contenu pornographique non désigné comme tel avec un “Content Warning” (CW) mènent aussi à une exclusion du serveur. Cette instance Mastodon se veut <em>inclusive et bienveillante</em>, ainsi nous bannirons sans prévenir et sans regret. Les comptes bannis ne sont plus accessibles depuis notre instance, vous ne pouvez plus voir leur contenu ni les suivre.</p>
+
+<p>Nous encourageons nos utilisateur-ice-s à utiliser la <em>fonction de rapport</em> (“Report”) pour nous faire part du contenu et/ou des comptes allant à l’encontre de nos règles. D'ailleurs si celles-ci ne vous conviennent pas, ne râlez pas, trouvez simplement un autre serveur.</p>
+
+<p>Notre réseau social, et son réseau entier selon nous, est dédié à la réappropriation des moyens de communication et à la création de <em>communautés meilleures</em> pour le collectif. Les catégories de personnes citées dans le paragraphe précédent n'oeuvrant pas du tout (allant même dans le sens contraire) à la réalisation de ces objectifs, elles sont logiquement pas les bienvenues. Merci de rapporter leur présence si vous les croisez sur notre serveur.</p>
+
+<p>Ces règles sont inspirées par celles écrites pour l'instance <a href="https://unixcorn.xyz/about/more">unixcorn</a>, merci à eux.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/1e331dc42863e2c2.JPG?1492526432" alt="1e331dc42863e2c2" /></div>
+<div class='name'>
+<a href="https://m.massy.city/@fabrice"><span class='display_name emojify'>Fabrice | StrangeBlackHole</span>
+<span class='username'>@fabrice</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>contact@massy.city</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

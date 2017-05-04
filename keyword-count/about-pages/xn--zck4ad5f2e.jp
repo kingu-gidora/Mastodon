@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>xn--zck4ad5f2e.jp
+ - マストドン.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-9ec3da38a8f5a5a9cb4182215c40521c51c195c509515c417305601658bd73b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="w075hqj317xbB0Xbnu2e1oeZRw/vl5J6eu8rZyIQy6Ly4a1i3tjmgEc32pORqw62E/PbyaaoMZ31zWmzpisA+w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>xn--zck4ad5f2e.jp</h2>
+<p><img src="/system/media_attachments/files/000/000/001/original/7e493d3373d78936.png?1492409267">
+<p>他所で告知していないテスト運用中です。</p>
+<p>現時点ではエロ画像は全面禁止の予定ですごめんなさい。pawoo.net はブロックしています。</p>
+<p>まだ日本語ドメインに対応されていないので、リモートフォローをする場合は ユーザー名<span style="color: #FF0000;">@xn--zck4ad5f2e.jp</span> と指定してください。</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>117</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>668</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>437</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>現在のサーバーの負荷状況</p>
+<img src="https://health.マストドン.jp/api/v1/badge.svg?chart=system.load&dimensions=load15&label=Load%20avg&units=null">
+<img src="https://health.マストドン.jp/api/v1/badge.svg?chart=system.cpu&after=-300&label=CPU%20last%205min&after=-300">
+<img src="https://health.マストドン.jp/api/v1/badge.svg?chart=system.ram&after=-300&dimensions=used&options=percentage&label=RAM%20last%205min"></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/3300a8496209c485.jpg?1492495088" alt="3300a8496209c485" /></div>
+<div class='name'>
+<a href="https://xn--zck4ad5f2e.jp/@bezeklik"><span class='display_name emojify'>ベゼクリク</span>
+<span class='username'>@bezeklik</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

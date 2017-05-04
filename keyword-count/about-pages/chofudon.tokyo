@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>chofudon.tokyo
+ - chofudon.tokyo - チョウフドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-57e07df1b94ee18a964a213b9816baa74523ebc5a5b9174eba6b72446cb9ea0d.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wOhtx4hRijA/M70LoJu+1XCnwdALXhNbqI56db/CEIRXuiJYu+jRbJY4sBCOrW7FUbamtnXD1O3V/QddgI6dcg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>chofudon.tokyo</h2>
+<p>Mastodon for Chofu Tokyo チョウフドンは東京都調布市内在住者・通学者・勤務者及び調布好きな人のためのMastodonです！</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>38</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>107</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>5</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>「チョウフドン」は東京都調布市内在住者・通学者・勤務者及び調布好きな人のためのMastodonです！</p>
+
+<p>「チョウフドン」では位置情報付きの発言ができ、その発言に対して地図が表示されるように、Mastodonのソースコードを変更したものを使用しています。</p>
+
+<p>変更内容の詳細:<br />
+&raquo; <a href="https://github.com/champierre/mastodon/pull/1">位置情報付きToot by champierre · Pull Request #1 · champierre/mastodon</a></p>
+
+<p>「チョウフドン」で使用しているソースコード:<br />
+&raquo; <a href="https://github.com/champierre/mastodon/">champierre/mastodon: A GNU Social-compatible microblogging server</a>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/ebeca8f101ce233a.jpeg?1493017471" alt="Ebeca8f101ce233a" /></div>
+<div class='name'>
+<a href="https://chofudon.tokyo/@jishiha"><span class='display_name emojify'>Junya Ishihara</span>
+<span class='username'>@jishiha</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>chofudon@champierre.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

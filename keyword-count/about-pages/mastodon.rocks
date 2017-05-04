@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.rocks
+ - Mastodon Rocks</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="r0iEAUEd6djPkTGvH5guteAarBLGmhE2ZqVcPcUkyC8anaE0Ddlfe1nJLyL5h2cuyVV0QcPt/SmOTBbRxfk+1Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.rocks</h2>
+<p>Because Mastodon <em>rocks</em> !</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,604</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>6,203</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>778</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>English</h2>
+
+<h3>Welcome</h3>
+<p>Here some resources to understand Mastodon :</p>
+<ul>
+<li><a href="https://medium.com/@Gargron/welcome-to-mastodon-111d9227e56a">Welcome to Mastodon</a> by <a href="https://mastodon.social/@Gargron">@Gargron</a></li>
+<li><a href="http://mashable.com/2017/04/04/mastodon-twitter-social-network/#IV86Tdro9iqs">Bye, Twitter. All the cool kids are migrating to Mastodon</a> by Mashable</li>
+</ul>
+
+
+<h3>Rules</h3>
+<ul>
+<li>No illegal content. The server is hosted in France : racism, apology for terrorism, bullying, defamation, violations privacy rights and child pornograhy are illegal under French law.</li>
+<li>No oppressive content (sexism, homophobia, etc).</li>
+<li>No parody account.</li>
+<li>No bot (for the moment).</li>
+<li>Any graphical content have to contain a Content Warning.</li>
+<li>No explicit sexual content in the public timeline without content warning (you can configure your toot privacy on "public but do not display on public timeline").</li>
+</ul>
+
+<h3>Mobile applications</h3>
+<ul>
+<li>Android : <a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">Tusky</a></li>
+<li>iOS : <a href="https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200?ls=1&mt=8">Amaroq for Mastodon</a></li>
+<li><a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/Apps.md">Full list</a></li>
+</ul>
+
+<h3>Support Mastodon</h3>
+<ul>
+<li>The code source can be found here : <a href="https://github.com/tootsuite/mastodon">Github</a></li>
+<li>You can help the developer of Mastodon on <a href="https://www.patreon.com/user?u=619786">Patreon</a>
+</li>
+</ul>
+
+<h3>Support this instance mastodon.rocks</h3>
+<script src="https://liberapay.com/HackJack/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/HackJack/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<br/><br/>
+<hr/>
+<br/>
+
+<h2>Français</h2>
+
+<h3>Bienvenue</h3>
+<p>Voici quelques ressources pour comprendre Mastodon :</p>
+<ul>
+<li><a href="https://aldarone.fr/welcome-to-mastodon/">Welcome to Mastodon</a> par <a href="https://witches.town/@Alda">@Alda</a></li>
+<li><a href="http://www.numerama.com/tech/246010-decouvrez-mastodon-un-clone-de-twitter-libre-open-source-et-decentralise.html">Découvrez Mastodon, un clone de Twitter libre, open source et décentralisé</a> par <a href="https://mastodon.social/@numerama">@Numerama</a></li>
+<li><a href="http://www.lemonde.fr/pixels/article/2017/04/04/le-reseau-social-mastodon-un-twitter-plus-proche-de-l-esprit-originel_5105900_4408996.html">Le réseau social Mastodon, un « Twitter plus proche de l’esprit originel »</a> par <a href="https://mastodon.social/@Willvs">@Willvs (pour Le Monde)</a></li>
+</ul>
+
+
+<h3>Règles</h3>
+<ul>
+<li>Tout contenu doit respecter la <a href="https://www.service-public.fr/particuliers/vosdroits/F32075">loi relative à l'hébergement de contenu sur Internet</a>.</li>
+<li>Tout contenu oppressif (sexiste, homophobe, etc.) entraîne un ban.</li>
+<li>Pas de compte parodique.</li>
+<li>Bots fortement déconseillés (pour l'instant).</li>
+<li>Les médias violents doivent obligatoirement être accompagnés d'un Content Warning.</li>
+<li>Pas de contenu sexuel sans content warning dans la TL publique (il vous suffit de mettre les toots en "public but do not display on public timeline").</li>
+</ul>
+
+<h3>Applications mobiles</h3>
+<ul>
+<li>Android : <a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">Tusky</a></li>
+<li>iOS : <a href="https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200?ls=1&mt=8">Amaroq for Mastodon</a></li>
+<li><a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/Apps.md">La liste complète</a></li>
+</ul>
+
+<h3>Contribuer à Mastodon</h3>
+<ul>
+<li>Le code source est disponible sur <a href="https://github.com/tootsuite/mastodon">Github</a></li>
+<li>Vous pouvez aider financièrement le développeur sur <a href="https://www.patreon.com/user?u=619786">Patreon</a>
+</li>
+</ul>
+
+<h3>Aider cette instance mastodon.rocks</h3>
+<script src="https://liberapay.com/HackJack/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/HackJack/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/dde0a25a996741b2.png?1491280926" alt="Dde0a25a996741b2" /></div>
+<div class='name'>
+<a href="https://mastodon.rocks/@HackJack"><span class='display_name emojify'>Jean B.</span>
+<span class='username'>@HackJack</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@hackjack.info</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

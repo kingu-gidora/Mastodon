@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>delusion.ariela.jp
+ - 妄想鱒丼</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GHNvcEbdbosMrq2DIdAOQsN054/SJB/fx8FuaRVBPow1yPbk6/h3v8p1hO9Gr+6oCdLGVCynJak7fLZ52uwi8g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>delusion.ariela.jp</h2>
+<p>主に妄想垂れ流し用の小規模Mastodonです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>10</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>13</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>60</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>日本の法律に反しない範囲であれば成人向けのトゥートも問題ありませんが、Contens Warning、NSFWを設定してください。</p>
+
+<p>イラスト・文章の制限はありませんので、小説や漫画の投下も大丈夫です。</p>
+
+<p>業者BOTや法律に反するトゥートを繰り返すなどのアカウントはBANされる可能性があります。</p>
+
+<p>違法な内容のトゥートを行った場合、警察や裁判所の要請に応じてログを開示する場合があります。</p>
+
+<em>あくまでテストなので最悪データ飛びます。</em></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://media.ariela.jp/delusion/accounts/avatars/000/000/001/original/2c832d0a044f65cb.png?1492731718" alt="2c832d0a044f65cb" /></div>
+<div class='name'>
+<a href="https://delusion.ariela.jp/@ariela"><span class='display_name emojify'>ariela✳️</span>
+<span class='username'>@ariela</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>ariela.elixia+inq@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

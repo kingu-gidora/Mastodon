@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.uec.tokyo
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="d1DoYsJXyhXovn3GwxqtQ76AOh2esydMuQFBi04/iLVk8ZeDPqCFYgBa8CWHIAmvtQ42defsqlKocLlQKh+/pg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.uec.tokyo</h2>
+<p><h3>mstdn.uec.tokyoは<a href=http://uec.tokyo>UEC TOKYO</a>が提供するMastodonサーバです。</h3>
+<p>とりあえず公開します。特に参加制限は設けていないので、どなたでも自由にどうぞ。</p>
+<p>本インスタンスに関するご連絡はwhywaitaまで。</p>
+<h3> Hotmail系メールアドレスについて</h3>
+<p>本インスタンスが利用しているメールサーバ(Mailgun)とHotmail系のメールサーバとの相性が悪いらしく、メールが届かないことがあります。
+<br>もし半日程度待って届かないなどありましたら、ご連絡ください。対応します。
+</p>
+
+<h3>ルール</h3>
+<p>
+<em>日本法</em>は守ってください。
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>117</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,435</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>327</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>mstdn.uec.tokyoは whywrite.it によって運営されています。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/7c1c520de04c6952.png?1492283060" alt="7c1c520de04c6952" /></div>
+<div class='name'>
+<a href="https://mstdn.uec.tokyo/@whywaita"><span class='display_name emojify'>whywaita</span>
+<span class='username'>@whywaita</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>whywaita@whywrite.it</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

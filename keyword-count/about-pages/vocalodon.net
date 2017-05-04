@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>vocalodon.net
+ - Vocalodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f66c91603bf9ecb37e1bed2efa30a1b89eb28ec3f2c67295549596b19304d17.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cDIzd7zw9k1FcDYIaqndm4eunOwhGs6neNb+HPVID4g/+b2SeCEpd7vA1XEStszWndYDtUyHMngy0RyN25VaKw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>vocalodon.net</h2>
+<p><p>ボカロクラスタが集うMastodonインスタンス、通称「ボカロ丼（ボカロドン）」です。</p>
+<p>ここでいうボカロクラスタとは以下の人たちを指します<p>
+<ul>
+<li>ボカロP、絵師、作詞、動画、MMDモデルなどボカロ楽曲や関連作品、データなどを制作している人</li>
+<li>ボカロ楽曲を聴いている人、掛けてる人、歌ってみてる人、踊ってみてる人、紹介してる人</li>
+<li>ボカロではないが似た技術(UTAUなど)での楽曲制作や音源制作を行っている、または聴いたり歌ったりしている人</li>
+</ul>
+<li>その他、ボカロ関連技術に携わっていたり、コスプレや同人活動などでボカロ関連の楽しみを享受している人など</li>
+<p>上記に該当すれば、インスタンス内での話題はボカロ関連でなくても構いません。<p>
+<p>利用規約など詳しくは<a href="/about/more">こちら</a></p>
+<h3>お知らせ</h3>
+<p>サイト画像募集します！いずれもPNGで背景を抜く場合は透過処理をお願いします。詳細は管理人までご連絡ください。</p>
+<ul>
+<li>aboutページの絵はサ骨＠レッドカードPさん(@sakots)に描いていただきました！</li>
+<li>スタート画面（タイムライン右下）の絵はtimidoさん(@timido)に描いていただきました！</li>
+<li>サイトアイコンはをきちさん(@wokichan)に描いていただきました！</li>
+</ul>
+<h3>FAQ</h3>
+<ul>
+<li>Q : ここってボカロPの溜まり場なの？</li>
+<li>違います！たしかに今のところボカロPのつぶやきが多めとなっておりますが、リスナーの方も気にせずガンガン書き込んじゃってください！むしろ知ってるボカロPにリプ送ったりするチャンスです。</li>
+<li>Q : 初めてログインしたらどうしたらいい？</li>
+<li>まずはローカルタイムライン(LTL)にお越しください。ボカロ丼では今のところフォローしあってホームタイムラインで話すよりも、LTLでチャット風に会話するのが主流です。ざっと眺めながら気が向いたら書き込んでみてください。</li>
+<li>Q : 私の書き込み、ローカルタイムライン(LTL)に流れないんですが...</li>
+<li>iOSのAmaroqの場合、デフォルトではLTLには流れない設定になっています。「Default post to public」に変更するとLTLに流れるようになりますよ。</li>
+
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>889</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>82,426</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>422</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Vocalodon (ボカロ丼、ボカロドン) について</h2>
+<p>ボカロクラスタが集うMastodonインスタンスです。</p>
+<p>ここでいうボカロクラスタとは以下の人たちを指します<p>
+<ul>
+<li>ボカロP、絵師、作詞、動画、MMDモデルなどボカロ楽曲や関連作品、データなどを制作している人</li>
+<li>ボカロ楽曲を聴いている人、掛けてる人、歌ってみてる人、踊ってみてる人、紹介してる人</li>
+<li>ボカロではないが似た技術(UTAUなど)での楽曲制作や音源制作を行っている、または聴いたり歌ったりしている人</li>
+</ul>
+<li>その他、ボカロ関連技術に携わっていたり、コスプレや同人活動などでボカロ関連の楽しみを享受している人など</li>
+<p>上記に該当すれば、インスタンス内での話題はボカロ関連でなくても構いません。<p>
+
+<h2>利用規約</h2>
+<ul>
+<li>書き込み内容については、日本の法律に従ってください。</li>
+<li>Mastodonには年齢確認機能がありません。現時点(2017年4月)では18禁コンテンツの投稿は一律で禁止とします。</li>
+<li>問題が発生したら管理人@tomoki(ツイッターでは@tmkw1)までご連絡ください。</li>
+</ul>
+
+<h2>運営について(免責事項)</h2>
+<ul>
+<li>TOMOKI++の個人出資による運営となっております。</li>
+<li>Mastodonの負荷がどのくらいかよくわからないため、どの程度のユーザを受け入れられるのかなどはやってみないと今のところはなんとも言えません。見切り発車ですので、重い、入れない、などのケースが出てくることもありえます。ご了承ください。</li>
+<li>サーバを強化する等の場合に予告なくメンテナンス休止を行う可能性があります。</li>
+<li>このサイト上に書き込まれている内容の真偽、メンテナンスなどによるデータの消失など、このサイト上で発生するいかなるトラブルに関しても、管理者は一切の責任を負いません。</li>
+<li>正式な法的手続きを経た場合には、書き込みの内容やユーザ情報などを第三者に開示する場合があります。</li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/007/original/63b9f91cef89bbcd.png?1492873822" alt="63b9f91cef89bbcd" /></div>
+<div class='name'>
+<a href="https://vocalodon.net/@vocalodon_admin"><span class='display_name emojify'>Vocalodon管理人</span>
+<span class='username'>@vocalodon_admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>Twitter (@tmkw1)</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

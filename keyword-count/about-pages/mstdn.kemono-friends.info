@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.kemono-friends.info
+ - ますとどんちほー</title>
+<link rel="stylesheet" media="all" href="/assets/application-9c255b6b740bddc10985c9ebd06f5e7d4303dd337173139648a788603c7e01be.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XKzVTL4XOSA7QhOnRWF7Q4vgp035dknFtRuP5VSAc14ntdDv1Cae5CClnBw9JuTEvPwIIuqy7oRTYjrApnO17Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.kemono-friends.info</h2>
+<p><p>よぉこそぉ～、ますとどんちほーへ～！</p>
+<br><br>
+<br><br>
+問題のあるトゥート見つけたらどんどん通報してください…
+特にグローバルはそういうものが流れやすくて追いきれていないので…
+
+<p><a href="http://library.kemono-friends.info">図書館</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>937</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>205,495</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>485</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>日本の法律の範囲内でご利用ください。</p>
+<br>
+どんなインスタンスかはドメイン見てください...
+<br>
+<p>突然落ちてしまう可能性もあります。</p>
+<br>
+<p>
+<a href="https://kemono-friends.info/chat/">https://kemono-friends.info/chat/:ここは多分落ちない</a>のでもし落ちてたらここへどうぞ...
+</p>
+<br>
+<p>
+重くなり始めたら新規登録閉じるかもしれません。
+</p>
+
+<br>
+
+<p>寄付について</p>
+<br>
+<p><a href="http://kampa.me/t/ktf" target="_blank">Kampa!</a>
+</p>
+<p><a href="https://enty.jp/maa123_LQ">Enty</a></p>
+
+
+
+
+
+
+<p>サーバー</p>
+Vultr<br>
+CPU:2コア<br>
+メモリ:物理4GB+Swap6GB<br>
+SSD:60GB<br>
+<br>
+<a href="https://www.vultr.com/?ref=7056991"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+<br>
+画像保存用サーバー
+<br>
+Google Cloud Strage
+<br>
+容量等の制限はありません。(従量課金なので)
+<br>
+<style>
+.about-body{
+color:white;
+/*text-shadow: white 1px 1px 0px, white -1px 1px 0px,
+             white 1px -1px 0px, white -1px -1px 0px;
+*/
+}
+.wrapper{
+/*background-color:rgba(0,0,0,0.4);
+*/
+}
+.panel{
+/*font-color:white;*/
+
+}
+</style></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://mstdn-img.kemono-friends.info/accounts/avatars/000/000/001/original/1f301c3b5c77a941.jpg" alt="1f301c3b5c77a941" /></div>
+<div class='name'>
+<a href="https://mstdn.kemono-friends.info/@m"><span class='display_name emojify'>maa123＠さば(か)んちゃん</span>
+<span class='username'>@m</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="c8a5a9a9f9fafbe6a4b988afa5a9a1a4e6aba7a5">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

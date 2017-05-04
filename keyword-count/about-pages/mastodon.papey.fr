@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.papey.fr
+ - L&#39;univers Mastodonien du Papey</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="b56qtXjLfPSxnCBizl87I8gtVxxHvhMGQRPv0ezyxLoDxzj2AkgykphXY6Yq0VMR4tIcwjTnNRx8OAtpdUkZbA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.papey.fr</h2>
+<p><h2>Pouet !</h2>
+
+ Bienvenue à tous et à toutes sur l'instance Mastodon de @papey@mastodon.papey.fr. Elle est hébergé chez Scaleway SAS, sur un serveur VC1S. C'est une machine avec 2 cœurs/2 GO de ram, en conséquence, le nombre maximal d'utilisateurs sera contrôlé et limité.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>17</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>828</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>438</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Accueil</h2>
+
+Cette instance est ouverte tant que la quantité de ressources disponibles sur le serveur est suffisante pour permettre à tous une utilisation convenable de l'outil.
+
+Je (@papey) suis le seul à administrer cette instance, je fais de mon mieux pour améliorer l'infrastructure (mises à jours, entretien, nouvelles fonctionnalités) sans pour autant y consacrer tout mon temps libre (oui je fais plein d'autres choses à côté).
+
+N'hésitez pas à me contacter par mail sur Mastodon si vous avez des questions concernant cette instance.
+
+Attention, Mastodon ne me fait pas vivre, je met à disposition cette instance avant tout pour moi même (bien qu'elle soit ouverte).
+
+<h3></h3>
+
+<h2>Règles</h2>
+
+Malheuresement, je dois encore le rappeler :
+
+Les propos à caractères discriminant sont strictement interdits. N'hésitez pas à utiliser la fonction d'alerte pour dénoncer des individus.
+
+<h3></h3>
+
+
+<h2>Spécifications et détails techniques</h2>
+
+L'instance tourne sur un serveur VC1S de chez Scaleway (<a href=https://www.scaleway.com/>Scaleway</a>) à mes frais.
+
+<h3></h3>
+
+<h3>Docker</h3>
+
+<h3>Les Docker ragix : cassez-vous.</h3>
+
+Cette instance est propulsée par Docker. J'utilise l'image officielle de Mastodon. Celle-ci provient d'un build automatique mis en place entre le repo <a href=https://github.com/tootsuite/mastodon>Github</a> et <a href=https://hub.docker.com/r/gargron/mastodon/>Docker Hub</a>).
+
+Je déploie l'instance via Ansible qui effectue les tâches listées dans le docker-compose du projet. J'ajoute à ces tâches des modifications personnelles (gestion des logs, mapping réseau, tunning, volumes). Les données (pg, assets, redis) sont bind mounté entre l'hôte et le conteneurs (volumes).
+
+Les images postgres et redis sont des images vanilla non exposée sur les internets.
+
+<h3></h3>
+
+<h3>Caddy</h3>
+
+<a href=https://caddyserver.com>Caddy</a> est utilisé en frontal comme reverse proxy HTTP. Il génère et gère comme un grand les certificats Lets Encrypt.
+
+<h3></h3>
+
+<h3>Mailgun</h3>
+
+J'ai pas encore eu le temps de mettre un place un système de mail dédié, en conséquence l'envoi de mail pour cette instance utilise le service <a href=https://mailgun.com>Mailgun</a>. Les mails de confirmations arrivent dans les spams, merci de les vérifier :)
+
+<h3></h3>
+
+<h3>Sauvegardes</h3>
+
+Pour l'instant, les seules sauvegardes disponibles sont les snapshots Scaleway (qui entraîne une indisponibilité du serveur). Je travaille actuellement sur un système de sauvegardes plus complet. VOUS ÊTES PREVENU-E-S.
+
+<h3></h3>
+
+<h3>TODO LIST</h3>
+
+<ul>
+  <li>Backup</li>
+  <li>Metrics (Grafana, InfluxDB, Telegraf)</li>
+  <li>S3, via Minio</li>
+</ul>
+
+<h2>Bon mastodonage</h2>
+
+Merci pour votre confiance et bon mastodonage :)</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/0016661a6ecc1910.JPG?1491458109" alt="0016661a6ecc1910" /></div>
+<div class='name'>
+<a href="https://mastodon.papey.fr/@papey"><span class='display_name emojify'>(101010)b</span>
+<span class='username'>@papey</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>wollivier@fdn.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>spacejerk.fr
+ - spacejerk.fr</title>
+<link rel="stylesheet" media="all" href="/assets/application-0449d445591a95348c5dbdb35ab660b22f19de34bbbed752e36a8bc7314bac3d.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="fKTpkgC0lwaCaRSsw80GbJfmTEER90uBJoq86PKBTLNmuE1hOVCuIhSotW5feJ6IPxx3PKK/KF2WuiuK3mvTCQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>spacejerk.fr</h2>
+<p>spacejerk.fr : instance Mastodon FR ouverte à tous.
+<br/>Les inscriptions sont ouvertes et libres.
+<p style="font-size: 14px; font-style: italic;">Dernière mise à jour : 29/04/17 - V. 1.3.2</p>
+HTTPS : A+<br />
+Observatory by Mozilla : A+<br />
+Pas d'IPV6 pour le moment ...</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>53</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>1 140</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>645</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'><h3>Bienvenue sur spacejerk.fr !</h3> 
+<p>Je suis <a href="https://spacejerk.fr/@citizenz7">citizenz7</a> (aka mumbly), l'admin de spacejerk.fr et un nivernais passionné par les logiciels libres et le Net.<br /> 
+Voici mon blog : <a href="https://www.citizenz.info">citizenz.info</a>. Vous pourrez y retrouver plusieurs tutos, etc., notamment sur Mastodon.</p>
+<p>Je suis également le webmaster de <a href="http://www.freetorrent.fr">freetorrent.fr</a> : tracker bittorrent exclusivement réservé aux médias sous licence libre ou licence de libre diffusion.</p>
+<p>Si vous avez un problème sur spacejerk.fr, envoyez-moi un e-mail.</p> 
+<p style="text-align: center;"><img src="https://spacejerk.fr/system/media_attachments/files/000/011/224/original/ada215d550ba3585.png?1492325587" alt="Join the Federation !" /></p> 
+<h3>Quelques règles simples :</h3> <p>• Ne floodez pas <br>• Pas de propos insultants, dégradants, etc. <br>• Essayez de respecter tout le monde !</p> 
+<p>Merci de rapporter les toots hors règles...</p> 
+<h3>Voici les caractéristiques du serveur de spacejerk.fr :</h3> 
+<p>Cette instance est hébergée sur un VPS <a href="https://manager.pulseheberg.com/aff.php?aff=2180">Pulseheberg</a>, en France (VPS-8 à 8 €/mois). <br>Détails techniques :</p> 
+<p>• Intel® Xeon® L5640 - 8 vCore @ 2.26GHZ <br>• 8Go DDR3 <br>• 50 GB SSDH <br>• 200 Mb/s bandwith <br>• Debian 8</p>
+<p>Backup journalier par rsync et ssh pour les fichiers et la BDD</p>
+<p>Happy tooting !</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/86f9551394cfc4d9.jpg?1492207211" alt="86f9551394cfc4d9" /></div>
+<div class='name'>
+<a href="https://spacejerk.fr/@citizenz7"><span class='display_name emojify'>Citizenz7</span>
+<span class='username'>@citizenz7</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>citizenz7@protonmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang='no'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>snabeltann.no
+ - snabeltann.no</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EY/gadyRP88MDsPDSQyYwqxr2Zw75F64Nfv5fkV9NQvId/uAMQiCoeek3OCn5Hi5OV24Xf8u9qbZrnWUyhNdCw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>snabeltann.no</h2>
+<p>En Mastodon-instans for norske brukere.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Her bor</span>
+<strong>95</strong>
+<span>brukere</span>
+</div>
+<div class='section'>
+<span>Som skrev</span>
+<strong>2,663</strong>
+<span>statuser</span>
+</div>
+<div class='section'>
+<span>Koblet til</span>
+<strong>680</strong>
+<span>andre instanser</span>
+</div>
+</div>
+<div class='panel'>En Mastodon-instans for norske brukere, drevet av <a href="https://snabeltann.no/web/accounts/1" style="color: white;">@thor@snabeltann.no</a> på frivillig basis. Instansen er lokalisert i Norge. Instansen skal være sikker og permanent. <a href="https://no.wikipedia.org/wiki/Ytringsfrihet#Ytringsfrihet_i_Norge" target="_blank" style="color: white;">Norsk lovverk</a> skal gjelde på denne instansen.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Kontakt</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Bedriftsepost:
+<strong>thj@thj.no</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Lenker</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Kom i gang</a></li>
+<li><a href="/auth/sign_in">Innlogging</a></li>
+<li><a href="/terms">Betingelser</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Kildekode</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

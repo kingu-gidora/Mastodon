@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodont.social
+ - Mastodont</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="UU5aNlGXl17O28sz8SUgX7EXjWZk2VD4JqydPJn0JhG+073QrO7yDAleDyyqCdrvx6h93+oDU0RP7j6Le8iO6Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodont.social</h2>
+<p>Smaller brother of Mastodon. Mostly security. Open to all. 
+<br><a href="https://radar.amberstone.digital/instance/mastodont.social">Instance stats</a>
+<br><a href="http://www.unmung.com/mastoview?url=mastodont.social&view=federated">Instance mastoview</a>
+<br><a href="https://instances.mastodon.xyz/list">List of known Mastodon instances</a>
+<br><a href="http://mastodon-bridge.herokuapp.com">Twitter Export</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>136</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>149</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>180</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Be kind.</p>
+<p>Full guidelines: <a href="https://mastodon.social/about/more">https://mastodon.social/about/more</a> </p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8ba4504ee45e25c4.jpg?1492670820" alt="8ba4504ee45e25c4" /></div>
+<div class='name'>
+<a href="https://mastodont.social/@c0rdis"><span class='display_name emojify'>c0rdis ✅</span>
+<span class='username'>@c0rdis</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>alive@mastodont.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>livedon.tokyo - LiveDON</title>
+<link rel="stylesheet" media="all" href="/assets/application-0ea370067efe163402ef5e294cad6d887a296502ab5b2e041719fc229ee0852e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="E8e1YktAjaVM6gUaR27C/ao8bDUiLaX6J3Mc8bdtYM7eVKQb1gfdrOQGNkK4Y6tNdZTKkHRdj3w8dJIb7Yl4CA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>livedon.tokyo</h2>
+<p><ul>
+<li>公序良俗に反する行為はやめましょう。</li>
+<li>日本国内の法律に違反する行為はやめましょう。</li>
+<li>過度な連投やフォロ爆などはサーバーが不安定になる原因なのでやめましょう。</li>
+<li>皆さんで話題を共有し盛り上がっていきましょう。</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>104</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>278</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>276</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/9991ef9acc44ae0b.jpg?1492528801" alt="9991ef9acc44ae0b" /></div>
+<div class='name'>
+<a href="https://livedon.tokyo/@coolish"><span class='display_name emojify'>クーリッシュ</span>
+<span class='username'>@coolish</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

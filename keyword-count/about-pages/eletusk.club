@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>eletusk.club
+ - Eletusk（えれたすく）</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lq1YruMznryHG5o2photlVB76EylC/hJX1OQFDYoQXgz8JvvF6Cjle3b3mohZbESZsBo/20C/nazP/lcsOfrlA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>eletusk.club</h2>
+<p>「えれたすく」と読みます、たぶん。<br />
+ファンタシースターオンライン2（PSO2）を中心としたファンタシースター関連の話題を楽しむMastodonインスタンスです。<br />
+ゆるーくロビーチャットのようなノリで雑談してます。夜の予告イベント前後だと人が多いっぽいです。<br />
+※ゲーム会社様とは関係の無い、ファンサイト的なコミュニティです。<br />
+トップ画像は、湯呑様（@yunomi@eletusk.club）から頂きました。ありがとうございます！<br />
+
+
+<h3 style="margin:40px 0 4px 0; border-bottom:1.5px solid #EEE; padding:8px 0;">
+登録確認メールについて
+</h3>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+登録確認メールが届かない場合、迷惑メールに分類されている恐れがあります。お手数ですが一度ご確認ください。<br />
+それでも届かないようであれば、手動で対応致しますので、Twitter <a href="https://twitter.com/pso2_emg_hour" target="_BLANK">@pso2_emg_hour</a>まで、登録に使用したメールアドレスを添えてご連絡ください。
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>420</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>15,365</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>126</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3 style="margin:40px 0 15px 0; border-bottom:1.5px solid #EEE; padding:8px 0;">
+このインスタンスに限らずMastodonを使うにあたって
+</h3>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+Mastodonは世に出て日の浅く、今なお作り込みが進んでいるソフトウェアです。<br />
+運営者として最大限気を配りますが、未知のリスクがある可能性を完全には否定出来ません。<br />
+そのようなリスクに遭っても大丈夫なように自衛しつつ楽しく使って下さい。<br />
+最低限、他サイトとのパスワードの使い回しは絶対にダメです。
+</p>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+また、投稿は会員登録制ですが、TLの閲覧にはその制限はありません。<br />
+その上、他のインスタンスと繋がるMastodonの性質上、一度投稿した物はどこまで拡散されるか分かりません。<br />
+見られて困る場面があるかもしれない物は、投稿しないのが安全です。<br />
+逆に加害者にならない為に、『仲間内だけで通じる際どいジョーク』みたいなモノの扱いにも気を付けて下さい。
+</p>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+脅かすような事ばかり言ってて何ですが、Mastodonは適切に使えば便利なモノです。
+当インスタンスでも皆様に楽しんで頂ければ幸いです。
+</p>
+
+<h3 style="margin:40px 0 15px 0; border-bottom:1.5px solid #EEE; padding:8px 0;">
+このインスタンスについて もうちょっと
+</h3>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+このインスタンスにおけるMastodonのバージョンは1.3.2です。
+</p>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+予想より多くの人に来て頂いたので、継続的な運営を目指して4/28にサーバー交換を行いました。<br />
+また同時に、メールサーバーも導入しました。以前登録しようとして確認メールが届かずあきらめた方も、今一度試して頂けるとありがたいです。
+</p>
+
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+インスタンス維持の足場固めが一段落ついたので、ちょっと便利な機能の追加やカスタマイズに着手したいと思ってますが、何時完成するかは全然分かんないです。<br />
+あと、サイトの見た目を変えたいとも思ってるのですが、残念ながら絵心もデザインセンスも無いので、皆様にご助力を仰ぐことになるかも。<br />
+トップ画像ぐらいはとっとと変えたいのですが。
+</p>
+
+<h3 style="margin:40px 0 15px 0; border-bottom:1.5px solid #EEE; padding:8px 0;">
+Eletusk（えれたすく）という名前について
+</h3>
+<p style="font-size:100%; line-height:1.6; padding:10px 0;">
+海外版ファンタシースター２に出て来る敵"Mastodon"の色違い版の名前から来てます。
+変に捻らず、素直にマルモスとかにしとけば良かったと後悔中。<br />
+日本版での名前は"デゾリアンマンモス"だったかな？
+</p>
+<img src="https://eletusk.club/system/media_attachments/files/000/000/011/original/f3c045ca3b62b26c.png"></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/003/original/149958f6462c2528.png?1492423376" alt="149958f6462c2528" /></div>
+<div class='name'>
+<a href="https://eletusk.club/@Admin_eletusk"><span class='display_name emojify'>中の人</span>
+<span class='username'>@Admin_eletusk</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

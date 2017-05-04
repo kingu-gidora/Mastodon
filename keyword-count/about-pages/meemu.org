@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>meemu.org
+ - Meemu</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="veNZKVjd7ROUEvfj7hsFYGWUYzzWYsQeN0ESz6aZksD8yXoNJCg3hay7i2Y5wQwlJy7X8d5B07W7To5dmojPOA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>meemu.org</h2>
+<p>A fluffy mascotted mastodon instance. Join us to worship in the cult of meemu, or if you just want to join a queer/furry friendly mastodon instance. <em>Racist/sexist/homophobic/"loli" content is not welcome on this instance.</em></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>12</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>334</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>300</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>The cult of meemu, here, in the flesh and digital.</p>
+
+<p>This instance is intended to be queer friendly and will be moderated with that goal in mind.</p>
+
+<p>The following was taken from <a href="https://mastodon.social">mastodon.social</a> on April 13th, 2017 and the server will be run in accordance with these guidelines.</p>
+
+<ol>
+  <li>
+    The following types of content will be removed from the public timeline:
+    <ol type="a">
+      <li>Excessive advertising</li>
+      <li>Uncurated news bots posting from third-party news sources</li>
+      <li>Untagged pornography and sexually explicit content</li>
+      <li>Untagged gore and extremely graphic violence</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Sexual depictions of children</li>
+      <li>Content illegal in the United States of America, where this instance resides </li>
+      <li>Conduct promoting the ideology of National Socialism</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+</ol></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/5a51d9652675a315.png?1492120424" alt="5a51d9652675a315" /></div>
+<div class='name'>
+<a href="https://meemu.org/@meemu"><span class='display_name emojify'>meemu</span>
+<span class='username'>@meemu</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>meemuorg@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

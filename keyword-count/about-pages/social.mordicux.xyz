@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>social.mordicux.xyz
+ - Mastodon made in Yonne</title>
+<link rel="stylesheet" media="all" href="/assets/custom-9b9024dc4cc6a313e977f4c0075df427bb662035307705f151793434a50ba788.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bK97eSchyfManhGDTPmo4Mv15H5KaE6snrcgQDd5ESYi5WvNk2wX95CHKrgFSTWcpn8q03dVmUqqwh81JQRHLA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>social.mordicux.xyz</h2>
+<p><h1>Bienvenue sur Mordicux</h1><p>- Instance généraliste ouverte à toutes et tous.<br />- Generalist Instance,registrations are open and free.<br />- Los registros son abiertos y libres.</p><p><em>Amusez vous, soyez respecteux et ne vous prenez surtout pas au sérieux !</em></p><p>Mordicux est maintenue par <a href="https://social.mordicux.xyz/@Quanta">@Quanta</a></p>
+<p>Par soucis de transparence, les instances bloquées sont listées:
+<ul>
+<li>porntoot[dot]com</li>
+<li>awoo.space</li>
+<li>pawoo.net</li>
+</ul>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>8</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>1 599</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>395</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'><h2>Règles d'utilisation et modération:</h2>
+<p>- Tous les propos, images ou vidéos sont soumis à la loi française.<br />- Tout ce que vous publiez est de votre responsabilité.<br />- Utilisez la fonction CW pour masquer les médias sensibles.🔞 <br />- Il vous est également demandé de rapporter les messages que vous pensez contraire à ce principe via la fonction "signaler".</p>
+<p><a href="https://www.mordicux.xyz">En savoir plus sur Mordicux</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/72aaed9224da4163.jpg?1493266888" alt="72aaed9224da4163" /></div>
+<div class='name'>
+<a href="https://social.mordicux.xyz/@Quanta"><span class='display_name emojify'> Quanta 📷</span>
+<span class='username'>@Quanta</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>sysadmin[@]mordicux.xyz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

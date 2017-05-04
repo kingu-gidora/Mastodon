@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>sakaba.space
+ - マストドン酒場</title>
+<link rel="stylesheet" media="all" href="/assets/application-25d5b5150ab609d3278f89930212602acc07d4d17ef1c6f9bba62090b705b0c9.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1V+hNvWDAaelqE/hTZwH8TCUf+j4S7XBb7rXUzRPB6dOvbhGDqybSoeh4w6GXoLdvIQDXuFiwX/cC+rOePFlPQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>sakaba.space</h2>
+<p><p>
+よく来たな。ここはマストドン酒場だ。あんたも冒険者なんだろう？見れば分かる。<br />
+北の山にモンスターが住み着いてからというもの、ここに来るのはあんたみたいな連中ばかりさ。<br />
+ゆっくりしていくといい。各地方から色んな奴らが集まってるから、何かいい情報が聞き出せるかもしれないぜ。
+</p>
+<br />
+<h3>一応ここのルールみたいなもんだ</h3>
+<ul>
+<li>酒場での話題には決まり事なんかない。好きに話せば誰かが聞いててくれるだろう。</li>
+<li>もしモンスターを見かけたら、リプライ（返信）ってやつで何発か攻撃すれば倒せるはずだ。</li>
+<li>亡霊や機械人形(bot)でも構わないが、酒場に迷惑をかけるやつは容赦なく叩き出す(BAN)からな。</li>
+<li>あまり大きな店じゃないんで、もしかしたら満席（募集停止）になるときが来るかもしれないが勘弁してくれ。</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>48</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>697</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>8</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>更新履歴</h3>
+<ul>
+<li>2017.4.29: ゾンビを実装しました</li>
+<li>2017.4.28: 壊れかけた時計を実装しました</li>
+</ul>
+<br /><br />
+<h3>お問い合わせ</h3>
+<p>
+開発者Mastodon <a href="https://chorus.space/@midori44">@midori44</a><br />
+開発者Twitter <a href="https://twitter.com/midori44">@midori44</a>
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/1fad89e8e69f49af.jpg?1493203838" alt="1fad89e8e69f49af" /></div>
+<div class='name'>
+<a href="https://sakaba.space/@master"><span class='display_name emojify'>master</span>
+<span class='username'>@master</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

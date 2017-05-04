@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>occitanie.social
+ - Mastodon du sud</title>
+<link rel="stylesheet" media="all" href="/assets/application-ae44e5ef44769edc644c3127c42c300e797b5f707cadbdb356f9eb965cfc942e.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="v9JOojg9BXD0vE7QlBS9Rj7B7/WuGvcff6rs+ST7paZBnhMVsuAGEAGdtmgUF2CEswAkpFtanGWO6Ax7/KEx7w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>occitanie.social</h2>
+<p>Une instance Mastodon régionale à l'attention des internautes de la région Occitanie.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>111</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,076</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>430</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Si vous cherchez des amis mais que vous ne connaissez pas l'instance Mastodon sur laquelle ils sont inscrits, vous pouvez les chercher dans le <a style="color:#fff" href="http://mastory.social">Mastodon users directory</a></p>
+<p>Ce service est gratuit mais il a un coût de fonctionnement. Si vous souhaitez nous aider à pérenniser cette instance, vous pouvez faire un don sur <a href="https://flattr.com/submit/auto?fid=2dgyn7&url=https%3A%2F%2Foccitanie.social%2Fabout%2Fmore" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/27c8050747a58b86.jpg?1491407718" alt="27c8050747a58b86" /></div>
+<div class='name'>
+<a href="https://occitanie.social/@charly"><span class='display_name emojify'>Charles-Édouard Coste</span>
+<span class='username'>@charly</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

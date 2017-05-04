@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.org.uk
+ - Mastodon.org.uk</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="J2lxJtyE3KPD9cLIzoBtxLzLBT4SNIcDsE/tEs10nS9MGnPh2l1yxuGdtJkevCltlNerOHfl5p9cwKdBawJqKg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.org.uk</h2>
+<p><p><em>Statistics</em><br>
+<a target="_blank" href="https://netdata.mastodon.org.uk/">
+   <img src="https://netdata.mastodon.org.uk/api/v1/badge.svg?chart=system.cpu"></img>
+</a>
+
+<a target="_blank" href="https://netdata.mastodon.org.uk/#chart_web_log_nginx_clients_all">
+   <img src="https://netdata.mastodon.org.uk/api/v1/badge.svg?chart=web_log_nginx.response_statuses&label=current+connections"></img>
+</a>
+
+<a target="_blank" href="https://netdata.mastodon.org.uk/#chart_web_log_nginx_clients_all">
+   <img src="https://netdata.mastodon.org.uk/api/v1/badge.svg?chart=web_log_nginx.clients_all&label=unqiue+ips"></img>
+</a>
+
+<a target="_blank" href="https://netdata.mastodon.org.uk/#chart_disk_space__">
+   <img src="https://netdata.mastodon.org.uk/api/v1/badge.svg?chart=disk_space._&label=free+space"></img>
+</a></p>
+
+<p><em>How does it work?</em> When you create an account on Mastodon, you create an account on the website you currently are visiting. For example, here you are on <u>mastodon.org.uk</u>. That is your instance.
+<br><br>
+You will notice after log in two different timelines, the Local and the Federated.<br>
+The local timeline is all the public toots of all our local users ( the one who registered on mastodon.org.uk and use it to access the Mastodon federation ).<br>
+The federated timeline adds the public toots of all the users that our local users are following in other servers/</p>
+
+<p><em>Need to know users</em> <br>
+	<a href="https://mastodon.org.uk/@xvilo">@xvilo</a> Is the maintainer of this instance.<br>
+	<a href="https://mastodon.org.uk/@status">@STATUS</a> Gives you information about this instance.<br>
+	<a href="https://mastodon.org.uk/@userscount">@userscount</a> Gives us detailed info about users and toots.<br>
+</p>
+
+<p><em>Bots on this instance</em> <br>
+	<a href="https://mastodon.org.uk/@status">@STATUS</a> Gives us an automated heads up when there is a <a href="https://github.com/xvilo/Mastodon-Update-Notifier">new Mastodon Version available</a>.<br>
+	<a href="https://mastodon.org.uk/@userscount">@userscount</a> Gives us detailed info about users and toots. <a href="https://github.com/josefkenny/usercount">Source on Github</a><br>
+	<a href="https://mastodon.org.uk/@bigben">@bigben</a> Toots the time. <a href="https://github.com/cablespaghetti/bigben">Source on Github</a>. Maintained by <a href="https://mastodon.org.uk/@followthesam">@followthesam</a><br><br>
+	Bots <em>are welcome here</em> but please not that bots will be silenced when posting too much (e.g. flooding local timeline). If you have a bot, please contact me <a href="https://mastodon.org.uk/@xvilo">(@xvilo)</a>. I can add it to the list. <br>
+	Bots <em>will be banned</em> if they post inappropriate content or if I <a href="https://mastodon.org.uk/@xvilo">(@xvilo)</a> get many complaints about it. 
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>229</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,110</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>690</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p><em>Blocks</em><br>
+Pawoo.net - Silenced</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/1ca7c908d573162f.jpg?1491831676" alt="1ca7c908d573162f" /></div>
+<div class='name'>
+<a href="https://mastodon.org.uk/@xvilo"><span class='display_name emojify'>Sem Schilder ✅</span>
+<span class='username'>@xvilo</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>sem@tropical.email</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>social.tchncs.de
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-4ead06895a52860500aa00143c3e7d6ca2c8983a3791e00f023a8506d31bf927.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="btaJzE/gXoxcvR1pNOGDtngHF2P4ua74WUd97EsJ/V/w/SqCV52XuwrERzdl/D9ve3rXyLOe4eDu4gzk9MXXgQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>social.tchncs.de</h2>
+<p><quote>This might be one of the best pieces of software for microblogging you can get right now. We here at tchncs.de are proud to be one of the first instances of Mastodon! Quick updates ensured. Mastodon is compatible and connected to the GNUsocial network.</quote></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>7,184</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>67,125</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>1,230</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><a href="//health.tchncs.de" target=_blank>
+
+<img style="padding-right:1em;"src="https://health.tchncs.de/api/v1/badge.svg?chart=system.load&dimensions=load15&label=Load%20avg&units=null">
+<img style="padding-right:1em;"src="https://health.tchncs.de/api/v1/badge.svg?chart=system.cpu&after=-300&label=CPU%20last%205min&after=-300">
+<img src="https://health.tchncs.de/api/v1/badge.svg?chart=system.ram&after=-300&dimensions=used&options=percentage&label=RAM%20last%205min">
+</a>
+<p>Above statistics are specific to this server.</p>
+<div style="padding-top:2em;"></div>
+<h3>Privacy</h3>
+<p>social.tchncs.de don't take use of advertising or external analytics software and does not make any money with your informations.<br>
+Instead you can help us by dropping a <a href="//tchncs.de/donate" style="color:#A0C6DA;">small donation</a>. ♡</p>
+
+<div style="padding-top:2em;"></div>
+<h3>Blocked servers</h3>
+
+<p>Due a bunch of requests from users and a lot of thinking,<br>
+the GNUSocial server <b style="font-weight:bold;">shitposter.club</b> was blocked from this server (suspend).<br>
+<b style="font-weight:bold;">pawoo.net</b> got silenced due a flood of illegal media content in our country. Media is blocked.<br>
+<b style="font-weight:bold;">gs.kawa-kun.com</b> appears to allow racism/sexism/hatespeech so it got silenced since the most users took use of it over there.</p>
+<b><br>
+<li>Silenced means you can still share with the affected people but they are hidden from the federated timeline</li>
+<p style="font-style:italic;">Please note that this was and will ever done by user decisions except the instances serve illegal content (german law), social.tchncs.de is not built for doing random censoring.</p>
+
+<div style="padding-top:2em;"></div>
+<h3>Rules</h3>
+
+<p>The following guidelines, mostly adopted from mastodon.social, are not a legal document, and final interpretation is up to the administration of social.tchncs.de.
+They are here to provide you with an insight into our content moderation policies:</p>
+<div style="padding-top:1em;"></div>
+<ol>
+  <li>
+    The following types of content will be removed from the public timeline:
+    <ol type="a">
+      <li>Excessive advertising</li>
+      <li>Untagged pornography and sexually explicit content</li>
+      <li>Untagged gore and extremely graphic violence</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Sexual depictions of children</li>
+      <li>Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism</li>
+      <li>Conduct promoting the ideology of National Socialism</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>
+</ol></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/001/833/original/2747263aa9d3e026.jpg?1493812480" alt="2747263aa9d3e026" /></div>
+<div class='name'>
+<a href="https://social.tchncs.de/@milan"><span class='display_name emojify'>Milan</span>
+<span class='username'>@milan</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>tchncs@vivaldi.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

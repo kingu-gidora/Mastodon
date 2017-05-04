@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mast.moe
+ - 萌えMastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LCO29V+pDhvvxCAng9A1FFr3NBov6FOeALgNg64ekaVZbJ5NHCxfk21CVRDCCz3T6bFK2+4foLpA3ZgYMPOC+w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mast.moe</h2>
+<p>オタク向けMastodonです！</br>
+アニメからゲーム、はてはプログラムまで、オタク系全般向けになります！</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>56</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>641</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>88</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>オタク向けMastodonです！</br>
+アニメからゲーム、はてはプログラムまで、オタク系全般向けになります！</br>
+みんなで仲良くワイワイやりましょう！
+<hr/>
+<h2>内容</h2>
+このサーバは主にオタクな方々が登録していることが多いインスタンスです。<br/>
+This server is an instance that is often registered mainly by 'otaku' people.<br/>
+アニメ、ゲームの人が多いのかなぁ<br/>
+<hr/>
+<h2>サーバについて</h2>
+どこかのVPSの中で生きています。<br/>
+<hr/>
+<h2>今後について</h2>
+状況次第ではスペックをアップスケールするか、自宅内サーバーで運用する予定です。<br/>
+<hr/>
+<h2>約束事</h2>
+It is primarily Japanese-speaking, but please freely use people outside Japan!<br/>
+当たり前の話ですが、広告や法律に合わないモノ(売春や児童ポルノ)や誹謗中傷など公共の場にふさわしくない内容と管理者が判断したものについては削除、アカウント停止などの措置に踏み切る可能性があります。<br/>
+URLが多いトゥートをされると、自働でサイレントされます。<br/>
+Publicでの喧嘩などが行われた場合、状況次第では該当アカウントをサイレントする可能性があります<br/>
+ボット系は許可しますが、Publicでの発言や広告、トゥートが激しい場合はサイレントする可能性があります。<br/>
+データは消えないように運営を行いますが、万が一の為にエクスポートを定期的に行ってください。消えてしまっても保証できないです。</br>
+アカウントの削除はできません。停止は本人から希望があれば応じます。<br/>
+みんな楽しく使いましょう！<br/></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/bfac693cc93e7353.jpg?1493554651" alt="Bfac693cc93e7353" /></div>
+<div class='name'>
+<a href="https://mast.moe/@nekocolonel"><span class='display_name emojify'>猫大佐</span>
+<span class='username'>@nekocolonel</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

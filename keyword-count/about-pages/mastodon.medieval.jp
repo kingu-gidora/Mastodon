@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.medieval.jp
+ - メディェヴァドン（中世丼）</title>
+<link rel="stylesheet" media="all" href="/assets/application-25f1269b15e0b9ac752644a54b611c9e08e0517e1041139ff9ae0054fadfcb25.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jlhd2dzdW93hHll3fnCuKhnFCVyINj7LcW5bE2gyjwtEpfeEEyNLSDQAfaYs/2BkubrSItzSNxJbB3i/ex5zqw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.medieval.jp</h2>
+<p>ここは<em>中世人</em>のためのマストドン。<br />
+おもにヨーロッパの、<em>中世からルネサンスからバロックあたり</em>のことでたのしみましょう。<br />
+<br />
+ここの運営をしているのは、ヴィエール（中世フィドル）とかゴシック・ハープを奏でる<em>中世都市楽師</em>たちなのですが、<em>中世絵師</em>、<em>中世調理人</em>、<em>中世裁縫師</em>、<em>騎士</em>、<em>写本師</em>、<em>錬金術師</em>、<em>魔術師</em>など、みなさまで<em>中世生活を満喫しましょう。</em><br />
+
+音楽、動画、画像などは歓迎したいのですが、YouTubeやSoundcloudのように著作権の処理は行えません。ですので、<em>「著作権の問題がないことがわかっているもの」以外はアップロードしない</em>でください。<br />
+
+<em>18禁コンテンツ、十字軍的宗教弾圧、魔女狩りは禁止</em>です。イヤな予感のする発言は消しちゃったりします。<br />
+サーバーは日本にありますので、日本国の法にしたがってください。<br />
+<br />
+なお、サーバー運営は 中世クヲリティです。なにかあったら、ごめんヽ(ﾟ∀｡)ﾉ<br />
+<br /></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>33</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>96</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>61</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><em>中世人</em>のためのマストドンと謳っておりますが、<em>髭男爵もバロッカーもまとめて大歓迎</em>です。
+ここの運営をしているのは、ヴィエール（中世フィドル）とかバロック・ヴァイオリンとかゴシック・ハープとかバロック・フルートを演奏したりする<em>都市楽師</em>たちなのですが、<em>絵画</em>や<em>彫刻</em>を愛でる方、<em>料理</em>や<em>衣装</em>を再現されている方、<em>甲冑</em>かぶって<em>騎士道</em>を邁進される方、<em>写本師</em>の方、<em>錬金術</em>や<em>黒魔術</em>を嗜む方、みなさまで<em>中世生活を満喫しましょう。</em><br />
+ただし、十字軍的宗教弾圧（および宗教勧誘）や魔女狩りは禁止です。<br />
+<br />
+なお、サーバー運営は 中世クヲリティです。なにかあったら、ごめんヽ(ﾟ∀｡)ﾉ<br />
+<br /></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/db7453e1be10a491.png?1493597101" alt="Db7453e1be10a491" /></div>
+<div class='name'>
+<a href="https://mastodon.medieval.jp/@hazakura"><span class='display_name emojify'>hazakura✅</span>
+<span class='username'>@hazakura</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mastodon@medieval.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>geeks.one
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Z11k5ECd37zjdk/7Dhl6dtEpoe5GY0XV8qY747USj1oa6X+rDfnhhfagnQ654c+9FB0HgX2OXBGSihBIcZZamA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>geeks.one</h2>
+<p><p>Mastodon instance certified "Human" & "Geek", mainly french, but any language is allowed.</p> 
+<p>All subjects can be approached, does intelligence not bind things together? &#9775;</p>
+</br>
+<p>Please read ToS of this instance : <a href="https://geeks.one/terms">Terms of Service. </a></p>
+</br>
+<p>You can use other self-hosted service on geeks.one :</p>
+<p><ul>
+<li><a href="https://searx.geeks.one">Searx</a></li>
+<li><a href="https://paste.geeks.one">Paste</a></li>
+</ul></p>
+</br>
+<h3>&#10102; Rules ?</h3>
+<ul>
+<li>Just be "Human"</li>
+<li>Be your own light</li>
+</ul>
+</br>
+<h3>&#10103 Registration ?</h3>
+
+<p>Registrations will close once we have reached a great community.</p>
+
+<h3>&#10104 Contact ?</h3>
+<p>Send me an email for any further information or question :
+<p>&#9993; : <a href="mailto:contact@geeks.one">contact@geeks.one</a></p>
+<p>&#128274; : <a href="http://keys.gnupg.net/pks/lookup?search=0x1AB28D7905F62C2B&fingerprint=on&op=index">D9728EBD1C3CA9C9312873C31AB28D7905F62C2B</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>298</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,366</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>561</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>&#10105 Specifications ?</h3>
+<p> Configuration HTTPS/Securiy Headers : </p>
+<p><a href="https://observatory.mozilla.org/analyze.html?host=geeks.one">Mozilla Observatory</a></p>
+<p><a href="https://securityheaders.io/?followRedirects=on&hide=on&q=geeks.one">Security Headers</a></p>
+</br>
+<p>Hosted on a <a href="https://www.hetzner.de/en/">Hetzner</a> dedicated server located in Germany.<p>
+<ul>
+<li>CPU : Intel Xeon E3-1271v3</li>
+<li>RAM : 32G DDR3 ECC</li>
+<li>HDD : 2*4 TB</li>
+<li>Bandwith : 1Gbit/s</li>
+<li>Debian 8.7</li>
+</ul>
+<p><u>Server is backed up on another one every 6 hours.</u><p>
+</br>
+<h3>&#10106 More ?</h3>
+<p>I have to pay 56€/month for this server (and 35€/year for domain name) so you can participate to help me maintain it with Liberapay or Paypal :</p>
+<p><a href="https://liberapay.com/Solinvictus/donate">Liberapay</a></p>
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=contact%40geeks%2eone&lc=FR&item_name=geeks%2eone&item_number=geeks%2eone&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted">Paypal</a></p>
+<p>Thanks for your support ! &hearts;</p>
+</br>
+<h3>&#10107 Inspiration ?</h3>
+<p>" The poet resembles this prince of cloud and sky
+</br>
+Who frequents the tempest and laughs at the bowman;
+</br>
+When exiled on the earth, the butt of hoots and jeers,
+</br>
+His giant wings prevent him from walking. "</p>
+
+<p>o/</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a4612292894e2d60.jpg?1492068854" alt="A4612292894e2d60" /></div>
+<div class='name'>
+<a href="https://geeks.one/@Solinvictus"><span class='display_name emojify'>Solinvictus </span>
+<span class='username'>@Solinvictus</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@geeks.one</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

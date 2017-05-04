@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ftb.moe
+ - 姉妹丼</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="UPwFV//MwdeP2nxTGKtCTUXJfw67lGRdpep5VTpmaoyCufJKHldSHmWWiNGY9ZQc0W+x9C7BQBRttwAIW5IP6g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ftb.moe</h2>
+<p><p>姉妹丼ネタは取り扱っておりません</p>
+<h2 style="color: red; font-size:16px;">登録メールが届かないときは迷惑メールに入ってるかもです</h2></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>414</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>13,778</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>272</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><div style="font-size:16px;line-height:1.6em;">
+
+<style>
+.bold{ font-weight:bold; }
+</style>
+
+<h2>ハロー姉妹丼</h2>
+
+<pre>
+本サーバーは趣味でやってるものです
+ノンクレームノンリターンでお願いします
+
+大きいインスタンスはサイレンスにしてますので
+連合タイムラインは割りときれいです
+
+<div class="bold">【おやくそく】
+無修正のハレンチ物 政治宗教だめ
+みんななかよく</div>
+
+<img src="https://ftb.moe/assets/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png" width="200">
+↑　マスコットのぞうさんです　シュババ
+
+</pre>
+
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://s3-ap-northeast-1.amazonaws.com/ftb.moe/accounts/avatars/000/000/005/original/56a3799f809d6531.png?1492928135" alt="56a3799f809d6531" /></div>
+<div class='name'>
+<a href="https://ftb.moe/@adminchan"><span class='display_name emojify'>けいおんちゃん</span>
+<span class='username'>@adminchan</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>onori.chansan@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

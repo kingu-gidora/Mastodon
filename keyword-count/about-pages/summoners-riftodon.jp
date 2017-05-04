@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>summoners-riftodon.jp
+ - LoL JP Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-6581135360111df0137b01f00a5122ce5b61f2e6ed5dedda5cc8eee617a022c3.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dS56FieT9N/wAADjf43HZ4FrGVi376SjjNzHnh+mn5cWbHgLr28I2uF1tbNBHlVNUrHXJa//ZetJonh1CKL53Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>summoners-riftodon.jp</h2>
+<p><p>日本のLoLプレイヤーが交流をするためのマストドンインスタンスです<br>
+<br>
+@yota と @utakata の個人によって運用されているもので、Riot公式のものではありませんのでご注意ください。
+</p>
+<h3>アンチハラスメントポリシー</h3>
+<p>
+ハラスメントとは、性差、性同一性と表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカー、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。<br>
+参加者が安心してコミュニティに集中できるよう、これらのハラスメント行為が行われないようにしてください。<br>
+私たちは、参加者へのハラスメント行為はいかなる形であれ容認しません。この原則に違反した参加者は、管理者の裁量により退場させられるものとします。また今後の参加が拒否される可能性があります。<br>
+これらの行為は、当コミュニティだけでなく、他SNSへの投稿、コメント等すべてにおいて認められないものとします。<br>
+これらのハラスメント行為を目撃した場合は管理者までご連絡ください。<br>
+私たちはすべての人が気持ちよくコミュニティに参加できるよう、尽力します。<br>
+皆様のご協力をお願いします。
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>280</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>7,096</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>129</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Discord</h3>
+<p>
+<a href="https://discord.gg/a9DsQM7">https://discord.gg/a9DsQM7</a><br>
+summoners-riftodonのメンバーでnormalに行く時に使いやすいかと思います。
+<a href="https://summoners-riftodon.jp/web/accounts/496">すぷーんさん</a>によって管理されています。
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/b58fc0697d642ae3.jpg?1492708490" alt="B58fc0697d642ae3" /></div>
+<div class='name'>
+<a href="https://summoners-riftodon.jp/@yota"><span class='display_name emojify'>yota :tristana:</span>
+<span class='username'>@yota</span>
+</a></div>
+</div>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/0b71a5e69e9171c0.jpg?1492732880" alt="0b71a5e69e9171c0" /></div>
+<div class='name'>
+<a href="https://summoners-riftodon.jp/@utakata"><span class='display_name emojify'>うたかた :lux:</span>
+<span class='username'>@utakata</span>
+</a></div>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/summoners-riftodon/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>pegelinux.ga
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QYejruzr+Gx5P3h2qDF8P5Upvg3+rZZE8PAom5nJOeMyxQ7HG4BEYTxG2bXeCq02ur8bk0LR863nyI9sM115Ng==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>pegelinux.ga</h2>
+<p>Pegelinux
+<br>
+This is a community for people who are interested in Programming, Science, and Technology. Our goal is to share and discuss insightful ideas that gratify intellectual curiosity, exchange experience, and help each other to make awesome things.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>29</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,013</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>244</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>How does it works ?</h2><br>
+
+<p>When you create an account on Mastodon, you create an account on the website you currently are visiting. For example, here you are on <a href="https://pegelinux.ga">pegelinux.ga</a>. That is your instance. <br>
+
+You will notice after log in two different timelines, the Local and the Federated.
+The local timeline is all the public toots of all our local users ( the one who registered on <a href="https://pegelinux.ga">pegelinux.ga</a> and use it to access the Mastodon federation ).
+The federated timeline adds the public toots of all the users that our local users are following in other servers.</p><br>
+
+
+<h2>How do I get verified ? Who is who ?</h2><br>
+
+<p>Do it yourself ;) For now there is no verification on Mastodon, it's just an emoji that people add as a joke.
+Your identity on Mastodon and the fediverse ( the federation of all the Mastodon instances ) is <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="e49d8b9196919781968a858981a49d8b91968d8a9790858a8781">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>, so when you register here, your identity is <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="95ecfae0e7e0e6f0e7fbf4f8f0d5e5f0f2f0f9fcfbe0edbbf2f4">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> . You can follow and communicate with anyone in the fediverse if you know his/her <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="61141204130f000c0421080f1215000f0204">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>!</p><br>
+
+<h2>How do I follow a user from another instance ?</h2><br>
+
+<p>If you know his username and his instance, you can search for @<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="2e5b5d4b5c404f434b6e47405d5a4f404d4b">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> and from there it should be pretty easy. It's pretty young so there's room for improvements, and I'm sure that we'll end up being able to search across instances. There is now also some sites that allows searching users. You can always look at the federated timeline and find some interesting contacts !</p><br>
+
+<h2>How do I mask X language from the timelines ? I can't read that</h2><br>
+
+<p>That's a feature being developed at the moment, but you can always head to <a href="https://github.com/arthurlacoste/mastodon-lang-remover" target="_blank">Mastodon lang remover</a> to do it in your browser without waiting for the feature to be integrated.</p><br>
+
+<h2>Who is moderating the instance ?</h2><br>
+
+<p>For the moment, you, by reporting the posts and users and the admin enforcing the rules. (<a href="https://pegelinux.ga/@kimiamania">@kimiamania</a>)</p><br>
+
+<h2>How often do you update the service ?</h2><br>
+
+<p>Usually the day a new stable version is released. You can follow <a href="https://pegelinux.ga/@kimiamania">@kimiamania</a> for announces when this is happening.</p><br>
+
+<h2>How much does it cost ?</h2><br>
+
+<p>Mastodon is free for the users. This instance is hosted by me, <a href="https://pegelinux.ga/@kimiamania">@kimiamania</a>, on my personal funds. Your help is appreciated to maintain/make the platform evolve.</p><br>
+
+<h2>How can I help ?</h2><br>
+
+<p>You can get involved in multiple ways, you can welcome new users, animate the local timeline, promote our instance and invite new users here, report posts and users not respecting our rules... 
+You can also help with the costs of running the service by donating, any small amount is appreciated ! Donations are accepted on:
+<ul>
+<li>Paypal: <a href="https://paypal.me/RezhaJulio" target="_blank">https://paypal.me/RezhaJulio</a></li>
+<li>Local Indonesian Bank: BCA, Mandiri, BTPN</li>
+
+</ul></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://files.pegelinux.ga/accounts/avatars/000/000/001/original/ceb64c2a2bee28a9.jpg" alt="Ceb64c2a2bee28a9" /></div>
+<div class='name'>
+<a href="https://pegelinux.ga/@kimiamania"><span class='display_name emojify'>Rezha Julio 🔨</span>
+<span class='username'>@kimiamania</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="d1b2bebfa5b0b2a591a3b4abb9b0bba4bdb8beffb8b5">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

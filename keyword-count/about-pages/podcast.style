@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>podcast.style
+ - podcast.style</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="M6qCoMluIaAzdpY6dolI12BTeEhht5ma01AERg8kN9JvJT1pnPomVgzUf6wrJcEw3ssrrSa1h9QeXuL94+q/SQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>podcast.style</h2>
+<p><p>ポッドキャストを配信する<em>ポッドキャスター</em>と<em>ポッドキャストリスナー</em>のためのインスタンスです。</p>
+<p id="more_hide">登録前に<a href="https://podcast.style/about/more">お願い</a>をご一読ください</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>7</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>208</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>104</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><section id="about">
+<h3 id="＝＝＝お願い＝＝＝">＝＝＝ お願い＝＝＝</h3>
+
+<ul>
+<li>ポッドキャストの配信者やリスナーの利用を想定してますが、話題については特定しませんのでご自由に</li>
+<li>情報交換やコミュニケーションを目的としてますので一方的な<em>告知の連投</em>は避けていただければと</li>
+<li>安定した運用をめざしますが、データの保存や動作を保証するものではありませんのでご了承ください</li>
+<li>安定を求める場合は、他の大きなインスタンスの方が安心かもしれません</li>
+<li>限られたリソースで運用しています。Botなどによる大量の投稿やフォローなどはご遠慮ください</li>
+<li>公序良俗に反する投稿は控え、閲覧に注意が必要な内容は、必ず<em>CW</em>や<em>NSFW</em>を使ってください</li>
+<li>良識を持って楽しく使って生きましょう</li>
+</ul>
+
+<h3 id="＝＝＝機能について＝＝＝">＝＝＝ 機能について＝＝＝</h3>
+
+<ul>
+<li>他のインスタンスの人をリモートフォローしたり、他からリモートフォローすることもできます</li>
+<li>他のインスタンスから見られたくない場合は非公開アカウントにしてください</li>
+<li>ミュートするとフォローしたまま投稿が見えなくなります</li>
+<li>公開、未収載の投稿（トゥート）はマストドンを使っていない人からも見られる公のものです</li>
+<li>公開はタイムラインに流れ、未収載はタイムラインに流れません（@通知などに利用）</li>
+<li>非公開はインスタンス内のフォロワーだけ見ることができます</li>
+<li>ダイレクトは@でメンションをした人だけに公開します（インスタンス 外へのものは要注意）</li>
+</ul>
+</section></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>mail@whizzo.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

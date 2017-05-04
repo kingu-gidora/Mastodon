@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.paris
+ - Mastodon | Paris</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pQ3LeW4A/uzMYQCALaFxfOJHYm5Caw/zIC+8J5i1PYFReFisFe036Q0oWVO16X2AT5EyIqTQYUT+cH4TqEt13Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.paris</h2>
+<p><p>Une instance parisienne de Mastodon et une porte d'accès vers un espace de libre expression ouvert à tous.</p>
+
+<h3>Afin de garantir la meilleure expérience possible, merci de bien vouloir simplement respecter les règles suivantes :</h3>
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Pas de propos ouvertement racistes ou homophobes
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Pas de spam ou de publicité invasive
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Pas de pornographie non masquée
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Pas de harcèlement
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Pas de pédophilie
+</li>
+</div>
+</div></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>7</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>304</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>403</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Informations techniques</h3>
+<div>Instance créée le 25 avril 2017<br>
+Version pure</div>
+<div> 2 x Intel Core i7 (6 x 3,20 GHz chacun), 64 GB RAM, 300 GB SSD + 1 S3 pour sauvegardes</div>
+<div>Vous pourrez prochainement, si vous le souhaitez, participer au financement de l'instance et rétribuer le développeur de Mastodon</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://mstdnparis.s3.eu-central-1.amazonaws.com/accounts/avatars/000/000/001/original/19aca58a666d8c36.png" alt="19aca58a666d8c36" /></div>
+<div class='name'>
+<a href="https://mstdn.paris/@admin"><span class='display_name emojify'>JSBailly</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>contact@mstdn.paris</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

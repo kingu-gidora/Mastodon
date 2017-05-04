@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>awoo.space
+ - Awoo.space</title>
+<link rel="stylesheet" media="all" href="/assets/custom-e82d16e9db10cf8781486de9769d6b4b6388ccde74f4babe5f8f710cfbe56b72.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="J72nczhFzbgXmn3ru8s3GAmMOcOjGBwsZORKZit34R1YvkQJLnhTgSkB3L3e+c/ckllaGlnW3rRWS28l73o1HA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>awoo.space</h2>
+<p><p>awoo.space is a Mastodon instance where people can rely on a team of moderators to help resolve conflict and uses a server whitelist to minimize abuse.</p>
+<p>Favicon and menu column art by @kyra (@kyradoesart on Twitter)</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,054</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>41,292</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>40</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>What is Awoo.space?</h2>
+
+<p>Awoo.space is a small social network where folks are expected to be respectful of boundaries and identities.  We have a dedicated team of moderators available to help deescalate conflict and help educate folks on social missteps if they inadvertantly cause harm.</p>
+
+<p>While the Mastodon platform gives its users a great many tools that help to deal with abuse, the nature of federation can expose our users to admins and users on distant instances completely out of their control.  To mitigate this possible problem, awoo.space uses a server whitelist to selectively federate with other instances in order to more sustainably grow the network and limit exposure to potential harassment and abuse.</p>
+
+<p>Our vision is to curate a space where folks can be more open with one another while still being able to control their public visibility without being forced to provide emotional labor when folks accidentally step across boundaries.</p>
+
+<p>If things sound too locked down here for you, there are plenty of other great instances you can find from our <a href=#whitelist>whitelist below</a> or searching for an instance using <a>instances.mastodon.xyz</a>.</p>
+
+<p>Consider following and supporting our artist, <a href=https://awoo.space/@kyra>@kyra</a>!</p>
+
+<h2>I'm an instance admin.  How do I federate with awoo.space?</h2>
+
+<p>We think of Awoo.space as a well-run house party, with other instances as the invitees. We need to trust the folks we let into our party, and we need to know they won't bring along anyone else who will make the party suck for everyone. This is especially a concern given how admins can't always account for the actions of all their users, much less users of other instances they federate with.</p>
+
+<p>With that in mind, here's what we look for when deciding whether or not to federate with other instances:</p> 
+
+<ul>
+  <li>Your instance has a CoC similar to Mastodon.social's, or you agree with Mastodon.social's CoC and follow its principles while administrating your instance</li>
+  <li>You understand that your users are subject to awoo.space's CoC while interacting with our users</li>
+  <li>You're not federating with instances whose administration has a history of ignoring or encouraging abuse of Mastodon users on their platform. The instances we're currently particularly concerned about are:
+    <ul>
+      <li>shitposter.club</li>
+      <li>sealion.club</li>
+      <li>freezepeach.xyz</li>
+      <li>rainbowdash.net</li>
+      <li>social.heldscal.la</li>
+      <li>unsafe.space</li>
+    </ul>
+  </li>
+</ul>
+
+<p>We are willing to make exceptions for these rules for very small closed-registration instances as long as your users all respect our CoC when interacting with awoo.space users and are careful to respect whether or not folks are okay with you boosting their posts.</p>
+
+<p>If all of this sounds reasonable to you, please sign up using <a href=https://docs.google.com/forms/d/1R8j3NHNV7wof4KrG0s_f0RiCRn6cPz_2ROQmvcICFco/edit?usp=drive_web>this Google Form</a>.</p>
+
+<p>Feel free to contact us if you want to discuss these terms or have any questions about federating with us.</p>
+
+<h2>Administration</h2>
+
+<p>
+  The current administrators of this instance are:
+  <ul>
+    <li><a href=https://awoo.space/@vahnj>@vahnj</a></li>
+    <li><a href=https://awoo.space/@noiob>@noiob</a></li>
+  </ul>
+</p>
+
+<h2>Moderators</h2>
+
+<p>
+  The current moderators of this instance are:
+  <ul>
+    <li><a href=https://awoo.space/@inurashii>@inurashii</a></li>
+    <li><a href=https://awoo.space/@thefishcrow>@thefishcrow</a></li>
+  </ul>
+</p>
+
+<p>Moderators here take on a different role than other places- they do not have the power to directly silence or ban your account, and are instead are volunteers whom the administration trusts with a direct line of commmunication with the admin to help facilitate the respect of boundaries and keep discussion and education civil so that awoo.space is a safe place for folks.</p>
+
+<p>We are interested in more moderators, but are not currently actively searching for new ones.  If you are interested, please contact the administrator.  We are trying to build a diverse team for this place and if you feel you fit into that and don't mind volunteering then please let us know!</p>
+
+<h2>Other Staff</h2>
+
+<p>
+  <ul>
+    <li><a href=https://awoo.space/@kyra>@kyra</a> - Artist</li>
+    <li><a href=https://awoo.space/@indi>@indi</a> - UI/UX Consultant</li>
+  </ul>
+</p>
+
+<h2>Guidelines</h2>
+
+<p>The following guidelines are not a legal document, and final interpretation is up to the administration of Awoo.space; they are here to provide you with an insight into our content moderation policies:</p>
+
+<ol>
+  <li>
+    When interacting with other users, all users both local and remote are expected to adhere to the following:
+    <ol type="a">
+      <li>Respect boundaries as placed by others</li>
+      <li>Be respectful/apologize if someone tells you that you cross a boundary accidentally</li>
+      <li>Give people space if you accidentally push past a boundary</li>
+      <li>If you are on either side of this and are worried about the situation escalating, contact the admin or a mod</li>
+      <li>Tag potentially upsetting content such as violence/blood, politics, and other such topics</li>
+    </ol>
+  </li>
+
+  <li>
+    When interacting with other users, any users (local or remote) will be considered in the wrong in a conversation that goes sour if they participate in the following:
+    <ol type="a">
+      <li>Microaggressions ("not all men", white/man/cis-splaining, using the wrong pronouns to address someone after being corrected, etc)</li>
+      <li>Demanding education on problematic behavior from a non-admin/moderator</li>
+      <li>Skirting the lines of being a troll</li>
+      <li>Not tagging potentially sensitive replies</li>
+    </ol>
+    This is not an exhaustive list.  If any of these don't make sense, please speak with an admin or moderator- we are more than happy to help you understand the problems with these kinds of behavior.
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline:
+    <ol type="a">
+      <li>Advertising</li>
+      <li>Posts that do not tag upsetting content</li>
+      <li>Untagged nudity, pornography and sexually explicit content</li>
+      <li>Untagged gore and extremely graphic violence</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+      <li>Arguing with a moderator or admin in bad faith, especially as a new member to the community</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Sexual depictions of children</li>
+      <li>Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism</li>
+      <li>Conduct promoting the ideology of National Socialism</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+</ol>
+
+<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/008/original/69cea524d98abde5.png?1492499478" alt="69cea524d98abde5" /></div>
+<div class='name'>
+<a href="https://awoo.space/@vahnj"><span class='display_name emojify'>Crom, Kobold King</span>
+<span class='username'>@vahnj</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>awoo.space@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header' id='whitelist'><span class="translation_missing" title="translation missing: en.about.domain_whitelist">Domain Whitelist</span></div>
+<div class='panel-list'>
+<ul>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mastodon.social">mastodon.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://witches.town">witches.town</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://design.vu">design.vu</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://slime.global">slime.global</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://social.diskseven.com">social.diskseven.com</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://toot.cat">toot.cat</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://masticated.life">masticated.life</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://meow.social">meow.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://cybre.space">cybre.space</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://cute.group">cute.group</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://anticapitalist.party">anticapitalist.party</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://vulpine.club">vulpine.club</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://from.komic.eu">from.komic.eu</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://social.wxcafe.net">social.wxcafe.net</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://thepractice.space">thepractice.space</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://octodon.social">octodon.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://simstim.club">simstim.club</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mstdn.dank.software">mstdn.dank.software</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://un.lobi.to">un.lobi.to</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mastodon.ninetailed.uk">mastodon.ninetailed.uk</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://tenforward.social">tenforward.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://chitter.xyz">chitter.xyz</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://queer.party">queer.party</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://glitch.social">glitch.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://ephemeral.glitch.social">ephemeral.glitch.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mastodon.technology">mastodon.technology</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://witches.academy">witches.academy</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://computerfairi.es">computerfairi.es</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://meemu.org">meemu.org</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://botsin.space">botsin.space (silenced)</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://toot.cafe">toot.cafe</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mastodon.art">mastodon.art</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mellified.men">mellified.men</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://scifi.fyi">scifi.fyi</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://manowar.social">manowar.social</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://is.a.qute.dog">is.a.qute.dog</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mst3k.interlinked.me">mst3k.interlinked.me</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://mastodon.dereferenced.org">mastodon.dereferenced.org</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://wandering.shop">wandering.shop</a>
+</li>
+</div>
+<div class='whitelist-site'>
+<li>
+<a data-remote="true" href="https://a.weirder.earth">a.weirder.earth</a>
+</li>
+</div>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

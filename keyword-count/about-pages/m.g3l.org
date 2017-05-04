@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>m.g3l.org
+ - Mastodon G3L</title>
+<link rel="stylesheet" media="all" href="/assets/custom-f314dfe00937aeaf6d4d7d412c712a0aa115d4c055ce24935af47a7d43f5ce91.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BImgISZ/KLhNVc6QooPows8WHtPwnaG4n+KXpzUx7qxjfm28Ok/aNhL7aUCZTgwsRybhtEHhewTkw0V0opZscw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>m.g3l.org</h2>
+<p>Cette instance Mastodon est gérée par l'association <a href="https://g3l.org/">G3L</a>.
+Merci de lire les <a href="http://g3l.org/le_site/?cgu-chatons-g3l">conditions générales d'utilisation</a> avant de vous inscrire.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Abrite</span>
+<strong>81</strong>
+<span>utilisateurs⋅trices</span>
+</div>
+<div class='section'>
+<span>Ayant publié</span>
+<strong>630</strong>
+<span>posts</span>
+</div>
+<div class='section'>
+<span>Connectés à</span>
+<strong>442</strong>
+<span>autres instances</span>
+</div>
+</div>
+<div class='panel'>Ce service est ouvert à toutes et tous. Il s'inscrit dans le mouvement <a href="https://chatons.org" style="color:#fff">CHATONS</a> !
+Il applique la loi française en terme de modération (sur demande de police ou judiciaire en bonne et due forme).</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/002/original/865ed666bec9e104.png?1491680075" alt="865ed666bec9e104" /></div>
+<div class='name'>
+<a href="https://m.g3l.org/@admg3l"><span class='display_name emojify'>Admin G3L</span>
+<span class='username'>@admg3l</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Courriel professionnel
+<strong>chatons@g3l.org</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Liens</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Rejoindre le réseau</a></li>
+<li><a href="/auth/sign_in">Se connecter</a></li>
+<li><a href="/terms">Conditions d’utilisation</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Code source</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

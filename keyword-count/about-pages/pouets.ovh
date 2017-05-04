@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>pouets.ovh
+ - pouets.ovh</title>
+<link rel="stylesheet" media="all" href="/assets/custom-c49c4f0dd8a1a2048fcf2c7ec8fe8ebde348d0bcc78b931fecef34fb50b62a1b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="gtypYeo1ha/HYJqwt91n/B9Yq11FcaSxR5CQYff7keTHEP9fP6dlo+aOc3KujZVMFMOD/ElR5ZBgTIXcr5FWEQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>pouets.ovh</h2>
+<p><p style="margin-bottom:5px">
+<em>pouets.ovh</em> est une petite instance hébergée sur un serveur virtuel ovh.</p>
+<p style="margin-bottom:5px">
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-refresh"></i>Mise à jour régulière</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-map-marker"></i>Support ipv6</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-lock"></i>Https A+</li>
+</ul></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>93</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,032</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>504</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>Bonjour! je suis <a href="https://pouets.ovh/@noName">Cédric</a>, l'administrateur de cette instance.</p>
+<p style="margin-bottom:5px">L'instance est mise à jour régulièrement et supporte l'ipv6, elle est hébergée sur un serveur virtuel ovh.</p>
+
+<h3>Quelques règles...</h3>
+
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-ban"></i>Pas de flood.</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-user"></i>Respecter les autres utilisateurs.</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-exclamation-circle"></i>Utiliser le "cw" pour les contenus sensibles.</li>
+</ul>
+
+<h3>Le serveur</h3>
+
+<!-- <a href="https://microbadger.com/images/gargron/mastodon:v1.1.2" title="Get your own version badge on microbadger.com"><img src="https://images.microbadger.com/badges/version/gargron/mastodon:v1.1.2.svg"></a> -->
+
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>2 vCores x 2,4Ghz</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>8 Go de mémoire vive</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>SSD de 40 Giga</li>
+  <li style="margin-bottom:5px"><i class="fa-li fa fa-check-square"></i>Bande passante de 100Mbps</li>
+<li style="margin-bottom:5px"><i class="fa-li fa fa-linux"></i>Debian 8</li>
+</ul>
+
+<ul style="padding-left:15px !important; list-style: none;" class="fa-ul">
+  <li style="margin-bottom:5px"><img src="https://monitor.pouets.ovh//api/v1/badge.svg?chart=system.cpu&alarm=10min_cpu_usage&refresh=auto"/></li>
+  <li style="margin-bottom:5px"><img src="https://monitor.pouets.ovh/api/v1/badge.svg?chart=system.ram&alarm=ram_in_use&refresh=auto" /></li>
+  <li style="margin-bottom:5px"><img src="https://monitor.pouets.ovh/api/v1/badge.svg?chart=disk_util.sda&alarm=10min_disk_utilization&refresh=auto" /></li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/8d4d0d511ab8596f.jpg?1491981750" alt="8d4d0d511ab8596f" /></div>
+<div class='name'>
+<a href="https://pouets.ovh/@noName"><span class='display_name emojify'>Cédric 🖖</span>
+<span class='username'>@noName</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>mastodonin@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.web4u.jp
+ - mstdn.web4u.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-91f3ee9c7ce3c91823f361961ae4aabf7ea921e504ccef01b1fb1b10fbc0c1ba.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VQ8pP3Yc9noOhWFouszb8oPQ/sdrqDaC1UzFSLdiJbttDbKOQDdSjBX3brQcQ1xPnck78akqE2foyM02BouB+A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.web4u.jp</h2>
+<p>桔梗（キキョウ）が運営するMastodonサーバーです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>20</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>365</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>405</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/dca3f8ee6eb075ff.jpg?1492232484" alt="Dca3f8ee6eb075ff" /></div>
+<div class='name'>
+<a href="https://mstdn.web4u.jp/@kikyou"><span class='display_name emojify'>桔梗（キキョウ）</span>
+<span class='username'>@kikyou</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

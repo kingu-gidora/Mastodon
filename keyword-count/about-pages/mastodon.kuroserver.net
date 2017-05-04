@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.kuroserver.net - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b5708bb73cded1fb0546a285175cbf46a32654dcecbbf576bb9ed5630fc8089b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Nf7g1gDWzNtWzVY8Q5CDjp7BhJOfc1d2fPX3GscCBqLWKWkz0S62bew8XllvtKmhRWG46WvpPDxTWiAq2LVJyg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.kuroserver.net</h2>
+<p>KuroServerSystems運営のMastodonサーバーです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>7</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>13</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>137</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>寄付について</h3>
+<ul>
+<li><a href="https://enty.jp/KuroServer">Enty</a>で寄付を受け付けています。</li>
+</ul>
+<h3>ルール</h3>
+<p>
+<ul>
+<li>日本の法律を守っていただければ、基本的に自由です。</li>
+<li>サーバに負荷をかける行為、サーバ運営を妨害する行為は
+禁止です。</li>
+<li>なりすまし行為など、他のユーザーに迷惑がかかる行為も禁止です。</li>
+</ul>
+<h3>サーバーやネットワークなど</h3>
+<ul>
+<li>VMware vSphere上のCentOS(vCPU:4core/vMEM:4GB)で動作させています。</li>
+<li>物理サーバーはDell Poweredge R310(CPU:Xeon L3426/MEM:20GB)です。</li>
+<li>負荷に応じて、増強予定です。</li>
+<li>ネットワークはGbE対応済です。</li>
+</ul>
+<h3>その他</h3>
+<ul>
+<li><a href="http://www.kuroserver.net/">KuroServerWeb</a></li></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/2dc9b81aae2b4860.jpg?1492417306" alt="2dc9b81aae2b4860" /></div>
+<div class='name'>
+<a href="https://mastodon.kuroserver.net/@KuroServer"><span class='display_name emojify'>くろすけ(admin)</span>
+<span class='username'>@KuroServer</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>Administrator@kuroserver.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ngndn.jp
+ - NaGaNoDoN ナガノドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="uPK18IsaLx+7OSVAaBjhTV+LWVvv19gGUKIWf41HWg7JKlnLt0A+pKmOVMNXf9R1quk09GUIOWlHJyE9SP8lWg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ngndn.jp</h2>
+<p>信州長野県出身のひと、いま住んでいるひと、興味のあるひとどなたでも自由に参加いただいて、たのしくおはなししましょうというマストドンです。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>28</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>166</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>13</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h3>おやくそく</h3>
+<ul>
+<li>信州長野県がテーマですが、それに限らず雑談しましょう</li>
+<li>法令遵守でおねがいします。場合によっては警察や裁判所の要請に応じてログを開示する可能性もあります</li>
+<li>基本的には公序良俗の範疇で。あんまし小学生とかに適切でないかも？という文章は CW (Content Warning) を、画像には NSFW (Not suitable for work;職場閲覧不適切) をつけましょう。つけても法にふれるようなのはダメです</li>
+<li>これらの問題がある場合、運営者の独断で予告なく削除やアカウント停止を行うこともあります</li>
+<li>本サービスを利用することによって被害・損失があった場合、運営者は保証できません</li>
+<li>と、いちおー硬いことを書きましたが、みんな仲良くやりましょう</li>
+</ul>
+
+<h3>運営者およびお問い合わせ先</h3>
+<p>
+このインスタンスは<em>長野県マストドン協会</em>によって運営されています。お問い合わせは <a href="/@nagano">@nagano</a> または E-mail ngndn.jp(at)gmail.com まで。反応遅かったらごめんなさい。
+</p>
+<p>
+<a href="/@nagano">@nagano</a> からおしらせとかもするかもしれないので、念のためフォローしておいていてくださいね。
+</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/avatars/original/missing.png" alt="Missing" /></div>
+<div class='name'>
+<a href="https://ngndn.jp/@nagano"><span class='display_name emojify'>nagano</span>
+<span class='username'>@nagano</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

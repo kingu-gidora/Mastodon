@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.art
+ - Mastodon.ART</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+BjJAG+B5wFLoQbn+ddOU+NCi+48/OsKITwiyyxVr2uRpX/sg55VJI/6WX0TSigb0QJ/Rzuh+s33aXNHvRQaOg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.art</h2>
+<p>Mastodon.art — a place for your artwork of all types from visual, musical, peformance or ____. Also, fun banter, commentary & cited fair-use posts/art/reviews of others' art too. Welcome to y(our) free & open source decentralized life. Mastodon.art doesn't monetize or profit off of your personal information—your information is never for sale. Export & leave for another instance anytime. No Brand, name or famous trademark squatting. Zero tolerance for harrassment or bullying — your account will be deleted.  🎨 📸✏️🎥🎶💡💬 Powered by v1.2.2 of Mastodon
+—
+Users are Artists & people here. All content is ⓒ each artist & cannot be distributed or used without prior permission by the respective Mastodon.ART artist. Federation serves as a link & not a perpetual copy - other instances may not disseminate others' work without credit and licensing. Artists, by using this site you understand that it is not a backup or permanent repository for your information or files. You may leave and join another instance at any time by exporting your statuses & follow list. Your media was downsized on original upload & is not exportable at this time. Thank you for simply enjoying a creative community run by someone supporting the arts.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>185</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>3,715</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>651</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>What is Mastodon.ART? & CoC</h2>
+
+<p>Mastodon.art — a place for your artwork of all types from visual, musical, peformance or ____. Also, fun banter, commentary & cited fair-use posts/art/reviews of others' art too. Welcome to y(our) free & open source decentralized life. Mastodon.art doesn't monetize or profit off of your personal information—your information is never for sale. Export & leave for another instance anytime. No Brand, name or famous trademark squatting. Zero tolerance for harrassment or bullying — your account will be deleted. Your Original Content Only No PornNo LoliArtistic Form No Bots Respect Others</p>
+
+<p>While the Mastodon platform gives its users a great many tools that help to deal with abuse, the nature of federation can expose our users to admins and users on distant instances completely out of their control.  To mitigate this possible problem, Mastodon.ART uses a server whitelist to selectively federate with other instances in order to more sustainably grow the network and limit exposure to potential harassment and abuse.</p>
+
+<p>Our vision is to curate a space where folks can be more open with one another while still being able to control their public visibility without being forced to provide emotional labor when folks accidentally step across boundaries.</p>
+
+<p>If things sound too locked down here for you, there are plenty of other great instances you can find from our <a href=#whitelist>whitelist below</a> or searching for an instance using <a>instances.mastodon.xyz</a>.</p>
+
+<p>Here's what I look for when understanding the CoC's of other instances:</p> 
+
+<ul>
+  <li>Your instance has a CoC similar to Mastodon.social's, or you agree with Mastodon.social's CoC and follow its principles while administrating your instance</li>
+  <li>You understand that your users are subject to Mastodon.ART's CoC while interacting with our users</li>
+  <li>You're not federating with instances whose administration has a history of ignoring or encouraging abuse of Mastodon users on their platform. The instances we're currently particularly concerned about are:
+    <ul>
+      <li>shitposter.club</li>
+      <li>sealion.club</li>
+      <li>freezepeach.xyz</li>
+      <li>rainbowdash.net</li>
+      <li>social.heldscal.la</li>
+      <li>unsafe.space</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Administration</h2>
+
+<p>
+  The current administrators of this instance are:
+  <ul>
+    <li><a href=https://Mastodon.ART/@Curator>@Curator</a></li>
+  </ul>
+</p>
+
+
+<p>Moderators here take on a different role than other places- they do not have the power to directly silence or ban your account, and are instead are volunteers whom the administration trusts with a direct line of commmunication with the admin to help facilitate the respect of boundaries and keep discussion and education civil so that Mastodon.ART is a safe place for folks.</p>
+
+<p>We are interested in more moderators, but are not currently actively searching for new ones.  If you are interested, please contact the administrator.  We are trying to build a diverse team for this place and if you feel you fit into that and don't mind volunteering then please let us know!</p>
+
+<h2>Guidelines</h2>
+
+<p>The following guidelines are not a legal document, and final interpretation is up to the administration of Mastodon.ART; they are here to provide you with an insight into our content moderation policies:</p>
+
+<ol>
+  <li>
+    All users, local and remote, are expected to adhere to the following interaction principles:
+    <ol type="a">
+<li>Posting work of others must be cited (or say artist/author unknown) after searching. Fair Use of copyright applies here.</li>
+      <li>Respect boundaries as placed by others</li>
+      <li>Be respectful/apologize if someone tells you that you cross a boundary accidentally</li>
+      <li>Give people space if you accidentally push past a boundary</li>
+      <li>If you are on either side of this and are worried about the situation escalating, contact the admin or a mod</li>
+      <li>Tag potentially upsetting content such as violence/blood, politics, and other such topics</li>
+    </ol>
+  </li>
+
+  <li>
+    All users, local and remote, will be considered in the wrong in a conversation that goes sour if they participate in the following:
+    <ol type="a">
+      <li>Microaggressions ("not all men", white/man/cis-splaining, using the wrong pronouns to address someone after being corrected, etc)</li>
+      <li>Demanding education on problematic behavior from a non-admin/moderator</li>
+      <li>Skirting the lines of being a troll</li>
+      <li>Not tagging potentially sensitive replies</li>
+    </ol>
+    This is not an exhaustive list.  If any of these don't make sense, please speak with an admin or moderator- we are more than happy to help you understand the problems with these kinds of behavior.
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline:
+    <ol type="a">
+      <li>Advertising</li>
+      <li>News bots that do not tag upsetting content</li>
+      <li>Untagged pornography and sexually explicit content</li>
+      <li>Untagged gore and extremely graphic violence</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Sexual depictions of children</li>
+      <li>Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism</li>
+      <li>Conduct promoting the ideology of National Socialism</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+</ol>
+
+<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://curate.mastodon.art/gallery/accounts/avatars/000/000/001/original/c86fc976d9ddfa11.png?1492214148" alt="C86fc976d9ddfa11" /></div>
+<div class='name'>
+<a href="https://mastodon.art/@Curator"><span class='display_name emojify'>Mastodon.ART🎨🐘 Curator</span>
+<span class='username'>@Curator</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>—</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

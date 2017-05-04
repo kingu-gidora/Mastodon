@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.com.de
+ - Mastodon // .com.de</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hEkqP+Vv8Mpj0u2Uk44xozrbAzTykZAHMRBra5SHEYKU4tIbiEnlqO2JkZ8QBG4Xp/NKLpSh1lImMwiLqLpUHw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.com.de</h2>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>11</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>10</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>80</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><div style="text-align:center">
+<h3>Live Metrics - Data Center Frankfurt / Germany</h3>
+<a href="#">
+   <img src="https://mastodon.com.de/netdata/api/v1/badge.svg?chart=system.cpu&label=SYSTEM CPU"></img>
+</a>
+<a style="margin-left:2%" href="#">
+   <img src="https://mastodon.com.de/netdata/api/v1/badge.svg?chart=system.ram&label=RAM IN USE"></img>
+</a>
+<a style="margin-left:2%" href="#">
+<img src="https://mastodon.com.de/netdata/api/v1/badge.svg?chart=disk_space._&label=FREE DISK SPACE">
+</img>
+</a>
+<br><br><br>
+<img src="/IgWowT8.png" alt="thimbleweed park">
+<p style="text-align:center">Diese Instanz ist ganz frisch & wie für Dich gemacht &hearts;</p>
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/195afee523e6432f.jpg?1492825909" alt="195afee523e6432f" /></div>
+<div class='name'>
+<a href="https://mastodon.com.de/@cubefoo"><span class='display_name emojify'>cubefoo</span>
+<span class='username'>@cubefoo</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>hello@mastodon.com.de</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Erste Schritte</a></li>
+<li><a href="/auth/sign_in">Anmelden</a></li>
+<li><a href="/terms">AGB</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Quellcode</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

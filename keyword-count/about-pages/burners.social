@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>burners.social
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-df75cb7ffdfd49c4b4a90c2d74768116b98039e26a55870bf47b737c2ad5d9b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HvBsPLrhEVK2x6neV8ZHxECKH8XDKsFt6vGxEnAonDgHwKJu2ntBv0CPehyjszGcmMQTWo9la7MX5+r5Gtm6iA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>burners.social</h2>
+<p>An online community for burners and the people that love them )'( 🔥</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>125</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>263</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>306</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><div>
+  <h3>Radical Inclusion</h3>
+  <p>Anyone may be a part of Burners.social. We welcome and respect the stranger. No prerequisites exist for participation in our community.</p>
+</div>
+<div>
+  <h3>Gifting</h3>
+  <p>Burners.social is devoted to acts of gift giving. The value of a gift is unconditional. Gifting does not contemplate a return or an exchange for something of equal value.</p>
+</div>
+<div>
+  <h3>Decommodification</h3>
+  <p>In order to preserve the spirit of gifting, our community seeks to create social environments that are unmediated by commercial sponsorships, transactions, or advertising. We stand ready to protect our culture from such exploitation. We resist the substitution of consumption for participatory experience.</p>
+</div>
+<div>
+  <h3>Radical Self-reliance</h3>
+  <p>Burners.social encourages the individual to discover, exercise and rely on his or her inner resources.</p>
+</div>
+<div>
+  <h3>Radical Self-expression</h3>
+  <p>Radical self-expression arises from the unique gifts of the individual. No one other than the individual or a collaborating group can determine its content. It is offered as a gift to others. In this spirit, the giver should respect the rights and liberties of the recipient.</p>
+</div>
+<div>
+  <h3>Communal Effort</h3>
+  <p>Our community values creative cooperation and collaboration. We strive to produce, promote and protect social networks, public spaces, works of art, and methods of communication that support such interaction.</p>
+</div>
+<div>
+  <h3>Civic Responsibility</h3>
+  <p>We value civil society. Community members who organize events should assume responsibility for public welfare and endeavor to communicate civic responsibilities to participants. They must also assume responsibility for conducting events in accordance with local, state and federal laws.</p>
+</div>
+<div>
+  <h3>Leaving No Trace</h3>
+  <p>Our community respects the environment. We are committed to leaving no physical trace of our activities wherever we gather. We clean up after ourselves and endeavor, whenever possible, to leave such places in a better state than when we found them.</p>
+</div>
+<div>
+  <h3>Participation</h3>
+  <p>Our community is committed to a radically participatory ethic. We believe that transformative change, whether in the individual or in society, can occur only through the medium of deeply personal participation. We achieve being through doing. Everyone is invited to work. Everyone is invited to play. We make the world real through actions that open the heart.</p>
+</div>
+  <div>
+  <h3>Immediacy</h3>
+<p>Immediate experience is, in many ways, the most important touchstone of value in our culture. We seek to overcome barriers that stand between us and a recognition of our inner selves, the reality of those around us, participation in society, and contact with a natural world exceeding human powers. No idea can substitute for this experience.</p></div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://burners-social-01.s3.amazonaws.com/accounts/avatars/000/000/001/original/baf8dd34a26dda3a.jpg?1492178157" alt="Baf8dd34a26dda3a" /></div>
+<div class='name'>
+<a href="https://burners.social/@muloka"><span class='display_name emojify'>Louis Muloka 🇧🇲</span>
+<span class='username'>@muloka</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

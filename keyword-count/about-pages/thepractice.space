@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>thepractice.space
+ - The Practice Space</title>
+<link rel="stylesheet" media="all" href="/assets/application-9679f6355501e33158e499a1c4b70cfe6532b7b0f3e63db54ff4ca9121fbfeda.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vQLgPUwlKmodzRGnIJz+S4th5/EecJ2FF7qygg+Woow05h4pfNOcA71DJRVyHxQtIHs+O9RgSLLQNDSbjBDjqw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>thepractice.space</h2>
+<p><em>Welcome!</em> The Practice Space is a <a href="https://github.com/tootsuite/mastodon">Mastodon</a> server dedicated to musicians of all stripes, nations, and genres. It's a social network focused on discussing all aspects of being a musician—theory, gigging, songwriting, you name it. You can also connect with people on most other Mastodon servers to expand your network even more!
+</br></br>
+What is Mastodon? Here's a <a href="https://medium.com/@hupfen/tooting-my-own-horn-1180d3564af1">five-minute explainer.</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>67</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>215</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>266</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>The Goals</h2>
+
+<p>The aim of The Practice Space is to be both a fun and a useful community for musicians. To do that, we (the admins/moderators) lean towards being positive and protecting those who have less opportunity to express themselves.</p>
+
+<h2>The Rules</h2>
+
+<p>When in doubt, report and/or ask us. We go with the <a href="https://mastodon.social/about/more">mastodon.social</a> rules as a guideline. We are not hesitant about banning bad actors for the health of the overall community.</p>
+
+<p>The Practice Space follows the witches.town <a href="https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md">federation blocklist</a>.</p>
+
+<h3>Make Use of Content Warnings</h3>
+<p>If it's sensitive, graphic, NSFW, or potentially distressing, put it behind a content warning. It's why we have them. That includes text and graphics; if you're not sure, use one.</p>
+
+<h3>No Hating On Genre/Style</h3>
+<p>The Practice Space is for all kinds of musicians. If something isn't your jam, there's no need to cause conflict over it. Just move along.</p>
+
+<h3>Be Kind to Newbies</h3>
+<p>Both new musicians and new members to the server. We were all new once! (That said, being new isn't an excuse to not learn.)</p>
+
+<h3>Be Sensible with Promotion</h3>
+<p>It's totally fine to promote your band, gigs, whatever! It's even encouraged. But if people are asking you to tone it down, take their advice. The rules are stricter when what's being promoted doesn't relate to music.</p>
+
+<h3>No Harassment</h3>
+<p>If someone says cut it out, cut it out. No debate.</p>
+
+<h3>Nazi Punks Fuck Off</h3>
+<p>Says it all.</p>
+
+<h2>Disclaimer</h2>
+<p>This server is an experiment. It might break, it might go away. Things may change, rapidly and/or dramatically. I'll do my best to keep things from getting crazy, and I'll always give warning when I can.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/6febd5ff5f41623c.jpg?1491761897" alt="6febd5ff5f41623c" /></div>
+<div class='name'>
+<a href="https://thepractice.space/@hupfen"><span class='display_name emojify'>Zoe Landon</span>
+<span class='username'>@hupfen</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

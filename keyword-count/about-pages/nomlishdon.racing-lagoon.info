@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>nomlishdon.racing-lagoon.info
+ - Nomlishdon（ノムリッシュドン）</title>
+<link rel="stylesheet" media="all" href="/assets/application-572a0545c3d6dafcd9001e841a9bff2b944f0930fd175531237fa6b3a03ee8b9.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EbD/c7NA8yW+Pm/hpiUIH1hjWTDc1lNCSN2G2K1S+9R0uUo8fmeOPF0j1JBvoYxZwYSp4dZQtVZ2Kh1ESasgwQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>nomlishdon.racing-lagoon.info</h2>
+<p>Nomlishdon（ノムリッシュドン）は投稿がすべてノムリッシュ翻訳されるマストドンインスタンスです。
+ノムリッシュ翻訳は<a href="http://racing-lagoon.info/nomu/translate.php">こちら</a>。
+
+タイムラインは<a href="https://racing-lagoon.info/nomlishdon/timeline.php">こちら</a>。</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>36</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>276</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>4</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>「うーん。Aちゃんさあ。マストドンじゃ余りに平凡じゃない？ファブラ・ノヴァ・マストドゥン・ゾルデュオムでどう？」
+『ですね』
+「あれは『人の罪の結晶』なんだよね。アカシックレコードの記憶。」
+『純粋なるクリスタルの意志ね』
+「それと僕の解釈では、あれはログインじゃなくて＜リユニオン＞って呼びたいな。それとね…」</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>nomlish@yahoo.co.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

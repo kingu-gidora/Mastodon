@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.orangeliner.net
+ - Mastodon @orangeliner.net</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NtKH4wzXrelSbqRP/Bh4T/oudTATfS/cjLfRLnPGlKL2qGnJ9xV5fF8WaHftQFUh1Sm4okr3eUcPG1ZA4CK4Ag==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.orangeliner.net</h2>
+<p>日本国内向けMastodonサーバーです。特定分野への特化は今のところありません。<br>
+現在どなたでもご自由にアカウント登録していただける状態ですが、個人運営の省リソース仕様ですので、過度な期待はしないでください。<br>
+私のお財布事情が厳しいと止まるかも。<br>
+えっちなイラストの投稿も大丈夫だとは思いますが、「NSFW」ボタンを押すのをお忘れなく。<br>
+一応、IPv6接続対応です。<br>
+<br>
+※反社会的であったり、公序良俗に反する投稿やアカウントは削除させてただく場合があります。<br>
+日本国内の法律に則り、節度あるご利用をお願いいたします。<br>
+<br>
+▼詳しくはこちら<br>
+<a href="https://orangeliner.net/blog/mastodon_server/" target="_blank">https://orangeliner.net/blog/mastodon_server/</a><br>
+<br>
+▼連絡先<br>
+Mastodon→<a href="https://mstdn.orangeliner.net/@asgr" target="_blank">@asgr</a><br>
+Twitter→<a href="https://twitter.com/asagiri96mc" target="_blank">@asagiri96mc</a></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>9</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>149</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>109</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>This is a Mastodon Server in Tokyo,Japan.<br>
+Anyone can use it freely and free of charge. (The main language is Japanese)<br>
+<br>
+Powered by ConoHa VPS >>> https://www.conoha.jp/<br>
+ConoHa VPS Tokyo Region/RAM 1GB/SSD 50GB/IPv6 enable</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/55570e328e6e3ac4.jpg?1492706163" alt="55570e328e6e3ac4" /></div>
+<div class='name'>
+<a href="https://mstdn.orangeliner.net/@asgr"><span class='display_name emojify'>朝霧</span>
+<span class='username'>@asgr</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

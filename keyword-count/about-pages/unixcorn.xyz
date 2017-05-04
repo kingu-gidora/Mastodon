@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>unixcorn.xyz
+ - Mastodon by Unixcorn</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="A2wZzrGW4wMAObkvn/FBz+tFV8X4J2+H6ZXTTnniaEp8aJoBwUhTNfQmV0BtKfw/c5znFv4hrQg+FctiNkOflQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>unixcorn.xyz</h2>
+<p>Une instance Mastodon <em>tenue à jour</em> quotidiennement et fournie par <a href="https://unixcorn.org">Unixcorn</a>. Hébergée en France, l'un de ses objectif premier est la <em>transparence</em> mais nous vous invitons à lire <a href="https://unixcorn.xyz/about/more">l'ensemble des règles d'utilisation</a>. Notre modération est <em>collaborative</em>, n’hésitez surtout pas à rapporter tout contenu problématique !
+<br />
+<br />
+ℹ️ En cas de problème jetez un oeil à <a href="https://status.unixcorn.org">notre page de statut</a> public mise à jour en temps réel !</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>840</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>8,421</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>831</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Règles détaillées</h3>
+<p>Notre instance est bien sûr régie par des <em>règles spécifiques</em>. Premièrement aucun sexisme, racisme, homophobie validisme, âgisme, grossophobie ou psychophobie, etc n’est toléré. Tout message de haine est proscrit, les fascistes et leurs copains nazis sont <em>directement bannis</em>. Dans un autre registre, la publication de spam, de contenu pornographique non désigné comme tel avec un “Content Warning” (CW) mènent aussi à une exclusion du serveur. Cette instance Mastodon se veut <em>inclusive et bienveillante</em>, ainsi nous bannirons sans prévenir et sans regret. Les comptes bannis ne sont plus accessibles depuis notre instance, vous ne pouvez plus voir leur contenu ni les suivre.<br />
+Nous encourageons nos utilisateur-ice-s à utiliser la <em>fonction de rapport</em> (“Report”) pour nous faire part du contenu et/ou des comptes allant à l’encontre de nos règles. D'ailleurs si celles-ci ne vous conviennent pas, ne râlez pas, trouvez simplement un autre serveur.<br />
+Nous essayons aussi de mettre en avant l’aspect <em>activiste</em> de notre démarche. Si vous êtes un-e commercial-e, communiquant-e, travaillant dans le #digital, chez Orange ou la #FrenchTech sachez que vous n’êtes pas le/la bienvenu-e. Pendant que nous y sommes si <em>l’écriture inclusive</em> vous dérange sachez que vous n'êtes qu'à un clic de souris de la sortie.<br />
+Notre réseau social, et son réseau entier selon nous, est dédié à la réappropriation des moyens de communication et à la création de <em>communautés meilleures</em> pour le collectif. Les catégories de personnes citées dans le paragraphe précédent n'oeuvrant pas du tout (allant même dans le sens contraire) à la réalisation de ces objectifs, elles sont logiquement pas les bienvenues. Merci de rapporter leur présence si vous les croisez sur notre serveur.</p>
+<p>Ces règles ont été inspirées par celles écrites par <a href="https://social.wxcafe.net/@wxcafe">wxcafe</a>, merci à lui. 🤘Retrouvez la liste des comptes bloqués <a href="https://gogs.unixcorn.org/unixcorn-project/public-documentation/wiki/comptes-bloques-mastodon">ici</a>.</p>
+<h3>Financement</h3>
+<p>Afin de nous aider à financer les <em>frais de serveurs</em> et encourager les administrateurs à persévérer dans leur travail nous vous remercions d'effectuer vos <em>donations</em> aux adresses Bitcoin et/ou Ethereum suivantes ainsi que sur notre compte Liberapay :</p>
+<p><center><script src="https://liberapay.com/unixcorn/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/unixcorn/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br /><br />
+<code>BTC: 1EAG5MdNzFkyt6QuGB6iTf6WAed57yncUB</code><br /><code>ETH: 0x0CAc02E79E7ae74F079e98276636462D425a5E45</code></center></p>
+<hr />
+<h3>Supportrices et supporters</h3>
+<hl><li>@mintspider</li>
+<li>@mathias</li>
+<li>@xs@mastodon.social</li></hl>
+<p>Si vous ne vous trouvez pas sur cette liste mentionnez <em>@unixcorn</em>, nous vous ajouterons promptement. Merci à tou-te-s ! 🙌</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/009/original/9769bffa0c8e776b.png?1491384523" alt="9769bffa0c8e776b" /></div>
+<div class='name'>
+<a href="https://unixcorn.xyz/@unixcorn"><span class='display_name emojify'>Unixcorn Project</span>
+<span class='username'>@unixcorn</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>root@unixcorn.org</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>oldbytes.space
+ - OldBytes Space - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cC5zajB1HPamYoSMlrcM3G2FiS0em1fCpDj+safTYVN08SejKY2z6TSjJX3zOwrok3LqyBl4F8DHbQpHFfkF4A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>oldbytes.space</h2>
+<p>Full of old bytes.<br>
+Please don't demagnetize the core memory, thanks.<br>
+Do you like old hardware ? Do you use them ?<br>
+Perfect you're welcome here !<br/>
+Please remember that Mastodon can still have bugs !<br/>
+Don't forget to read the <a href="https://oldbytes.space/about/more">rules</a>.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>7</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,566</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>429</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>Jump: <a href="#l-welcome">Welcome !</a> - <a href="#l-rules">Rules</a> - <a href="#l-specs">Specs</a> - <a href="#l-terms">Terms</a></h3><br/>
+<br/>
+
+<h3 id="l-welcome">Welcome !</h3>
+This is an open Mastodon instance, basically.<br/>
+It's run by the person you see on the right (that's me!) and for now, that's all.<br/>
+There might be more admins and moderators later if the needs come but alas not yet. 
+<br/><br/>
+
+I hope this instance works okay for you, and that you can find a nice and welcoming community here! Feel free to hit me up if you have any questions or requests, be it about this instance, how to make your own instance, or other things not related to Mastodon. 
+<br />
+<br/>
+I am actually the only sysadmin of this instance and I can't work full-time on oldbytes.space so, I will do whatever I can in a reasonable time to make it works the best it can.
+<br/><br/>
+
+<h3 id="l-rules">Rules</h3>
+This instance has some rules, of course.
+<br/>
+First, there are the usual : no sexism, no racism, no hate speech, no LGBTQphobia, no nazis, no spam, no public unflagged porn, etc... <br/>
+Then, I also believe it's important to remind you that this server was made and is run by a queer activist.<br/>
+This server thrives to be inclusive, and I will ban without much regret.
+<br/>
+People are encouraged to use the report function as they see fit, and can be confident that their complaints will be heard and dealt with in some way. I want everyone to feel safe here, and if that doesn't sound like something you like, you should probably find another server. <br/><br/>
+
+There's also a pretty important activism aspect of this instance. <br/>
+If you're a marketer, a #digital #influencer, or an Orange Website techbro, this is not the place for you. Not only do I feel you should not feel welcome, I intend to make you feel definitely NOT welcome.<br/>
+This instance, and this entire social network in my opinion, is dedicated to reclaiming social media, decentralizing, and generally creating better and more engaging communities. <br/>
+The three categories of people I mentioned earlier are not, in my opinion, working towards this goal, pretty much the opposite, and they are not welcome on this server.<br/>
+Please report them if you see them.<br/>
+We also block Nazis, techbros and RMS.<br /><br/><br/>
+
+<h3 id="l-specs">Specs</h3>
+Currently running on <a href="https://www.scaleway.com/" target="_blank">Scaleway</a> hardware.<br />
+One VC1S with Nginx, Mastodon WEB, Mastodon Sidekiq and Minio as a S3 assets manager endpoint.<br/>
+One VC1S with PostgreSQL, latest version from PostgreSQL APT repository and Redis.<br/>
+You can look at the Grafana (Telegraf) graphs metrics <a href="http://grafana.admin.sigpipe.me/dashboard/db/network-and-system" target="_blank">HERE</a>.<br />
+Backups are taken one time per day using Borg for whole Mastodon checkout, assets (may change in future), postgresql and redis. Plus one backup every three hours for PostgreSQL & Redis.<br />
+They are stored in a separate server on a Dedibox.<br/>
+<br/><br/>
+
+<h3 id="l-terms">Terms</h3>
+The server is hosted in France<br/>
+The only logs created are the ones from: nginx, mastodon (nodejs, puma web server, sidekiq) and minio (assets).<br />
+There is no retention currently in place except the by-default on Debian.<br /></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://assets.oldbytes.space/assets.oldbytes.space/accounts/avatars/000/000/001/original/e6a693400bdf89a2.jpg" alt="E6a693400bdf89a2" /></div>
+<div class='name'>
+<a href="https://oldbytes.space/@dashie"><span class='display_name emojify'>CyberLoutre</span>
+<span class='username'>@dashie</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>dashie@sigpipe.me</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

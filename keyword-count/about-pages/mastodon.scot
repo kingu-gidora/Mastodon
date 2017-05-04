@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.scot
+ - mastodon.scot</title>
+<link rel="stylesheet" media="all" href="/assets/application-da8a9725021b2b7711ce19a35c19e5d998e4e730d6ba2836678c1ed4ee77c0b1.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="TcphOEYsV0E0Nq1UMaqXYqDq8hcjBRPBXSz3JrJQIzP9kgiwuySf1QozIAUFqySa9LisBFonTWaBEuifSMmmVQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.scot</h2>
+<p>This is a Mastodon instance primarily intended for users in Scotland or who identify as Scottish.<br><br>
+Threatening, abusive, intolerant or illegal behaviour may lead to moderation and/or further measures.  The Content Warning flag should be used for NSFW content.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>16</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>30</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>57</strong>
+<span>other instances</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/7553306415c9e8c7.jpg?1492008065" alt="7553306415c9e8c7" /></div>
+<div class='name'>
+<a href="https://mastodon.scot/@rodti"><span class='display_name emojify'>rodti</span>
+<span class='username'>@rodti</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@mastodon.scot</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='https://capitalism.party/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>capitalism.party
+ - capitalism.party</title>
+<link rel="stylesheet" media="all" href="https://capitalism.party/assets/application-e4ec47667c736db2bc987af1081ad01f878a0a3f1e2ac2198b4ead9515664a45.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="TF8ZY0oPJbUH/RwArQYX+1rvwKZnkvuYnGeVe6S3RvDIOFvQeEt0iAOmm6xiKYKRkwv7Yey5eaVyXaIw6dBzxg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>capitalism.party</h2>
+<p>capitalism.party is a paid signup Mastodon instance funded directly by users purchasing accounts for just $5. An inexpensive alternative to free signup platforms, we impose direct economic cost on trolls who want to avoid blocks by creating many accounts. This instance will actively respond to any problematic users.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>15</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>115</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>383</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>We're still figuring things out over here.
+<br><br>
+We don't currently block any instances
+<br><br>
+In the mean time, check out <a href="https://medium.com/@lim_nick/mastodon-systemic-sustainability-afe172699cb2">ＭＹ ＴＨＩＮＫＰＩＥＣＥ</a> <br>-@sharktopus</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://d2fp13bx3d84v.cloudfront.net/accounts/avatars/000/000/001/original/27d787f1a4979122.png" alt="27d787f1a4979122" /></div>
+<div class='name'>
+<a href="https://capitalism.party/@sharktopus"><span class='display_name emojify'>SHARKTOPUS</span>
+<span class='username'>@sharktopus</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/about/instance_list">Instance List</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

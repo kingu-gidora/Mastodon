@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>pouet.it
+ - Pouet</title>
+<link rel="stylesheet" media="all" href="/assets/custom-0c5f746a5c9342bc9e8627d08e4c52e897950673711fcf3ca9c15fd3ca8a6e1b.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KZwiYHaRl9Ovqp/aEqlXVitAWbJPs2gp17sf9VxGbrnVofn6kXmEjLW6ZfzYjZSRACa/3XOLfm9Kl95zccu5Hg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>pouet.it</h2>
+<p><p>Instance anarchostalinienne et allié·e·s membre de la fédération OStatus (GNU social, Mastodon).</p>
+
+<p>Tout enfant abandonné sera détruit.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>182</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>6,242</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>757</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>Un spectre hante l’Internet</h1>
+
+<p>Ce réseau fait partie d’<a href="https://instances.mastodon.xyz/">une fédération de sites utilisant le logiciel Mastodon</a> et communicant entre eux. On y agit telle une communauté politique, ayant le souci du débat, de la solidarité, et de s’extraire des services centralisés capitalistes.</p>
+
+<h2>Plan quinquennal</h2>
+
+<p>On utilise l’orthographe inclusive, et c’est mieux si c'est avec un point médian (·).</p>
+
+<p>On apprécie aussi la correction typographique, mais on ne te le fera pas remarquer (la langue est un outil de domination).</p>
+
+<h2>Politburo</h2>
+
+<p>Ne seront pas toléré·e·s&nbsp:</p>
+
+<ul>
+<li>Les menaces</li>
+<li>Le harcèlement</li>
+<li>Le sexisme</li>
+<li>Le racisme</li>
+</ul>
+
+<h2>Commissariat du peuple aux Finances</h2>
+
+<p>Ce serveur me coûte 4,83&nbsp;€ par mois. Aidez-moi à soutenir la dépense pour garder un fonctionnement optimal.</p>
+
+<p>Serveur&nbsp;:</p>
+<ul>
+<li><a href="https://www.scaleway.com/pricing/">Scaleway BareMetal C1</a></li>
+<li>3,62&nbsp;€ par mois TVAC</li>
+</ul>
+
+<p>Nom de domaine&nbsp;:</p>
+<ul>
+<li><a href="https://www.gandi.net/">Gandi</a></li>
+<li>14,52&nbsp;€ par an TVAC</li>
+</ul>
+
+<p>Coût&nbsp;:</p>
+<ul>
+<li>Annuel&nbsp;: 57,96&nbsp;€</li>
+<li>Mensuel&nbsp;: 4,83&nbsp;€</li>
+</ul>
+
+<p>Moyens de financement :</p>
+<ul>
+<li>Bitcoin&nbsp;: 1DVwpm1xyzLCnWCoBLKuUEp5Wp5s6B8Y4P</li>
+<li><a href="https://liberapay.com/postblue/donate">Liberapay</a></li>
+</ul></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/36eca31c88ab42d1.jpg?1491326903" alt="36eca31c88ab42d1" /></div>
+<div class='name'>
+<a href="https://pouet.it/@gllmhyt"><span class='display_name emojify'>Guillaume</span>
+<span class='username'>@gllmhyt</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

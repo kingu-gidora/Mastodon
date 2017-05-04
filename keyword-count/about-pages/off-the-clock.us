@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>off-the-clock.us
+ - Off The Clock</title>
+<link rel="stylesheet" media="all" href="/assets/application-b3fd1287c205c024ba4333beb0e14a7f62441239106b77157bcd9aaaf302b791.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RH+yCnMalMOGZCHobJS3hklt3jKGT1kgJooc73FIHPKQ23gbAnpHgrnqeJwD3TUjrL+nmCYVoBgMZP0wf3sRag==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>off-the-clock.us</h2>
+<p><p>Just your run of the mill Mastodon server. We use mail-gun for email notifications, check your spam folder and mark us as "not spam" please.</p>
+<p>Status: <a href="http://status.off-the-clock.us/">http://status.off-the-clock.us/</a></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>123</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>453</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>281</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>This server is operated by <a href="https://ngerakines.me/">Nick Gerakines</a>, please contact him <a href="https://off-the-clock.us/@ngerakines">@ngerakines@off-the-clock.us</a> for questions or issues.</p>
+
+<h2>Rules and Guidelines</h2>
+<ol>
+<li>Don't be a jerk -- this goes both ways. Everyone has bad days, so if you are having a bad day then try not to take it out on anyone. If you see someone else having a bad day, try to uplift them.</li>
+<li>This server is meant for personal, non-commercial use. Promoting your services, projects, and products is OK, but don't be excessive. Corporate accounts, organizations, and businesses don't jell with being "off the clock", and probably don't belong here.</li>
+<li>Some content doesn't belong here. I'm generally pretty OK with NSFW content, but please know your audience and use content warnings. Any content that is considered illegal, graphic, or promotes/is hate speech will not be tolerated.
+ This really boils down to rule #1, don't be a jerk.</li>
+<li>This server should not be used to transmit sensitive information or secrets. Please do not jeopardize the network, the other accounts on this server, or the operator by having information on here that other people would be interested in.</li>
+</ol>
+<p>If you object to or have a problem with these rules, then you probably don't belong here. They are pretty tame and flexible.</p>
+
+<h2>Blocked Servers</h2>
+<p>The full list of blocked servers can be found here: <a href="https://github.com/off-the-clock/blocked-servers">https://github.com/off-the-clock/blocked-servers</a></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a7a00ba568166c1f.jpg?1491433319" alt="A7a00ba568166c1f" /></div>
+<div class='name'>
+<a href="https://off-the-clock.us/@ngerakines"><span class='display_name emojify'>Nick Gerakines</span>
+<span class='username'>@ngerakines</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>nick@gerakines.net</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.0</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

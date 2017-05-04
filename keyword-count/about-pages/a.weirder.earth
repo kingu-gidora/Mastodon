@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>a.weirder.earth
+ - a weirder earth</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EAk9uv48Yll8447BWxyeas8uiy5BAToHYVjz6054hEK2Ha82OCzAgt1eDMlRYJ4rFtT/vxMLIDTd9yGVwIx4gw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>a.weirder.earth</h2>
+<p><p>Hi and welcome to <code>a weirder earth</code>! This is a mastodon instance, which means that if you create an account here you can use it to interact with mastodon users across all other instances. Think of it as a low-key distributed twitter.</p>
+
+<p><code>a weirder earth</code> itself is meant to be a community that skews thoughtful and weird. Everyone who abides by the code of conduct is welcome, thoughtful weirdos most of all! :)</p>
+
+<p>If you run into trouble registering, ping @mykola here or on twitter for help.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>170</strong>
+<span>weirdos</span>
+</div>
+<div class='section'>
+<span>Who logged</span>
+<strong>4,817</strong>
+<span>eccentricities</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>662</strong>
+<span>other earths</span>
+</div>
+</div>
+<div class='panel'><p>Welcome! Please feel free to join us here, but if you do know that we ask everyone to keep a few things in mind. The following list is not exhaustive, and will be modified and expanded over time. Look, if you get it and you you're good with it, great. If you don't get it, figure it out - we can help! If you don't want to get it, maybe find somewhere else to hang your hat.</p>
+
+<ul>
+<li>Own Your Weird - This is a space to celebrate our diversity. Be true to yourself and let others do the same.</li>
+<li>Share Your Weird - Talk about the weird shit you're into! Talk to other people about the weird shit they're into! Make weird shit together! Post your art! Bots welcome!</li>
+<li>Cultivate the Weird - Harassment will not be tolerated, oppressive behavior will not be tolerated, and while failure to recognize the boundaries of others may be met at first with a gentle attempt to educate you, repeated failure will not be tolerated.</li>
+<li>Keep A Weirder Earth Weird! - no brands, no marketing, no data-miners. You're here to use it for its social function, not to exploit it for some other purpose.</li>
+<li>Banal Bullshit Unwelcome - there's nothing interesting about homophobia, transphobia, racism, sexism or any of the other unexamined default settings some people grow up with. Being a nazi isn't weird, it's shitty and aggressively boring - take it somewhere else. You can feel free to disagree somewhere else where none of us have to hear you. Enforced strictly.</p>
+</ul>
+
+<p>Future updates to these rules will clarify what that means as necessary.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

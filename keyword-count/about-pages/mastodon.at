@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.at
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EFkg0s4pV4sPHdI/mISFSAM6niN3ULDgZRUQt2eHzJL3xZB/SVwbZ7F94o/RuqxKCdF5yKjHDbGHw1ILxMxQuQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.at</h2>
+<p><p>mastodon.at is <em>open to all users</em> and federates with most instances.</p>
+<p lang="de">🇩🇪 🇦🇹 🇨🇭 mastodon.at ist <em>offen für alle User</em> und ist mit vielen anderen Instanzen verbunden.</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,816</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>54,301</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>941</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p><em>Welcome to mastodon.at!</em> This instance is open to all users and federates with all other instances with the exception of those with community values that are overwhelmingly incompatible with our Terms of Service below.</p>
+
+<p>Please read the section <em><a href="#responsibility-of-contributors">Responsibility of Contributors</a></em> below and report any content that you feel might be inappropriate.</p>
+
+<p><em>Follow <a href="https://mastodon.at/@support">@Support</a> for important updates!</em></p>
+
+<hr>
+<br>
+<p lang="de"><em>🇩🇪 🇦🇹 🇨🇭 Willkommen auf mastodon.at!</em> Diese Instanz ist offen für alle User und ist mit allen anderen Instanzen verbunden, mit der Ausnahme jener, deren Werte mit unseren Nutzungsbedingungen (siehe unten) überwiegend inkompatibel sind.</p>
+
+<p lang="de">🇩🇪 🇦🇹 🇨🇭 Bitte lies den Punkt <em><a href="#responsibility-of-contributors">Responsibility of Contributors</a></em> unten genau durch und melde Inhalte, die du für unangebracht hältst.</p>
+
+<p lang="de"><em>Folge <a href="https://mastodon.at/@support">@Support</a> für wichtige Updates!</em></p>
+
+<hr>
+<br>
+<h2>Terms of Service:</h2>
+<p>The following terms and conditions govern all use of the mastodon.at website and all content, services, and products available at or through the website. Our Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, the Privacy Policy) and procedures that may be published from time to time by mastodon.at (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and these terms will apply to any upgrades.</p>
+<p>Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our services, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access or use any of our services. If these terms and conditions are considered an offer by mastodon.at, acceptance is expressly limited to these terms.</p>
+<p>Use of our Services requires a mastodon.at account. You will be solely responsible and liable for any activity that occurs under your username. You are responsible for keeping your password secure.</p>
+<h3>1. Your mastodon.at Account</h3>
+<p>If you create an account on mastodon.at, you are responsible for maintaining the security of your account and blog, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with your account. You must immediately notify mastodon.at of any unauthorized uses of your account or any other breaches of security. mastodon.at will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.</p>
+<h3 id="responsibility-of-contributors">2. Responsibility of Contributors</h3>
+<p>If you post material to mastodon.at, post links on mastodon.at, or otherwise make (or allow any third party to make) material available (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content or your conduct. That is the case regardless of what form the Content takes, which includes, but is not limited to text, photo, video, audio, or code. By using mastodon.at, you represent and warrant that your Content and conduct do not violate the following terms:</p>
+<ol>
+  <li>
+    The following types of content will be removed from the public timeline:
+    <ol type="a">
+      <li>Excessive advertising</li>
+      <li>Uncurated news bots posting from third-party news sources</li>
+      <li>Untagged pornography and sexually explicit content</li>
+      <li>Untagged gore and extremely graphic violence</li>
+    </ol>
+  </li>
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+    </ol>
+  </li>
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Sexual depictions of children</li>
+      <li>Content illegal in Austria and/or France, such as holocaust denial or Nazi symbolism</li>
+      <li>Conduct promoting the ideology of National Socialism</li>
+    </ol>
+  </li>
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+</ol>
+
+<p>If you delete Content, mastodon.at will use reasonable efforts to remove it from mastodon.at, but you acknowledge that caching or references to the Content may not be made immediately unavailable. Without limiting any of those representations or warranties, mastodon.at has the right (though not the obligation) to, in mastodon.at’s sole discretion, (i) reclaim your username or website’s URL due to prolonged inactivity, (ii) refuse or remove any content that, in mastodon.at’s reasonable opinion, violates any mastodon.at policy or is in any way harmful or objectionable, or (iii) terminate or deny access to and use of mastodon.at to any individual or entity for any reason.</p>
+<h3>3. Responsibility of Visitors.</h3>
+<p>mastodon.at has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material’s content, use or effects. By operating our Services, mastodon.at does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Our Services may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. Our Services may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. mastodon.at disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted. You’re encouraged to report any content that you feel is inappropriate or in violation of these terms.</p>
+<h3>4. Content Posted on Other Websites.</h3>
+<p>We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which mastodon.at links, and that link to mastodon.at. mastodon.at does not have any control over those non-mastodon.at websites, and is not responsible for their contents or their use. By linking to a non-mastodon.at website, mastodon.at does not represent or imply that it endorses such website. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. mastodon.at disclaims any responsibility for any harm resulting from your use of non-mastodon.at websites and webpages.</p>
+<h3>5. Changes.</h3>
+<p>We are constantly updating our Services, and that means sometimes we have to change the legal terms under which our Services are offered. If we make changes that are material, we will let you know by posting on one of our admin accounts, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.</p>
+<h3>6. Termination.</h3>
+<p>mastodon.at may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your mastodon.at account (if you have one), you may simply discontinue using our Services. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p> 
+<h3>7. Disclaimer of Warranties.</h3>
+<p>Our Services are provided “as is.” mastodon.at and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither mastodon.at nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.</p>
+<h3>8. Limitation of Liability.</h3>
+<p>In no event will mastodon.at, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to mastodon.at under this agreement during the twelve (12) month period prior to the cause of action. mastodon.at shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.</p>
+<h3>9. General Representation and Warranty.</h3>
+<p>You represent and warrant that (i) your use of our Services will be in strict accordance with the mastodon.at Privacy Policy, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Austria or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.</p>
+
+<p>Adapted from WordPress.com Terms of Service and the <a href="https://mastodon.social/about/more">mastodon.social content guidelines</a>. WordPress.com Terms of Service available under the Creative Commons Sharealike license.</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/7707baa0063a5a13.png?1491761966" alt="7707baa0063a5a13" /></div>
+<div class='name'>
+<a href="https://mastodon.at/@pfigel"><span class='display_name emojify'>Patrick Figel 🐣</span>
+<span class='username'>@pfigel</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>patrick@figel.email</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

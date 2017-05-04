@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdon.kazuki.xyz - Mastodon on Kazuki</title>
+<link rel="stylesheet" media="all" href="/assets/application-f079ff4125d6fd89b52a4499abd4292121f91fec616f39dd14990e31ba67ff04.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CCuyYx2ZFxx5ID1TAmeg6bbEV91zDk/F8FHANfCl//Mk5reCjuVB4wEai6SGnNW0Jw02/lrtZiauN+P7q56b+Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdon.kazuki.xyz</h2>
+<p><p><i class="fa fa-server fa-fw" aria-hidden="true"></i> とりあえず、何でもありの自由な <em>Fukuoka / JP</em> にあるオタク向けなMastodonインスタンスです。</p>
+<p> 只今、特に明確にはどこちほーとか定めていません。
+<br />
+<div class='information-board'>
+<div class='section'>
+<span>Region</span>
+<strong>Fukuoka</strong>
+<span>West / JP</span>
+</div>
+<div class='section'>
+<span>vCPU</span>
+<strong>4</strong>
+<span>Core</span>
+</div>
+<div class='section'>
+<span>RAM</span>
+<strong>1-4</strong>
+<span>GB*動的</span>
+</div>
+<div class='section'>
+<span>SSD</span>
+<strong>30</strong>
+<span>GB</span>
+</div>
+</div>
+<br /><br />
+<hr style="border: 0.5px solid #696969;">
+<h2><i class="fa fa-exclamation-circle" aria-hidden="true"></i>  留意事項</h2>
+<p><i class="fa fa-envelope-o " aria-hidden="true"></i> Mailgunでの動作が上手く行かないので、<em>認証メールは"winding<i class="fa fa-at" aria-hidden="true"></i>gadget-infinity.com"から送られてきます。</em> </p>
+<p><i class="fa fa-hdd-o" aria-hidden="true"></i> 他のサービスも同様に運用しているため、天災ややむを得ない事情がない限り、稼働を頑張っていきます。 *メンテ等保守時間除く</p>
+<p><i class="fa fa-gavel" aria-hidden="true"></i> 国内運用のため、<em>日本の法律が適応されます。</em> 基本的にその手の対応をしたくないので反しない程度にお使い下さい。スパム・複製・なりすまし・過度な負荷等とかける自動プログラム等への対応は下記連絡先へ</p>
+<hr style="border: 0.5px solid #696969;">
+<h2><i class="fa fa-address-book" aria-hidden="true"></i> Contact</h2>
+<p><i class="fa fa-user-circle-o" aria-hidden="true"></i> Winding,Kazuki<br>
+<img src="https://mstdon.kazuki.xyz/assets/logo-5701d8d94bca66668f49a2803c984e960dfe0bf93a71f2d86be9455e66505cee.png" alt="" width="3%" height="3%"> Mastodon :  <a href="https://mstdon.kazuki.xyz/@Winding">Winding@mstdon.kazuki.xyz</a> ・ <a href="https://mstdn.jp/@Winding">Winding@mstdn.jp</a><br />
+<i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter : <a href="https://twitter.com/T_Winding" target="_blank">@T_Winding</a></p>
+<h3><i class="fa fa-archive" aria-hidden="true"></i> 支援 </h3>
+<p><i class="fa fa-amazon" aria-hidden="true"></i> <em><a href="http://www.amazon.co.jp/registry/wishlist/3ENG3ABJ9XSIM/ref=cm_sw_r_tw_ws_x_FJA8yb4SGXD2Q" target="_blank">Amazon 欲しいものリスト</a></em></p>ここの中にあるDDR4のメモリーを買っていただけると鯖をスペックアップすることが出来ます。<br />
+<br /><br />
+<!-- <center><em><h3><i class="fa fa-exclamation-circle" aria-hidden="true"></i> 一個人の学生が運用するインスタンスです。<i class="fa fa-exclamation-circle" aria-hidden="true"></i></h3></em>--><center>
+<br>
+<hr style="border: 0.5px solid #696969;">
+<center><p>2017 Kazuki.xyz, System∞Infinite. Instance Management.<br>Winding Administration.</p></center>
+<hr style="border: 0.5px solid #696969;"></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>13</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>641</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>222</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>ここはWinding自宅横にある、ThanatosSystemの貧弱旧サーバーのHyper-Vで運用されています。<br>
+<img src="//kazuki.xyz/image/out2_.jpg" width="500">
+
+<br><h3><i class="fa fa-clock-o" aria-hidden="true"></i> スケジュール</h3>
+<div class='information-board'>
+<div class='section'>
+<span>更新適用</span>
+<strong>2~3時</strong>
+<span>適用時リブート１分<br />不定期</span>
+</div>
+<div class='section'>
+<span>定期メンテ</span>
+<strong>0~4時</strong>
+<span>停止数分<br />金曜週末</span>
+</div>
+<div class='section'>
+<span>バックアップ</span>
+<strong>0時</strong>
+<span>毎週or毎日</span>
+</div>
+
+</div><br>
+<p>鯖リスト等他への記事掲載とはご自由に構いません。本稼働中...</p>
+<style type="text/css">
+.scr {
+  overflow: scroll;   /* スクロール表示 */ 
+  height: 100px;
+}
+.data{
+font-weight: bold;
+}
+.txt{
+}
+</style>
+<div class="scr">
+<dt class="data">4/25</dt>
+<dd class="txt">問題箇所の修正と調整、masterpull他</dd><dt class="data">4/23</dt>
+<dd class="txt">システムがダウンしていました。申し訳ありません。現在原因調査中</dd>
+<dt class="data">4/20</dt>
+<dd class="txt">本格稼働開始。</dd>
+<dd class="txt">v1.2.2更新</dd>
+<dt class="data">4/18</dt>
+<dd class="txt">システムメンテナンス v1.2更新</dd>
+<dt class="data">4/15</dt>
+<dd class="txt">一般公開、ユーザー登録開始</dd>
+<dt class="data">4/14</dt>
+<dd class="txt">立ち上げ。</dd>
+
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/da2d337871a309f9.png?1492197407" alt="Da2d337871a309f9" /></div>
+<div class='name'>
+<a href="https://mstdon.kazuki.xyz/@Winding"><span class='display_name emojify'>たっくん@Winding 🖕</span>
+<span class='username'>@Winding</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>Winding@gadget-infinity.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

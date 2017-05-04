@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mamout.xyz
+ - Yet Another Mastodon Instance</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Xe9Mp5CBM7EuKFpWfwH8I1za31e+dzBII5dOGs7sACsg6Ela9HLTQ5F12+ren++li8s3osD6xkREIvyY/IezCw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mamout.xyz</h2>
+<p>Bienvenue dans ce réseau social fédéré. Les inscriptions sont ouvertes et libres.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>83</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>493</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>470</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>Ce serveur héberge une instance de Mastodon, réseau social de micro-blogging libre et décentralisé. Vous pouvez vous inscrire ici pour partager avec les autres membres, ainsi que les membres des autres instances, automatiquement. Bienvenue !
+<BR><BR>
+
+
+<h3>Les régles de cette instance</h3>
+
+
+Sont interdits sur cette instance, tout contenue contrevant à la loi française : raciste, sexiste, homophobe, apologie du terrorisme, incitation à la haine raciale ou au suicide, pornographie enfantine, etc...
+
+Certains utilisateurs étant mineurs la pornographie est aussi prohibée. 
+
+
+Vous avez la possibilité de signaler des comptes ne respectant pas ces règles.
+
+Nous nous réservons le droit de bloquer tout utilisateur ne respectant pas ces règles de base.
+<BR><BR>
+<h3>Coté technique</h3>
+
+Cette instance est hébergée sur une serveur dédié au Canada par la société <a href="http://www.ovh.com" target=_blank>OVH</a>.
+<BR><BR>
+Les spécificités de ce serveur : 
+<BR><BR>
+- CPU : <strong>8</strong> x86 64bit Cores<BR>
+- RAM : <strong>8 GB</strong><BR>
+- DISK : <strong>1 TB</strong><BR>
+- Bandwidth : <strong>1 Gbit/s</strong>
+<BR><BR><BR>
+<a href="https://status.mamout.xyz/" target=_blank>Status du service</a></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://mamoutxyz.s3.eu-central-1.amazonaws.com/accounts/avatars/000/000/001/original/1bce41b12af27421.png" alt="1bce41b12af27421" /></div>
+<div class='name'>
+<a href="https://mamout.xyz/@JMousqueton"><span class='display_name emojify'>Julien Mousqueton</span>
+<span class='username'>@JMousqueton</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>admin@mamout.xyz</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

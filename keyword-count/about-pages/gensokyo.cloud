@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>gensokyo.cloud
+ - gensokyo.cloud</title>
+<link rel="stylesheet" media="all" href="/assets/custom-0e4c4c92367b43909c2c653f723b79ea59b6505d6bfd9476b5c3bc113119cf92.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6Ke0WCEziHIR+dlJtEIKPJ79NzrTAR4CEhmS0T91IH7CbcCpU2nL6tgOkgxyvINGGBiovm/w8MVRJ7KgQ/ITMQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>gensokyo.cloud</h2>
+<p><div style=""></div>
+<p>東方の話題でも、そうでない話題でも、幻想郷はすべてを受け入れます。
+<br>
+<a href="/about/more#rule" style="font-weight: bold">ルール</a>もご確認ください。
+</p>
+<p>
+<em>登録時にHotmailを使用すると高確率で確認メールが届きません！他のメールアドレスを使用してください。</em>
+</p>
+
+<h3>お問い合わせ</h3> <p> Twitterの<a href="https://twitter.com/palon_m">@palon_m</a>、もしくはpalon@palon.orgまでお願いします。 </p> 
+
+<h3>謝辞</h3>
+<p>
+トップページのイラストを<a href="/@kotobacchi">@kotobacchi</a>さんに描いていただきました、ありがとうございます！
+</p>
+<p>
+<em>古都こと様</em> ,<em>gaura様</em>, <em>Umisawa Kaimen様</em>,
+ <em>AS様</em>, <a href="/about/more#thanks">その他の支援者の方々</a>のおかげでインスタンスを維持できております。ありがとうございます！
+</p>
+
+<h3>寄付</h3> 
+<p>
+サーバ代は自腹なので、ご支援いただけるととても励みになります。
+</p>
+<ul>
+<li><a href="https://enty.jp/gensokyo-net">Enty</a></li>
+<li><a href="http://amzn.asia/2TB41OB">Amazonの欲しいものリスト</a></li>
+<li><a href="https://www.conoha.jp/conohacard/">Conohaカード（コードを送っていただけると直接サーバ代になります）</a></li>
+<li style="word-wrap: break-word;">Bitcoin:19kmvCidkTcghotY8ks7nSo1URDTZAFEA8</li>
+</ul></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>1,160</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>235,454</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>418</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3 id="rule">ルール</h3>
+<ul>
+<li>東方に関連するトゥートもそうでないトゥートもOKです。必ずしも東方の話をする必要はありません。</li>
+<li>アダルト要素のあるイラストには必ずNSFWタグをつけてください。（画像アップロード後にNSFWボタンを押してください）</li>
+<li>著作権を侵害するコンテンツは、著作者の申し立てに応じて削除いたします。</li>
+<li>裁判所や検察等から法令上の手続に基づき開示を要請された場合、当サーバに記録されているユーザのIPアドレス・投稿されたコンテンツなどを開示することがあります。</li>
+<li><em>みんな仲良く。</em></li>
+</ul>
+
+<h3>禁止行為</h3>
+<p>
+以下に挙げる行為を行った場合、タイムラインでのミュート、もしくはアカウントの停止処分となることがあります。
+</p>
+<ul> 
+<li>日本国内の法律に違法するコンテンツを投稿すること</li> 
+<li>ツールなどを使用して過度にサーバへ負荷をかけること</li> 
+<li>特定の人物に対しての嫌がらせ、誹謗中傷</li>
+<li>他のユーザの迷惑になるような過度なスパム行為</li>
+</ul>
+
+
+<h3 id="thanks">謝辞</h3>
+<p>
+トップページのイラストを<a href="/@kotobacchi">@kotobacchi</a>さんに描いていただきました、ありがとうございます！
+</p>
+<p>
+以下の方々のおかげでサーバを維持できています。ありがとうございます！（Entyに名前を設定していただけるとこちらに掲載いたします。できればその際<a href="/@palon">@palon</a>にご一報いただけるとありがたいです...!）<br>
+</p>
+<div style="font: 16px/28px 'Montserrat', sans-serif; padding: 10px; margin-left:10px; margin-bottom:15px; border: solid 1px #9baec8">
+<em>古都こと様</em>, <em>gaura様</em>,<em>Umisawa Kaimen様</em>, <em>AS様</em>, チロリアン様, けるびん様, さくさん様, こんこン様, はちのいち様, ベク様, はてにゃん様, 京都文々。新聞社様, saka様, 塩八様, ゆたろう様, いちじょ様, タクミ☆様, マビキノ様, クロダオサフネ様, があプス様, しゅまり様, Yミック レリーマ様, みどり様, ホプレス様, かるめ様, 東風谷アオイ様, その他ゲストとして支援していただいた方
+</div></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://media.gensokyo.cloud/mastodon/accounts/avatars/000/000/011/original/e8b6d5cc54d08b0b.png?1492484271" alt="E8b6d5cc54d08b0b" /></div>
+<div class='name'>
+<a href="https://gensokyo.cloud/@admin"><span class='display_name emojify'>Palon@admin</span>
+<span class='username'>@admin</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/palon7/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

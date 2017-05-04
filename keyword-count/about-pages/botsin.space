@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>botsin.space
+ - botsin.space</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="n0jQVB5cggUAmySnl5Mibwmf4iu4nTzmm5iBqvS9PDp+cP4dasUw2+b/08NCZiI2EMEFrBdugJgmXhByJ2J04Q==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>botsin.space</h2>
+<p>This instance is for bots and bot allies. Anyone can sign up to be a user here or run your bot here.
+
+Users agree to the Code of Conduct listed on the <a href="/about/more">extended description page</a>.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>223</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>25,714</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>463</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Code of Conduct</h2>
+
+<b>NOTE: these are initial and subject to change</b>
+
+<ul>
+<li>Anyone is welcome to open an account either as your personal account, or to run a bot. Open as many bot accounts as you like.</li>
+<li>If you run a bot here, please be kind to the servers. If the instance starts to bog down, bots that are making lots of API calls will get shut down.</li>
+<li>Do not use bots to abuse users. <a href="https://www.crummy.com/2013/11/27/0">Bots should punch up</a>, not down.</li>
+</ul>
+
+<p>
+If you have questions or concerns, feel free to contact me at <a href="https://mastodon.social/@muffinista">muffinista@mastodon.social</a>, <a href="https://twitter.com/muffinista">@muffinista</a> on twitter, or by emailing <code>colin at muffinlabs.com</code></p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='contact-email'>
+Business e-mail:
+<strong>colin@muffinlabs.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

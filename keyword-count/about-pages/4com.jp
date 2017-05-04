@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>4com.jp
+ - 4com.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-9ec3da38a8f5a5a9cb4182215c40521c51c195c509515c417305601658bd73b2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AV6/SHS1uZ3cf4xx6+LQKVjA4P0YY4S3sqdY+vS4mOPKoDz9KcpjAYhiuL4kghfTZ8urKeynE6pCim2gSGsa6w==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>4com.jp</h2>
+<p>Mastodonのインスタンスを試しに立ててみたかったので立ててみました。
+なんかモノ作る人たちで集まれればなとゆるく考えてます。ROM専歓迎</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>373</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,527</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>69</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>Mastodonのインスタンスを試しに立ててみたかったので立ててみました。</p>
+<p>Mastodonって流行ってっけどなんぞや？ という方々、試しに使ってみてください。</p>
+<p>4comとか名前つけてますが４コママンガとかフツーのとか、アニメとか小説とか
+なんかモノ作る人たちで集まれればなとゆるく考えてます。ROM専歓迎！</p>
+==================================================<br>
+<h4><em>ルール</em></h4><br>
+<p>日本国の法律に抵触するような公序良俗に反する投稿はyametene。<br>
+とりあえず全年齢対象の方向でお願いします。エログロ自重の方向で。</p>
+<p>テスト的な面が強いので接続数によってはものっすごく重くなったり、最悪突然消えてなくなります。ご了承下さい。<br>一応死ぬ前には断末魔の声上げます。</p>
+<p style="color:#999;">To担当様、すいませんネームそろそろ上がります</p>
+<p>お問い合わせは， sysinfo.4com@gmail.com まで。</p>
+<p>・鯖代ホゲーってなるような事あったらとりま公式で叫びます。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/efdb5bf3f679d4a5.png?1492363593" alt="Efdb5bf3f679d4a5" /></div>
+<div class='name'>
+<a href="http://4com.jp/@sironeko"><span class='display_name emojify'>しろねこ（はらでぃん）</span>
+<span class='username'>@sironeko</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>sysinfo.4com@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

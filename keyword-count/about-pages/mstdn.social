@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn.social
+ - Mastodon Social</title>
+<link rel="stylesheet" media="all" href="/packs/vendor-1d56cfef3ef028eee8de.css" />
+<link rel="stylesheet" media="all" href="/packs/application-1d56cfef3ef028eee8de.css" />
+<script src="/packs/vendor-643c253cabfe9f05e1b9.js" crossorigin="anonymous"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NXcKgoVNU1QFSrtSLQwmRSznd1G5ZibtEAhYsbhZx/+y3jp5p6CqupfRQYn77hpPOnuw9/RAjz7H2y0gDs6Z4g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn.social</h2>
+<p>GNU Social的な（？）</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>744</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>19,483</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>716</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>東京あたりで動いている鯖です。 Japanese Server.
+<br>
+新規ユーザの募集やってます！ぜひご利用ください！
+<br>
+<br>
+国内法に触れる行為は行わないでください！<br></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="https://assets.mstdn.social/mastodon/accounts/avatars/000/000/001/original/463cfcd2ae516c16.jpg" alt="463cfcd2ae516c16" /></div>
+<div class='name'>
+<a href="https://mstdn.social/@suzutan"><span class='display_name emojify'>ちょこ🍫ころね🥐</span>
+<span class='username'>@suzutan</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>admin@mstdn.social</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

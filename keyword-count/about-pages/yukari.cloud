@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>yukari.cloud
+ - 結月ゆかりインスタンス yukari.cloud</title>
+<link rel="stylesheet" media="all" href="/assets/application-4da7ce95ee106323735a9b05cb7a6ef64f471520769d32d10e6895772ddb6417.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="YQnao5zqR/5GTLuEm4pitKKJQsglNb3PqIJh13SvAH7ogqgkiLG3yzPSW+/Wl7gzs5d25DTn6LSJ8T2qlGXf6A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>yukari.cloud</h2>
+<p><i class="fa fa-users fa-fw" aria-hidden="true"></i> 結月ゆかりさんの動画・歌・絵などを制作している方、視聴する方、好きな方が集うMastodon（マストドン）<em>結月ゆかりインスタンス</em>です。<br />
+インスタンスでの話題は、結月ゆかり関連だけでなくても構いません。どんどんトゥートしてOK！<br />
+<i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> since 2017/04/18</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>158</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>2,037</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>322</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3><i class="fa fa-handshake-o fa-fw" aria-hidden="true"></i> ご利用規約</h3>
+<p><i class="fa fa-check-square-o"></i> ご利用に際して関連するすべての法律・法令などを遵守されるものとします。<br />
+<i class="fa fa-picture-o"></i> R-18 コンテンツは、テキストには<em>「Content Warning（内容に注意）」</em>タグを、画像には<em>「NSFW（仕事中閲覧注意）」</em>タグを付けてください。<br />
+<i class="fa fa-hand-stop-o"></i> 権利やライセンス等を侵害すること、実在の人物・団体などになりすます行為、サーバに極端な負荷をかける行為や妨害する行為は、固くお断りします。<br />
+<i class="fa fa-legal"></i> 画像、音声、ロゴ・標章などの著作権及びその他の権利は各権利者に帰属します。</p>
+<hr style="border: 1px solid #a6a6a6"><br />
+
+<h3><i class="fa fa-exclamation-triangle fa-fw" aria-hidden="true"></i> 免責事項</h3>
+<p><i class="fa fa-user-times"></i> 本インスタンスの情報によるいかなる損失や損害、賠償要求に対しても、その責任を一切負わないものとします。</p>
+<hr style="border: 1px solid #a6a6a6"><br />
+
+<h3><i class="fa fa-server fa-fw" aria-hidden="true"></i> サーバについて</h3>
+<p><i class="fa fa-hdd-o fa-fw" aria-hidden="true"></i> さくらのVPS v4 (Ubuntu 16.04.2 LTS) 石狩第1ゾーン<br />
+<i class="fa fa-thumbs-up fa-fw" aria-hidden="true"></i> IPv6 Ready<br />
+<i class="fa fa-comments fa-fw" aria-hidden="true"></i> Mastodon 1.3.2 + nginx + PostgreSQL + Redis</p>
+<hr style="border: 1px solid #a6a6a6"><br />
+
+<p><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> last modified: 2017-04-30 11:46</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a715d4e8715a208c.png?1493401764" alt="A715d4e8715a208c" /></div>
+<div class='name'>
+<a href="https://yukari.cloud/@65"><span class='display_name emojify'>6号☁</span>
+<span class='username'>@65</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>65rokugou(at)gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>car-mastodon.link
+ - 車好き Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pqrEjrxbS2mj2eHHkIKSZEoCWKD/yRXbJJIUxGORxA7Ms/nos778xJ1sdPnjd8dkEDswHsCYZboyfV/P2Rnd3g==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>car-mastodon.link</h2>
+<p>車好きの為のマストドンです!<br>
+国産、輸入車、スポーツカー、セダン、SUV、ミニバン何でもOK<br>
+楽しく交流しましょう！<br>
+
+<h3>お問い合わせ</h3>
+<p><a href="https://car-mastodon.link/@John_Smith">@John_Smith</a><br>
+info<@>car-mastodon.link</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>84</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>398</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>17</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>日本の法律に則ったご利用をお願いします。</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/29490a7ba5c0c28a.png?1492744177" alt="29490a7ba5c0c28a" /></div>
+<div class='name'>
+<a href="https://car-mastodon.link/@John_Smith"><span class='display_name emojify'>John_Smith</span>
+<span class='username'>@John_Smith</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>info@car-mastodon.link</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

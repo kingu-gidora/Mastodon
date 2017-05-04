@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ekimemo.info
+ - Ekitodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-7778efeba393c4be03c535adea416b88dd35d15a7ad1a5341165b1602747c453.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jnBFxij3Xgs+c0nqiDmAe9FqkschHUJ7A5eCK8wAcQEthoOy9rE03I7KlCdWGDjsLlLJUBFeeqVDMX7i8/Xl9A==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ekimemo.info</h2>
+<p>※駅メモファン向けの非公式Mastdonインスタンスです。 お問い合わせは@mystia04まで。 <br> <br> 法律とマナーを守って楽しくTOOTH！
+<br>
+<br>
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ekitodon -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-6419108480239001"
+     data-ad-slot="9726337171"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</center></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>148</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>1,318</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>219</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><h1>Welcome to Ekitodon!<h1>
+<h2>What's this?</h2>
+<p>駅メモファンによる、駅メモファン向けの非公式Mastodonインスタンスです。</p>
+<p>特にローカルルール等は設けませんので、法律の範囲内でたのしくお使いください。</p>
+<br>
+<h2>Tutorial</h2>
+<p>「何から始めたらいいかわからない！」</p>
+<p>という方は、とりあえずローカルタイムラインへ。</p>
+<p>気になった方がいたらフォローしてみましょう。</p>
+<p>あとはTwitterみたいな要領でLet's TOOTH!</p>
+<br>
+<h2>Attention!</h2>
+<ul>
+<li>18禁になりそうなSS等の文章はCW、画像にはNSFWタグをしっかりと付けてください。</li>
+<li>駅メモの絵、スクリーンショット等の画像は二次創作ガイドラインに沿った利用をお願いします。</li>
+</ul>
+<br>
+<h2>Contact</h2>
+<p>御用の方は</p>
+<p><a href="https://ekimemo.info/@mystia04">当インスタンス：みそいぬ</a></p>
+<p><a href="https://mstdn.jp/@mystia04">JPインスタンス：みそいぬ</a></p>
+<p><a href="http://twitter.com/mystia04">Twitter：みそいぬ</a></p>
+<p>いずれかのアカウントへどうぞ</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/74b256133c3a63eb.jpg?1492185329" alt="74b256133c3a63eb" /></div>
+<div class='name'>
+<a href="https://ekimemo.info/@mystia04"><span class='display_name emojify'>みそいぬ</span>
+<span class='username'>@mystia04</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>misoinu3@gmail.com</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.2.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

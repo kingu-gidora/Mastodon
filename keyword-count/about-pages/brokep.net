@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>brokep.net
+ - Fake Twitter</title>
+<link rel="stylesheet" media="all" href="/assets/application-1fdfe76db8f5db4c97b57f2759813e20d6c269275030b3e0fdef1739283ab7a3.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0HGVxY/EHPJy4dKwNIMkHkPK1gaTUKvbjrqrA0qcPEQF17QX1YrohJE2LV1Wi9azjwoJ72ubfi5TVpjU6DKvJw==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>brokep.net</h2>
+<p>We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi-armed form and says, "Now I am become Death, the destroyer of worlds." I suppose we all thought that, one way or another
+
+-Robert Oppenheimer</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>35</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>135</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>582</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'>The present perfect is a grammatical combination of the present tense and the perfect aspect that is used to express a past event that has present consequences. The term is used particularly in the context of English grammar to refer to forms like "I have left".</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a5a01cb2a0cd83c7.PNG?1491887213" alt="A5a01cb2a0cd83c7" /></div>
+<div class='name'>
+<a href="https://brokep.net/@brokep"><span class='display_name emojify'>jamison </span>
+<span class='username'>@brokep</span>
+</a></div>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>masto.raildecake.fr
+ - Mastodon chez Rail de Cake</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KWO6UeFRrwiQdohU/pyds4FASZHnp7jAsTv+C8dnqj60FdCJZKKpy8xZUliBq5FTkt8C0T4MT/b/kfh0zVkGqA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>masto.raildecake.fr</h2>
+<p>Une instance publique de Mastodon, hébergé et administré avec amour sur notre machine perso chez <a href="https://tetaneutral.net">tetaneutral.net</a> dans le Sud de la France.</p>
+
+<p>We are mostly French but wherever you come from you're welcome here.</p>
+
+<p><em>Free et Laposte.net refuse toujours nos e-mails :-(.
+Je renvois les e-mails refusé quand j'en vois, soyez patient ou écrivez moi.</em></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>127</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,712</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>549</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h2>Informations pratiques</h2>
+<p>En cas de soucis, de questions, n'hésitez pas à écrire à <em>masto@raildecake.fr</em> ou à tooter <a href="https://masto.raildecake.fr/@zoski">@zoski</a>.
+
+<p>Vous pourrez trouver un peu d'aide et des informations supplémentaires sur :
+<ul>
+<li>le compte officiel du support de Mastodon : <a href="https://mastodon.social/@support">@support</a>.</li>
+<li>Il y à aussi une <a href="http://www.mastoguide.info/">FAQ</a> non officielle.</li>
+<li>Le <a href="https://aldarone.fr/welcome-to-mastodon/">très bon article</a> de Alda.</li>
+</ul>
+</p>
+
+<h2>Règles</h2>
+<p>Du bon sens et du respect d’autrui...</p>
+
+<p>Comme dirait les anglais : <em>Don't be a dick</em></p>
+
+<p>Cette instance n'a pas vocation à accueillir des robots et autres bots. Hébergez votre propre instance ou rejoignez-en une qui les acceptent. Pareillement les follow bot ne sont pas bienvenu.</p>
+
+<p>La propagande politique telle qu'elle à lieu sur Twitter est priée de rester sur... twitter. Pas de ça ici, c'est du spam et sera considéré comme tel.</p>
+
+<p>Le contenu pouvant choquer (NSFW, politique et cie) doit être taggé proprement à l'aide du <i>content warning</i> (CW). Le but est de n'importuner personne. Votre avatar ne devra pas être obscène ni classé NSFW. En cas de doutes demandez à @zoski ou @shug0</p>
+
+<p>Je souhaite respecter la liberté d'expression de tous mais les comportements déplacés seront sanctionnés.</p>
+
+<em>Vous pensez qu'il est important de rajouter certaines règles ici ? Contactez moi par Mastodon ou par e-mail.</em>
+
+<h2>Gestion de vos données</h2>
+<p>L'administrateur système (moi zoski) je m'engage à protéger vos données au meilleur de mes compétences. Je ne vendrais pas, ni ne tirerais partie des informations que je peux être amener à voir dans l'exercice de mes fonctions.</p>
+
+<p>Vos données, pouets (toots) et les média partagés sur masto.raildecake.fr se trouvent sur mon serveur hébergé chez <a href="https://tetaneutral.net">tetaneutral.net</a> à Toulouse. Un backup chiffré de ses données est effectué chaque nuit sur un disque dur à mon domicile.</p>
+
+<p>Vous pouvez exporter vos information depuis votre profil dans le cas ou vous souhaitez changer d'instance.</p>
+
+<p>Il n'est pas encore possible de supprimer votre compte</p>
+
+<h2>Fediverse et blocage</h2>
+<p>Voici la liste à jour des blocages émis par notre serveur ou à l'encontre de celui-ci par d'autres instances. Vous ne pourrez pas interagir avec ces domaines. Désolé pour la gène occasionné. Si vous pensez qu'une instance mérite de figurer ci-dessous faites signe.</p>
+<h3>Nous bloque</h3>
+<p>
+<ul>
+<li>good-dragon.com suite à <a href="https://masto.raildecake.fr/@zoski/32079">cette demande</a> de unfollow de bot. Ce serveur semble être hors ligne actuellement</li>
+</ul>
+<p>
+
+<h3>Que l'on bloque</h3>
+<p>Personne et pourvu que ça dure ;-)</p>
+
+<h2>Soutenir Mastodon</h2>
+<p>Si tu souhaites aider Gargron le développeur du projet voici <a href="https://www.patreon.com/user?u=619786">son patreon</a>.</p>
+
+<p>Si tu souhaites aider notre instance de Mastodon, Je réfléchi à une méthode de dons en toutes transparence. En attendant tu peux donner à une association ou une œuvre de charité ça sera tout aussi utile.</p>
+
+<h2>Hébergement du serveur</h2>
+<p>Notre serveur, Mugen est hébergé chez <a href="https://tetaneutral.net">tetaneutral.net</a> un fournisseur d'accès à internet associatif respectant la neutralité du réseau. C'est un anciens portable Lenovo de récupération animé par un i5, 8Go DDR3, 250Go de SSD et 600Go de disque dur.</p>
+
+<p>À bientôt dans le fediverse ! </p>
+
+<p>Gaël/Zoski</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/31b47c4d8ea63980.jpg?1491296892" alt="31b47c4d8ea63980" /></div>
+<div class='name'>
+<a href="https://masto.raildecake.fr/@zoski"><span class='display_name emojify'>Gaël</span>
+<span class='username'>@zoski</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>masto@raildecake.fr</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

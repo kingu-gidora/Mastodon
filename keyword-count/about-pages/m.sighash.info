@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>m.sighash.info
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1QmxptE1nUMaa7o0SaNROuDqFo0mLizf+4fEVj62AFss3ooFCcoHHZoQa6twBTW1KoklyjTwRzftAg+HJt82vQ==" />
+<script src="/assets/application_public-d01d993e52c509edb4e4ec43b66cf482481f4be38000cfa0a44af72791b4d82b.js" crossorigin="anonymous" integrity="sha256-0B2ZPlLFCe205OxDtmz0gkgfS+OAAM+gpEr3J5G02Cs="></script>
+<meta content='Mastodon' property='og:site_name'>
+<meta content='https://m.sighash.info/about' property='og:url'>
+<meta content='website' property='og:type'>
+<meta content='m.sighash.info' property='og:title'>
+<meta content='小規模インスタンスです。(今のところ。)
+
+応援お願いします。サブアカウント用にもどうぞ。' property='og:description'>
+<meta content='https://m.sighash.info/assets/mastodon_small-92bf5cd62779681c13181562f31db2f2069acf4f47d3b27e0f48a98282517c07.jpg' property='og:image'>
+<meta content='400' property='og:image:width'>
+<meta content='400' property='og:image:height'>
+<meta content='summary' property='twitter:card'>
+
+</head>
+<body class='about-body'>
+<div class='wrapper'>
+<h1>
+<img src="/assets/logo-8463e94d1061a72aafbb710a64b7890a1eefc09639555b5e4e674faac106be16.png" alt="Logo" />
+Mastodon
+</h1>
+<p>Mastodon is a <em>free, open-source</em> social network. A <em>decentralized</em> alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust &mdash; whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the <em>social network</em> seamlessly.</p>
+<div class='screenshot-with-signup'>
+<div class='mascot'><img src="/assets/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png" alt="Fluffy elephant friend" /></div>
+<form novalidate="novalidate" class="simple_form new_user" id="new_user" action="/auth" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KBLGIaH0nyfNJlB7K5xwfXItbSsigfsidUGVvxjx9zTRxf2CeQsFeU1dgeQSOhTyuE5ebDBfkMpjxF5uAJjB0g==" /><div class="input string required user_account_username"><input aria-label="Username" class="string required" autofocus="autofocus" required="required" aria-required="true" placeholder="Username" type="text" value="" name="user[account_attributes][username]" id="user_account_attributes_username" /></div>
+<div class="input email required user_email"><input aria-label="E-mail address" class="string email required" required="required" aria-required="true" placeholder="E-mail address" type="email" value="" name="user[email]" id="user_email" /></div>
+<div class="input password required user_password"><input aria-label="Password" class="password required" required="required" aria-required="true" placeholder="Password" type="password" name="user[password]" id="user_password" /></div>
+<div class="input password required user_password_confirmation"><input aria-label="Confirm password" class="password required" required="required" aria-required="true" placeholder="Confirm password" type="password" name="user[password_confirmation]" id="user_password_confirmation" /></div>
+<div class='actions'>
+<button name="button" type="submit" class="btn">Get started</button>
+</div>
+<div class='info'>
+<a class="webapp-btn" href="/auth/sign_in">Log in</a>
+·
+<a href="/about/more">About this instance</a>
+</div>
+</form>
+</div>
+<h3>What sets Mastodon apart</h3>
+<div class='features-list'>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Timelines are chronological
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Public timelines
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+500 characters per post
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+GIFV sets and short videos
+</li>
+</ul>
+</div>
+<div class='features-list__column'>
+<ul class='fa-ul'>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Granular, per-post privacy settings
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Rich block and muting tools
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Ethical design: no ads, no tracking
+</li>
+<li>
+<i class="fa fa-li fa-check-square"></i>
+Open API for apps and services
+</li>
+</ul>
+</div>
+</div>
+<h3>What is m.sighash.info?</h3>
+<p>小規模インスタンスです。(今のところ。)
+<br>
+応援お願いします。サブアカウント用にもどうぞ。</p>
+<div class='actions'>
+<div class='info'>
+<a href="/terms">Terms</a>
+·
+<a href="https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md">Apps</a>
+·
+<a href="https://github.com/tootsuite/mastodon">Source code</a>
+·
+<a href="https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/List-of-Mastodon-instances.md">Other instances</a>
+</div>
+</div>
+</div>
+
+</body>
+</html>

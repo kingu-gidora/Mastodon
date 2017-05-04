@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>chitter.xyz
+ - Chitter</title>
+<link rel="stylesheet" media="all" href="/assets/application-d2b9fda82cfda21a30d7a9fa16bcd0a0b5730a36b06c97de7989014abb9eabcc.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="m56Dx7CVb9GuR+6msPS4o4COkiS5ym0d0fFcNvBOwTuN98gX2yoHC0XR3urUKuNjS5azyHGmWRXEgQ+oNLGEPA==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>chitter.xyz</h2>
+<p>Chitter chitter, raccoon 💜</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>23</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1,843</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>378</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h1>Welcome to chitter.xyz!</h1>
+
+The rules are pretty simple: be friendly to other users of this instance.<br><br>Transphobia, racism or any other forms of abuse is not tolerated at all here and will result in your account getting banned and removed.
+
+<br><br>NSFW/Adult oriented accounts are currently not acceptable here until I have confirmation this is allowed. The last thing I need is complaints from other instances that something NSFW has leaked onto the federated timeline.
+
+<br><br>If you spot any federation bots from other instances following you, please use the report function to report them.</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/004/original/5392aa0f0f6e73a1.jpg?1492170284" alt="5392aa0f0f6e73a1" /></div>
+<div class='name'>
+<a href="https://chitter.xyz/@Violet"><span class='display_name emojify'>Violet</span>
+<span class='username'>@Violet</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/codl/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Version</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

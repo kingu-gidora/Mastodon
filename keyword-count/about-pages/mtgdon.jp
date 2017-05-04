@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mtgdon.jp
+ - MTGDON.JP : マジック専用インスタンス</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="omXBKredmtmORLuvjwZist/b/2A6BSzZ1cb08HYpUpoSHc19uNgu6qIH59bCQ/V2m93Qv7+/A2b2Mtc9ZRLJAQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mtgdon.jp</h2>
+<p>マジック・ザ・ギャザリング専門のインスタンス。
+スタンダード、モダン、レガシー、EDH、パウパー、ドラフト、MO、Foil収集、ゴシップなど、MTGについて適当にトゥートしましょう！</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>249</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>990</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>7</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><h3>おすすめアプリ</h3>
+Amaroq for Mastodon(iOS)<br>
+<a href="https://itunes.apple.com/jp/app/amaroq-for-mastodon/id1214116200">https://itunes.apple.com/jp/app/amaroq-for-mastodon/id1214116200</a><br>
+Tusky(Android)<br>
+<a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">https://play.google.com/store/apps/details?id=com.keylesspalace.tusky</a><br>
+<br>
+<h3>関連リンク</h3>
+日本のマストドンインスタンスの一覧<br>
+<a href="http://k52.org/mastodon/">http://k52.org/mastodon/</a></br></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/005/original/52ec2f37eafc5e5e.jpg?1493254354" alt="52ec2f37eafc5e5e" /></div>
+<div class='name'>
+<a href="http://mtgdon.jp/@sasakill"><span class='display_name emojify'>ササキル(2)(青)(緑)</span>
+<span class='username'>@sasakill</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>Twitter @sasakill</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

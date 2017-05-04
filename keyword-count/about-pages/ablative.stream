@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>ablative.stream
+ - Ablative Hosting Mastodon Instance</title>
+<link rel="stylesheet" media="all" href="/assets/application-67c6212d8ec102939d5e5cacdddcba870013783c6a08b2260db2c5b80fe3fe52.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6qvYo6cISq5QnrSteXc4+4EHj0bugBi6skhqzamg/YML/z5Y+xOZOfE4gfQOfrRNLKAljADska47DAu6n5Gakg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>ablative.stream</h2>
+<p>This Mastodon instance is managed by Ablative.Hosting and hosted by Brass Horn Communications.
+<br/><br/>
+As such it is crypto/Tor friendly and as censorship-free as UK law allows.</p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>Home to</span>
+<strong>37</strong>
+<span>users</span>
+</div>
+<div class='section'>
+<span>Who authored</span>
+<strong>1</strong>
+<span>statuses</span>
+</div>
+<div class='section'>
+<span>Connected to</span>
+<strong>70</strong>
+<span>other instances</span>
+</div>
+</div>
+<div class='panel'><p>We intend for this Mastodon instance to be for paying customers of <a href="https://ablative.hosting">Ablative Hosting Ltd</a> however registrations are currently open.</p>
+
+
+<p>Ablative Hosting is a Tor centric hosting company originally designed to help UK indie producers of adult content defend themselves against the UK Digital Economy bill.</p>
+
+<p>Ablative Hosting Ltd does not believe in Internet censorship but also reserves the right to not be the host for certain material in accordance with XKCD <a href="https://xkcd.com/1357/">#1357</a>.</p>
+<ol>
+  <li>
+    The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
+    <ol type="a">
+      <li>Racism or advocation of racism</li>
+      <li>Sexism or advocation of sexism</li>
+      <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+      <li>Xenophobic and/or violent nationalism</li>
+    </ol>
+  </li>
+
+  <li>
+    The following types of content are explicitly disallowed and will result in revocation of access to the service:
+    <ol type="a">
+      <li>Material in violation of UK law</li>
+    </ol>
+  </li>
+
+  <li>
+    Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+    <ol type="a">
+      <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+      <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+      <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+    </ol>
+  </li>
+</ol></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>Contact</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/dbd221cf54aca53f.jpeg?1491691462" alt="Dbd221cf54aca53f" /></div>
+<div class='name'>
+<a href="https://ablative.stream/@Gareth"><span class='display_name emojify'>Gareth L</span>
+<span class='username'>@Gareth</span>
+</a></div>
+</div>
+<div class='contact-email'>
+Business e-mail:
+<strong>gareth@brasshorncommunications.uk</strong>
+</div>
+</div>
+</div>
+<div class='panel'>
+<div class='panel-header'>Links</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">Get started</a></li>
+<li><a href="/auth/sign_in">Log in</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">Source code</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
