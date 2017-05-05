@@ -4,18 +4,17 @@
 <meta charset='utf-8'>
 <meta content='width=device-width, initial-scale=1' name='viewport'>
 <meta content='IE=edge' http-equiv='X-UA-Compatible'>
-<link href='/favicon.ico' rel='icon' type='image/x-icon'>
 <link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
 <link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
 <link href='/manifest.json' rel='manifest'>
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>m.pref.yokohama
+ - 横浜県民用マストドン</title>
+<link rel="stylesheet" media="all" href="/assets/application-af741c716cff27bd3c7fbf58e3fec2e930c5adadecd80cceed8564a228c5cb69.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="8dMKTyrDQ/kgjpJj6+Aji2VY4G3dVX/BULdqArrJj9NOM/r4f632fRjBv8QIVYBPlGcbpwvwJnyrgtPJx5/+xw==" />
 
 </head>
 <body class='about-body'>
@@ -23,40 +22,41 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>m.pref.yokohama</h2>
+<p>横浜県にあるので <code>pref.yokohama</code> です。それ以上の情報はありません。サーバーの所在地は鎌倉ですが。<br>
+<br>
+(This server located in Kamakura-city, Yokohama pref, Japan)</p>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>6</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>380</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
 <span>Connected to</span>
-<strong>51</strong>
+<strong>1,006</strong>
 <span>other instances</span>
 </div>
 </div>
+<div class='panel'>@pref.yokohama / @monora.me あたりを持っている人は多分使えます
+<br><br>
+(People who have e-mail address ended with <code>@pref.yokohama</code> or <code>@monora.me</code> might register this Mastodon.)
+<br><br>
+The more detailed profile of owner, please refer <a href="https://monora.me">monora</a></div>
 </div>
 <div class='sidebar'>
 <div class='panel'>
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
-<div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
-<div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
-</a></div>
-</div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong></strong>
 </div>
 </div>
 </div>
@@ -76,7 +76,7 @@ Business e-mail:
 <div class='panel'>
 <div class='panel-header'>Version</div>
 <div class='panel-body'>
-<strong>1.3.2</strong>
+<strong>1.2.2</strong>
 </div>
 </div>
 

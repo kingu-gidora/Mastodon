@@ -11,11 +11,11 @@
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>mastodon.plein.org
+ - Mastadon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="kiW7JZdKKSQcMMw3B6JDk+88xoCfpeC9kTbB/qAaEhkS15iPuXzfsYT+FRKKhrM+70830XAVrHbkpscr75cyhg==" />
 
 </head>
 <body class='about-body'>
@@ -23,17 +23,17 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>mastodon.plein.org</h2>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>1</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>5</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
@@ -48,15 +48,15 @@
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
 <div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/455d0bd484529fb7.jpeg?1493296689" alt="455d0bd484529fb7" /></div>
 <div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
+<a href="https://mastodon.plein.org/@bill"><span class='display_name emojify'>Bill Plein</span>
+<span class='username'>@bill</span>
 </a></div>
 </div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong>nobody@plein.org</strong>
 </div>
 </div>
 </div>

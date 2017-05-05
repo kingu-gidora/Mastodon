@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mastodon.fishing
+ - 釣り人専用のマストドン「MASTODON FISHING」</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="I7EGx4EASotxOOfoCOKT6smAqX4bkvgKk+jMTYghXeYYuLPlGIOqU6upIpSoxg1REs37fWHHa7CDS4LaOFXVWQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mastodon.fishing</h2>
+<p>「MASTODON FISHING」は、釣り人による釣り人のためのインスタンス（サーバー）です。今、話題のSNSマストドンですが、世界中見渡しても釣り人専用のインスタンスがありませんでしたので、釣りがより楽しくなるような、釣り人だけの情報発信・共有の場として、MASTODON FISHINGを立ち上げさせていただきました。多分、日本初、世界初の釣り人専用インスタンスだと思われます。今後はオリジナルのマストドンにはない、釣りに特化した機能を搭載していく予定です。<br>
+
+<br>
+【参加条件】<br>
+・釣り人<br>
+<br>
+【禁止行為】<br>
+・法律に反する行為<br>
+・公序良俗に反する行為<br>
+・他者に不利益や損害、危害を与える行為<br>
+・他者の権利を侵害する行為<br>
+<br>
+【お問い合わせ】<br>
+管理者アカウント：@fishing_admin<br>
+<br></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>15</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>29</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>2</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'>※MASTODON FISHINGは試験運用中につき、サービスの中断や終了を行う場合があります。<br>
+当インスタンスは、2017年4月27日より開始しています。<br></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong>@fishing_admin</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

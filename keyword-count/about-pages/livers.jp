@@ -11,11 +11,11 @@
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>livers.jp
+ - Livers.jp</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="IKsHn61RHFkfVW0FVNuQGlXIboFosPUk2UPZgZxylODRhd6cmcVdVcbztVd+ZzLMKyVZ3h3IOQsBRkSOOPTGGQ==" />
 
 </head>
 <body class='about-body'>
@@ -23,40 +23,47 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>livers.jp</h2>
+<p>ライブ配信が好きなひと向けのインスタンスです。
+日本語専用、18歳以上の方であれば誰でもご登録いただけます。
+無料でご登録ご利用いただけますが個人運営で無保証です。
+可能な限り継続します。
+登録時のメールアドレスはユーザーを識別したり通知したりする目的でのみ利用されます。(通知はOFFに出来ます。)</p>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>20</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>226</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
 <span>Connected to</span>
-<strong>51</strong>
+<strong>201</strong>
 <span>other instances</span>
 </div>
 </div>
+<div class='panel'>ふわっち、FAN LIVE、ニコ生、ツイキャス、LINE LIVEなどライブ配信サービスの参加者コミュニティになればいいなー。<br>
+
+<ul>
+<li>日本語専用(Sorry, Japanese language user only)
+<li>日本国法・サーバー設置国の法規に触れる投稿は禁止
+<li>過度な性的コンテンツ、グロテスクな表現、他人の個人情報、配信関連以外の営利使用は禁止
+<li>Botなどサーバーに負荷を掛ける利用は禁止
+</ul>
+<li>18歳未満は登録ご遠慮ください。</div>
 </div>
 <div class='sidebar'>
 <div class='panel'>
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
-<div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
-<div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
-</a></div>
-</div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong></strong>
 </div>
 </div>
 </div>

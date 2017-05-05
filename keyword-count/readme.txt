@@ -8,5 +8,5 @@ To use:
 4) run count-words.scm (this will write the data to stdout)
 
 
-It dont do much at this point but I will improve this.
+It don't do much at this point but I will improve this.
 Suggestions are welcome.

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>mstdn-tech.jp
+ - Mstdn Tech</title>
+<link rel="stylesheet" media="all" href="/assets/application-9f05ad922cfe8101e88e15d98470914c52e9abd25d84c6dbd270a7ae47ced160.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/QLL0X0BG9kSut6g08/8+quZTJNs/bEXGzda3Ui76S323xq0gntWd5lWukb+ZraTT04zXqlb1AYf24IP58k7Ww==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>mstdn-tech.jp</h2>
+<p><p>Mstdn Tech（えむてっく）は、Mastodonの技術系コミュニティサーバです。</br>
+ソフトウェア・ハードウエア・ものづくり関係など、ハッカーからエンジニア、学生まで大歓迎です。</br></p>
+
+<p>技術系コミュニティではありますが、日本法さえ守っていただければ、投稿内容に制限はありません。</br>
+インターネットは自由であるべきです。ぜひ、皆さんの日常を綴ってください。</br></p>
+
+<p>ジャパニーズテクノロジーが海外から取り残されないよう、皆でコミュニティを活性化させましょう！</br></p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>9</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>72</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>0</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/avatars/original/missing.png" alt="Missing" /></div>
+<div class='name'>
+<a href="http://mstdn-tech.jp/@mstdn_tech"><span class='display_name emojify'>mtech</span>
+<span class='username'>@mstdn_tech</span>
+</a></div>
+</div>
+<div class='contact-email'>
+メールアドレス:
+<strong>admin＜＠＞mstdn-tech.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

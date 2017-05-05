@@ -11,11 +11,11 @@
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>mstdn.trashkids.org
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="pEpd4xO4qgOUwzWTUrAmfTLhzTajyWytfNE8Gib8Vm0prfxavWDWaTBwgIlaTB6ERM4DWJMI9CUehFcY/DQhDA==" />
 
 </head>
 <body class='about-body'>
@@ -23,40 +23,42 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>mstdn.trashkids.org</h2>
+<p>あんまりまともに運用する気が無いので、気まぐれに終わったりします。</p>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>17</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>152</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
 <span>Connected to</span>
-<strong>51</strong>
+<strong>134</strong>
 <span>other instances</span>
 </div>
 </div>
+<div class='panel'>方針は気分で変わると思うので、普通に使いたい人は mstdn.jp などを利用した方が良いと思います。</div>
 </div>
 <div class='sidebar'>
 <div class='panel'>
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
 <div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/a6c71e60febb51b1.jpeg?1493558593" alt="A6c71e60febb51b1" /></div>
 <div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
+<a href="https://mstdn.trashkids.org/@trashkids"><span class='display_name emojify'>trashkids</span>
+<span class='username'>@trashkids</span>
 </a></div>
 </div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong>trashkids@gmail.com</strong>
 </div>
 </div>
 </div>

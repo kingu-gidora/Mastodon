@@ -11,11 +11,11 @@
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>mstdn-babymetal.com
+ - mastodon BABYMETAL</title>
+<link rel="stylesheet" media="all" href="/assets/application-c2d067df7abd64903b1c4ef599a0d5d3e450865788d849cce68aa594258211bf.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="f1vbFTEAHf4BDMoAHNswWbYJlHZXaDIZ97TkX4+qV9uUfNW9eQ3iBwDspZlWmbuFL+vm8CTIi05X/cq/98t/Xw==" />
 
 </head>
 <body class='about-body'>
@@ -23,40 +23,43 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>mstdn-babymetal.com</h2>
+<p>BABYMETALファンのためのマストドン
+トップページは<a href="http://info.mstdn-babymetal.com">http://info.mstdn-babymetal.com</a></p>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>36</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>62</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
 <span>Connected to</span>
-<strong>51</strong>
+<strong>0</strong>
 <span>other instances</span>
 </div>
 </div>
+<div class='panel'>現在負荷テスト中</div>
 </div>
 <div class='sidebar'>
 <div class='panel'>
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
 <div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
+<div class='avatar'><img src="https://s3-us-west-2.amazonaws.com/bm-bucket/accounts/avatars/000/000/002/original/c8eba17ad4fe6a5b.jpg" alt="C8eba17ad4fe6a5b" /></div>
 <div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
+<a href="https://mstdn-babymetal.com/@mastodon_BABYMETAL"><span class='display_name emojify'>mastodon_BABYMETAL</span>
+<span class='username'>@mastodon_BABYMETAL</span>
 </a></div>
 </div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong>mstdnbabymetal@gmail.com</strong>
 </div>
 </div>
 </div>

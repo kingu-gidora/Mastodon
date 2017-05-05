@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>toot.redmine.jp
+ - toot.redmine.jp – Redmine利用者のコミュニティサイト</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZV6pFTll8vnmuzwKfSWFGWMxxlT7USZbRomITb5TTaLr07cjV+Sc5Qql3FBeXOB1OcCUwGDgN+0sLAlW7yI/aQ==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>toot.redmine.jp</h2>
+<p><p>オープンソースのプロジェクト管理ツール「<a href="http://redmine.jp/">Redmine</a>」の利用者同士で、Redmineやその周辺のツールの活用・最新情報、プロジェクト運営などについて語りましょう。</p>
+<p>
+<strong>[運営者]</strong><br>
+<a href="https://www.farend.co.jp/">ファーエンドテクノロジー株式会社</a><br>
+総務大臣届出 電気通信事業者 (届出番号 F-20-668)<br>
+</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>123</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>478</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>235</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>
+<small style="font-size: 80%";>メールアドレスを始めとした個人情報を、本サイトの運営に使用しているソフトウェア「Mastodon」の運用のためにご登録いただきます。なお、ご登録いただいた個人情報はMastodonの運用に限り使用し、そのほかの目的には使用いたしません。<br>
+<a href="https://www.farend.co.jp/profile/privacy/">個人情報保護方針</a></small>
+<p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/68a53b42ca41ed07.jpeg?1492393124" alt="68a53b42ca41ed07" /></div>
+<div class='name'>
+<a href="https://toot.redmine.jp/@maeda"><span class='display_name emojify'>前田 剛 / MAEDA Go</span>
+<span class='username'>@maeda</span>
+</a></div>
+</div>
+<div class='contact-email'>
+ビジネスメールアドレス:
+<strong></strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

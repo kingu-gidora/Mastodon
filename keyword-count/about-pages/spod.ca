@@ -11,11 +11,11 @@
 <meta content='/browserconfig.xml' name='msapplication-config'>
 <meta content='#282c37' name='theme-color'>
 <meta content='yes' name='apple-mobile-web-app-capable'>
-<title>ludim.us
- - Ludim.us</title>
-<link rel="stylesheet" media="all" href="/assets/application-f26c63d6d65b9e9a3821f1e1ca69dfac786fe721d9a17191abede99bc51d5c5c.css" />
+<title>spod.ca
+ - Spod&#39;s Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tExZGzA67Lonh1sQxdpBIK7vmN0ijigkmtbmPFBSu/Blb35fvDUYgWwO2Xg5s0LITHcl8Pm4BoWmHf3agkOZLw==" />
+<meta name="csrf-token" content="lqWkh1lioHB8wv0EhLsMoh62Y0KWo2tmgzpsyi6aqucsg8BM5MxbsmbhtIcRq901Pr9xgwkEiBZPZzwne8TTYA==" />
 
 </head>
 <body class='about-body'>
@@ -23,22 +23,22 @@
 <div class='sidebar-layout'>
 <div class='main'>
 <div class='panel'>
-<h2>ludim.us</h2>
+<h2>spod.ca</h2>
 </div>
 <div class='information-board'>
 <div class='section'>
 <span>Home to</span>
-<strong>9</strong>
-<span>churchmice</span>
+<strong>1</strong>
+<span>users</span>
 </div>
 <div class='section'>
 <span>Who authored</span>
-<strong>82</strong>
+<strong>4</strong>
 <span>statuses</span>
 </div>
 <div class='section'>
 <span>Connected to</span>
-<strong>51</strong>
+<strong>13</strong>
 <span>other instances</span>
 </div>
 </div>
@@ -48,15 +48,15 @@
 <div class='panel-header'>Contact</div>
 <div class='panel-body'>
 <div class='owner'>
-<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/982a998a8cb903b6.jpg?1492529775" alt="982a998a8cb903b6" /></div>
+<div class='avatar'><img src="https://mstdn-cdn.spod.ca/accounts/avatars/000/000/001/original/628fcb3fd1cb7b41.png" alt="628fcb3fd1cb7b41" /></div>
 <div class='name'>
-<a href="https://ludim.us/@todd"><span class='display_name emojify'>todd 🐨</span>
-<span class='username'>@todd</span>
+<a href="https://spod.ca/@slepp"><span class='display_name emojify'>slePP</span>
+<span class='username'>@slepp</span>
 </a></div>
 </div>
 <div class='contact-email'>
 Business e-mail:
-<strong>todd@ludim.us</strong>
+<strong><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="a4c9c5d7d0cbc0cbcae4d7d4cbc08ac7c5">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></strong>
 </div>
 </div>
 </div>

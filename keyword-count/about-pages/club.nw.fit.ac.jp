@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='/mask-icon.svg' rel='mask-icon'>
+<link href='/manifest.json' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>club.nw.fit.ac.jp
+ - Mastodon</title>
+<link rel="stylesheet" media="all" href="/assets/application-b7d32e1a05cf50241f3074c5038f423a251e081f210ad7fdc238029d85f502f2.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+LfH3YMrStKJ+QbxlUl3y96xaQlVpV0vZnq6vvWBRBWGh2ZNnPTXvREqkdPBZeDelS+ARQI+Pt2GARSv0pHaFg==" />
+
+</head>
+<body class='about-body'>
+<div class='wrapper thicc'>
+<div class='sidebar-layout'>
+<div class='main'>
+<div class='panel'>
+<h2>club.nw.fit.ac.jp</h2>
+<p><p>FITインスタンスでは、気軽に学生や教授などが学術的なコミュニケーションを取れる場所として、<a href="https://www.nw.fit.ac.jp/" target="blank">福岡工業大学 ネットワーク競技愛好会</a>が提供しています。</p>
+<p>福岡工業大学の学生や教授などの関係者であれば誰でも利用することが出来ます。</p>
+<p>現在、大学のメールアドレスのみ登録を受け付けています。個人が所有するフリーメールアドレス等は使用出来ません。</p>
+<h3>ルール</h3>
+<p>
+<ul>
+<li>公序良俗に反する内容は書き込まないでください。</li>
+<li>学術的に不適切な書き込みがあった場合は予告なしに削除またはアカウントを停止する場合があります。</li>
+<li>試験運用のため、突然サービスを停止する場合があります</li>
+<li>本サイトは<a href="https://www.nw.fit.ac.jp/policy/" target="blank">セキュリティポリシー</a>に従い運用を行なっています。</li>
+</ul>
+</p>
+<h3>お問い合わせ</h3>
+<p>何か連絡がある場合は、下記のメールアドレスまでお問い合わせ下さい。</p>
+<p>fithack@bene.fit.ac.jp</p></p>
+</div>
+<div class='information-board'>
+<div class='section'>
+<span>ユーザー数</span>
+<strong>21</strong>
+<span>人</span>
+</div>
+<div class='section'>
+<span>トゥート数</span>
+<strong>113</strong>
+<span>トゥート</span>
+</div>
+<div class='section'>
+<span>接続中</span>
+<strong>106</strong>
+<span>個のインスタンス</span>
+</div>
+</div>
+<div class='panel'><p>福岡工業大学 ネットワーク競技愛好会(FIT-HACK)は、競技プログラミングとCTF(情報セキュリティコンテスト)の二兎を追うサークルです。</p>
+<p>プログラミングを中心に、情報科学、論理学、TeX、ウェブページ制作、サーバー管理、 ネットワーク、自作PC、DTPなど、多岐にわたる活動を展開しています。</p></div>
+</div>
+<div class='sidebar'>
+<div class='panel'>
+<div class='panel-header'>連絡先</div>
+<div class='panel-body'>
+<div class='owner'>
+<div class='avatar'><img src="/system/accounts/avatars/000/000/001/original/2ef612c30d96ce7e.png?1492224970" alt="2ef612c30d96ce7e" /></div>
+<div class='name'>
+<a href="https://club.nw.fit.ac.jp/@fithack"><span class='display_name emojify'>福岡工業大学 ネットワーク競技愛好会</span>
+<span class='username'>@fithack</span>
+</a></div>
+</div>
+<div class='contact-email'>
+連絡先メールアドレス:
+<strong>fithack@bene.fit.ac.jp</strong>
+</div>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>リンク</div>
+<div class='panel-list'>
+<ul>
+<li><a href="/auth/sign_up">参加する</a></li>
+<li><a href="/auth/sign_in">ログイン</a></li>
+<li><a href="/terms">プライバシーポリシー</a></li>
+<li><a href="https://github.com/tootsuite/mastodon">ソースコード</a></li>
+</ul>
+</div>
+</div>
+
+<div class='panel'>
+<div class='panel-header'>バージョン</div>
+<div class='panel-body'>
+<strong>1.3.2</strong>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>
