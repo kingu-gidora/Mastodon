@@ -48,15 +48,29 @@
 		(hash-table-put! kh keyword (add-instance-to-keyword k (hash-table-get kh keyword)))
 		(hash-table-put! kh keyword (add-instance-to-keyword k (make <Mkeyword>)))))
 	  v)))
+      (print "<html>")
+      (print "<head>")
+      (print "<meta charset='UTF-8'>")
+      (print "</head>")
+      (print "<body>")
+      (print "<table border=1>")
       (let ((L (list)))
 	(hash-table-for-each 
 	 kh
 	 (lambda (k v)
 	   (set! L (cons `(,(~ v 'count) ,k ,(~ v 'instances)) L))))
-
+	
 	(for-each 
 	 (lambda (x)
-	   (format #t "~a ~a\n" (car x) (cadr x) ))
-;	   (format #t "~a ~a ~a\n" (car x) (cadr x) (caddr x)))
-	 (sort L > car)))
+	   (let ((instancesl (delete-duplicates (sort (caddr x)))))
+	     (format #t "<tr><td valign='top'>~a</td><td valign='top'>~a</td><td valign='top'>~a</td><td valign='top'>~a</td></tr>\n" 
+		     (car x) 
+		     (length instancesl)
+		     (cadr x) 
+		     instancesl)))
+	 (sort L > car))
+	)
+      (print "</table>")
+      (print "</body>")
+      (print "</html>")	 
       )))
