@@ -7,6 +7,5 @@ To use:
 3) run fetch-instance-pages.scm   (this will download all about pages in the about-pages directory)
 4) run count-words.scm (this will write the data to stdout)
 
-
 It don't do much at this point but I will improve this.
 Suggestions are welcome.

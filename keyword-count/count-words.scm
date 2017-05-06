@@ -28,11 +28,15 @@
 				    (filter
 				     (lambda (x) (and (> (string-length x) 4)
 						      (not (#/^.+@.+$/ x) )))
-				     
-				     (string-split
-				      (regexp-replace-all #/[ \n\r]+/ 
-							  (regexp-replace-all #/<[^>]+>/ txt "")
-							  " ") " ")))
+				     (map
+				      (lambda (zz)
+					(string-trim-both (string-downcase zz)
+						     #[\W.,:#;]
+						     ))
+				      (string-split
+				       (regexp-replace-all #/[ \n\r]+/ 
+							   (regexp-replace-all #/<[^>]+>/ txt "")
+							   " ") " "))))
 		   )))
        fl)
       (hash-table-for-each
